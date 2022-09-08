@@ -2,7 +2,7 @@
 layout: home
 
 title: Activist Handbook
-titleTemplate: Campaigning guides for activists
+titleTemplate: Campaigning guides for activists ✊
 description: We write guides for activists. Learn how to become a social activist, plan a political campaign strategy, and start a grassroots movement.
 
 hero:

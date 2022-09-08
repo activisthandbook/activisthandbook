@@ -47,10 +47,15 @@
         font-size: 16px;
     }
 
-    p:first-of-type {
+    // Highlighting the first paragraph of the article
+    & > div > p:first-of-type {
         font-size: calc(16px + 0.5vw);
         line-height: 32px;
         font-weight: 700;
+    }
+
+    li p{
+        margin: 8px 0;
     }
 
 }

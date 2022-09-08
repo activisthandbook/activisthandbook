@@ -16,6 +16,7 @@
     "serve": "vitepress serve"
   },
   "dependencies": {
+    "@gtm-support/vue-gtm": "^1.6.0",
     "sass": "^1.53.0"
   }
 }
