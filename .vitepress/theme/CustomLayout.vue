@@ -132,12 +132,12 @@ onMounted(() => {})
   @media only screen and (max-width: 600px) {
     bottom: 12px;
     right: 12px;
-    border-radius: 24px;
+    border-radius: 28px;
     padding: 12px;
 
     svg{
-      width: 24px;
-      height: 24px;
+      width: 28px;
+      height: 28px;
 
     }
   }
@@ -158,8 +158,8 @@ onMounted(() => {})
   @media only screen and (max-width: 600px) {
     font-size: 12px;
     padding: 2px 4px;
-    right: 70px;
-    bottom:22px;
+    right: 76px;
+    bottom:24px;
   }
 }
 
