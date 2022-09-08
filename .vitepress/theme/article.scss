@@ -1,0 +1,64 @@
+/* ARTICLE */
+
+
+
+.vp-doc {
+
+    a {
+        color: var(--vp-c-secondary);
+        text-decoration: none;
+        border-bottom: 4px solid rgba(#0031ea, 0.2);
+
+        &:hover {
+            color: var(--vp-c-secondary);
+            border-bottom-color: rgba(#0031ea, 0.5);
+        }
+    }
+
+    h1,
+    h2,
+    h3,
+    h5,
+    h6 {
+        font-family: var(--vp-font-family-headings);
+        border-top: none !important;
+    }
+
+    h2,
+    h4 {
+        color: var(--vp-c-brand);
+    }
+
+    h2 {
+        margin-top: 32px;
+        font-size: 48px;
+    }
+
+    h3 {
+        font-size: 32px;
+    }
+
+    h4 {
+        margin-top: 26px;
+        font-size: 18px;
+    }
+
+    p:first-of-type {
+        font-size: calc(16px + 0.5vw);
+        line-height: 32px;
+    }
+
+}
+
+.dark .vp-doc {
+    a {
+            color: var(--vp-c-white);
+            text-decoration: none;
+            border-bottom: 4px solid rgba(#FFF8DB, .5);
+    
+            &:hover {
+                color: var(--vp-c-white);
+                border-bottom-color: var(--vp-c-white);
+            }
+        }
+}
