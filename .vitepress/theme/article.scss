@@ -29,23 +29,28 @@
         color: var(--vp-c-brand);
     }
 
+    h2, h3, h4{
+        line-height: 1;
+    }
+
     h2 {
-        margin-top: 32px;
-        font-size: 48px;
+        margin: 2vh 0;
+        font-size: calc(24px + 2vw);
     }
 
     h3 {
-        font-size: 32px;
+        font-size: calc(16px + 1vw);
     }
 
     h4 {
         margin-top: 26px;
-        font-size: 18px;
+        font-size: 16px;
     }
 
     p:first-of-type {
         font-size: calc(16px + 0.5vw);
         line-height: 32px;
+        font-weight: 700;
     }
 
 }

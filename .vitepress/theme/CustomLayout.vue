@@ -128,6 +128,19 @@ onMounted(() => {})
     transform: scale(1.05);
     opacity: 0.8;
   }
+
+  @media only screen and (max-width: 600px) {
+    bottom: 12px;
+    right: 12px;
+    border-radius: 24px;
+    padding: 12px;
+
+    svg{
+      width: 24px;
+      height: 24px;
+
+    }
+  }
 }
 .edit-hint {
   opacity: 0;
@@ -141,6 +154,13 @@ onMounted(() => {})
   border-radius: 1px;
   background-color: var(--vp-c-secondary);
   color: var(--vp-c-white);
+
+  @media only screen and (max-width: 600px) {
+    font-size: 12px;
+    padding: 2px 4px;
+    right: 70px;
+    bottom:22px;
+  }
 }
 
 @keyframes edit-button-jump {
