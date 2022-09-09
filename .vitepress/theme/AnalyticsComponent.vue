@@ -2,38 +2,42 @@
 export default {
   data: function () {
     return {
-      cookieBanner: 'show',
-    }
+      cookieBanner: "show",
+    };
   },
   mounted() {
-    if (localStorage.getItem('cookieBanner')) {
-      this.cookieBanner = localStorage.getItem('cookieBanner')
+    if (localStorage.getItem("cookieBanner")) {
+      this.cookieBanner = localStorage.getItem("cookieBanner");
     }
-    if (localStorage.getItem('analyticsAllowed') === 'yes') {
-      this.turnOnAnalytics()
+    if (localStorage.getItem("analyticsAllowed") === "yes") {
+      this.turnOnAnalytics();
     }
   },
   methods: {
     decline() {
-      this.cookieBanner = 'hide'
-      localStorage.setItem('cookieBanner', 'hide')
-      localStorage.setItem('analyticsAllowed', 'no')
+      this.cookieBanner = "hide";
+      localStorage.setItem("cookieBanner", "hide");
+      localStorage.setItem("analyticsAllowed", "no");
     },
     accept() {
-      this.cookieBanner = 'hide'
-      localStorage.setItem('cookieBanner', 'hide')
-      localStorage.setItem('analyticsAllowed', 'yes')
-      this.turnOnAnalytics()
+      this.cookieBanner = "hide";
+      localStorage.setItem("cookieBanner", "hide");
+      localStorage.setItem("analyticsAllowed", "yes");
+      this.turnOnAnalytics();
     },
     turnOnAnalytics() {
-      console.log('using analytics')
-      this.$gtm.enable(true)
+      console.log("using analytics");
+      this.$gtm.enable(true);
     },
   },
-}
+};
 </script>
 <template>
-  <div class="cookie-notification" v-show="cookieBanner === 'show'">
+  <div
+    class="cookie-notification"
+    v-show="cookieBanner === 'show'"
+    data-nosnippet
+  >
     <div class="explanation">
       <strong>Analytics help us write better guides for change-makers.</strong
       ><br />

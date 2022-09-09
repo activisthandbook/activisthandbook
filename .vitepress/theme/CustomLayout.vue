@@ -1,11 +1,10 @@
 <script setup>
-import DefaultTheme from 'vitepress/theme'
+import DefaultTheme from "vitepress/theme";
 
-import AnalyticsComponent from './AnalyticsComponent.vue'
+import AnalyticsComponent from "./AnalyticsComponent.vue";
 
 // DATA
-const { Layout } = DefaultTheme
-
+const { Layout } = DefaultTheme;
 </script>
 <template>
   <Layout>
@@ -16,9 +15,26 @@ const { Layout } = DefaultTheme
         <div class="description">
           {{ $frontmatter.description }}
         </div>
+        <div
+          class="meta"
+          v-if="$frontmatter.wordCount || $frontmatter.lastUpdated"
+        >
+          <div class="reading-time" v-if="$frontmatter.wordCount">
+            {{ 1 + Math.round($frontmatter.wordCount / 300) }} min read
+          </div>
+          <div class="last-updated" v-if="$frontmatter.lastUpdated">
+            Last update:
+            {{
+              new Intl.DateTimeFormat(undefined, {
+                dateStyle: "medium",
+              }).format(new Date($frontmatter.lastUpdated))
+            }}
+            {{}}
+          </div>
+        </div>
       </div>
 
-      <div class="meta">
+      <div class="languages">
         Languages: Nederlands, Deutch
 
         <a href=""> Add translation </a>
@@ -66,12 +82,10 @@ const { Layout } = DefaultTheme
     </template>
   </Layout>
   <ClientOnly>
-    <AnalyticsComponent/>
+    <AnalyticsComponent />
   </ClientOnly>
 </template>
 <style lang="scss" scoped>
-
-
 // ----
 
 .hgroup,
@@ -91,20 +105,39 @@ const { Layout } = DefaultTheme
 
   .description {
     font-size: calc(12px + 1vw);
+
     line-height: 1.2;
     opacity: 0.9;
   }
-
-  .edit a {
+  .meta {
+    margin-top: calc(8px + 0.5vw);
+    display: flex;
+  }
+  .reading-time,
+  .last-updated {
+    display: block;
     background: var(--vp-c-white);
     color: var(--vp-c-black);
+    padding: calc(4px + 0.4vw) calc(6px + 0.5vw);
+    font-size: calc(8px + 0.4vw);
+    line-height: 1em;
+    margin: 0;
+    letter-spacing: 0.5px;
+  }
+
+  .reading-time {
+    margin-right: calc(6px + 0.5vw);
+  }
+
+  .last-updated {
+    opacity: 0.8;
   }
 }
 .hgroup {
   margin-bottom: calc(8px + 0.5vw);
   background-color: var(--vp-c-brand);
 }
-.meta {
+.languages {
   opacity: 0.8;
   font-size: 0.85em;
 }

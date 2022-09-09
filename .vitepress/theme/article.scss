@@ -4,6 +4,13 @@
 
 .vp-doc {
 
+    font-size: 18px;
+
+    p{
+      line-height: 1.8;
+    }
+
+
     a {
         color: var(--vp-c-secondary);
         text-decoration: none;
@@ -58,6 +65,36 @@
         margin: 8px 0;
     }
 
+    blockquote > p{
+      font-size: 18px;
+      color: var(--vp-c-text-1);
+    }
+
+
+    // IMAGE
+    img {
+      max-width: 100%;
+    }
+
+    // VIDEO
+    div[data-youtube-video] {
+      padding-right: 24px;
+      position: relative;
+      padding-bottom: 56.25%;
+      height: 0;
+      background:var(--vp-c-bg-alt);
+
+      // outline: 6px solid $secondary;
+
+      iframe {
+        width: 100% !important;
+        height: 100% !important;
+        position: absolute;
+        border: none;
+        border-radius: 6px;
+      }
+    }
+
 }
 
 .dark .vp-doc {
@@ -65,7 +102,7 @@
             color: var(--vp-c-white);
             text-decoration: none;
             border-bottom: 4px solid rgba(#FFF8DB, .5);
-    
+
             &:hover {
                 color: var(--vp-c-white);
                 border-bottom-color: var(--vp-c-white);
