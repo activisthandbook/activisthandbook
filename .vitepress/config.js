@@ -10,7 +10,7 @@ export default defineConfig({
   scrollOffset: "header",
   cleanUrls: "without-subfolders",
   appearance: false,
-  ignoreDeadLinks: true
+  ignoreDeadLinks: true,
 
   head: [
     [
