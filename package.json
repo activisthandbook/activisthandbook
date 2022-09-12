@@ -11,9 +11,9 @@
     "vue": "^3.2.37"
   },
   "scripts": {
-    "dev": "vitepress dev",
-    "build": "vitepress build",
-    "serve": "vitepress serve"
+    "👩‍💻 dev": "vitepress dev",
+    "✅ build": "vitepress build",
+    "☁️ serve": "vitepress serve"
   },
   "dependencies": {
     "@gtm-support/vue-gtm": "^1.6.0",

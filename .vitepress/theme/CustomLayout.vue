@@ -9,6 +9,9 @@ const { Layout } = DefaultTheme;
 <template>
   <Layout>
     <template #doc-before>
+      <div class="action-top">
+        We're looking for people to <a href="/join">join our team</a>!
+      </div>
       <div class="hgroup">
         <h1>{{ $frontmatter.title }}</h1>
 
@@ -55,8 +58,32 @@ const { Layout } = DefaultTheme;
       </div> -->
       <div class="call-to-action">
         <h1>We're building the Wikipedia for activists</h1>
-        <p class="description">And you can help us. Join our team.</p>
+        <p class="description">
+          And you can help us. Join our our international team, or start a local
+          group of writers.
+        </p>
+        <div class="meta"><a href="/join">Join us</a></div>
       </div>
+      <footer>
+        <div><strong>You can reuse this content!</strong></div>
+        <div>
+          Just make sure to give attribution to
+          <a href="https://activisthandbook.org">Activist Handbook</a> and
+          <a
+            href="https://creativecommons.org/licenses/by-nc-sa/4.0/"
+            rel="license"
+            target="_blank"
+            >read our licence</a
+          >
+          for the details. Want to use our logo? Read our
+          <a href="/support/communication/design-guide">design guide</a>.
+        </div>
+        <div class="small">
+          All our work is available under a Creative Commons
+          Attribution-NonCommercial-ShareAlike 4.0 International Licence, unless
+          otherwise noted.
+        </div>
+      </footer>
       <a
         :href="
           'https://edit.activisthandbook.org/article/' + $frontmatter.articleID
@@ -87,9 +114,22 @@ const { Layout } = DefaultTheme;
 </template>
 <style lang="scss" scoped>
 // ----
+.action-top {
+  background: rgba(0, 0, 0, 0.05);
+  color: #333;
+  padding: calc(8px + 0.5vw) calc(8px + 1vw);
+  font-style: italic;
+  margin-bottom: 16px;
+  border-radius: 2px;
+  text-align: center;
 
+  a{
+    text-decoration: underline;
+  }
+}
 .hgroup,
-.call-to-action {
+.call-to-action,
+footer {
   color: var(--vp-c-white);
   padding: calc(8px + 2vw);
   border-radius: 2px;
@@ -109,28 +149,41 @@ const { Layout } = DefaultTheme;
     line-height: 1.2;
     opacity: 0.9;
   }
+
   .meta {
     margin-top: calc(8px + 0.5vw);
     display: flex;
-  }
-  .reading-time,
-  .last-updated {
-    display: block;
-    background: var(--vp-c-white);
-    color: var(--vp-c-black);
-    padding: calc(4px + 0.4vw) calc(6px + 0.5vw);
-    font-size: calc(8px + 0.4vw);
-    line-height: 1em;
-    margin: 0;
-    letter-spacing: 0.5px;
-  }
 
-  .reading-time {
-    margin-right: calc(6px + 0.5vw);
-  }
+    .reading-time,
+    .last-updated,
+    a {
+      display: block;
+      background: var(--vp-c-white);
+      color: var(--vp-c-black);
+      padding: calc(4px + 0.4vw) calc(6px + 0.5vw);
+      font-size: calc(8px + 0.4vw);
+      line-height: 1em;
+      margin: 0;
+      letter-spacing: 0.5px;
+    }
 
-  .last-updated {
-    opacity: 0.8;
+    .reading-time {
+      margin-right: calc(6px + 0.5vw);
+    }
+
+    .last-updated {
+      opacity: 0.8;
+    }
+
+    a {
+      margin-bottom: calc(4px + 0.4vw);
+      padding: calc(6px + 0.4vw) calc(12px + 0.5vw);
+      font-size: calc(12px + 1vw);
+      box-shadow: calc(4px + 0.4vw) calc(4px + 0.4vw) 0 black;
+      &:hover {
+        opacity: 0.9;
+      }
+    }
   }
 }
 .hgroup {
@@ -140,6 +193,27 @@ const { Layout } = DefaultTheme;
 .languages {
   opacity: 0.8;
   font-size: 0.85em;
+}
+footer {
+  text-align: center;
+  color: black;
+  background: var(--vp-c-bg-alt);
+
+  font-family: var(--vp-font-family-base);
+  font-size: 0.9em;
+
+  a {
+    text-decoration: underline;
+  }
+
+  .small {
+    max-width: 424px;
+    margin: auto;
+    margin-top: 16px;
+    opacity: 0.7;
+    font-size: 0.8em;
+    line-height: 1.5;
+  }
 }
 .call-to-action {
   margin: 48px 0;

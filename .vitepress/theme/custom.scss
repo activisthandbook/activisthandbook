@@ -14,7 +14,7 @@ body{
 }
 .VPNav .title{
     font-family: var(--vp-font-family-headings);
-    display: inline;
+    display: flex;
     padding: 4px 8px;
     background-color: var(--vp-c-bg-alt);
     // color: var(--vp-c-white);
@@ -63,6 +63,9 @@ body{
 }
 .VPNavBarExtra, .VPNavBarAppearance, .VPNavScreenAppearance{
     display: none !important;
+}
+.VPNavBar .container{
+  max-width: none
 }
 
 // SIDEBAR
@@ -162,3 +165,14 @@ body{
 
 }
 
+@media (min-width: 960px){
+  .content{
+    padding: 0;
+  }
+
+
+}
+
+.VPDocFooter{
+  display: none
+}

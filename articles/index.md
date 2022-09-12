@@ -19,7 +19,7 @@ hero:
 features:
   - icon: ✊
     title: Become a Social Activist
-    details: Learn how you can get started as activist and bring about social change. We explain what activism is and how you can make a difference with community organizing. 
+    details: Learn how you can get started as activist and bring about social change. We explain what activism is and how you can make a difference with community organizing.
   - icon: 📢
     title: Plan a Campaign Strategy
     details: Achieve your goals by finding out what strategies and tactics are most effective. Get inspired by our examples of policital campaigns around the world.
