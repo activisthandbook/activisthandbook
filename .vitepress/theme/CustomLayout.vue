@@ -2,6 +2,7 @@
 import DefaultTheme from "vitepress/theme";
 
 import AnalyticsComponent from "./AnalyticsComponent.vue";
+import PrimaryAction from "./PrimaryAction.vue";
 
 // DATA
 const { Layout } = DefaultTheme;
@@ -56,14 +57,7 @@ const { Layout } = DefaultTheme;
         <h1>Edit me</h1>
         <p class="description">This article was written by activists around the world. You can contribute too!</p>
       </div> -->
-      <div class="call-to-action">
-        <h1>We're building the Wikipedia for activists</h1>
-        <p class="description">
-          And you can help us. Join our our international team, or start a local
-          group of writers.
-        </p>
-        <div class="meta"><a href="/join">Join us</a></div>
-      </div>
+      <PrimaryAction />
       <footer>
         <div><strong>You can reuse this content!</strong></div>
         <div>
@@ -123,7 +117,7 @@ const { Layout } = DefaultTheme;
   border-radius: 2px;
   text-align: center;
 
-  a{
+  a {
     text-decoration: underline;
   }
 }
