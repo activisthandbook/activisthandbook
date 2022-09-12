@@ -8,6 +8,9 @@ body{
 
 
 // HEADER
+.VPLocalNav {
+  display: none !important
+}
 .VPNavBarTitle{
     display: flex;
     align-items: center;
@@ -153,14 +156,14 @@ body{
 
 
 
-    .VPLocalNav{
-        .menu, .top-link{
-            padding: 12px 16px 11px 16px;
-        }
-    }
+    // .VPLocalNav{
+    //     .menu, .top-link{
+    //         padding: 12px 16px 11px 16px;
+    //     }
+    // }
 
     .VPDoc {
-        padding: 32px 12px 96px 12px !important;
+        padding: 8px 12px 96px 12px !important;
     }
 
 }
