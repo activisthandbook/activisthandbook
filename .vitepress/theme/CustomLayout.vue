@@ -100,11 +100,11 @@ const { Layout } = DefaultTheme;
         </svg>
       </a>
       <div class="edit-hint">Improve this page!</div>
+      <ClientOnly>
+        <AnalyticsComponent />
+      </ClientOnly>
     </template>
   </Layout>
-  <ClientOnly>
-    <AnalyticsComponent />
-  </ClientOnly>
 </template>
 <style lang="scss" scoped>
 // ----
@@ -160,7 +160,7 @@ const { Layout } = DefaultTheme;
   font-family: var(--vp-font-family-headings);
   font-weight: 700;
   position: fixed;
-  animation: edit-hint 7s ease 1s forwards;
+  animation: edit-hint 7s ease 4s forwards;
   bottom: 32px;
   right: 90px;
   padding: 4px 8px;

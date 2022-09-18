@@ -3,11 +3,15 @@ export default {
   data: function () {
     return {
       cookieBanner: "show",
+      analyticsAllowed: null,
     };
   },
   mounted() {
     if (localStorage.getItem("cookieBanner")) {
       this.cookieBanner = localStorage.getItem("cookieBanner");
+    }
+    if (localStorage.getItem("analyticsAllowed")) {
+      this.analyticsAllowed = localStorage.getItem("analyticsAllowed");
     }
     if (localStorage.getItem("analyticsAllowed") === "yes") {
       this.turnOnAnalytics();
@@ -16,11 +20,13 @@ export default {
   methods: {
     decline() {
       this.cookieBanner = "hide";
+      this.analyticsAllowed = "no";
       localStorage.setItem("cookieBanner", "hide");
       localStorage.setItem("analyticsAllowed", "no");
     },
     accept() {
       this.cookieBanner = "hide";
+      this.analyticsAllowed = "yes";
       localStorage.setItem("cookieBanner", "hide");
       localStorage.setItem("analyticsAllowed", "yes");
       this.turnOnAnalytics();
@@ -35,7 +41,7 @@ export default {
 <template>
   <div
     class="cookie-notification"
-    v-show="cookieBanner === 'show'"
+    v-if="cookieBanner === 'show'"
     data-nosnippet
   >
     <div class="explanation">
@@ -46,12 +52,29 @@ export default {
     <button class="button decline" @click="decline()">Decline</button>
     <button class="button accept" @click="accept()">OK</button>
   </div>
+  <div v-if="cookieBanner === 'hide'" class="change-choice">
+    <div><strong>Privacy</strong></div>
+    <div v-if="analyticsAllowed === 'yes'">
+      You have accepted cookies for analytical purposes (<span
+        @click="decline()"
+        >turn off</span
+      >).
+    </div>
+    <div v-if="analyticsAllowed === 'no'">
+      You have not accepted cookies for analytical purposes (<span
+        @click="accept()"
+        >turn on</span
+      >).
+    </div>
+  </div>
 </template>
 <style lang="scss" scoped>
 .cookie-notification {
   position: fixed;
   text-align: center;
   bottom: 0;
+  left: 0;
+  right:0;
   width: 100%;
   background-color: var(--vp-c-white);
   padding: 4vh 13vw;
@@ -82,6 +105,17 @@ export default {
   .accept {
     background: var(--vp-c-secondary);
     color: var(--vp-c-white);
+  }
+}
+.change-choice {
+  text-align: center;
+  font-size: 0.8em;
+  opacity: 0.7;
+  padding: 16px;
+  margin-top: 16px;
+
+  span {
+    cursor: pointer;
   }
 }
 </style>

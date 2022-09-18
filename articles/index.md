@@ -11,11 +11,11 @@ hero:
   tagline: We write guides for activists. Learn how to become an activist, plan a political campaign strategy, and start a grassroots movement - all while not burning out.
   actions:
     - theme: brand
-      text: Start now
+      text: Start reading
       link: /test
     - theme: alt
       text: Join us
-      link: https://github.com/vuejs/vitepress
+      link: /join
 features:
   - icon: ✊
     title: Become a Social Activist
@@ -25,7 +25,7 @@ features:
     details: Achieve your goals by finding out what strategies and tactics are most effective. Get inspired by our examples of policital campaigns around the world.
   - icon: 🌊
     title: Start a Grassroots Movement
-    details: Find out what grassroot campaigning entails and get started with distributed organizing.
+    details: Find out what bottom-up campaigning entails and get started with distributed organizing.
   - icon: ❤️
     title: Take care to prevent Activist Burnout
     details: Changing the world is stressful. Learn how to recognise burnout symptoms, how to deal with anxiety and other mental health challanges that activists deal with.
@@ -86,18 +86,29 @@ Activist Handbook is here for all progressive, green and social activists. We em
 - **❤️ [Social activism](campaigns/social)**: Learn how you can take action to put social challanges on the agenda and make a change. No matter whether you want to fight poverty or stand up for queer rights, we provide you with the tools and training to organise succesful campaigns.
 - **🌍 [Climate activism](/campaigns/climate)**: Stand up for climate justice by learning from environmental grassroots movements such as Fridays for Future, Greenpeace and Extinction Rebellion. Learn how why protesting is effective and find a climate group to join. Or start your own initiative!
 - **🗳 [Political activism](/campaigns/political)**: Learn everything about political activism. We have guides about door-to-door canvassing, preparing election campaign strategies, crowdfunding, running as a candidate, and many other forms of civic engagement.
-- **👩‍⚖️ [Human rights activism](/campaigns/human-rights)**:
+- **👩‍⚖️ [Human rights activism](/campaigns/human-rights)**: Find out how to defend human rights. Read our guides on how to stand up for justice by starting a campaign to fight for democracy, equality and freedom.
 - **📢 [Youth activism](/campaigns/youth)**: We help students around the world make their voices heard. Read our guides to become more effective as a young change-maker and learn from examples of other succesful youth movements.
-- **🙌 [Community activism](/campaigns/community)**: Make a difference in your community by organising locally.
+- **🙌 [Community activism](/campaigns/community)**: Make a difference in your community by organising locally. We explain what a community activist is and how to become involved.
 
 _Also make sure to check out the rest of our [campaigns](/campaigns)._
 
+<div class="call-to-action">
+    <h1>We're training a billion activists</h1>
+    <p class="description">
+      We're in deep shit. Natural ecosystems are crumbling. Democracies are breaking down. And the rich are fueling the fire. So let's learn how to do something about that.
+    </p>
+    <div class="meta"><a href="/training">Get training</a></div>
+  </div>
+
 </div>
 
 </div>
+
+<AnalyticsComponent/>
 
 <script setup>
 import PrimaryAction from "../.vitepress/theme/PrimaryAction.vue";
+import AnalyticsComponent from "../.vitepress/theme/AnalyticsComponent.vue";
 </script>
 
 <style scoped>

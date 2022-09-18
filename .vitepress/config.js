@@ -86,8 +86,6 @@ export default defineConfig({
     logo: "/logo.svg",
     nav,
     sidebar,
-    footer: {
-      copyright: `Activist Handbook | Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International`,
-    },
+    footer: false,
   },
 });
