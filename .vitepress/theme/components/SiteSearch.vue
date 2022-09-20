@@ -21,13 +21,7 @@ const articlesSearchIndex = client.initIndex("activisthandbook_articles");
 const state = reactive({
   searchQuery: null,
   showSearchDialog: false,
-  searchResults: [
-    {
-      title: "How to organise a protest",
-      description: "Step-by-step guide for activists",
-      fullPath: "/test",
-    },
-  ],
+  searchResults: null,
   cashedSearchResults: {},
   selectedResult: 0,
   noResults: false,
@@ -84,7 +78,8 @@ function handleInput() {
   if (state.cashedSearchResults[state.searchQuery]) {
     searchArticles();
   } else if (state.searchQuery.length > 2) {
-    throttledSearch();
+    // Uncomment the line below for immediate search results as you are typing (warning: potentially high costs!)
+    // throttledSearch();
   }
 }
 

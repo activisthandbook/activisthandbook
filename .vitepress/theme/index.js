@@ -3,6 +3,7 @@ import { createGtm } from "@gtm-support/vue-gtm";
 
 // Custom
 import CustomLayout from "./CustomLayout.vue";
+import NotFound from "./NotFound.vue";
 import "./vars.scss";
 import "./article.scss";
 import "./custom.scss";
@@ -27,4 +28,5 @@ export default {
   // override the Layout with a wrapper component that
   // injects the slots
   Layout: CustomLayout,
+  NotFound: NotFound,
 };
