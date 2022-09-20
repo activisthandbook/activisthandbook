@@ -17,6 +17,8 @@
   },
   "dependencies": {
     "@gtm-support/vue-gtm": "^1.6.0",
+    "algoliasearch": "^4.14.2",
+    "lodash": "^4.17.21",
     "sass": "^1.53.0"
   }
 }

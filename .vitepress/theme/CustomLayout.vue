@@ -1,14 +1,20 @@
 <script setup>
 import DefaultTheme from "vitepress/theme";
 
-import AnalyticsComponent from "./AnalyticsComponent.vue";
-import PrimaryAction from "./PrimaryAction.vue";
+import AnalyticsComponent from "./components/AnalyticsComponent.vue";
+import PrimaryAction from "./components/PrimaryAction.vue";
+import SiteSearch from "./components/SiteSearch.vue";
 
 // DATA
 const { Layout } = DefaultTheme;
 </script>
 <template>
   <Layout>
+    <template #nav-bar-content-before>
+      <ClientOnly>
+        <SiteSearch />
+      </ClientOnly>
+    </template>
     <template #doc-before>
       <div class="action-top">
         We're looking for people to <a href="/join">join our team</a>!
@@ -107,7 +113,6 @@ const { Layout } = DefaultTheme;
   </Layout>
 </template>
 <style lang="scss" scoped>
-// ----
 .action-top {
   background: rgba(0, 0, 0, 0.05);
   color: #333;

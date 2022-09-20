@@ -12,7 +12,7 @@ hero:
   actions:
     - theme: brand
       text: Start reading
-      link: /test
+      link: /organising/protest
     - theme: alt
       text: Join us
       link: /join
@@ -107,8 +107,8 @@ _Also make sure to check out the rest of our [campaigns](/campaigns)._
 <AnalyticsComponent/>
 
 <script setup>
-import PrimaryAction from "../.vitepress/theme/PrimaryAction.vue";
-import AnalyticsComponent from "../.vitepress/theme/AnalyticsComponent.vue";
+import PrimaryAction from "../.vitepress/theme/components/PrimaryAction.vue";
+import AnalyticsComponent from "../.vitepress/theme/components/AnalyticsComponent.vue";
 </script>
 
 <style scoped>
