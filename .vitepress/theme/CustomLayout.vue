@@ -88,6 +88,7 @@ const { Layout } = DefaultTheme;
         :href="
           'https://edit.activisthandbook.org/article/' + $frontmatter.articleID
         "
+        target="_blank"
         class="edit-button"
       >
         <svg
