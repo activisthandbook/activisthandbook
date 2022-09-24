@@ -30,7 +30,7 @@ export const nav = [
   // },
   {
     text: "❤️ Join us",
-    link: "/test1/",
+    link: "https://mailchi.mp/activisthandbook/join",
   },
 ];
 
@@ -39,12 +39,19 @@ export const sidebar = [
     text: "Getting started",
     items: [
       { text: "About", link: "/test1" },
-      { text: "Join us", link: "/test1" },
     ],
   },
   {
     text: "Chapters",
-    items: chapters,
+    items: [
+      { text: "📕 Theory", link: "/test2" },
+      { text: "🔥 Organizing", link: "/test" },
+      { text: "🎯 Strategy", link: "/test1" },
+      { text: "📢 Tactics", link: "/test1" },
+      { text: "❤️ Wellbeing", link: "/test1" },
+      { text: "💬 Communication", link: "/test1" },
+      { text: "💻 Tools", link: "/test1" },
+    ],
   },
   {
     text: "Our community",

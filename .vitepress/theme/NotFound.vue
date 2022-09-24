@@ -24,13 +24,14 @@
   </div>
 </template>
 <script setup>
-import { computed, onMounted } from "vue";
+import { ref, onMounted } from "vue";
 import { useRouter } from "vitepress";
 const router = useRouter();
-// .replaceAll('"/en/', "/");
 
-const currentURL = computed(() => {
-  return window.location.href;
+let currentURL = ref("")
+
+onMounted(() => {
+  currentURL.value = window.location.href;
 });
 
 if (router.route.path.startsWith("/en/")) {
