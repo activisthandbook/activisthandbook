@@ -51,7 +51,7 @@ body{
     }
 }
 
-.VPNavBarMenu{
+.VPNavBarMenu, .focus-VPNavBarMenu{
     margin-right: 16px;
 
     @media (min-width: 768px) {
@@ -71,6 +71,7 @@ body{
         color: var(--vp-c-white);
         border-radius: 1px;
         transition: .1s transform;
+        cursor: pointer;
 
         &:hover{
             transform: scale(1.05)
@@ -80,6 +81,15 @@ body{
             opacity: 0.8;
         }
     }
+}
+.focus-mode .VPNavBar  {
+  .VPNavBarMenu:not(.focus-menu), .search, .VPNavBarHamburger{
+    display: none;
+  }
+  .VPNavBarMenu{
+    margin: 18.5px;
+  }
+
 }
 .VPNavBarExtra, .VPNavBarAppearance, .VPNavScreenAppearance{
     display: none !important;

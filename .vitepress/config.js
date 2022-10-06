@@ -1,6 +1,8 @@
 import { defineConfig } from "vitepress";
 
-import { nav, sidebar } from "./menu.js";
+import { nav } from "./menu.js";
+
+import * as sidebar from "./menus/sidebar.json";
 
 export default defineConfig({
   lang: "en-US",

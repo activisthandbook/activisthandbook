@@ -30,7 +30,7 @@ export const nav = [
   // },
   {
     text: "❤️ Join us",
-    link: "https://mailchi.mp/activisthandbook/join",
+    link: "/join",
   },
 ];
 
@@ -39,6 +39,7 @@ export const sidebar = [
     text: "Getting started",
     items: [
       { text: "About", link: "/test1" },
+      { text: "Join us", link: "/join" },
     ],
   },
   {

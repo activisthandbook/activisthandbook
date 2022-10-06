@@ -112,7 +112,7 @@ export default {
   font-size: 0.8em;
   opacity: 0.7;
   padding: 16px;
-  margin-top: 16px;
+  margin-top: 96px;
 
   span {
     cursor: pointer;
