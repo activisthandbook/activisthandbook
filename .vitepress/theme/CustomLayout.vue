@@ -1,12 +1,51 @@
 <script setup>
 import DefaultTheme from "vitepress/theme";
 
-import { useRouter } from "vitepress";
+import {onMounted, ref, watch } from "vue"
+import { useRouter, useData } from "vitepress";
 const router = useRouter();
+const { frontmatter } = useData();
+const data = useData();
 
 import AnalyticsComponent from "./components/AnalyticsComponent.vue";
 import ActionSmartLarge from "./components/actions/ActionSmartLarge.vue";
 import SiteSearch from "./components/SiteSearch.vue";
+
+const languageCollection = ref(null)
+
+onMounted(() => {
+  getLanguages()
+})
+
+watch(
+  () => router,
+  () => {
+    getLanguages()
+  },
+  { deep: true }
+)
+
+function getLanguages(){
+  if(data.frontmatter.value.languageCollectionID) {
+  fetch("/languageCollections/" + data.frontmatter.value.languageCollectionID + ".json")
+      .then((response) => response.json())
+      .then((json) => {
+        languageCollection.value = json
+      });
+  }
+}
+// import { readFile } from "fs/promises";
+
+// async function readJsonFile(path) {
+//   const file = await readFile(path, "utf8");
+//   return JSON.parse(file);
+// }
+
+// readJsonFile("/languageCollections/" + data.frontmatter.value.languageCollectionID + ".json").then((data) => {
+//   console.log(data);
+// });
+
+
 
 // DATA
 const { Layout } = DefaultTheme;
@@ -70,14 +109,13 @@ function focusID(id){
           </div>
         </div>
 
-        <div class="languages">
-
-          Languages: <a v-for="(language, index) in $frontmatter.languages" :key="index" :href="language.link">{{language.name}}</a> |
+        <div class="languages" v-if="$frontmatter.languageCollectionID">
+          Languages: <span v-if="languageCollection"><a v-for="(language, index) in languageCollection" :key="index" :href="language.link">{{language.localName}}</a> |
 
           <a :href="
               'https://edit.activisthandbook.org/translate/' +
               $frontmatter.languageCollectionID
-            "> Add translation </a>
+            " target="_blank"> Add translation </a></span>
         </div>
       </template>
       <template #doc-after>

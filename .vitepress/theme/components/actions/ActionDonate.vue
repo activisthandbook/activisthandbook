@@ -13,7 +13,7 @@
   margin: 24px 0;
   padding: 32px 0 0 0;
   text-align: center;
-
+  outline: none;
 
   h1 {
     margin-bottom:24px;
