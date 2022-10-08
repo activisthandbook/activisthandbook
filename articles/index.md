@@ -77,7 +77,7 @@ The laws about the right to protest, freedom of speech and assembly are differen
 
 _This is just the tip of the iceberg. Ready to get started? Read our **[introduction](/about)** to learn more about Activist Handbook or **[follow a training](/training)** from a group near you._
 
-<PrimaryAction/>
+<action-smart-large/>
 
 ## We start the activist movements of tomorrow
 
@@ -92,13 +92,14 @@ Activist Handbook is here for all progressive, green and social activists. We em
 
 _Also make sure to check out the rest of our [campaigns](/campaigns)._
 
-<div class="call-to-action">
-    <h1>We're training a billion activists</h1>
-    <p class="description">
-      We're in deep shit. Natural ecosystems are crumbling. Democracies are breaking down. And the rich are fueling the fire. So let's learn how to do something about that.
-    </p>
-    <div class="meta"><a href="/training">Get training</a></div>
-  </div>
+<action-custom buttonLink="/training" buttonLabel="Get training">
+  <h1>We're training a billion activists</h1>
+  <p class="description">
+    We're in deep shit. Natural ecosystems are crumbling. Democracies are breaking down. And the rich are fueling the fire. So let's learn how to do something about that.
+  </p>
+</action-custom>
+
+<action-smart-small/>
 
 </div>
 
@@ -107,7 +108,11 @@ _Also make sure to check out the rest of our [campaigns](/campaigns)._
 <AnalyticsComponent/>
 
 <script setup>
-import PrimaryAction from "../.vitepress/theme/components/PrimaryAction.vue";
+// import ActionSmartLarge from "../.vitepress/theme/components/actions/ActionSmartLarge.vue";
+// import ActionSmartSmall from "../.vitepress/theme/components/actions/ActionSmartSmall.vue";
+
+// import ActionCustom from "../.vitepress/theme/components/actions/ActionCustom.vue";
+
 import AnalyticsComponent from "../.vitepress/theme/components/AnalyticsComponent.vue";
 </script>
 

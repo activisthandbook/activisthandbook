@@ -8,6 +8,12 @@ import "./vars.scss";
 import "./article.scss";
 import "./custom.scss";
 
+import ActionDonate from "./components/actions/ActionDonate.vue";
+import ActionVolunteer from "./components/actions/ActionVolunteer.vue";
+import ActionSmartLarge from "./components/actions/ActionSmartLarge.vue";
+import ActionSmartSmall from "./components/actions/ActionSmartSmall.vue";
+import ActionCustom from "./components/actions/ActionCustom.vue";
+
 export default {
   enhanceApp({ app, router, siteData }) {
     // app is the Vue 3 app instance from `createApp()`.
@@ -23,6 +29,12 @@ export default {
         // vueRouter: router, // Pass the router instance to automatically sync with router (optional)
       })
     );
+
+    app.component("action-donate", ActionDonate);
+    app.component("action-volunteer", ActionVolunteer);
+    app.component("action-smart-large", ActionSmartLarge);
+    app.component("action-smart-small", ActionSmartSmall);
+    app.component("action-custom", ActionCustom);
   },
   ...DefaultTheme,
   // override the Layout with a wrapper component that

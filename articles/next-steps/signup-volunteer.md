@@ -27,7 +27,7 @@ We decide together how to spend money in our Solidarity Fund:
 That's completely fine<span v-show="given_name">, {{ given_name }}</span>. We want to make Activist Handbook inclusive for everyone. If you ever need money to join our events or meetings (to reimburse travel or internet costs), send us a message.
 
 <ClientOnly>
-  <DonateForm/>
+  <action-donate/>
 </ClientOnly>
 
 _Your donation goes to the Activist Handbook Foundation, a registered nonprofit organisation in the Netherlands (Stichting Activist Handbook, KvK-number 86029045)._
@@ -41,7 +41,6 @@ onMounted(() => {
   given_name.value = localStorage.getItem('given_name');
 })
 
-import DonateForm from "../../.vitepress/theme/components/DonateForm.vue";
 function focusID(id){
   const element = document.getElementById(id);
   element.focus()

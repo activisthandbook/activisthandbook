@@ -5,7 +5,7 @@ import { useRouter } from "vitepress";
 const router = useRouter();
 
 import AnalyticsComponent from "./components/AnalyticsComponent.vue";
-import PrimaryAction from "./components/PrimaryAction.vue";
+import ActionSmartLarge from "./components/actions/ActionSmartLarge.vue";
 import SiteSearch from "./components/SiteSearch.vue";
 
 // DATA
@@ -71,9 +71,13 @@ function focusID(id){
         </div>
 
         <div class="languages">
-          Languages: Nederlands, Deutch
 
-          <a href=""> Add translation </a>
+          Languages: <a v-for="(language, index) in $frontmatter.languages" :key="index" :href="language.link">{{language.name}}</a> |
+
+          <a :href="
+              'https://edit.activisthandbook.org/translate/' +
+              $frontmatter.languageCollectionID
+            "> Add translation </a>
         </div>
       </template>
       <template #doc-after>
@@ -89,7 +93,7 @@ function focusID(id){
         <h1>Edit me</h1>
         <p class="description">This article was written by activists around the world. You can contribute too!</p>
       </div> -->
-        <PrimaryAction v-if="!$frontmatter.focus" />
+        <ActionSmartLarge v-if="!$frontmatter.focus" />
         <footer v-if="!$frontmatter.focus">
           <div><strong>You can reuse this content!</strong></div>
           <div>
@@ -148,7 +152,7 @@ function focusID(id){
 .action-top {
   background: rgba(0, 0, 0, 0.05);
   color: #333;
-  padding: calc(8px + 0.5vw) calc(8px + 1vw);
+  padding: calc(12px + 0.5vw) calc(8px + 1vw);
   font-style: italic;
   margin-bottom: 16px;
   border-radius: 2px;
@@ -156,6 +160,7 @@ function focusID(id){
 
   a {
     text-decoration: underline;
+    color: black;
   }
 }
 

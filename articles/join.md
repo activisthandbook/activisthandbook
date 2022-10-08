@@ -39,11 +39,10 @@ After you **<a @click="focusID('first-name')">sign up</a>**:
 Everyone! We believe that diversity strengthens our organisation. That is why we encourage people of all genders, sexual preferences and ethnic backgrounds, including people with disabilities, to join our project.
 
 <ClientOnly>
-  <SignUp/>
+  <action-volunteer/>
 </ClientOnly>
 
 <script setup>
-import SignUp from "../.vitepress/theme/components/SignUp.vue";
 
 function focusID(id){
   const element = document.getElementById(id);

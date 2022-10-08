@@ -27,7 +27,7 @@ Activist Handbook is a highly efficient nonprofit organisation, making a maximum
 - **🌍 Connecting activists around the globe:** We are enabling movements around the globe to exchange knowledge on change-making. That requires us to pay for digital tools that allow us to work together internationally. And to compensate the travel costs of those who cannot afford to pay for it themselves. Your donation brings together activists around the globe.
 
 <ClientOnly>
-  <DonateForm/>
+  <action-donate/>
 </ClientOnly>
 
 _Your donation goes to the Activist Handbook Foundation, a registered nonprofit organisation in the Netherlands (Stichting Activist Handbook, KvK-number 86029045)._
@@ -41,7 +41,6 @@ onMounted(() => {
   given_name.value = localStorage.getItem('given_name');
 })
 
-import DonateForm from "../.vitepress/theme/components/DonateForm.vue";
 function focusID(id){
   const element = document.getElementById(id);
   element.focus()
