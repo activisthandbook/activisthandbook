@@ -15,17 +15,25 @@ export async function onRequestPost(context) {
   const { cf } = request;
   const { city, country } = cf;
 
-  const body = {
-    // city: city,
-    // country: country,
-    // request: request,
-    test: "test!",
-  };
+  try {
+    const body = {
+      // city: city,
+      // country: country,
+      // request: request,
+      test: "test!",
+    };
 
-  response = new Response(JSON.stringify(body));
+    response = new Response(JSON.stringify(body));
 
-  response.headers.set("Access-Control-Allow-Origin", "*");
-  response.headers.set("Access-Control-Allow-Headers", "*");
+    // response.headers.set("Access-Control-Allow-Origin", "*");
+    // response.headers.set("Access-Control-Allow-Headers", "*");
 
-  return response;
+    return response;
+  } catch (error) {
+    try {
+      return new Response(error);
+    } catch () {
+      return new Response("error");
+    }
+  }
 }
