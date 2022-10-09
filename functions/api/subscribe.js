@@ -45,9 +45,10 @@ export async function onRequestPost(context) {
 async function sentActionNetworkRequest(apiKey, data, metadata) {
   const url = "https://actionnetwork.org/api/v2/people";
 
-  if (metadata.country === "NL") {
-    metadata.postalCode = metadata.postalCode + " AA";
-  }
+  // Fix for cloudflare only returning the numbers, which Action Network does not understand.
+  // if (metadata.country === "NL") {
+  //   metadata.postalCode = metadata.postalCode + " AA";
+  // }
 
   const dataToSend = {
     person: {
@@ -55,9 +56,9 @@ async function sentActionNetworkRequest(apiKey, data, metadata) {
       postal_addresses: [
         {
           locality: metadata.city,
-          region: metadata.regionCode,
+          // region: metadata.regionCode,
           country: metadata.country,
-          postalCode: metadata.postalCode,
+          postal_code: metadata.postalCode,
         },
       ],
       email_addresses: [{ address: data.email }],
