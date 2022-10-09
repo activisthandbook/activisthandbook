@@ -21,5 +21,8 @@ export async function onRequestPost(context) {
     request,
   };
 
+  response.headers.set("Access-Control-Allow-Origin", "*");
+  response.headers.set("Access-Control-Allow-Headers", "*");
+
   return new Response(JSON.stringify(response));
 }
