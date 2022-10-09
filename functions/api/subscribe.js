@@ -23,10 +23,10 @@ export async function onRequestPost(context) {
       test: "test!",
     };
 
-    response = new Response(JSON.stringify(body));
+    let response = new Response(JSON.stringify(body));
 
-    // response.headers.set("Access-Control-Allow-Origin", "*");
-    // response.headers.set("Access-Control-Allow-Headers", "*");
+    response.headers.set("Access-Control-Allow-Origin", "*");
+    response.headers.set("Access-Control-Allow-Headers", "*");
 
     return response;
   } catch (error) {
