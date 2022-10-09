@@ -15,8 +15,11 @@ export async function onRequestPost(context) {
   const { cf } = request;
   const { city, country } = cf;
 
-  console.log(`Request came from city: ${city} in country: ${country}`);
-  console.log("request: ", request);
+  response = {
+    city,
+    country,
+    request,
+  };
 
-  return new Response("Hello, world! ");
+  return new Response(JSON.stringify(response));
 }
