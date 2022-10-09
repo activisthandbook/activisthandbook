@@ -16,9 +16,10 @@ export async function onRequestPost(context) {
   const { city, country } = cf;
 
   const body = {
-    city: city,
-    country: country,
-    request: request,
+    // city: city,
+    // country: country,
+    // request: request,
+    test: "test!",
   };
 
   response = new Response(JSON.stringify(body));
