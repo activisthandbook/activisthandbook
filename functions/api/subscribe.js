@@ -75,7 +75,7 @@ async function sentActionNetworkRequest(apiKey, data) {
 
   // https://developers.cloudflare.com/workers/runtime-apis/fetch/
   const response = fetch(url, RequestInit);
-  const results = JSON.stringify(await response.json()));
+  const results = JSON.stringify(await response.json());
 
   return results;
 }
