@@ -34,18 +34,6 @@ function getLanguages(){
       });
   }
 }
-// import { readFile } from "fs/promises";
-
-// async function readJsonFile(path) {
-//   const file = await readFile(path, "utf8");
-//   return JSON.parse(file);
-// }
-
-// readJsonFile("/languageCollections/" + data.frontmatter.value.languageCollectionID + ".json").then((data) => {
-//   console.log(data);
-// });
-
-
 
 // DATA
 const { Layout } = DefaultTheme;
@@ -56,6 +44,7 @@ function focusID(id){
 }
 </script>
 <template>
+
   <div :class="{ 'focus-mode': $frontmatter.focus }">
     <Layout>
       <template #nav-bar-content-before>
