@@ -16,6 +16,7 @@ export async function onRequestPost(context) {
   const { city, country } = cf;
 
   console.log(`Request came from city: ${city} in country: ${country}`);
+  console.log("request: ", request);
 
   return new Response("Hello, world! ");
 }
