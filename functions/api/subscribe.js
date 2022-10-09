@@ -21,6 +21,7 @@ export async function onRequestPost(context) {
       country: country,
       request: request,
       bodyAsJSON: await request.json(),
+      actionnetwork: await sentActionNetworkRequest(env.ACTIONNETWORK_API_KEY),
     };
 
     let response = new Response(JSON.stringify(body), {
@@ -41,8 +42,7 @@ export async function onRequestPost(context) {
   }
 }
 
-
-async function sentActionNetworkRequest(apiKey, requestData) {
+async function sentActionNetworkRequest(apiKey) {
   const url = "https://actionnetwork.org/api/v2/people";
   const data = {
     person: {
@@ -57,7 +57,7 @@ async function sentActionNetworkRequest(apiKey, requestData) {
 
   // https://developers.cloudflare.com/workers//runtime-apis/request#requestinit
   const RequestInit = {
-    body: JSON.stringify(data)
+    body: JSON.stringify(data),
     headers: {
       "osdi-api-token": apiKey,
     },
