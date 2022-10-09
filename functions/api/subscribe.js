@@ -32,7 +32,7 @@ export async function onRequestPost(context) {
   } catch (error) {
     try {
       return new Response(error);
-    } catch () {
+    } catch (error) {
       return new Response("error");
     }
   }
