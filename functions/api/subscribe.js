@@ -21,7 +21,7 @@ export async function onRequestPost(context) {
       city: city,
       country: country,
       request: request,
-      bodyAsJSON: await request.json(),
+      bodyAsJSON: requestBody,
       actionnetwork: await sentActionNetworkRequest(
         env.ACTIONNETWORK_API_KEY,
         requestBody
