@@ -58,10 +58,11 @@ async function sentActionNetworkRequest(apiKey) {
   // https://developers.cloudflare.com/workers//runtime-apis/request#requestinit
   const RequestInit = {
     method: "POST",
-    body: JSON.stringify(data),
-    headers: {
+    // https://developer.mozilla.org/en-US/docs/Web/API/Headers
+    headers: new Headers({
       "osdi-api-token": apiKey,
-    },
+    }),
+    body: JSON.stringify(data),
   };
 
   // https://developers.cloudflare.com/workers/runtime-apis/fetch/
