@@ -74,7 +74,7 @@ async function sentActionNetworkRequest(apiKey, data) {
   };
 
   // https://developers.cloudflare.com/workers/runtime-apis/fetch/
-  const response = fetch(url, RequestInit);
+  const response = await fetch(url, RequestInit);
 
   if (!response.ok) {
     throw new Error(`Error! status: ${response.status}`);
