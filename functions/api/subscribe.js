@@ -16,12 +16,16 @@ export async function onRequestPost(context) {
   const { city, country } = cf;
 
   try {
+    const requestBody = await request.json();
     const body = {
       city: city,
       country: country,
       request: request,
       bodyAsJSON: await request.json(),
-      actionnetwork: await sentActionNetworkRequest(env.ACTIONNETWORK_API_KEY),
+      actionnetwork: await sentActionNetworkRequest(
+        env.ACTIONNETWORK_API_KEY,
+        requestBody
+      ),
     };
 
     let response = new Response(JSON.stringify(body), {
@@ -42,18 +46,21 @@ export async function onRequestPost(context) {
   }
 }
 
-async function sentActionNetworkRequest(apiKey) {
+async function sentActionNetworkRequest(apiKey, data) {
   const url = "https://actionnetwork.org/api/v2/people";
-  const data = {
-    person: {
-      family_name: "Smith",
-      given_name: "John",
-      postal_addresses: [{ postal_code: "20009" }],
-      email_addresses: [{ address: "jsmith@mail.com" }],
-      phone_number: [{ number: "12021234444" }],
-    },
-    add_tags: ["volunteer", "member"],
-  };
+
+  // TO-DO: Sanitise data
+
+  // const data = {
+  //   person: {
+  //     family_name: requestBody"Smith",
+  //     given_name: "John",
+  //     postal_addresses: [{ postal_code: "20009" }],
+  //     email_addresses: [{ address: "jsmith@mail.com" }],
+  //     phone_number: [{ number: "12021234444" }],
+  //   },
+  //   add_tags: ["volunteer", "member"],
+  // };
 
   // https://developers.cloudflare.com/workers//runtime-apis/request#requestinit
   const RequestInit = {
@@ -67,18 +74,8 @@ async function sentActionNetworkRequest(apiKey) {
   };
 
   // https://developers.cloudflare.com/workers/runtime-apis/fetch/
-  const actionnetworkResponse = fetch(url, RequestInit);
+  const response = fetch(url, RequestInit);
+  const results = await gatherResponse(response);
 
-  // const response = axios
-  //   .post(url, data, config)
-  //   .then((response) => {
-  //     functions.logger.log("🔵 actionnetwork response data", response.data);
-
-  //     return response.data;
-  //   })
-  //   .catch((error) => {
-  //     functions.logger.error("🔴 actionnetwork error", error);
-  //   });
-
-  return actionnetworkResponse;
+  return results;
 }
