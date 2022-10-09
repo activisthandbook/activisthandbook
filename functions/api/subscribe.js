@@ -57,6 +57,7 @@ async function sentActionNetworkRequest(apiKey) {
 
   // https://developers.cloudflare.com/workers//runtime-apis/request#requestinit
   const RequestInit = {
+    method: "POST"
     body: JSON.stringify(data),
     headers: {
       "osdi-api-token": apiKey,
