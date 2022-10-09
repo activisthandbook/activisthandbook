@@ -40,3 +40,42 @@ export async function onRequestPost(context) {
     }
   }
 }
+
+
+async function sentActionNetworkRequest(apiKey, requestData) {
+  const url = "https://actionnetwork.org/api/v2/people";
+  const data = {
+    person: {
+      family_name: "Smith",
+      given_name: "John",
+      postal_addresses: [{ postal_code: "20009" }],
+      email_addresses: [{ address: "jsmith@mail.com" }],
+      phone_number: [{ number: "12021234444" }],
+    },
+    add_tags: ["volunteer", "member"],
+  };
+
+  // https://developers.cloudflare.com/workers//runtime-apis/request#requestinit
+  const RequestInit = {
+    body: JSON.stringify(data)
+    headers: {
+      "osdi-api-token": apiKey,
+    },
+  };
+
+  // https://developers.cloudflare.com/workers/runtime-apis/fetch/
+  const actionnetworkResponse = fetch(url, RequestInit);
+
+  // const response = axios
+  //   .post(url, data, config)
+  //   .then((response) => {
+  //     functions.logger.log("🔵 actionnetwork response data", response.data);
+
+  //     return response.data;
+  //   })
+  //   .catch((error) => {
+  //     functions.logger.error("🔴 actionnetwork error", error);
+  //   });
+
+  return actionnetworkResponse;
+}
