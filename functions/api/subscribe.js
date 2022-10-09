@@ -20,6 +20,7 @@ export async function onRequestPost(context) {
       city: city,
       country: country,
       request: request,
+      bodyAsJSON: await request.json(),
     };
 
     let response = new Response(JSON.stringify(body), {
