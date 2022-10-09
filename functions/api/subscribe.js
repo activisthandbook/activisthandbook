@@ -21,10 +21,7 @@ export async function onRequestPost(context) {
     request,
   };
 
-  response = new Response(JSON.stringify(body), {
-    status: 200,
-    statusText: "OK",
-  });
+  response = new Response(JSON.stringify(body));
 
   response.headers.set("Access-Control-Allow-Origin", "*");
   response.headers.set("Access-Control-Allow-Headers", "*");
