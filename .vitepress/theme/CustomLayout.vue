@@ -15,16 +15,18 @@ const languageCollection = ref(null)
 
 onMounted(() => {
   getLanguages()
+  // setLanguage()
 })
 
 watch(
   () => router,
   () => {
+    // setLanguage()
     getLanguages()
+
   },
   { deep: true }
 )
-
 function getLanguages(){
   if(data.frontmatter.value.languageCollectionID) {
   fetch("/languageCollections/" + data.frontmatter.value.languageCollectionID + ".json")
@@ -126,6 +128,11 @@ function focusID(id){
       </div> -->
         <ActionSmartLarge v-if="!$frontmatter.focus" />
         <footer v-if="!$frontmatter.focus">
+          <a
+              href="https://creativecommons.org/licenses/by-nc-sa/4.0/"
+              rel="license"
+              target="_blank"
+              ><img src="/by-nc-sa.svg" alt="Creative Commons Attribution-NonCommercial-ShareAlike logo" width="120" height="42" style="display:inline;margin-bottom:8px"/></a>
           <div><strong>You can reuse this content!</strong></div>
           <div>
             Just make sure to give attribution to

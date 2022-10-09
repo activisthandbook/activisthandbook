@@ -10,8 +10,8 @@
 .donate-container{
   background: var(--vp-c-bg-alt);
   border-radius: 2px;
-  margin: 24px 0;
-  padding: 32px 0 0 0;
+  margin: 24px 0 64px 0;
+  padding: 32px 8px 0 8px;
   text-align: center;
   outline: none;
 

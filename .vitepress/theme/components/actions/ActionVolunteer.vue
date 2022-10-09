@@ -4,19 +4,22 @@
     <div>Together, we're training a billion activists. Join our team and contribute to our global project.</div>
     <label>
       <div>First name</div>
-      <input v-model="user.given_name" placeholder="Lisa" autocomplete="given-name" id="first-name" required/>
+      <input v-model="user.firstName" placeholder="Lisa" autocomplete="given-name" id="first-name" required/>
     </label>
     <label>
       <div>Email</div>
-      <input v-model="user.email_addresses[0].address" placeholder="lisa@email.com" autocomplete="email" type="email" required/>
+      <input v-model="user.email" placeholder="lisa@email.com" autocomplete="email" type="email" required/>
     </label>
     <label>
       <div>Phone number (international format)</div>
-      <input v-model="user.phone_number[0].number" placeholder="+XX 1234567890" autocomplete="tel" type="tel" required/>
+      <input v-model="user.phone" placeholder="+XX 1234567890" autocomplete="tel" type="tel" required/>
     </label>
     <div class="privacy">After you sign up, we will reach out to you to help you get started. We'll contact you every now and then about our upcoming events, vacancies, and fundraising campaigns.</div>
-    <div class="meta">
+    <div class="meta" v-if="!loading">
       <button @click="signUp($event)" type="submit">Sign up</button>
+    </div>
+    <div class="spinner" v-else>
+      <span></span>
     </div>
   </form>
 
@@ -32,12 +35,56 @@ const router = useRouter();
 const loading = ref(false)
 
 const user = reactive({
-  given_name: null,
-  email_addresses: [{address: null}],
-  phone_number: [{ number: null }],
+  firstName: null,
+  email: null,
+  phone: null,
 });
 
 async function signUp(event){
+
+
+  if(user.firstName && user.email && user.phone){
+
+    event.preventDefault()
+
+    loading.value = true
+
+    await fetch('https:/new.activisthandbook.org/api/subscribe', {
+        method: 'POST',
+        // headers: {
+        //   'Content-Type': 'application/json',
+        // },
+        body: JSON.stringify({
+          firstName: user.firstName,
+          email: user.email,
+          phone: user.phone,
+          tags: ["interested-in-volunteering"],
+        })
+      })
+        .then((response) => response.json())
+        .then(async (data) => {
+          loading.value = false
+          console.log('Success:', data);
+          await router.go(`/next-steps/signup-volunteer`)
+
+          party.confetti(document.querySelector(".VPDoc"), {
+            color: party.Color.fromHex("#D70057"),
+            count: 30,
+            size: 2,
+          });
+
+          localStorage.setItem('given_name', user.firstName);
+          localStorage.setItem('email_address', user.email);
+          localStorage.setItem('phone_number', user.phone);
+        })
+        .catch(error => {
+          console.error(error)
+        })
+
+  }
+}
+
+async function old(event){
   if(user.given_name && user.email_addresses[0].address && user.phone_number[0].number){
     event.preventDefault()
 
@@ -93,8 +140,6 @@ async function signUp(event){
 
   &.loading{
     opacity: .7;
-    cursor: wait;
-
 
     *{
     pointer-events: none;}
@@ -148,19 +193,20 @@ async function signUp(event){
   font-size: 15px;
 }
 
-.loader{
+.spinner{
   text-align: center;
-  margin: 8px 0;
-}
-.loader span{
-  width: 48px;
-  height: 48px;
-  border: 5px solid #FFF;
-  border-bottom-color: transparent;
-  border-radius: 50%;
-  display: inline-block;
-  box-sizing: border-box;
-  animation: rotation 1s linear infinite;
+  margin: 32px 0 8px 0;
+
+  span{
+    width: 48px;
+    height: 48px;
+    border: 5px solid #FFF;
+    border-bottom-color: transparent;
+    border-radius: 50%;
+    display: inline-block;
+    box-sizing: border-box;
+    animation: rotation 1s linear infinite;
+  }
 }
 
 @keyframes rotation {
