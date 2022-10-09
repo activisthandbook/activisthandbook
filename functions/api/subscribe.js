@@ -12,19 +12,15 @@ export async function onRequestPost(context) {
   // https://developers.cloudflare.com/pages/platform/functions/#environment-variable
   // env.ACTIONNETWORK_API_KEY;
 
-  const { cf } = request;
-  const { city, country } = cf;
-
   try {
     const requestBody = await request.json();
     const body = {
-      city: city,
-      country: country,
       request: request,
       bodyAsJSON: requestBody,
       actionnetwork: await sentActionNetworkRequest(
         env.ACTIONNETWORK_API_KEY,
-        requestBody
+        requestBody,
+        request.cf
       ),
     };
 
@@ -46,8 +42,30 @@ export async function onRequestPost(context) {
   }
 }
 
-async function sentActionNetworkRequest(apiKey, data) {
+async function sentActionNetworkRequest(apiKey, data, metadata) {
   const url = "https://actionnetwork.org/api/v2/people";
+
+  const dataToSend = {
+    person: {
+      given_name: data.firstName,
+      postal_addresses: [
+        {
+          locality: metadata.city,
+          region: metadata.regionCode,
+          country: metadata.country,
+          postalCode: metadata.postalCode,
+          location: {
+            latitude: metadata.latitude,
+            longitude: metadata.longitude,
+            accuracy: "Approximate",
+          },
+        },
+      ],
+      email_addresses: [{ address: data.email }],
+      phone_number: [{ number: data.phone }],
+    },
+    add_tags: data.tags,
+  };
 
   // TO-DO: Sanitise data
 
@@ -70,7 +88,7 @@ async function sentActionNetworkRequest(apiKey, data) {
       "OSDI-API-Token": apiKey,
       "Content-Type": "application/json",
     }),
-    body: JSON.stringify(data),
+    body: JSON.stringify(dataToSend),
   };
 
   // https://developers.cloudflare.com/workers/runtime-apis/fetch/
@@ -80,7 +98,7 @@ async function sentActionNetworkRequest(apiKey, data) {
     throw new Error(`Error! status: ${response.status}`);
   }
 
-  const results = JSON.stringify(await response.json());
+  const results = await response.json();
 
   return results;
 }
