@@ -45,20 +45,19 @@ export async function onRequestPost(context) {
 async function sentActionNetworkRequest(apiKey, data, metadata) {
   const url = "https://actionnetwork.org/api/v2/people";
 
+  if (metadata.country === "NL") {
+    metadata.postalCode = metadata.postalCode + " AA";
+  }
+
   const dataToSend = {
     person: {
       given_name: data.firstName,
       postal_addresses: [
         {
           locality: metadata.city,
-          // region: metadata.regionCode,
+          region: metadata.regionCode,
           country: metadata.country,
           postalCode: metadata.postalCode,
-          // location: {
-          //   latitude: metadata.latitude,
-          //   longitude: metadata.longitude,
-          //   accuracy: "Approximate",
-          // },
         },
       ],
       email_addresses: [{ address: data.email }],
