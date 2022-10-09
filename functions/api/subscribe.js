@@ -60,7 +60,8 @@ async function sentActionNetworkRequest(apiKey) {
     method: "POST",
     // https://developer.mozilla.org/en-US/docs/Web/API/Headers
     headers: new Headers({
-      "osdi-api-token": apiKey,
+      "OSDI-API-Token": apiKey,
+      "Content-Type": "application/json",
     }),
     body: JSON.stringify(data),
   };
