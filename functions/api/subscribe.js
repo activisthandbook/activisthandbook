@@ -17,13 +17,15 @@ export async function onRequestPost(context) {
 
   try {
     const body = {
-      // city: city,
-      // country: country,
-      // request: request,
-      test: "test!",
+      city: city,
+      country: country,
+      request: request,
     };
 
-    let response = new Response(JSON.stringify(body));
+    let response = new Response(JSON.stringify(body), {
+      status: 200,
+      statusText: "OK",
+    });
 
     response.headers.set("Access-Control-Allow-Origin", "*");
     response.headers.set("Access-Control-Allow-Headers", "*");
