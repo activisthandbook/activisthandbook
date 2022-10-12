@@ -206,3 +206,46 @@ body{
 .VPDocFooter{
   display: none
 }
+
+
+
+// HOME
+.VPHero{
+
+  @media (max-width: 960px) {
+    padding: calc(var(--vp-nav-height) + 24px) 24px 48px !important;
+  }
+
+  .tagline{
+    color: #333;
+  }
+
+  .VPButton{
+    font-family: var(--vp-font-family-headings);
+    font-size: 16px !important;
+    border-radius: 32px !important;
+    padding: 4px 28px !important;
+  }
+}
+
+.VPFeatures{
+  margin-bottom: calc(32px + 3vw);
+
+  @media (min-width: 640px) {
+      padding: 0 24px !important;
+  }
+  .icon {
+      font-size: 32px !important;
+      width: 52px;
+      height: 52px;
+    }
+  .title {
+    font-size: 22px;
+    // line-height: 1.5;
+    font-family: var(--vp-font-family-headings)
+  }
+  .details {
+    color: #333 !important;
+  }
+}
+

@@ -24,6 +24,11 @@
     color: var(--vp-c-brand)
   }
 }
+.vp-doc .header-anchor{
+    transition: opacity 1s .5s;
+    border: none;
+}
+
 
 // CONSISTENT WITH EDITOR
 .VPDoc .content-container{
@@ -83,12 +88,12 @@
     }
 
     h2 {
-        margin: calc(24px + 1vw) 0 12px 0;
+        margin: calc(24px + 2vw) 0 12px 0;
         font-size: calc(24px + 2vw);
     }
 
     h3 {
-        margin-top: 3vw;
+        margin-top: calc(24px + 2vw);
         font-size: calc(16px + 1vw);
     }
 
@@ -321,6 +326,6 @@ footer {
 }
 
 .call-to-action {
-  margin: 48px 0;
+  margin: 32px 0 64px 0;
   background-color: var(--vp-c-secondary);
 }

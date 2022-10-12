@@ -26,6 +26,10 @@ Activist Handbook is a highly efficient nonprofit organisation, making a maximum
 - **❤️ Making activism accessible to everyone:** We want to include the experiences of activists around the globe in our handbook. But not everyone can afford to work as a volunteer, or even to pay for the required internet connection. Your donation makes our organisation more inclusive.
 - **🌍 Connecting activists around the globe:** We are enabling movements around the globe to exchange knowledge on change-making. That requires us to pay for digital tools that allow us to work together internationally. And to compensate the travel costs of those who cannot afford to pay for it themselves. Your donation brings together activists around the globe.
 
+## Every month, we train 4.000 activists
+
+Change-makers from around the globe read our guides. With your help, we can support even more people who want to make a difference. Our goal is to train a billion activists.
+
 <ClientOnly>
   <action-donate/>
 </ClientOnly>

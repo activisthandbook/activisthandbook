@@ -55,15 +55,15 @@ export default {
   <div v-if="cookieBanner === 'hide'" class="change-choice">
     <div><strong>Privacy</strong></div>
     <div v-if="analyticsAllowed === 'yes'">
-      You have accepted cookies for analytical purposes (<span
-        @click="decline()"
-        >turn off</span
+      You have accepted cookies for analytical purposes (<a
+        @click="decline()" @keyup.enter="decline()" tabindex="0"
+        >turn off</a
       >).
     </div>
     <div v-if="analyticsAllowed === 'no'">
-      You have not accepted cookies for analytical purposes (<span
-        @click="accept()"
-        >turn on</span
+      You have not accepted cookies for analytical purposes (<a
+        @click="accept()" @keyup.enter="accept()" tabindex="0"
+        >turn on</a
       >).
     </div>
   </div>
@@ -109,10 +109,14 @@ export default {
 }
 .change-choice {
   text-align: center;
-  font-size: 0.8em;
+  font-size: 12px;
+  line-height: 1.5;
   opacity: 0.7;
   padding: 16px;
+  margin: auto;
   margin-top: 96px;
+  max-width: 256px;
+  color: #333;
 
   span {
     cursor: pointer;

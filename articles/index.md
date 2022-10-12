@@ -27,7 +27,7 @@ features:
     title: Start a Grassroots Movement
     details: Find out what bottom-up campaigning entails and get started with distributed organizing.
   - icon: ❤️
-    title: Take care to prevent Activist Burnout
+    title: Learn how to prevent an Activist Burnout
     details: Changing the world is stressful. Learn how to recognise burnout symptoms, how to deal with anxiety and other mental health challanges that activists deal with.
 ---
 
@@ -35,7 +35,7 @@ features:
 
 <div class="vp-doc">
 
-## A library for campaigners, written by you
+## The Wikipedia for campaigners
 
 Activist Handbook consists over 400+ articles to help you make more impact with your next campaign. Our guides are written by progressive, green and social activists from all over the world.
 
@@ -98,8 +98,6 @@ _Also make sure to check out the rest of our [campaigns](/campaigns)._
     We're in deep shit. Natural ecosystems are crumbling. Democracies are breaking down. And the rich are fueling the fire. So let's learn how to do something about that.
   </p>
 </action-custom>
-
-<action-smart-small/>
 
 </div>
 

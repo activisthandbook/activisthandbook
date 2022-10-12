@@ -31,6 +31,8 @@ export async function onRequestPost(context) {
 
     response.headers.set("Access-Control-Allow-Origin", "*");
     response.headers.set("Access-Control-Allow-Headers", "*");
+    response.headers.set("Content-Type", "application/json");
+    response.headers.set("Accept", "application/json");
 
     return response;
   } catch (error) {
@@ -44,11 +46,6 @@ export async function onRequestPost(context) {
 
 async function sentActionNetworkRequest(apiKey, data, metadata) {
   const url = "https://actionnetwork.org/api/v2/people";
-
-  // Fix for cloudflare only returning the numbers, which Action Network does not understand.
-  // if (metadata.country === "NL") {
-  //   metadata.postalCode = metadata.postalCode + " AA";
-  // }
 
   const dataToSend = {
     person: {

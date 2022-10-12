@@ -28,7 +28,7 @@
 <script setup>
 import party from "party-js";
 
-import { reactive, ref, nextTick, watch } from "vue";
+import { reactive, ref } from "vue";
 import { useRouter } from "vitepress";
 const router = useRouter();
 
@@ -41,8 +41,6 @@ const user = reactive({
 });
 
 async function signUp(event){
-
-
   if(user.firstName && user.email && user.phone){
 
     event.preventDefault()
@@ -51,9 +49,6 @@ async function signUp(event){
 
     await fetch('https:/new.activisthandbook.org/api/subscribe', {
         method: 'POST',
-        // headers: {
-        //   'Content-Type': 'application/json',
-        // },
         body: JSON.stringify({
           firstName: user.firstName,
           email: user.email,
@@ -84,58 +79,57 @@ async function signUp(event){
   }
 }
 
-async function old(event){
-  if(user.given_name && user.email_addresses[0].address && user.phone_number[0].number){
-    event.preventDefault()
+// async function old(event){
+//   if(user.given_name && user.email_addresses[0].address && user.phone_number[0].number){
+//     event.preventDefault()
 
-    loading.value = true
+//     loading.value = true
 
-    await fetch('https://europe-west1-rebeltools-write.cloudfunctions.net/updateSubscriber', {
-      method: 'POST',
-      headers: {
-        'Content-Type': 'application/json',
-        // 'X-MyHeader': '123'
-      },
-      body: JSON.stringify({
-        person: {
-          family_name: "Smith",
-          given_name: "John",
-          postal_addresses: [{ postal_code: "20009" }],
-          email_addresses: [{ address: "jsmith@mail.com" }],
-          phone_number: [{ number: "12021234444" }],
-        },
-        add_tags: ["volunteer", "member"],
-      })
-    })
-      .then(async(response) => {
-        loading.value = false
-        console.log('Success:', response);
-        await router.go(`/next-steps/signup-volunteer`)
+//     await fetch('https://europe-west1-rebeltools-write.cloudfunctions.net/updateSubscriber', {
+//       method: 'POST',
+//       headers: {
+//         'Content-Type': 'application/json',
+//         // 'X-MyHeader': '123'
+//       },
+//       body: JSON.stringify({
+//         person: {
+//           family_name: "Smith",
+//           given_name: "John",
+//           postal_addresses: [{ postal_code: "20009" }],
+//           email_addresses: [{ address: "jsmith@mail.com" }],
+//           phone_number: [{ number: "12021234444" }],
+//         },
+//         add_tags: ["volunteer", "member"],
+//       })
+//     })
+//       .then(async(response) => {
+//         loading.value = false
+//         console.log('Success:', response);
+//         await router.go(`/next-steps/signup-volunteer`)
 
-        party.confetti(document.querySelector(".VPDoc"), {
-          color: party.Color.fromHex("#D70057"),
-          count: 30,
-          size: 3,
-        });
+//         party.confetti(document.querySelector(".VPDoc"), {
+//           color: party.Color.fromHex("#D70057"),
+//           count: 30,
+//           size: 3,
+//         });
 
-        localStorage.setItem('given_name', user.given_name);
-        localStorage.setItem('email_address', user.email_addresses[0].address);
-        localStorage.setItem('phone_number', user.phone_number);
-      })
-      .catch((error) => {
-        console.error('Error:', error);
-      });
-
-
-  }
+//         localStorage.setItem('given_name', user.given_name);
+//         localStorage.setItem('email_address', user.email_addresses[0].address);
+//         localStorage.setItem('phone_number', user.phone_number);
+//       })
+//       .catch((error) => {
+//         console.error('Error:', error);
+//       });
 
 
-}
+//   }
+
+
+// }
 
 </script>
 <style scoped lang="scss">
 .call-to-action.form{
-  margin-top: 24px;
   font-family: var(--vp-font-family-base);
 
   &.loading{

@@ -26,9 +26,15 @@ Everyone can contribute. We are curious to hear what skills you would like to br
 - 💻 **Develop open source web apps**
 - 🤑 **Find funds or manage our finances**
 
+## Every month, we train 4.000 activists
+
+Change-makers from around the globe read our guides. With your help, we can support even more people who want to make a difference. Our goal is to train a billion activists.
+
+<a @click="focusID('first-name')" class="button">Sign up</a>
+
 ## What happens after I sign up?
 
-After you **<a @click="focusID('first-name')">sign up</a>**:
+After you sign up:
 
 1. First, we will schedule **video call** with you to get to know each other.
 2. Then you **meet up with your teammates** online or IRL.
@@ -36,7 +42,9 @@ After you **<a @click="focusID('first-name')">sign up</a>**:
 
 ## Who can join?
 
-Everyone! We believe that diversity strengthens our organisation. That is why we encourage people of all genders, sexual preferences and ethnic backgrounds, including people with disabilities, to join our project.
+Everyone! You do not need to be an experienced activist. We will help you get started and give you training.
+
+We believe that diversity strengthens our organisation. We encourage people of all genders, sexual preferences and ethnic backgrounds, including people with disabilities, to join our project.
 
 <ClientOnly>
   <action-volunteer/>

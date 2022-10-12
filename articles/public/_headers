@@ -1,5 +1,5 @@
 https://:project.pages.dev/*
   X-Robots-Tag: noindex
 
-/*
-  Access-Control-Allow-Origin: *
+/api/*
+  Access-Control-Allow-Methods: *
