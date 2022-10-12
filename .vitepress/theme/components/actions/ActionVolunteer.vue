@@ -47,7 +47,8 @@ async function signUp(event){
 
     loading.value = true
 
-    await fetch('https:/new.activisthandbook.org/api/subscribe', {
+    // TO-DO: Change url
+    await fetch('https://new.activisthandbook.org/api/subscribe', {
         method: 'POST',
         body: JSON.stringify({
           firstName: user.firstName,
