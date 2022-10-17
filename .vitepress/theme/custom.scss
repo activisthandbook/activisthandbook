@@ -164,11 +164,6 @@ body{
 }
 
 
-// SPACING
-.VPDoc{
-    padding: 48px 24px 96px 24px !important;
-}
-
 @media (min-width: 768px) {
     .VPNavBar {
         padding: 0 8px 0 32px !important;
@@ -181,26 +176,14 @@ body{
         padding: 0 0 0 12px !important;
     }
 
-
-
-    // .VPLocalNav{
-    //     .menu, .top-link{
-    //         padding: 12px 16px 11px 16px;
-    //     }
-    // }
-
     .VPDoc {
-        padding: 8px 12px 96px 12px !important;
+        padding: 8px 12px 12px 12px !important;
     }
 
 }
 
-@media (min-width: 960px){
-  .content{
-    padding: 0;
-  }
-
-
+.VPDoc > .container > .content{
+  padding: 0 !important;
 }
 
 .VPDocFooter{

@@ -229,7 +229,7 @@
 
 .hgroup,
 .call-to-action,
-footer {
+.licence {
   color: var(--vp-c-white);
   padding: calc(14px + 1.8vw) calc(8px + 2vw);
   border-radius: 2px;
@@ -303,29 +303,97 @@ footer {
   a{text-decoration: underline;}
 }
 
-footer {
-  text-align: center;
-  color: black;
-  background: var(--vp-c-bg-alt);
-
-  font-family: var(--vp-font-family-base);
-  font-size: 0.9em;
-
-  a {
-    text-decoration: underline;
-  }
-
-  .small {
-    max-width: 424px;
-    margin: auto;
-    margin-top: 16px;
-    opacity: 0.7;
-    font-size: 0.8em;
-    line-height: 1.5;
-  }
-}
-
 .call-to-action {
   margin: 32px 0 64px 0;
   background-color: var(--vp-c-secondary);
+}
+.call-to-action.form {
+  font-family: var(--vp-font-family-base);
+
+  &.loading {
+    opacity: .7;
+
+    * {
+      pointer-events: none;
+    }
+
+  }
+
+  label {
+    display: block;
+    margin-top: 12px;
+    font-size: calc(12px + 0.5vw);
+    font-family: var(--vp-font-family-headings);
+  }
+
+  input,
+  button {
+    padding: calc(12px + 0.1vw);
+    display: block;
+    width: 100%;
+    // border:2px solid var(--vp-c-white);
+    background: var(--vp-c-white);
+    color: black;
+    font-size: calc(15px + 0.5vw);
+
+    &::placeholder {
+      color: grey;
+      opacity: 1;
+    }
+  }
+
+  input {
+    border: 2px solid var(--vp-c-white);
+
+    &:hover {
+      border-color: #ccc;
+    }
+
+    &:focus {
+      border-color: black;
+    }
+  }
+
+  button {
+    margin: calc(8px + 0.5vw) auto !important;
+    width: auto;
+    padding: calc(12px + 0.5vw) 10% !important;
+    font-family: var(--vp-font-family-headings);
+  }
+
+  button[disabled] {
+    opacity: .5;
+  }
+
+  .privacy {
+    margin-top: 32px;
+    font-size: 15px;
+  }
+}
+
+
+.spinner {
+  text-align: center;
+  margin: 32px 0 8px 0;
+
+  span {
+    width: 48px;
+    height: 48px;
+    border: 5px solid #FFF;
+    border-bottom-color: transparent;
+    border-radius: 50%;
+    display: inline-block;
+    box-sizing: border-box;
+    animation: rotation 1s linear infinite;
+  }
+}
+
+@keyframes rotation {
+  0% {
+    transform: rotate(0deg);
+  }
+
+  100% {
+    transform: rotate(360deg);
+  }
 }

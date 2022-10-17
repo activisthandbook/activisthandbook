@@ -103,17 +103,6 @@ _Also make sure to check out the rest of our [campaigns](/campaigns)._
 
 </div>
 
-<AnalyticsComponent/>
-
-<script setup>
-// import ActionSmartLarge from "../.vitepress/theme/components/actions/ActionSmartLarge.vue";
-// import ActionSmartSmall from "../.vitepress/theme/components/actions/ActionSmartSmall.vue";
-
-// import ActionCustom from "../.vitepress/theme/components/actions/ActionCustom.vue";
-
-import AnalyticsComponent from "../.vitepress/theme/components/AnalyticsComponent.vue";
-</script>
-
 <style scoped>
   .max-width{
     width: 100%;

@@ -2,7 +2,7 @@
 <template>
   <div class="donate-container" tabindex="0" id="donate-form">
     <h1>Donate</h1>
-    <iframe :src="`https://donorbox.org/embed/signup-volunteer?default_interval=m&first_name=${given_name}&email=${email_address}`" name="donorbox" allowpaymentrequest="allowpaymentrequest" seamless="seamless" frameborder="0" scrolling="no" height="900px" width="100%" style="max-width: 432px; min-width: 250px; max-height:none!important"></iframe>
+    <iframe :src="`https://donorbox.org/embed/activisthandbook-donate-embed?default_interval=m&first_name=${given_name}&email=${email_address}`" name="donorbox" allowpaymentrequest="allowpaymentrequest" seamless="seamless" frameborder="0" scrolling="no" height="900px" width="100%" style="max-width: 432px; min-width: 250px; max-height:none!important"></iframe>
   </div>
 
 </template>
@@ -35,8 +35,8 @@ onMounted(() => {
     given_name.value = localStorage.getItem('given_name');
   }
 
-  if(localStorage.getItem('email_address')){
-    email_address.value = localStorage.getItem('email_address');
+  if(sessionStorage.getItem('email_address')){
+    email_address.value = sessionStorage.getItem('email_address');
   }
 
 

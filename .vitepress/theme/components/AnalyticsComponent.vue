@@ -1,44 +1,47 @@
-<script>
-export default {
-  data: function () {
-    return {
-      cookieBanner: "show",
-      analyticsAllowed: null,
-    };
-  },
-  mounted() {
-    if (localStorage.getItem("cookieBanner")) {
-      this.cookieBanner = localStorage.getItem("cookieBanner");
-    }
-    if (localStorage.getItem("analyticsAllowed")) {
-      this.analyticsAllowed = localStorage.getItem("analyticsAllowed");
-    }
-    if (localStorage.getItem("analyticsAllowed") === "yes") {
-      this.turnOnAnalytics();
-    }
-  },
-  methods: {
-    decline() {
-      this.cookieBanner = "hide";
-      this.analyticsAllowed = "no";
-      localStorage.setItem("cookieBanner", "hide");
-      localStorage.setItem("analyticsAllowed", "no");
-    },
-    accept() {
-      this.cookieBanner = "hide";
-      this.analyticsAllowed = "yes";
-      localStorage.setItem("cookieBanner", "hide");
-      localStorage.setItem("analyticsAllowed", "yes");
-      this.turnOnAnalytics();
-    },
-    turnOnAnalytics() {
-      console.log("using analytics");
-      this.$gtm.enable(true);
-    },
-  },
-};
+<script setup>
+import { ref, onMounted } from "vue"
+
+import { useGtm } from '@gtm-support/vue-gtm';
+const gtm = useGtm();
+
+const cookieBanner = ref("show")
+const analyticsAllowed = ref(null)
+
+
+onMounted(() => {
+  if (localStorage.getItem("cookieBanner")) {
+    cookieBanner.value = localStorage.getItem("cookieBanner");
+  }
+  if (localStorage.getItem("analyticsAllowed")) {
+    analyticsAllowed.value = localStorage.getItem("analyticsAllowed");
+  }
+  if (localStorage.getItem("analyticsAllowed") === "yes") {
+    turnOnAnalytics();
+  }
+
+
+})
+
+function decline() {
+  cookieBanner.value = "hide";
+  analyticsAllowed.value = "no";
+  localStorage.setItem("cookieBanner", "hide");
+  localStorage.setItem("analyticsAllowed", "no");
+}
+function accept() {
+  cookieBanner.value = "hide";
+  analyticsAllowed.value = "yes";
+  localStorage.setItem("cookieBanner", "hide");
+  localStorage.setItem("analyticsAllowed", "yes");
+  turnOnAnalytics();
+}
+function turnOnAnalytics() {
+  console.log("using analytics");
+  gtm.enable(true);
+}
 </script>
 <template>
+  <!-- BANNER -->
   <div
     class="cookie-notification"
     v-if="cookieBanner === 'show'"
@@ -52,19 +55,23 @@ export default {
     <button class="button decline" @click="decline()">Decline</button>
     <button class="button accept" @click="accept()">OK</button>
   </div>
-  <div v-if="cookieBanner === 'hide'" class="change-choice">
-    <div><strong>Privacy</strong></div>
-    <div v-if="analyticsAllowed === 'yes'">
-      You have accepted cookies for analytical purposes (<a
-        @click="decline()" @keyup.enter="decline()" tabindex="0"
-        >turn off</a
-      >).
-    </div>
-    <div v-if="analyticsAllowed === 'no'">
-      You have not accepted cookies for analytical purposes (<a
-        @click="accept()" @keyup.enter="accept()" tabindex="0"
-        >turn on</a
-      >).
+
+  <!-- CHANGE CHOICE  -->
+  <div class="change-choice-container" v-if="cookieBanner === 'hide'">
+    <div class="change-choice">
+      <div><strong>Privacy</strong></div>
+      <div v-if="analyticsAllowed === 'yes'">
+        You have accepted cookies for analytical purposes (<a class="toggle"
+          @click="decline()" @keyup.enter="decline()" tabindex="0"
+          >turn off</a
+        >).
+      </div>
+      <div v-if="analyticsAllowed === 'no'">
+        You have not accepted cookies for analytical purposes (<a class="toggle"
+          @click="accept()" @keyup.enter="accept()" tabindex="0"
+          >turn on</a
+        >).
+      </div>
     </div>
   </div>
 </template>
@@ -108,17 +115,14 @@ export default {
   }
 }
 .change-choice {
+  background: var(--vp-c-bg-alt);
   text-align: center;
   font-size: 12px;
   line-height: 1.5;
-  opacity: 0.7;
   padding: 16px;
-  margin: auto;
-  margin-top: 96px;
-  max-width: 256px;
-  color: #333;
+  color: #444;
 
-  span {
+  .toggle {
     cursor: pointer;
   }
 }

@@ -24,7 +24,7 @@ export async function onRequestPost(context) {
       ),
     };
 
-    let response = new Response(JSON.stringify(body), {
+    let response = new Response(JSON.stringify({ success: true }), {
       status: 200,
       statusText: "OK",
     });

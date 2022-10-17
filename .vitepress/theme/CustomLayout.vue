@@ -142,6 +142,7 @@ function focusID(id){
         </div>
       </template>
       <template #doc-after>
+
         <!-- <div class="call-to-action">
         <h1>Donate</h1>
         <p class="description">Make a small contribution to help keep Activist Handbook online and thriving:</p>
@@ -155,61 +156,79 @@ function focusID(id){
         <p class="description">This article was written by activists around the world. You can contribute too!</p>
       </div> -->
         <ActionSmartLarge v-if="!$frontmatter.focus" />
-        <footer v-if="!$frontmatter.focus">
-          <a
-              href="https://creativecommons.org/licenses/by-nc-sa/4.0/"
-              rel="license"
-              target="_blank"
-              ><img src="/by-nc-sa.svg" alt="Creative Commons Attribution-NonCommercial-ShareAlike logo" width="120" height="42" style="display:inline;margin-bottom:8px"/></a>
-          <div><strong>You can reuse this content!</strong></div>
-          <div>
-            Just make sure to give attribution to
-            <a href="https://activisthandbook.org">Activist Handbook</a> and
-            <a
-              href="https://creativecommons.org/licenses/by-nc-sa/4.0/"
-              rel="license"
-              target="_blank"
-              >read our licence</a
-            >
-            for the details. Want to use our logo? Read our
-            <a href="/support/communication/design-guide">design guide</a>.
-          </div>
-          <div class="small">
-            All our work is available under a Creative Commons
-            Attribution-NonCommercial-ShareAlike 4.0 International Licence,
-            unless otherwise noted.
-          </div>
-        </footer>
-        <div v-if="!$frontmatter.focus">
-          <a
-            :href="
-              'https://edit.activisthandbook.org/article/' +
-              $frontmatter.articleID
-            "
-            target="_blank"
-            class="edit-button"
-          >
-            <svg
-              xmlns="http://www.w3.org/2000/svg"
-              aria-hidden="true"
-              role="img"
-              width="32"
-              height="32"
-              preserveAspectRatio="xMidYMid meet"
-              viewBox="0 0 24 24"
-            >
-              <path
-                fill="currentColor"
-                d="M20.71 7.04c.39-.39.39-1.04 0-1.41l-2.34-2.34c-.37-.39-1.02-.39-1.41 0l-1.84 1.83l3.75 3.75M3 17.25V21h3.75L17.81 9.93l-3.75-3.75L3 17.25Z"
-              />
-            </svg>
-          </a>
-          <div class="edit-hint">Improve this page!</div>
-        </div>
 
-        <ClientOnly>
-          <AnalyticsComponent />
-        </ClientOnly>
+
+
+
+      </template>
+      <template #layout-bottom>
+
+        <footer>
+          <div v-if="!$frontmatter.focus" class="licence">
+            <a
+                href="https://creativecommons.org/licenses/by-nc-sa/4.0/"
+                rel="license"
+                target="_blank"
+                ><img src="/by-nc-sa.svg" alt="Creative Commons Attribution-NonCommercial-ShareAlike logo" width="120" height="42" style="display:inline;margin-bottom:8px"/></a>
+            <div><strong>You can reuse this content!</strong></div>
+            <div>
+              Just make sure to give attribution to
+              <a href="https://activisthandbook.org">Activist Handbook</a> and
+              <a
+                href="https://creativecommons.org/licenses/by-nc-sa/4.0/"
+                rel="license"
+                target="_blank"
+                >read our licence</a
+              >
+              for the details. Want to use our logo? Read our
+              <a href="/support/communication/design-guide">design guide</a>.
+            </div>
+            <div class="small">
+              All our work is available under a Creative Commons
+              Attribution-NonCommercial-ShareAlike 4.0 International Licence,
+              unless otherwise noted.
+            </div>
+          </div>
+          <div v-if="!$frontmatter.focus">
+            <a
+              :href="
+                'https://edit.activisthandbook.org/article/' +
+                $frontmatter.articleID
+              "
+              target="_blank"
+              class="edit-button"
+            >
+              <svg
+                xmlns="http://www.w3.org/2000/svg"
+                aria-hidden="true"
+                role="img"
+                width="32"
+                height="32"
+                preserveAspectRatio="xMidYMid meet"
+                viewBox="0 0 24 24"
+              >
+                <path
+                  fill="currentColor"
+                  d="M20.71 7.04c.39-.39.39-1.04 0-1.41l-2.34-2.34c-.37-.39-1.02-.39-1.41 0l-1.84 1.83l3.75 3.75M3 17.25V21h3.75L17.81 9.93l-3.75-3.75L3 17.25Z"
+                />
+              </svg>
+            </a>
+            <div class="edit-hint">Improve this page!</div>
+          </div>
+
+          <nav>
+            <h1>Activist Handbook</h1>
+
+          </nav>
+
+          <ClientOnly>
+            <AnalyticsComponent />
+          </ClientOnly>
+
+        </footer>
+
+
+        <!-- <div id="analytics-scroll-trigger"></div> -->
       </template>
     </Layout>
   </div>
@@ -227,6 +246,38 @@ function focusID(id){
   a {
     text-decoration: underline;
     color: black;
+  }
+}
+
+@media (min-width: 960px) {
+  .has-sidebar + footer {
+    margin-left: 300px;
+  }
+}
+footer {
+  background: var(--vc-c-)
+}
+.licence {
+  max-width: 688px;
+  margin: 0 auto 32px auto;
+  text-align: center;
+  color: black;
+  background: var(--vp-c-bg-alt);
+
+  font-family: var(--vp-font-family-base);
+  font-size: 0.9em;
+
+  a {
+    text-decoration: underline;
+  }
+
+  .small {
+    max-width: 424px;
+    margin: auto;
+    margin-top: 16px;
+    opacity: 0.7;
+    font-size: 0.8em;
+    line-height: 1.5;
   }
 }
 
@@ -316,4 +367,15 @@ function focusID(id){
     transform: translateX(12px);
   }
 }
+// .Layout{
+// position:relative
+// }
+// #analytics-scroll-trigger{
+//   position: absolute;
+//   bottom: 0;
+//   height: 15%;
+//   width: 10px;
+//   z-index: 1000;
+//   background: red;
+// }
 </style>
