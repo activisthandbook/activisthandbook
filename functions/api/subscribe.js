@@ -15,7 +15,7 @@ export async function onRequestPost(context) {
   try {
     const requestBody = await request.json();
 
-    const actionnetworkReponse = await sentActionNetworkRequest(
+    const actionnetwork = await sentActionNetworkRequest(
       env.ACTIONNETWORK_API_KEY,
       requestBody,
       request.cf
@@ -24,7 +24,7 @@ export async function onRequestPost(context) {
     const body = {
       request: request,
       requestBodyAsJSON: requestBody,
-      actionnetwork: actionnetworkReponse,
+      actionnetwork: actionnetwork,
     };
     // const body = { success: true };
 
@@ -104,5 +104,5 @@ async function sentActionNetworkRequest(apiKey, data, metadata) {
 
   const results = await response.json();
 
-  return results;
+  return { request: dataToSend, results: results };
 }
