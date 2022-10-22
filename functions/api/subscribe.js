@@ -14,17 +14,21 @@ export async function onRequestPost(context) {
 
   try {
     const requestBody = await request.json();
+
+    const actionnetworkReponse = await sentActionNetworkRequest(
+      env.ACTIONNETWORK_API_KEY,
+      requestBody,
+      request.cf
+    );
+
     const body = {
       request: request,
-      bodyAsJSON: requestBody,
-      actionnetwork: await sentActionNetworkRequest(
-        env.ACTIONNETWORK_API_KEY,
-        requestBody,
-        request.cf
-      ),
+      requestBodyAsJSON: requestBody,
+      actionnetwork: actionnetworkReponse,
     };
+    // const body = { success: true };
 
-    let response = new Response(JSON.stringify({ success: true }), {
+    let response = new Response(JSON.stringify(body), {
       status: 200,
       statusText: "OK",
     });
@@ -59,12 +63,9 @@ async function sentActionNetworkRequest(apiKey, data, metadata) {
         },
       ],
       email_addresses: [{ address: data.email }],
-      phone_number: [{ number: data.phone }],
+      phone_number: [{ number: data.phone, status: "subscribed" }],
     },
     add_tags: data.tags,
-    custom_fields: {
-      Phone: data.phone,
-    },
   };
 
   // TO-DO: Sanitise data
