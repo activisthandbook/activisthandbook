@@ -65,7 +65,7 @@ async function sentActionNetworkRequest(apiKey, data, metadata) {
       email_addresses: [{ address: data.email }],
       phone_number: [{ number: data.phone }],
       custom_fields: {
-        phone: data.phone,
+        phone_number: data.phone,
       },
     },
     add_tags: data.tags,
