@@ -63,9 +63,12 @@ async function sentActionNetworkRequest(apiKey, data, metadata) {
         },
       ],
       email_addresses: [{ address: data.email }],
-      phone_number: [{ number: data.phone, status: "subscribed" }],
+      phone_number: [{ number: data.phone }],
     },
     add_tags: data.tags,
+    custom_fields: {
+      "phone number": data.phone,
+    },
   };
 
   // TO-DO: Sanitise data
