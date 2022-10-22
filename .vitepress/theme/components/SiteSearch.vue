@@ -92,6 +92,7 @@ const throttledSearch = throttle(
 );
 
 function goToArticle(fullPath) {
+  console.log(fullPath)
   search.value.blur();
   router.go(fullPath);
   state.showSearchDialog = false;

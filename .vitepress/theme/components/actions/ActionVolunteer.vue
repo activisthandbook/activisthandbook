@@ -54,7 +54,7 @@ async function signUp(event){
           firstName: user.firstName,
           email: user.email,
           phone: user.phone,
-          tags: ["interested-in-volunteering"],
+          tags: ["interested-in-volunteering", "newsletter"],
         })
       })
         .then((response) => response.json())

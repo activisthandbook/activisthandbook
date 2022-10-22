@@ -115,11 +115,10 @@ function turnOnAnalytics() {
   }
 }
 .change-choice {
-  background: var(--vp-c-bg-alt);
-  text-align: center;
+  // background: var(--vp-c-bg-alt);
+  // text-align: center;
   font-size: 12px;
   line-height: 1.5;
-  padding: 16px;
   color: #444;
 
   .toggle {

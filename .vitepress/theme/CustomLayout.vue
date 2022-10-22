@@ -157,38 +157,47 @@ function focusID(id){
       </div> -->
         <ActionSmartLarge v-if="!$frontmatter.focus" />
 
-
+        <div v-if="!$frontmatter.focus" class="licence">
+          <a
+              href="https://creativecommons.org/licenses/by-nc-sa/4.0/"
+              rel="license"
+              target="_blank"
+              ><img src="/by-nc-sa.svg" alt="Creative Commons Attribution-NonCommercial-ShareAlike logo" width="120" height="42" style="display:inline;margin-bottom:8px"/></a>
+          <div><strong>You can reuse this content!</strong></div>
+          <div>
+            Just make sure to give attribution to
+            <a href="https://activisthandbook.org">Activist Handbook</a> and
+            <a
+              href="https://creativecommons.org/licenses/by-nc-sa/4.0/"
+              rel="license"
+              target="_blank"
+              >read our licence</a
+            >
+            for the details. Want to use our logo? Read our
+            <a href="/support/communication/design-guide">design guide</a>.
+          </div>
+          <div class="small">
+            All our work is available under a Creative Commons
+            Attribution-NonCommercial-ShareAlike 4.0 International Licence,
+            unless otherwise noted.
+          </div>
+          <div class="actions">
+            <a :href="'https://edit.activisthandbook.org/article/' +
+                $frontmatter.articleID" target="_blank">📝 Edit</a>
+            <a :href="
+              'https://edit.activisthandbook.org/translate/' +
+              $frontmatter.languageCollectionID" target="_blank">🌐 Add translation</a>
+            <a href="https://edit.activisthandbook.org/new" target="_blank">➕ New article</a>
+            <a href="https://edit.activisthandbook.org/authors" target="_blank">👋 Authors</a>
+          </div>
+        </div>
 
 
       </template>
       <template #layout-bottom>
 
         <footer>
-          <div v-if="!$frontmatter.focus" class="licence">
-            <a
-                href="https://creativecommons.org/licenses/by-nc-sa/4.0/"
-                rel="license"
-                target="_blank"
-                ><img src="/by-nc-sa.svg" alt="Creative Commons Attribution-NonCommercial-ShareAlike logo" width="120" height="42" style="display:inline;margin-bottom:8px"/></a>
-            <div><strong>You can reuse this content!</strong></div>
-            <div>
-              Just make sure to give attribution to
-              <a href="https://activisthandbook.org">Activist Handbook</a> and
-              <a
-                href="https://creativecommons.org/licenses/by-nc-sa/4.0/"
-                rel="license"
-                target="_blank"
-                >read our licence</a
-              >
-              for the details. Want to use our logo? Read our
-              <a href="/support/communication/design-guide">design guide</a>.
-            </div>
-            <div class="small">
-              All our work is available under a Creative Commons
-              Attribution-NonCommercial-ShareAlike 4.0 International Licence,
-              unless otherwise noted.
-            </div>
-          </div>
+
           <div v-if="!$frontmatter.focus">
             <a
               :href="
@@ -216,10 +225,7 @@ function focusID(id){
             <div class="edit-hint">Improve this page!</div>
           </div>
 
-          <nav>
-            <h1>Activist Handbook</h1>
 
-          </nav>
 
           <ClientOnly>
             <AnalyticsComponent />
@@ -255,7 +261,14 @@ function focusID(id){
   }
 }
 footer {
-  background: var(--vc-c-)
+  border-top:1px solid var(--vp-c-bg-alt);
+  padding: 24px;
+  text-align: center;
+
+  nav{
+    margin-bottom: 8px;
+    font-family: var(--vp-font-family-headings);
+  }
 }
 .licence {
   max-width: 688px;
@@ -278,6 +291,25 @@ footer {
     opacity: 0.7;
     font-size: 0.8em;
     line-height: 1.5;
+  }
+
+  .actions{
+    margin-top: 16px;
+    font-size: 0.8rem;
+    a{
+      color: var(--vp-c-secondary);
+      font-family: var(--vp-font-family-headings) ;
+      text-decoration: none;
+      padding: 4px 8px;
+      border-radius: 1px;
+      margin:4px 8px;
+      display: inline-block;
+
+      &:hover{
+        background: var(--vp-c-secondary);
+        color: var(--vp-c-white)
+      }
+    }
   }
 }
 
