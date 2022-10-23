@@ -31,7 +31,9 @@ Activist Handbook is a highly efficient nonprofit organisation, making a maximum
 Change-makers from around the globe read our guides. With your help, we can support even more people who want to make a difference. Our goal is to train a billion activists.
 
 <ClientOnly>
-  <action-donate/>
+  <action-donate>
+    <h2>Donate</h2>
+  </action-donate>
 </ClientOnly>
 
 _Your donation goes to the Activist Handbook Foundation, a registered nonprofit organisation in the Netherlands (Stichting Activist Handbook, KvK-number 86029045)._

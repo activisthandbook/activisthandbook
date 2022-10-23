@@ -235,12 +235,14 @@
   border-radius: 2px;
   font-family: var(--vp-font-family-headings);
 
-  h1 {
+  h1, h2 {
     margin-bottom: calc(8px + 0.5vw);
     // font-size: 52px;
     font-size: calc(24px + 2vw);
     //  font-size: 100%;
     line-height: 1;
+    color: var(--vp-c-white);
+    margin-top: 0;
   }
 
   .description {

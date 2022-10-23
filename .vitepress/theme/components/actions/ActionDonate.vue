@@ -1,26 +1,27 @@
 
 <template>
   <div class="donate-container" tabindex="0" id="donate-form">
-    <h1>Donate</h1>
+    <slot/>
     <iframe :src="`https://donorbox.org/embed/activisthandbook-donate-embed?default_interval=m&first_name=${given_name}&email=${email_address}`" name="donorbox" allowpaymentrequest="allowpaymentrequest" seamless="seamless" frameborder="0" scrolling="no" height="900px" width="100%" style="max-width: 432px; min-width: 250px; max-height:none!important"></iframe>
   </div>
 
 </template>
-<style lang="scss" scoped>
+<style lang="scss">
 .donate-container{
   background: var(--vp-c-bg-alt);
   border-radius: 2px;
   margin: 24px 0 64px 0;
-  padding: 32px 8px 0 8px;
+  padding: 8px;
   text-align: center;
   outline: none;
 
-  h1 {
-    margin-bottom:24px;
+  h2 {
+    // margin:0 0 24px 0;
+    color: black;
   }
-}
-iframe{
-  margin: auto;
+  iframe{
+    margin: auto;
+  }
 }
 </style>
 <script setup>

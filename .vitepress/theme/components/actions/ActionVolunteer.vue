@@ -1,7 +1,6 @@
 <template>
-  <form class="call-to-action form" id="signup" :class="{loading: loading}">
-    <h1 @click="test">Get started</h1>
-    <div>Together, we're training a billion activists. Join our team and contribute to our global project.</div>
+  <form class="call-to-action form action-volunteer" id="signup" :class="{loading: loading}">
+    <slot/>
     <label>
       <div>First name</div>
       <input v-model="user.firstName" placeholder="Lisa" autocomplete="given-name" id="first-name" required/>

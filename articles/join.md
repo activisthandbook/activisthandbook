@@ -47,7 +47,10 @@ Everyone! You do not need to be an experienced activist. We will help you get st
 We believe that diversity strengthens our organisation. We encourage people of all genders, sexual preferences and ethnic backgrounds, including people with disabilities, to join our project.
 
 <ClientOnly>
-  <action-volunteer/>
+  <action-volunteer>
+    <h2>Get started</h2>
+    <p>Together, we're training a billion activists. Join our team and contribute to our global project.</p>
+  </action-volunteer>
 </ClientOnly>
 
 <script setup>
