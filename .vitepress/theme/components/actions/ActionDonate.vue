@@ -11,12 +11,12 @@
   background: var(--vp-c-bg-alt);
   border-radius: 2px;
   margin: 24px 0 64px 0;
-  padding: 8px;
+  padding: calc(14px + 1.8vw) calc(8px + 2vw);
   text-align: center;
   outline: none;
 
   h2 {
-    // margin:0 0 24px 0;
+    margin-top:0 !important;
     color: black;
   }
   iframe{

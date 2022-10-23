@@ -2,12 +2,12 @@
   <div class="call-to-action">
     <slot></slot>
     <div class="meta">
-      <a :href="buttonLink">{{ buttonLabel }}</a>
+      <a :href="buttonlink">{{ buttonlabel }}</a>
     </div>
   </div>
 </template>
 <script>
 export default{
-  props: ["buttonLink", "buttonLabel"]
+  props: ["buttonlink", "buttonlabel"]
 }
 </script>
