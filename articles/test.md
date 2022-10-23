@@ -1,11 +1,11 @@
 ---
-title: Test article 2
+title: Test article 3
 description: Test
 tags: 
 langCode: en
 articleID: rpA-ctW8tBwM9e5H8WbJ
-wordCount: 15
-lastUpdated: 1666533383821
+wordCount: 22
+lastUpdated: 1666535151614
 languageCollectionID: J0QAspNY-xbcoOR7OFP0
 ---
 
@@ -13,7 +13,7 @@ Introduction...
 
 Other text
 
-<client-only><action-custom buttonlink="https://github.com/activisthandbook/activisthandbook/commit/adc57936ca93c9cb7e1dcd75b284cc1c8cfbcdc1" buttonlabel="Button!"><h2>Act!</h2><p>Write something here..</p></action-custom></client-only>
+<action-volunteer><h2>Join our team</h2><p>Write something here..</p></action-volunteer><action-custom buttonlink="https://github.com/activisthandbook/activisthandbook/commit/adc57936ca93c9cb7e1dcd75b284cc1c8cfbcdc1" buttonlabel="Button!"><h2>Act!</h2><p>Write something here..</p></action-custom><action-donate><h2>Donate</h2></action-donate>
 
 <figure><img src="https://imagedelivery.net/0REzXdw3XtT87nmcqY33OQ/9fa455b8-06b0-421a-5d17-28d764f7c700/articleLarge" imageid="9fa455b8-06b0-421a-5d17-28d764f7c700" imagesource="https://edit.activisthandbook.org/author/RhbIxSqHiBfW6f3fOQXrkEn2K4t1" alt="Brainstorm" imagecaption="Brainstorm, by Joppe Hoekstra | Generated using OpenAI"><figcaption><a target="_blank" href="https://edit.activisthandbook.org/author/RhbIxSqHiBfW6f3fOQXrkEn2K4t1">Brainstorm, by Joppe Hoekstra | Generated using OpenAI</a></figcaption></figure>
 
