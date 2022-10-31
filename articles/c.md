@@ -3,10 +3,10 @@ title: C
 description: C
 tags: 
 langCode: en
-articleID: VoWiKj6hIkA5rVCFUSZD
+articleID: im0MdtgP0_UFUDt8wGJV
 wordCount: 1
-lastUpdated: 1667210462680
-languageCollectionID: -R8cLyfYScC7athALZT5
+lastUpdated: 1667215412547
+languageCollectionID: 4HbJB3f1Na_sDkYcD5AT
 ---
 
 c
