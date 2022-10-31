@@ -2,7 +2,9 @@
 <template>
   <div class="donate-container" tabindex="0" id="donate-form">
     <slot/>
-    <iframe :src="`https://donorbox.org/embed/activisthandbook-donate-embed?default_interval=m&first_name=${given_name}&email=${email_address}`" name="donorbox" allowpaymentrequest="allowpaymentrequest" seamless="seamless" frameborder="0" scrolling="no" height="900px" width="100%" style="max-width: 432px; min-width: 250px; max-height:none!important"></iframe>
+    <client-only>
+      <iframe :src="`https://donorbox.org/embed/activisthandbook-donate-embed?default_interval=m&first_name=${given_name}&email=${email_address}`" name="donorbox" allowpaymentrequest="allowpaymentrequest" seamless="seamless" frameborder="0" scrolling="no" height="900px" width="100%" style="max-width: 432px; min-width: 250px; max-height:none!important"></iframe>
+    </client-only>
   </div>
 
 </template>
@@ -32,6 +34,7 @@ const given_name = ref("")
 const email_address = ref("")
 
 onMounted(() => {
+
   if(localStorage.getItem('given_name')){
     given_name.value = localStorage.getItem('given_name');
   }

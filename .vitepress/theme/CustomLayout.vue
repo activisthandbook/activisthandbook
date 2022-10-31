@@ -131,7 +131,7 @@ function focusID(id){
         <div class="languages" v-if="$frontmatter.languageCollectionID">
           Languages: <span v-if="languageCollection">
             <span v-for="(language, index) in languageCollection" :key="index">
-              <a :href="language.link">{{language.localName}}</a>
+              <a :href="'/' + language.fullPublishedPath">{{language.localName}}</a>
               <span v-if="languageCollection.length > 1 && languageCollection.length !== index + 1">, </span>
             </span> |
 

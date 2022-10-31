@@ -1,25 +1,28 @@
 <template>
   <form class="call-to-action form action-volunteer" id="signup" :class="{loading: loading}">
     <slot/>
-    <label>
-      <div>First name</div>
-      <input v-model="user.firstName" placeholder="Lisa" autocomplete="given-name" id="first-name" required/>
-    </label>
-    <label>
-      <div>Email</div>
-      <input v-model="user.email" placeholder="lisa@email.com" autocomplete="email" type="email" required/>
-    </label>
-    <label>
-      <div>Phone number (international format)</div>
-      <input v-model="user.phone" placeholder="+XX 1234567890" autocomplete="tel" type="tel" required/>
-    </label>
-    <div class="privacy">After you sign up, we will reach out to you to help you get started. We'll contact you every now and then about our upcoming events, vacancies, and fundraising campaigns.</div>
-    <div class="meta" v-if="!loading">
-      <button @click="signUp($event)" type="submit">Sign up</button>
-    </div>
-    <div class="spinner" v-else>
-      <span></span>
-    </div>
+    <client-only>
+      <label>
+        <div>First name</div>
+        <input v-model="user.firstName" placeholder="Lisa" autocomplete="given-name" id="first-name" required/>
+      </label>
+      <label>
+        <div>Email</div>
+        <input v-model="user.email" placeholder="lisa@email.com" autocomplete="email" type="email" required/>
+      </label>
+      <label>
+        <div>Phone number (international format)</div>
+        <input v-model="user.phone" placeholder="+XX 1234567890" autocomplete="tel" type="tel" required/>
+      </label>
+      <div class="privacy">After you sign up, we will reach out to you to help you get started. We'll contact you every now and then about our upcoming events, vacancies, and fundraising campaigns.</div>
+      <div class="meta" v-if="!loading">
+        <button @click="signUp($event)" type="submit">Sign up</button>
+      </div>
+      <div class="spinner" v-else>
+        <span></span>
+      </div>
+    </client-only>
+
   </form>
 
 

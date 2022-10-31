@@ -60,29 +60,3 @@ function focusID(id){
   element.focus()
 }
 </script>
-
-<style lang="scss">
-.focus-mode {
-  .button{
-    cursor: pointer;
-    display: inline-block;
-    background: var(--vp-c-secondary);
-    color: var(--vp-c-white) !important;
-    font-family: var(--vp-font-family-headings);
-    font-size: calc(10px + 0.4vw);
-    line-height: 1em;
-    letter-spacing: 0.5px;
-    border-bottom: none;
-    margin-bottom: calc(4px + 0.4vw);
-    padding: calc(12px + 0.4vw) calc(24px + 0.5vw);
-    font-size: calc(12px + 1vw);
-    box-shadow: calc(4px + 0.4vw) calc(4px + 0.4vw) 0 black;
-    transition: .2s box-shadow !important;
-
-    &:hover {
-      box-shadow: calc(8px + 0.4vw) calc(8px + 0.4vw) 0 black;
-      color: var(--vp-c-brand)
-    }
-  }
-}
-</style>
