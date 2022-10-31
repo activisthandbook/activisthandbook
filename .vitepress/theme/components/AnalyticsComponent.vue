@@ -52,8 +52,9 @@ function turnOnAnalytics() {
       ><br />
       Are you ok with us using cookies for analytics?
     </div>
+    <button class="button accept" @click="accept()">OK 👍</button>
     <button class="button decline" @click="decline()">Decline</button>
-    <button class="button accept" @click="accept()">OK</button>
+
   </div>
 
   <!-- CHANGE CHOICE  -->
@@ -84,7 +85,7 @@ function turnOnAnalytics() {
   right:0;
   width: 100%;
   background-color: var(--vp-c-white);
-  padding: 4vh 13vw;
+  padding: 4vh 10vw;
   box-shadow: 0 3px 6px rgba(0, 0, 0, 0.16), 0 3px 6px rgba(0, 0, 0, 0.23);
   z-index: 100;
 
@@ -96,9 +97,9 @@ function turnOnAnalytics() {
   .button {
     font-family: var(--vp-font-family-headings);
     font-weight: 700;
-    padding: 16px;
+    padding: 12px 8px;
     width: 128px;
-    color: white;
+    color: var(--vp-c-white);
     border-radius: 2px;
     margin: 4px;
 
@@ -107,11 +108,11 @@ function turnOnAnalytics() {
     }
   }
   .decline {
-    background: black;
+    background: rgba(0, 0, 0, 0.85);
   }
   .accept {
     background: var(--vp-c-secondary);
-    color: var(--vp-c-white);
+
   }
 }
 .change-choice {

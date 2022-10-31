@@ -198,7 +198,7 @@ function focusID(id){
 
         <footer>
 
-          <div v-if="!$frontmatter.focus">
+          <div v-if="!$frontmatter.focus && $frontmatter.articleID">
             <a
               :href="
                 'https://edit.activisthandbook.org/article/' +
