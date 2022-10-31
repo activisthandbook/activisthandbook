@@ -1,12 +1,12 @@
 ---
 title: C
-description: C
+description: c
 tags: 
 langCode: en
-articleID: im0MdtgP0_UFUDt8wGJV
+articleID: rvK4cn6A27ZRy0oSn__-
 wordCount: 1
-lastUpdated: 1667215412547
-languageCollectionID: 4HbJB3f1Na_sDkYcD5AT
+lastUpdated: 1667216547829
+languageCollectionID: 1qK-QSSRmUEOpW7lCHwx
 ---
 
 c
