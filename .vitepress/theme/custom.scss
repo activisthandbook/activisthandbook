@@ -24,6 +24,11 @@ body{
     width: auto;
     height: auto;
 }
+
+body:not(.hasHover) .title:hover{
+  opacity: 1;
+}
+
 .VPNavBarTitle, .VPNavBar .content, .VPNavBar{
     border-bottom: none !important;
 
@@ -152,14 +157,14 @@ body{
         line-height: 48px;
     }
 
-    .VPButton.medium[data-v-1851d5f4] {
-        font-family: var(--vp-font-family-headings);
-        border-radius: 32px;
-        padding: 0 32px;
-        line-height: 48px;
-        font-size: 24px;
+    // .VPButton.medium{
+    //     font-family: var(--vp-font-family-headings);
+    //     border-radius: 32px;
+    //     padding: 0 32px;
+    //     line-height: 48px;
+    //     font-size: 24px;
 
-    }
+    // }
 
 }
 
@@ -207,7 +212,16 @@ body{
     font-family: var(--vp-font-family-headings);
     font-size: 16px !important;
     border-radius: 32px !important;
-    padding: 4px 28px !important;
+    padding: 2px 24px !important;
+    transition: .1s transform;
+
+    &:hover{
+      transform: scale(1.04);
+    }
+
+    &:active{
+      transform: scale(0.99);
+    }
   }
 }
 

@@ -336,6 +336,7 @@
   input,
   button {
     padding: calc(12px + 0.1vw);
+    border-radius: 2px;
     display: block;
     width: 100%;
     // border:2px solid var(--vp-c-white);
@@ -350,7 +351,9 @@
   }
 
   input {
-    border: 2px solid var(--vp-c-white);
+    border: 1px solid var(--vp-c-white);
+    outline: 1px solid var(--vp-c-secondary);
+    outline-offset: 1px;
 
     &:hover {
       border-color: #ccc;
@@ -358,6 +361,8 @@
 
     &:focus {
       border-color: black;
+      outline-color: var(--vp-c-white);
+
     }
   }
 

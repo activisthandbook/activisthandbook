@@ -35,7 +35,7 @@ sizes.forEach((size) => {
     <img
       :src="src"
       :srcset="srcset"
-      sizes="(min-width: 1120px) 688px, (min-width: 960px) calc(65.71vw - 35px), (min-width: 780px) 688px, (min-width: 380px) calc(87.37vw + 24px), calc(66.67vw + 96px)"
+      sizes="(min-width: 1308px) 688px, (min-width: 1280px) calc(100vw - 300px - 64px - 256px), (min-width: 1052px) 688px, (min-width: 960px) calc(100vw - 300px - 64px), (min-width: 736px) 688px, (min-width: 600px) calc(100vw - 48px), calc(100vw - 24px)"
       :alt="alt"
       :title="title"
       width="688"

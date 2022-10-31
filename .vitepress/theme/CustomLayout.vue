@@ -352,7 +352,8 @@ footer {
   font-family: var(--vp-font-family-headings);
   font-weight: 700;
   position: fixed;
-  animation: edit-hint 7s ease 4s forwards;
+  animation: edit-hint 7s ease 6s forwards;
+  z-index: 100;
   bottom: 32px;
   right: 90px;
   padding: 4px 8px;
