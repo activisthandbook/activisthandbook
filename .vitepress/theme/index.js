@@ -8,6 +8,7 @@ import "./vars.scss";
 import "./article.scss";
 import "./custom.scss";
 
+import DynamicImage from "./components/DynamicImage.vue";
 import ActionDonate from "./components/actions/ActionDonate.vue";
 import ActionVolunteer from "./components/actions/ActionVolunteer.vue";
 import ActionSmartLarge from "./components/actions/ActionSmartLarge.vue";
@@ -30,6 +31,7 @@ export default {
       })
     );
 
+    app.component("dynamic-image", DynamicImage);
     app.component("action-donate", ActionDonate);
     app.component("action-volunteer", ActionVolunteer);
     app.component("action-smart-large", ActionSmartLarge);

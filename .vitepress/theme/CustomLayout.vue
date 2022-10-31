@@ -206,6 +206,7 @@ function focusID(id){
               "
               target="_blank"
               class="edit-button"
+              aria-label="Edit article"
             >
               <svg
                 xmlns="http://www.w3.org/2000/svg"
