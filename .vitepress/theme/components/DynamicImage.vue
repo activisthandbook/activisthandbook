@@ -31,13 +31,19 @@ sizes.forEach((size) => {
 
 </script>
 <template>
-  <img
-    :src="src"
-    :srcset="srcset"
-    sizes="(min-width: 1120px) 688px, (min-width: 960px) calc(65.71vw - 35px), (min-width: 780px) 688px, (min-width: 380px) calc(87.37vw + 24px), calc(66.67vw + 96px)"
-    :alt="alt"
-    :title="title"
-    width="688"
-    height="387"
-  />
+  <figure>
+    <img
+      :src="src"
+      :srcset="srcset"
+      sizes="(min-width: 1120px) 688px, (min-width: 960px) calc(65.71vw - 35px), (min-width: 780px) 688px, (min-width: 380px) calc(87.37vw + 24px), calc(66.67vw + 96px)"
+      :alt="alt"
+      :title="title"
+      width="688"
+      height="387"
+      loading="lazy"
+    />
+    <figcaption>
+      <slot/>
+    </figcaption>
+  </figure>
 </template>
