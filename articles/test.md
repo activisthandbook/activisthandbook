@@ -4,8 +4,9 @@ description: Test
 langCode: en
 articleID: 3N0JBwrnx11vTDVbW4LB
 languageCollectionID: OT1ecNHtzHdvt5VJX_vV
-lastUpdated: 1667657161493
-wordCount: 3---
+lastUpdated: 1667657784647
+wordCount: 3
+---
 
 Lorem ipsum...
 
