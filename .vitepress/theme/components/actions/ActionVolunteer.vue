@@ -1,5 +1,5 @@
 <template>
-  <form class="call-to-action form action-volunteer" id="signup" :class="{loading: loading}">
+  <form class="call-to-action form action-volunteer primary-action" id="action-volunteer" :class="{loading: loading}" tabindex="0">
     <slot/>
     <client-only>
       <label>

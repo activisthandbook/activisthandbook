@@ -1,5 +1,5 @@
 <template>
-  <div class="call-to-action small">
+  <div class="call-to-action primary-action small" tabindex="0" id="action-smart-small">
     <h1>Sorry to interrupt...</h1>
     <p class="description">
       Our volunteers spent many hours writing this article. They got $0 for their work. But they do have to pay rent. Consider making a small donation and support us:

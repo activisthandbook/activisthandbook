@@ -1,6 +1,6 @@
 
 <template>
-  <div class="donate-container" tabindex="0" id="donate-form">
+  <div class="donate-container primary-action" tabindex="0" id="action-donate">
     <slot/>
     <client-only>
       <iframe :src="`https://donorbox.org/embed/activisthandbook-donate-embed?default_interval=m&first_name=${given_name}&email=${email_address}`" name="donorbox" allowpaymentrequest="allowpaymentrequest" seamless="seamless" frameborder="0" scrolling="no" height="900px" width="100%" style="max-width: 432px; min-width: 250px; max-height:none!important"></iframe>

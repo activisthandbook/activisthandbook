@@ -68,14 +68,20 @@ function getLanguages(){
 // DATA
 const { Layout } = DefaultTheme;
 
-function focusID(id){
-  const element = document.getElementById(id);
-  element.focus()
+function focusID(anchor){
+  const elements = document.getElementsByClassName(anchor);
+  if(elements && elements[0]){
+    console.log(elements[0])
+    elements[0].scrollIntoView({
+      behavior: 'smooth'
+    });
+  }
+
 }
 </script>
 <template>
 
-  <div :class="{ 'focus-mode': $frontmatter.focus }">
+  <div :class="{ 'focus-mode': $frontmatter.focusMode?.isOn }">
     <Layout>
       <template #nav-bar-content-before>
         <ClientOnly>
@@ -86,21 +92,21 @@ function focusID(id){
         <nav
           aria-labelledby="main-nav-aria-label"
           class="VPNavBarMenu menu focus-menu"
-          v-if="$frontmatter.focus"
+          v-if="$frontmatter.focusMode?.isOn"
         >
           <a
             class="VPLink link VPNavBarMenuLink"
-            @click="focusID($frontmatter.focusID)"
+            @click="focusID($frontmatter.focusMode?.buttonAnchor)"
             style="display: flex; font-size: 14px"
-            :href="$frontmatter.focusHref"
+            :href="$frontmatter.focusMode?.buttonLink"
           >
-            {{ $frontmatter.focusActionLabel }}
+            {{ $frontmatter.focusMode?.buttonLabel }}
           </a>
         </nav>
       </template>
 
       <template #doc-before>
-        <div class="action-top" v-if="!$frontmatter.focus">
+        <div class="action-top" v-if="!$frontmatter.focusMode?.isOn">
           We're looking for people to <a href="/join">join our team</a>!
         </div>
         <div class="hgroup">
@@ -155,9 +161,9 @@ function focusID(id){
         <h1>Edit me</h1>
         <p class="description">This article was written by activists around the world. You can contribute too!</p>
       </div> -->
-        <ActionSmartLarge v-if="!$frontmatter.focus" />
+        <ActionSmartLarge v-if="!$frontmatter.focusMode?.isOn" />
 
-        <div v-if="!$frontmatter.focus" class="licence">
+        <div v-if="!$frontmatter.focusMode?.isOn" class="licence">
           <a
               href="https://creativecommons.org/licenses/by-nc-sa/4.0/"
               rel="license"
@@ -198,7 +204,7 @@ function focusID(id){
 
         <footer>
 
-          <div v-if="!$frontmatter.focus && $frontmatter.articleID">
+          <div v-if="!$frontmatter.focusMode?.isOn && $frontmatter.articleID">
             <a
               :href="
                 'https://edit.activisthandbook.org/article/' +
