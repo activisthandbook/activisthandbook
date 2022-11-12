@@ -1,14 +1,14 @@
 ---
-title: Button
+title: Button 2
 description: Button
 langCode: en
 articleID: 96Y0XzvkxVtDUGaGzd0J
 languageCollectionID: wEWWSI-ROqjXQemB4_bC
-lastUpdated: 1668238899630
+lastUpdated: 1668239479836
 wordCount: 71
 focusMode: 
   isOn: true
-  buttonLabel: 
+  buttonLabel: Button!
   buttonAnchor: primary-action
 sidebar: false
 aside: false
