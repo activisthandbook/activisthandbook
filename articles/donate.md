@@ -10,6 +10,7 @@ focusActionLabel: Donate
 
 Activist Handbook trains change-makers around the globe. We are a non-profit that depends on donations to stay online and thriving. Donate today and help us make a positive impact for years to come.
 
+<action-button buttonlabel="test" buttonlink="test"/>
 <a @click="focusID('donate-form')" class="button">Support us & donate</a>
 
 > I'll be blunt: We're in deep shit. The climate crisis and the mass extinction of species require radical action. The wealthiest top 1% keeps getting richer, and the rest of us pay the price.

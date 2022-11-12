@@ -14,6 +14,7 @@ import ActionVolunteer from "./components/actions/ActionVolunteer.vue";
 import ActionSmartLarge from "./components/actions/ActionSmartLarge.vue";
 import ActionSmartSmall from "./components/actions/ActionSmartSmall.vue";
 import ActionCustom from "./components/actions/ActionCustom.vue";
+import ActionButton from "./components/actions/ActionButton.vue";
 
 export default {
   enhanceApp({ app, router, siteData }) {
@@ -37,6 +38,7 @@ export default {
     app.component("action-smart-large", ActionSmartLarge);
     app.component("action-smart-small", ActionSmartSmall);
     app.component("action-custom", ActionCustom);
+    app.component("action-button", ActionButton);
   },
   ...DefaultTheme,
   // override the Layout with a wrapper component that

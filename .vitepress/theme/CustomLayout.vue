@@ -76,7 +76,6 @@ function focusID(anchor){
       behavior: 'smooth'
     });
   }
-
 }
 </script>
 <template>
