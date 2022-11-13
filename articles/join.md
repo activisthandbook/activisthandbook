@@ -4,8 +4,8 @@ description: Join our campaign
 langCode: en
 articleID: KB0njyx-GskZat4n190n
 languageCollectionID: SNArXIi8CZo6ZV6s_tdH
-lastUpdated: 1668364397686
-wordCount: 251
+lastUpdated: 1668365186781
+wordCount: 254
 focusMode: 
   isOn: true
   buttonLabel: Join us
@@ -14,7 +14,9 @@ sidebar: false
 aside: false
 ---
 
-**Humanity is not on the right track. We are destroying our planet. Democratic and human rights are being threatened. And the rich are fueling the fire. So let's learn how to bring about change. Join our campaign and help us train 350 million activists.**
+**Humanity is not on the right track. We are destroying our planet. Democratic and human rights are being threatened. And the rich are fueling the fire. It's time to act.**
+
+Let's learn how to bring about change. Join our campaign and help us train 350 million activists:
 
 <action-button buttonanchor="primary-action" buttonlabel="Join our campaign"></action-button>
 
