@@ -4,11 +4,11 @@ description: Join our campaign
 langCode: en
 articleID: KB0njyx-GskZat4n190n
 languageCollectionID: SNArXIi8CZo6ZV6s_tdH
-lastUpdated: 1668364115739
+lastUpdated: 1668364196356
 wordCount: 253
 focusMode: 
   isOn: true
-  buttonLabel: Join campaign
+  buttonLabel: Join us
   buttonAnchor: primary-action
 sidebar: false
 aside: false
