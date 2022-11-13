@@ -4,8 +4,8 @@ description: Join our campaign
 langCode: en
 articleID: KB0njyx-GskZat4n190n
 languageCollectionID: SNArXIi8CZo6ZV6s_tdH
-lastUpdated: 1668365647610
-wordCount: 275
+lastUpdated: 1668366318346
+wordCount: 276
 focusMode: 
   isOn: true
   buttonLabel: Join us
@@ -57,7 +57,7 @@ After you sign up:
     
 2.  We will share our **guides for volunteers** to help you get started.
     
-3.  Then you **get together 5 to 10 people** to kickstart your local campaign.
+3.  Then you will **get together 5 to 10 people** to kickstart your local campaign.
     
 
 Don't have much experience with activism yet? Don't worry! You will be able to learn from fellow change-makers around the world.
