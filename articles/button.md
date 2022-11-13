@@ -6,7 +6,7 @@ articleID: 96Y0XzvkxVtDUGaGzd0J
 languageCollectionID: wEWWSI-ROqjXQemB4_bC
 lastUpdated: 1668248417267
 wordCount: 72
-focusMode: 
+focusMode:
   isOn: true
   buttonLabel: Button!
   buttonAnchor: primary-action

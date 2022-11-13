@@ -116,7 +116,7 @@ function focusID(anchor){
           </div>
           <div
             class="meta"
-            v-if="$frontmatter.wordCount || $frontmatter.lastUpdated"
+            v-if="!$frontmatter.focusMode?.isOn && ($frontmatter.wordCount || $frontmatter.lastUpdated)"
           >
             <div class="reading-time" v-if="$frontmatter.wordCount">
               {{ 1 + Math.round($frontmatter.wordCount / 300) }} min read
