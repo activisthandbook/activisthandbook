@@ -1,62 +1,51 @@
 ---
-title: Join our team
-description: There are many ways to contribute.
-sidebar: false
-aside: false
-focus: true
-focusID: "first-name"
-focusActionLabel: Sign up
+title: Let’s train 350 million activists
+description: Join our campaign
+langCode: en
+articleID: KB0njyx-GskZat4n190n
+languageCollectionID: SNArXIi8CZo6ZV6s_tdH
+lastUpdated: 1668363872636
+wordCount: 253
 ---
 
-Let's build the Wikipedia for activists. Write articles, translate, manage our social media, raise funds, train activists, organise international events and much more.
+**Humanity is not on the right track. We are destroying our planet. Our democratic and human rights are being threatened. And the super-rich are fueling the fire. So let's learn how to do something about that. Join our campaign and help us train 350 million activists.**
 
-Activist Handbook is an online platform for change-makers to exchange knowledge. It is written by activists around the world. You can join our team and make it better!
+## **Why 350 million?**
 
-<a @click="focusID('first-name')" class="button">Sign up</a>
+Science shows that change happens when 3.5% of the population takes action. In 2050, there will be 10 billion people on this planet. That's why we are going to train 350 million activists. 
 
-## How can I contribute?
+Right now, we train 4000 new activists every month.
 
-Everyone can contribute. We are curious to hear what skills you would like to bring to our team. And we encourage learning new skills:
+## **How can I help?**
 
-- 📝 **Write or translate articles**
-- 📢 **Help with promotion and outreach**
-- 📆 **Organise events**
-- 🎬 **Record or edit videos**
-- 🎨 **Design illustrations**
-- 💻 **Develop open source web apps**
-- 🤑 **Find funds or manage our finances**
+Everyone can contribute. You do not need to be an experienced activist. We will help you get started and give you training.
 
-## Every month, we train 4.000 activists
+We are curious to hear what skills you would like to bring to our team. And we encourage learning new skills:
 
-Change-makers from around the globe read our guides. With your help, we can support even more people who want to make a difference. Our goal is to train a billion activists.
+-   📝 Write or translate articles
+    
+-   📢 Help with promotion and outreach
+    
+-   📆 Organise events
+    
+-   🎬 Record or edit videos
+    
+-   🎨 Design illustrations
+    
+-   💻 Develop open source web apps
+    
+-   🤑 Find funds or manage our finances
+    
 
-<a @click="focusID('first-name')" class="button">Sign up</a>
-
-## What happens after I sign up?
+## **What happens after I join?**
 
 After you sign up:
 
-1. First, we will schedule **video call** with you to get to know each other.
-2. Then you **meet up with your teammates** online or IRL.
-3. We will share our **guides for volunteers** to help you get started.
+1.  First, we will **schedule a video call** with you to get to know each other.
+    
+2.  We will share our **guides for volunteers** to help you get started.
+    
 
-## Who can join?
+Then you **get together 5 to 10 people** to kickstart your local campaign.
 
-Everyone! You do not need to be an experienced activist. We will help you get started and give you training.
-
-We believe that diversity strengthens our organisation. We encourage people of all genders, sexual preferences and ethnic backgrounds, including people with disabilities, to join our project.
-
-<ClientOnly>
-  <action-volunteer>
-    <h2>Get started</h2>
-    <p>Together, we're training a billion activists. Join our team and contribute to our global project.</p>
-  </action-volunteer>
-</ClientOnly>
-
-<script setup>
-
-function focusID(id){
-  const element = document.getElementById(id);
-  element.focus()
-}
-</script>
+<action-volunteer><h2>Join our campaign</h2><p>There is no time for standing on the sidelines. We know 350 million is a large number. But we can do this together. Sign up and get involved:</p></action-volunteer>
