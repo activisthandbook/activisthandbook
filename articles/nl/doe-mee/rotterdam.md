@@ -4,7 +4,7 @@ description: Doe mee met onze campagne!
 langCode: nl
 articleID: WZ6iYD2I9sVEVxG7bqTZ
 languageCollectionID: D76d4qAE_5Dz-Bf_XRK1
-lastUpdated: 1668768546262
+lastUpdated: 1668768902804
 wordCount: 324
 focusMode: 
   isOn: true
@@ -28,7 +28,7 @@ Activist Handbook traint op dit moment iedere maand 4000 nieuwe activisten. Ons 
 
 ## **Hoe kan ik helpen?**
 
-Één keer per week komen wij samen in ons Kantoor voor Verandering. We gaan een handbook voor veranderaars schrijven en een plan maken hoe we 23.000 Rotterdammers kunnen trainen.
+We gaan een **handboek voor veranderaars** schrijven en we maken een **plan om 23.000 Rotterdammers te trainen**. Één keer per week komen wij samen in ons Kantoor voor Verandering.
 
 Iedereen kan bijdragen. Wij zijn benieuwd met welke creatieve skills jij ons team komt versterken. En we moedigen je aan om nieuwe skills te leren:
 
@@ -62,6 +62,6 @@ Nadat je je hebt aangemeld doen we het volgende:
 3.  **Samen maken we een plan** om 23.000 veranderaars te trainen.
     
 
-Na 3 maanden onderzoek presenteren we ons **_handboek voor veranderaars_** en ons **_plan om 23.000 Rotterdammers te trainen_**. En dat is pas het begin! Samen bedenken we wat onze volgende stap wordt.
+Na 3 maanden onderzoek presenteren we ons handboek voor veranderaars en ons plan om 23.000 Rotterdammers te trainen. En dat is pas het begin! Samen bedenken we wat onze volgende stap wordt.
 
 <action-volunteer><h2>Doe mee!</h2><p>Er is geen tijd om vanaf de zijlijn toe te blijven kijken. We weten dat 23.000 een groot getal is. Maar samen kunnen we dit. Meld je aan en doe mee:</p></action-volunteer>
