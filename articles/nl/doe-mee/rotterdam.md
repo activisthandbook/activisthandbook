@@ -4,8 +4,8 @@ description: Doe mee met onze campagne!
 langCode: nl
 articleID: WZ6iYD2I9sVEVxG7bqTZ
 languageCollectionID: D76d4qAE_5Dz-Bf_XRK1
-lastUpdated: 1668768902804
-wordCount: 324
+lastUpdated: 1668774010740
+wordCount: 327
 focusMode: 
   isOn: true
   buttonLabel: Doe mee!
@@ -32,19 +32,13 @@ We gaan een **handboek voor veranderaars** schrijven en we maken een **plan om 2
 
 Iedereen kan bijdragen. Wij zijn benieuwd met welke creatieve skills jij ons team komt versterken. En we moedigen je aan om nieuwe skills te leren:
 
--   📝 Schrijf of vertaal handleidingen
+-   **🔍 Onderzoek** welke problemen activisten tegenaan lopen.
     
--   📢 Help met promotie & outreach
+-   **📝 Schrijf** praktische handleidingen voor veranderaars.
     
--   📆 Organiseer evenementen
+-   **🌐 Vertaal** bestaande resources en pas ze aan op de lokale context.
     
--   🎬 Maak videos
-    
--   🎨 Ontwerp illustraties
-    
--   💻 Ontwikkel open source web apps
-    
--   🤑 Regel geld voor ons plan
+-   ❤️ **Werk samen** en wissel ervaring uit met andere veranderaars.
     
 
 Je hoeft geen ervaren activist te zijn. We werken samen en leren van elkaar:
