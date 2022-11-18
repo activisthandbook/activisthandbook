@@ -1,16 +1,22 @@
 ---
-title: Wij trainen 23K veranderaars in Rotterdam
-description: Doe mee met onze campagne
+title: Wij trainen 23.000 veranderaars in Rotterdam
+description: Doe mee met onze campagne!
 langCode: nl
 articleID: WZ6iYD2I9sVEVxG7bqTZ
 languageCollectionID: D76d4qAE_5Dz-Bf_XRK1
-lastUpdated: 1668766831063
-wordCount: 313
+lastUpdated: 1668768129325
+wordCount: 337
+focusMode: 
+  isOn: true
+  buttonLabel: Doe mee!
+  buttonAnchor: primary-action
+sidebar: false
+aside: false
 ---
 
-**Rotterdam is in gevaar. De wereld staat in brand. En de top 1% Het is tijd om in actie te komen.**
+**Rotterdam is in gevaar. Als we zo doorgaan wordt onze stad onleefbaar voor toekomstige generaties. De gemeenteraad neemt de klimaatcrisis niet serieus. Het is tijd om in actie te komen.**
 
-Samen kunnen we leren hoe we effectief verandering teweeg kunnen brengen. De komende 3 maanden werken 20 Rotterdammers in ons Kantoor voor Verandering. Wij gaan onderzoeken hoe we 23.000 veranderaars kunnen trainen in Rotterdam. Doe mee!
+Samen kunnen we leren hoe we effectief verandering teweeg kunnen brengen. De komende 3 maanden werken 10 Rotterdammers in ons Kantoor voor Verandering. Wij gaan onderzoeken hoe we 23.000 veranderaars kunnen trainen in Rotterdam. Doe mee!
 
 <action-button buttonanchor="primary-action" buttonlabel="👉 Doe mee!"></action-button>
 
@@ -24,38 +30,40 @@ Activist Handbook traint op dit moment iedere maand 4000 nieuwe activisten. Ons 
 
 ## **Hoe kan ik helpen?**
 
-Één keer per week komen wij samen in ons Kantoor voor Verandering. Iedereen kan bijdragen. Wij zijn benieuwd met welke skills jij ons team komt versterken. En we moedigen je aan om nieuwe skills te leren:
+Één keer per week komen wij samen in ons Kantoor voor Verandering. We gaan een handbook voor veranderaars schrijven en een plan maken hoe we 23.000 Rotterdammers kunnen trainen.
 
--   📝 Write or translate articles
+Iedereen kan bijdragen**.** Wij zijn benieuwd met welke creatieve skills jij ons team komt versterken. En we moedigen je aan om nieuwe skills te leren:
+
+-   📝 Schrijf of vertaal handleidingen
     
--   📢 Help with promotion and outreach
+-   📢 Help met promotie & outreach
     
--   📆 Organise events
+-   📆 Organiseer evenementen
     
--   🎬 Record or edit videos
+-   🎬 Maak videos
     
--   🎨 Design illustrations
+-   🎨 Ontwerp illustraties
     
--   💻 Develop open source web apps
+-   💻 Ontwikkel open source web apps
     
 -   🤑 Find funds or manage our finances
     
 
-You do not need to be an experienced activist. We will help you get started and give you training:
+Je hoeft geen ervaren activist te zijn. We werken samen en leren van elkaar:
 
 <action-button buttonanchor="primary-action" buttonlabel="👉 Doe mee!"></action-button>
 
-## **What happens after I join?**
+## **Wat gebeurt er nadat ik mij aanmeld?**
 
-After you sign up:
+Nadat je je hebt aangemeld doen we het volgende:
 
-1.  First, we will **schedule a video call** with you to get to know each other.
+1.  We plannen een **kennismaking** en maken een selectie voor ons team.
     
-2.  We will share our **guides for volunteers** to help you get started.
+2.  We komen **1 keer per week** samen de komende 3 maanden.
     
-3.  We will help you **get together 5 to 10 people** to kickstart your local campaign.
+3.  **Samen maken we een plan** om 23.000 veranderaars te trainen.
     
 
-Don't have much experience with activism yet? Don't worry! You will be able to learn from fellow change-makers around the world.
+Na 3 maanden onderzoek presenteren we ons **_handboek voor veranderaars_** en ons **_plan om 23.000 Rotterdammers te trainen_**. En dat is pas het begin! Samen bedenken we wat onze volgende stap wordt.
 
-<action-volunteer><h2>Doe mee met onze campagne</h2><p>Er is geen tijd om vanaf de zijlijn toe te blijven kijken. We weten dat 23 duizend een groot getal is. Maar samen kunnen we dit. Meld je aan en doe mee:</p></action-volunteer>
+<action-volunteer><h2>Doe mee!</h2><p>Er is geen tijd om vanaf de zijlijn toe te blijven kijken. We weten dat 23.000 een groot getal is. Maar samen kunnen we dit. Meld je aan en doe mee:</p></action-volunteer>
