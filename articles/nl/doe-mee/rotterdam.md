@@ -4,8 +4,8 @@ description: Doe mee met onze campagne!
 langCode: nl
 articleID: WZ6iYD2I9sVEVxG7bqTZ
 languageCollectionID: D76d4qAE_5Dz-Bf_XRK1
-lastUpdated: 1668768129325
-wordCount: 337
+lastUpdated: 1668768546262
+wordCount: 324
 focusMode: 
   isOn: true
   buttonLabel: Doe mee!
@@ -16,11 +16,9 @@ aside: false
 
 **Rotterdam is in gevaar. Als we zo doorgaan wordt onze stad onleefbaar voor toekomstige generaties. De gemeenteraad neemt de klimaatcrisis niet serieus. Het is tijd om in actie te komen.**
 
-Samen kunnen we leren hoe we effectief verandering teweeg kunnen brengen. De komende 3 maanden werken 10 Rotterdammers in ons Kantoor voor Verandering. Wij gaan onderzoeken hoe we 23.000 veranderaars kunnen trainen in Rotterdam. Doe mee!
+De komende 3 maanden werken 10 Rotterdammers in ons Kantoor voor Verandering. Samen gaan wij onderzoeken hoe we 23.000 veranderaars kunnen trainen in Rotterdam:
 
 <action-button buttonanchor="primary-action" buttonlabel="👉 Doe mee!"></action-button>
-
-<div data-youtube-video=""><iframe width="100" height="100" allowfullscreen="false" src="https://www.youtube-nocookie.com/embed/RiYLmbapr2Q" start="0"></iframe></div>
 
 ## **Waarom 23.000?**
 
@@ -32,7 +30,7 @@ Activist Handbook traint op dit moment iedere maand 4000 nieuwe activisten. Ons 
 
 Één keer per week komen wij samen in ons Kantoor voor Verandering. We gaan een handbook voor veranderaars schrijven en een plan maken hoe we 23.000 Rotterdammers kunnen trainen.
 
-Iedereen kan bijdragen**.** Wij zijn benieuwd met welke creatieve skills jij ons team komt versterken. En we moedigen je aan om nieuwe skills te leren:
+Iedereen kan bijdragen. Wij zijn benieuwd met welke creatieve skills jij ons team komt versterken. En we moedigen je aan om nieuwe skills te leren:
 
 -   📝 Schrijf of vertaal handleidingen
     
@@ -46,7 +44,7 @@ Iedereen kan bijdragen**.** Wij zijn benieuwd met welke creatieve skills jij ons
     
 -   💻 Ontwikkel open source web apps
     
--   🤑 Find funds or manage our finances
+-   🤑 Regel geld voor ons plan
     
 
 Je hoeft geen ervaren activist te zijn. We werken samen en leren van elkaar:
