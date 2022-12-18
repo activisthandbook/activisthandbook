@@ -65,7 +65,7 @@ function searchArticles() {
 
 function handleEnter() {
   if (state.searchResults) {
-    goToArticle(state.searchResults[0].fullPath);
+    goToArticle(state.searchResults[0].publishedFullPath);
     closeSearchDialog();
   } else searchArticles();
 }
@@ -91,10 +91,10 @@ const throttledSearch = throttle(
   { trailing: true }
 );
 
-function goToArticle(fullPath) {
-  console.log(fullPath)
+function goToArticle(publishedFullPath) {
+  console.log(publishedFullPath)
   search.value.blur();
-  router.go(fullPath);
+  router.go(publishedFullPath);
   state.showSearchDialog = false;
   state.searchResults = null;
   state.noResults = false;
@@ -150,8 +150,8 @@ function goToArticle(fullPath) {
               class="result"
               v-for="(result, index) in state.searchResults"
               :key="index"
-              @click="goToArticle(result.fullPath)"
-              @keyup.enter="goToArticle(result.fullPath)"
+              @click="goToArticle(result.publishedFullPath)"
+              @keyup.enter="goToArticle(result.publishedFullPath)"
               :class="{ selected: state.selectedResult === index }"
               tabindex="0"
             >
