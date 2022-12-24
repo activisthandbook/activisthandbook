@@ -10,7 +10,7 @@ hero:
   text: Campaigning guides for activists
   tagline: We write guides for activists. Learn how to become an activist, plan a political campaign strategy, and start a grassroots movement - all while not burning out.
   image:
-    src: /activist-handbook-globe.png
+    src: /activist-handbook-globe.webp
     alt: VitePress
   actions:
     - theme: brand
