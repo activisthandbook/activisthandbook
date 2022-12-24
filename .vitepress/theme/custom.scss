@@ -234,6 +234,10 @@ body:not(.hasHover) .title:hover{
     padding: calc(var(--vp-nav-height) + 24px) 24px 48px !important;
   }
 
+  .image {
+    margin: -76px -24px -48px !important;
+  }
+
   .tagline{
     color: #333;
   }
