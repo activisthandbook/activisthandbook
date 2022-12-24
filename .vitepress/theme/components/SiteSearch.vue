@@ -139,7 +139,7 @@ function goToArticle(publishedFullPath) {
               <strong>prevent burnout</strong></i>
             </div>
             <div class="impressive-numbers">
-              450 guides | 4.7K external resources | 10 languages
+              450 guides | 4.7K external resources
             </div>
           </div>
           <div class="results" v-else>
