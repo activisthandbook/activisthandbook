@@ -127,17 +127,20 @@ function goToArticle(publishedFullPath) {
         <div class="search-positioning">
           <input
             v-model="state.searchQuery"
-            placeholder="Search 450+ articles..."
+            placeholder="Search 450+ guides..."
             ref="search"
             @keydown.enter="handleEnter()"
             @input="handleInput()"
           />
           <div class="suggestions" v-if="!state.searchQuery">
-            <i
-              >For example, look up how to <strong>organise protest</strong>,
+            <div>
+              <i>For example, look up how to <strong>organise protest</strong>,
               <strong>manage social media</strong> or
-              <strong>prevent burnout</strong></i
-            >
+              <strong>prevent burnout</strong></i>
+            </div>
+            <div class="impressive-numbers">
+              450 guides | 4.7K external resources | 10 languages
+            </div>
           </div>
           <div class="results" v-else>
             <div v-if="!state.searchResults">
@@ -263,6 +266,12 @@ function goToArticle(publishedFullPath) {
   }
   .suggestions {
     display: none;
+
+    .impressive-numbers{
+      margin-top: 8px;
+      font-size: 12px;
+      color: #555;
+    }
   }
 
   input:focus + .suggestions {
