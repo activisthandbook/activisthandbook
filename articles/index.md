@@ -15,22 +15,22 @@ hero:
   actions:
     - theme: brand
       text: Start reading
-      link: /organising/protest
+      link: /introduction
     - theme: alt
       text: Join us
       link: /join
 features:
   - icon: ✊
-    title: Become a Social Activist
-    details: Learn how you can get started as activist and bring about social change. We explain what activism is and how you can make a difference with community organizing.
+    title: Become an activist for social change
+    details: Learn how you can get started as activist. We are here for all green, progressive and social activists. We explain what activism is and how you can make a difference with community organizing.
   - icon: 📢
-    title: Plan a Campaign Strategy
-    details: Achieve your goals by finding out what strategies and tactics are most effective. Get inspired by our examples of policital campaigns around the world.
+    title: Plan a campaign strategy
+    details: Achieve your goals by finding out what strategies and tactics are most effective for your nonprofit or activist movement. Get inspired by our examples of policital campaigns around the world.
   - icon: 🌊
-    title: Start a Grassroots Movement
-    details: Find out what bottom-up campaigning entails and get started with distributed organizing.
+    title: Start a grassroots movement
+    details: Learn how to get together a group of people using bottom-up campaigning. And grow your movement using distributed organizing and other strategies.
   - icon: ❤️
-    title: Learn how to prevent an Activist Burnout
+    title: Prevent an activist burnout
     details: Changing the world is stressful. Learn how to recognise burnout symptoms, how to deal with anxiety and other mental health challanges that activists deal with.
 ---
 
@@ -40,47 +40,49 @@ features:
 
 ## The Wikipedia for campaigners
 
-Activist Handbook consists over 400+ articles to help you make more impact with your next campaign. Our guides are written by progressive, green and social activists from all over the world.
+Activist Handbook consists of **450+ guides** and **4.7K external resources** to help you make more impact with your next campaign. Our guides are written by progressive, green and social activists from all over the world.
 
-### 1. Theory of change for activists
+### 📕 Theory of change for activists
 
-Develop a theory of change for your activist organisation using our templates and guides. Learn how we define activism and why we think it is the best way to make a positive impact.
+Develop a [theory of change](/theory) for your activist organisation using our templates and guides. Learn how we define activism and why we think it is the best way to make a positive impact.
 
-👉 [Theory of change](/theory)
+### 🌊 Organise a grassroots movement
 
-### 2. Impactful campaign strategies
+Learn what [grassroots organising](/organising) means and get help starting your own grassroots movement.
 
-Plan your next campaign with our template workshops and strategy ideas. And use our list of creative tactics to get inspiration for your actions.
+### 🔥 Impactful campaign strategies
 
-👉 [Campaign strategy](/strategy)
+Plan your [campaign strategy](/strategy) with our template workshops and strategy ideas. And use our list of creative tactics to get inspiration for your actions.
 
-### 3. Organise a grassroots movement
+### ❤️ Mental health in activism
 
-Learn what 'grassroots' organizing means and get help starting your own grassroots movement.
+Healthy organising in activism helps you to [prevent activist burnout](/wellbeing). Putting mental health first helps us stay more effective in the long run.
 
-👉 [Grassroots organising](/organising)
+### 💬 Nonprofit communication
 
-### 4. Mental health in activism
+Learn how to develop a [communication strategy](/communication), write a press release and manage your nonprofit social media effectively.
 
-Healthy organising in activism prevents activist burnout. Putting mental health first helps us stay more effective in the long run.
+### 🧑‍⚖️ Your right to protest
 
-👉 [Prevent activist burnout](/wellbeing)
-
-### 5. Nonprofit messaging
-
-Learn how to formulate your message clearly, write a press release and manage your nonprofit social media effectively.
-
-👉 [Messaging & communication](/communication)
-
-### 6. Your right to protest
-
-The laws about the right to protest, freedom of speech and assembly are different in every country. Know your rights and prepare yourself with resources from organisations around the world.
-
-👉 [Right to protest](/rights)
-
-_This is just the tip of the iceberg. Ready to get started? Read our **[introduction](/about)** to learn more about Activist Handbook or **[follow a training](/training)** from a group near you._
+The laws about the [right to protest](/rights), freedom of speech and assembly are different in every country. Know your rights and prepare yourself with resources from organisations around the world.
 
 <action-smart-large/>
+
+## We work with data & revolutionary tech
+
+We don’t just write guides. Activist Handbook uses a **data-driven approach** and develops **digital tools** to empower change-makers.
+
+### Large numbers, big impact
+
+- **🔍 1K+ search queries analysed:** We know what challenges activists face most, and what words they type into Google to find help. With this SEO data, we can write the guides that activists actually need and make sure our platform is found by the people looking for it.
+- **📚 4.7K resources:** We did not write our 450+ guides from scratch. Instead, we brought together material from experienced campaigned around the globe and organised all of it in into one single comprehensive handbook.
+- **🔥 4K+ activist trained every month:** Our number of volunteers can be counted on one hand and budget is €0. Yet, we manage to train thousands of activists every single month. And the more activists use and contribute to our wiki platform, the better it gets.
+
+### A unique digital toolset
+
+- **🧑‍💻 We develop our own digital tools:** If we need it, we build it. We bring together our experience with web development and campaigning.
+- **💡 We empower activists with AI:** Our writers never have to start with an empty page. Using artifical intelligence, we generate a first draft, as well as illustrations to accompany the guide. Whatever tech the capitalist elite can get their hands on to protect their interests, we use it too and fight back.
+- **⚡️ We prioritise speed & accessibility:** Everyone should be able to use Activist Handbook, no matter if you are on a slow or expensive data plan. So we put in the work to make that possible. And it shows. For example, [our platform](https://gtmetrix.com/reports/new.activisthandbook.org/14N3WvPa/) loads 8x faster and uses 87% less data than the [Beautiful Trouble](https://gtmetrix.com/reports/beautifultrouble.org/AR67fKWP/) website (tested 25 dec 2022).
 
 ## We start the activist movements of tomorrow
 
@@ -98,7 +100,7 @@ _Also make sure to check out the rest of our [campaigns](/campaigns)._
 <action-custom buttonlink="/training" buttonlabel="Get training">
   <h2>We're training a billion activists</h2>
   <p class="description">
-    We're in deep shit. Natural ecosystems are crumbling. Democracies are breaking down. And the rich are fueling the fire. So let's learn how to do something about that.
+    We're in deep shit. Natural ecosystems are crumbling. Democracies are breaking down. And the rich are fueling the fire. So let's learn how to do something about that. Together.
   </p>
 </action-custom>
 
