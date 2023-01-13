@@ -1,5 +1,5 @@
 <template>
-  <form class="call-to-action form action-volunteer primary-action" id="action-volunteer" :class="{loading: loading}" tabindex="0">
+  <form class="call-to-action form action-signup primary-action" id="action-signup" :class="{loading: loading}" tabindex="0">
     <slot/>
     <client-only>
       <label>
@@ -14,9 +14,9 @@
         <div>Phone number (international format)</div>
         <input v-model="user.phone" placeholder="+XX 1234567890" autocomplete="tel" type="tel" required/>
       </label>
-      <div class="privacy">After you sign up, we will reach out to you to help you get started. We'll contact you every now and then about our upcoming events, vacancies, and fundraising campaigns.</div>
+      <div class="privacy">After you sign up, we will reach out to you every now and then about upcoming events near you, ways to contribute, fundraising campaigns and other updates.</div>
       <div class="meta" v-if="!loading">
-        <button @click="signUp($event)" type="submit">Sign up</button>
+        <button @click="signUp($event)" type="submit">{{buttonlabel}}</button>
       </div>
       <div class="spinner" v-else>
         <span></span>
@@ -30,7 +30,7 @@
 <script setup>
 import party from "party-js";
 
-import { reactive, ref } from "vue";
+import { reactive, ref, onMounted } from "vue";
 import { useRouter } from "vitepress";
 const router = useRouter();
 
@@ -41,6 +41,22 @@ const user = reactive({
   email: null,
   phone: null,
 });
+
+const props = defineProps(["tags", "redirect", "buttonlabel"])
+
+onMounted(() => {
+
+  if(localStorage.getItem('given_name')){
+    user.firstName = localStorage.getItem('given_name');
+  }
+
+  if(sessionStorage.getItem('email_address')){
+    user.email = sessionStorage.getItem('email_address');
+  }
+  if(sessionStorage.getItem('phone_number')){
+    user.phone = sessionStorage.getItem('phone_number');
+  }
+})
 
 async function signUp(event){
   if(user.firstName && user.email && user.phone){
@@ -56,14 +72,14 @@ async function signUp(event){
           firstName: user.firstName,
           email: user.email,
           phone: user.phone,
-          tags: ["interested-in-volunteering", "newsletter"],
+          tags: props.tags.split(','),
         })
       })
         .then((response) => response.json())
         .then(async (data) => {
           loading.value = false
           console.log('Success:', data);
-          await router.go(`/next-steps/signup-volunteer`)
+          await router.go(props.redirect)
 
           party.confetti(document.querySelector(".VPDoc"), {
             color: party.Color.fromHex("#D70057"),
@@ -75,8 +91,15 @@ async function signUp(event){
           sessionStorage.setItem('email_address', user.email);
           sessionStorage.setItem('phone_number', user.phone);
 
-          const actionsTaken = JSON.parse(localStorage.getItem('actions_taken'));
-          localStorage.setItem('actions_taken', JSON.stringify(actionsTaken.push("volunteer")));
+          let actionsTaken = JSON.parse(localStorage.getItem('actions_taken'));
+          console.log('actionsTaken:', actionsTaken)
+          if(!actionsTaken){
+            actionsTaken = []
+          }
+          if(!actionsTaken.includes("volunteer")) {
+            actionsTaken.push("volunteer")
+          }
+          localStorage.setItem('actions_taken', JSON.stringify(actionsTaken));
         })
         .catch(error => {
           console.error(error)

@@ -10,7 +10,7 @@ import "./custom.scss";
 
 import DynamicImage from "./components/DynamicImage.vue";
 import ActionDonate from "./components/actions/ActionDonate.vue";
-import ActionVolunteer from "./components/actions/ActionVolunteer.vue";
+import ActionSignup from "./components/actions/ActionSignup.vue";
 import ActionSmartLarge from "./components/actions/ActionSmartLarge.vue";
 import ActionSmartSmall from "./components/actions/ActionSmartSmall.vue";
 import ActionCustom from "./components/actions/ActionCustom.vue";
@@ -34,7 +34,7 @@ export default {
 
     app.component("dynamic-image", DynamicImage);
     app.component("action-donate", ActionDonate);
-    app.component("action-volunteer", ActionVolunteer);
+    app.component("action-signup", ActionSignup);
     app.component("action-smart-large", ActionSmartLarge);
     app.component("action-smart-small", ActionSmartSmall);
     app.component("action-custom", ActionCustom);

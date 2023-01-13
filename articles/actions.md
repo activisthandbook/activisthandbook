@@ -13,7 +13,7 @@ Test
 
 <action-donate><h2>Donate</h2></action-donate>
 
-<action-volunteer><h2>Join our team</h2><p>Write something here..</p></action-volunteer>
+<action-signup><h2>Join our team</h2><p>Write something here..</p></action-signup>
 
 <action-custom buttonlabel="test" ><h2>Act!</h2><p>Write something here..</p></action-custom>
 
