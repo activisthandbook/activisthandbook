@@ -1,10 +1,12 @@
 ---
-title: Campaign strategy 💡
-description: Guide for activists: political campaign strategies
+title: >
+  Campaign strategy 💡
+description: >
+  Guide for activists: political campaign strategies
 langCode: en
-articleID: VO4y94jQ2b8MqVqj86wv
-languageCollectionID: n1ec9BcgwFsEbfg4s2--
-lastUpdated: 1673627977312
+articleID: tJJn7OVv13Yqnp0bndPH
+languageCollectionID: JZSmk50dN2l-J1Kcyw4z
+lastUpdated: 1673628396818
 tags: ["tactics","chapters"]
 ---
 

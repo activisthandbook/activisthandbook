@@ -1,10 +1,12 @@
 ---
-title: Activist communities
-description: A list of activist movements and organisations
+title: >
+  Activist communities
+description: >
+  A list of activist movements and organisations
 langCode: en
-articleID: T7yry4ngjtaEHMuHOxAN
-languageCollectionID: J8myzo6KHLKf4R5a9ros
-lastUpdated: 1673627977312
+articleID: TqEVbWhZJH45IpradqJ8
+languageCollectionID: 3A1DkJhc53eM2BH6BXOI
+lastUpdated: 1673628396818
 tags: []
 ---
 

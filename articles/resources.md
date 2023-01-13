@@ -1,10 +1,12 @@
 ---
-title: Activist resources
-description: Resources for activists: Books, movies, podcasts
+title: >
+  Activist resources
+description: >
+  Resources for activists: Books, movies, podcasts
 langCode: en
-articleID: UAWlUnpdiKG1_ubZDT7t
-languageCollectionID: TOc4l-enUOOdzY1I39Id
-lastUpdated: 1673627977312
+articleID: Gejeof0BL6bdn2UE-zAl
+languageCollectionID: mNsIVKtF8jputDB-FXDD
+lastUpdated: 1673628396818
 tags: ["resources"]
 ---
 

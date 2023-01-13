@@ -1,10 +1,12 @@
 ---
-title: The Wikipedia for activists
-description: Activist Handbook
+title: >
+  The Wikipedia for activists
+description: >
+  Activist Handbook
 langCode: en
-articleID: Q_g0NrfmBeui97_31-J8
-languageCollectionID: JIHOVxoytvyerinAUcGq
-lastUpdated: 1673627977312
+articleID: E7zOzkf8ugif3LLT1iOJ
+languageCollectionID: 8HsXLVkUdzN_UPtV29I2
+lastUpdated: 1673628396818
 tags: ["about"]
 ---
 

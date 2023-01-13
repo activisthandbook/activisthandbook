@@ -1,0 +1,248 @@
+---
+title: >
+  Using chat apps for campaigning
+description: >
+  How activists can use Signal, WhatsApp or Telegram
+langCode: en
+articleID: f3yAoBbgF3Ac-t4kKomA
+languageCollectionID: 60INexem7np_wWjOJ4Im
+lastUpdated: 1673628396818
+tags: ["tools","communication"]
+---
+
+**In this article, you will learn how to use chat apps like WhatsApp to broadcast messages to members of your movement. We have also written a more detailed** [**comparison of chat apps**](/tools/chat-apps)**.**
+
+> **Improve this article:** Currently, this article focusses on how WhatsApp can be used for campaigning. We would be interested in seeing how other chat apps could be used as well. Feel free to add some info!
+
+WhatsApp is a mobile application used for one-to-one, group, or broadcast messaging. It is free, encrypted end-to-end, and is one of the most widely used mobile apps in the world, with over 4.93 billion active users in 2018.
+
+In advocacy and movement building, WhatsApp can be used for communication between campaigners, a platform for supporter community building, a way to activate distributed networks and a channel for crowdsourced knowledge.
+
+## **Who’s doing it?**
+
+Organizers under risk of surveillance like Palestine-based [Youth Against Settlements](http://www.yashebron.org/), South Asian community organizers [Jakara Movement](https://www.jakara.org/), undocumented immigrant rights activists [Movimiento Cosecha](http://www.lahuelga.com/), Brazilian anti-police brutality activists [Meu Rio](https://www.defezap.org.br/), [Amnesty India](https://amnesty.org.in/), in order to engage and mobilise its supporters and activists across the country, the [El Avispero](http://www.elavisperomov.org/) movement in Colombia to mobilise activists around the peace accords and related issues, and many more….
+
+## **Impact/ Why do this?**
+
+**A Free Global Channel**
+
+Whatsapp is a global distribution channel with 4.93 billion active users, predicted to [rise to 5.07](https://www.statista.com/statistics/274774/forecast-of-mobile-phone-users-worldwide/) by 2019, with high usage in the Global South. WhatsApp has become [the most widely used smartphone application in a number of countries](https://www.comscore.com/Insights/Presentations-and-Whitepapers/2018/Global-Digital-Future-in-Focus-2018), including India (where is has 200 million monthly active users), Argentina, Brazil, Mexico, Italy and Spain.
+
+It has become popular worldwide because it is mobile-based, uses little data (under 2kb per message) and is logistically simple. That means you can be distributing campaign content and internal organizing material anywhere in the world without being reliant on mobile service providers or expensive data plans. Many mobile service providers offer unlimited access to WhatsApp with their plans, meaning that users do not have to depend on having data active on their phones to be able to use the app.
+
+As global online campaign communities grow and flourish, we are learning that ease and accessibility are some of the biggest factors in the adoption of digital tools. While access to a desktop computer can be limited based on region, there are almost as many cell-phone subscriptions (6.8 billion) as there are people on earth.
+
+**End-to-end encryption**
+
+Although it is not quite at the same level of digital security as alternative messaging service [Signal,](https://signal.org/) WhatsApp still offers end-to-end encryption on all messages, chats and calls meaning that it is a superior option for secure messaging when compared to the likes of Facebook Messenger, Slack or SMS.
+
+**Diverse Content Types**
+
+The basic functionalities of Whatsapp make it easy to share and broadcast multiple types of content. The Whatsapp platform can easily be used to transmit real-time text, document, image, audio, video content, and location data. The core value of Whatsapp for content sharing is that it does all of this for free. Unbranded or lightly branded content seems to travel the furthest.
+
+**Message Overlap**
+
+Users tend to belong to multiple groups, so they often get exposed to the same messages repeatedly. This can be less work for an organization because you only need to create content and distribute to influencers.
+
+**Open Rates**
+
+Real-time content distribution, with open rates way higher than email. In fact, mobile text-based messages have an [average open rate of 98 percent.](https://frontapp.com/blog/2015/10/07/why-sms-is-the-new-channel-for-customer-support/) This makes Whatsapp an ideal channel to share content and engage your audiences.
+
+**Easy to Use**
+
+Users can remain anonymous, identified only by a phone number. Groups, which are capped at 256 members, are easy to set up by adding the phone numbers of contacts. Whilst this limit of 256 members can be limiting when it comes to communicating with large numbers of people, campaigners have found creative ways of taking communications with groups of people to scale with WhatsApp, which we detail below.
+
+**Direct and personal interaction with activists, volunteers and supporters**
+
+WhatsApp offers a direct and personal messaging platform for engaging with activists, volunteers and supporters. Campaigners with experience using WhatsApp for their work stress that the most benefits are reaped when it is used as a two-way, interactive communication channel - not just for broadcasting content but for interacting with people interested in supporting a campaign, cause or organisation.
+
+## **When to Use WhatsApp**
+
+Note that the use cases presented below are not mutually exclusive. That is, several groups are running several WhatsApp campaigns simultaneously using these different approaches.
+
+**WhatsApp for Media Amplification**
+
+Share news that might not make it to global media outlets, especially in conflict zones where media is notoriously difficult to distribute.
+
+This has been used by activists to share news that might not make it to global media outlets, especially in conflict zones where media is notoriously difficult to share.
+
+-   For example in Syria: [Aleppo activists who shared their last stories did so over WhatsApp](https://www.cnn.com/2016/09/28/middleeast/whatsapp-syria-aleppo-activists/index.html)
+-   For example in Sudan: Professor Qassim Badri, the dean of the UN-funded al-Ahfad Women’s University in Khartoum caught on film assaulting women protesters. The video was instantly shared across hundreds of Whatsapp groups, resulting in a fast chain reaction of sharing that brought the controversy to light.
+    -   Result: Reached the UN, which subsequently released a statement announcing their withdrawal of all funding and support for al-Ahfad until appropriate measures had been taken by the university administration to address the controversy.
+
+**Whatsapp for Direct Action**
+
+Amnesty International India organizes some 2,500 volunteers and activists through WhatsApp groups, which serve multiple purposes from raising awareness about new issues or campaigns that the organisation is working on, disseminating campaign materials and petitions, obtaining feedback on campaign materials and tactics and organising direct action. Groups are mainly organized according to geographical location, although the organisation also sets up some campaign-specific groups to plan actions for a particular campaign, such as [its Justice for the 1984 Sikh Massacre campaign](https://amnesty.org.in/justice-1984-sikh-massacre/). The direct and personal nature of WhatsApp has brought the organisation much closer to its volunteers as it is able to interact with them more efficiently and on a much more regular basis.
+
+Other case studies:
+
+-   [Nuit Debout got thousands of people into the streets in France to protest Macron](https://www.theguardian.com/world/2016/apr/08/nuit-debout-protesters-occupy-french-cities-in-a-revolutionary-call-for-change)
+-   [Callout to provide community support and solidarity when a mosque in Toronto was mobbed got hundreds of people out to a downtown mosque within minutes -- Islamophobic protesters forced to leave](https://globalnews.ca/news/3257296/anti-islamic-protesters-demonstrate-outside-toronto-mosque-calling-for-ban-on-islam/)
+-   [Zimbabwean activists coordinated country-wide protests in 2016](https://qz.com/768868/social-media-is-emboldening-young-zimbabweans-to-finally-stand-up-to-mugabe/)
+-   [6,000 HIV/AID activists on the streets of Durban in South Africa](http://digital-liaisons.icad-cisd.com/case-studies/health-gap-adds-whatsapp-and-twitter-to-its-activist-toolbox/#.WyMHOzNKjq0)
+
+**WhatsApp for Crowdsourcing**
+
+Activists use WhatsApp to compile citizen reporting of abuses, including policy brutality.
+
+-   For example in Brazil: [Meu Rio documenting police brutality](https://www.defezap.org.br/)
+
+**Whatsapp for Underserved Communities**
+
+Groups serving cultural and linguistic minorities use Whatsapp to share translated materials around social and government services to serve their communities because: “Google translated pages are often so full of mistakes that they are incomprehensible for most non-Romantic languages,” reports Deep from [the Jakara Movement in California](https://www.jakara.org/).
+
+## **When NOT to use WhatsApp**
+
+**Do you have time to engage in two-way conversations?**
+
+You should be aware that WhatsApp is quite a time-intensive communications platform - because it is a direct messaging service you should expect lots of people to reply to the messages you send them with questions or feedback and they will expect relatively speedy responses from you. If you are unable to continue engaging with these people after sending out messages and materials then they will quickly lose interest in your campaign and WhatsApp will lose its effectiveness. People expect WhatsApp to be a two-way communications platform - If you can’t fulfil this expectation then you may be better off sticking with other mediums, such as email or text messaging
+
+**Situations where you might want to stay away from WhatsApp:**
+
+-   If you’re under police/government surveillance
+-   If your user base is not using mobile
+
+## **Setup Steps/ Stages**
+
+**Deciding how to use WhatsApp**
+
+Aside from technical needs (like having a phone or access to the internet), you should begin with an idea of what your objective is. Do you want to use Whatsapp as part of a ladder of engagement? Do you want to use it as a way to communicate with a core organizing group? Do you want to use Whatsapp for large one-way broadcasting, or group conversations? Do you require the ability to moderate or control what content is shared, by whom, and when?
+
+The answer to these questions will determine whether WhatsApp is the right channel for your campaigning, the type of group structure you create, and the audiences you choose to reach.
+
+**Step 1: Have a phone number that you can use**
+
+You need a phone number that you can use. For smaller scale organizing, a personal phone number can suffice.
+
+**Step 2: Have internet access on a mobile device**
+
+WhatsApp is a mobile-based channel. There is no standalone desktop or tablet app that can be used without a mobile number and device. In order to download, set up, and share content on WhatsApp, you will need a mobile device, associated with a phone number, with access to the internet.
+
+WhatsApp is compatible with multiple mobile devices and operating systems, including Android, iOS (iPhone), Windows Phone, and Blackberry.
+
+**Step 3: Decide on Group Set Up**
+
+There are two types of groups you can create within the Whatsapp platform: group chats, and broadcast lists.
+
+Group chats let you have open content sharing between up to 256 phone numbers. This is not a ton of recipients, meaning that as your organizing scales out, you will likely be managing multiple groups. This is great for highly tailored content to specific segments, but without automation and / or a team of volunteers to manage the groups, they can be unwieldy. Group chats are most useful for core organizing groups and local community discussions.
+
+Recipients in group chats will receive all content shared, and are able to contribute content without restriction. Content is received whether or not phone numbers are stored in a recipients contact list.
+
+All recipients are able to see the phone numbers in the group chat, which is a key consideration when deciding to use this type of group set up.
+
+Broadcast lists are saved lists of phone numbers that you can repeatedly sent content to. Content sent to Broadcast Lists are sent to all members of the list, and will appear as a normal message from you in their chats screen. If they reply, it will not be sent to other members. Recipients cannot see other members of the group, as each message appears to be a one-on-one interaction between your broadcast number and the recipient.
+
+It is important to note that recipients _must_ have saved your broadcast number to their contact list in order to receive content, so it is vital to include that in your information capture method.
+
+**Step 4: Set up a Whatsapp Account**
+
+In order to set up your Whatsapp account, you must first install the app on your phone. This can easily be done for free through the Apple App store, or Google Play store.
+
+Once you have installed the app, you must create a 25 character (max) name. You should consider whether you want this to be a personal name, or the name of your organization. The name you choose is _permanent_ and cannot be changed. Personal names tend to be more engaging for group chats, while organization names are valuable to establish credibility in broadcast lists.
+
+The name you choose is accompanied by a profile image you upload from your phone. This can be changed at any time and is not required to use the tool.
+
+Once you select a profile picture, write a 139 character (max) status. This can also be changed at any time.
+
+**Step 5: Build your audience and get the word out**
+
+As a platform without any paid or organic acquisition method, there are two ways to build your audience and get the word out.
+
+1.  Give the audience YOUR number, so they can add you
+
+In 2014 the BBC set up an Ebola Crisis broadcast list, sending three health alerts daily. They publicized the following content, and had [25,000 users sign up to receive updates](https://www.bbc.com/news/world-africa-29573964).
+
+<div></div>
+
+This method of audience building and getting the word out what effective because it ensured that users added the number to their contact list, and shared their personal phone number with the BBC in their ‘JOIN’ text message.
+
+Consider adding calls to action to join broadcast lists in your emails, or other communication channels. However, this method requires your audience to do a ton of leg work, and is a high-barrier ask. They have to add your number on Whatsapp AND send you a text. It may be hard to provide value for your audience given this.
+
+1.  Acquire your audience’s phone numbers and add to YOUR contact list
+
+This second method puts more effort on you and your organization. If you have already integrated phone numbers into your ladder of engagement, have a prebuilt phone list, and are only using group chats, this is an obvious choice.
+
+Capturing phone numbers, and getting recipients onto your list can thus be the biggest challenge for using WhatsApp for campaigning. There is no automated upload feature into the WhatsApp platform, so each number must be added manually to a group chat or broadcast list from a contact list.
+
+**Step 6: Set up the actual Group**
+
+Like most instant messaging applications, WhatsApp lets you create a group in order to message many people at once. You can create a group in WhatsApp by opening the Chats menu and selecting the "New Group" option for a group chat, or “Broadcast Lists” to create a broadcast list. From there, you'll be able to add up to 256 people to a group as long as they're in your phone's contacts.
+
+If you need to invite people not in your phone contacts, click on “group invite link” to create a shareable link. Keep in mind, though, that messages sent through broadcast lists will only be received by people with your number saved in their contacts. This is a built-in anti-spam feature within the Whatsapp platform.
+
+If you decide to go with WhatsApp groups, a natural way to organise them is by location. This helps to maximise their potential to contribute to organising and mobilisation strategies, whilst also providing more opportunities for members to develop personal relationships with each other.
+
+Once you’ve set up your groups by location, you can then easily integrate them into your existing supporter / volunteer acquisition and retention processes. For example, once you have the details (phone number and address or hometown) of a new supporter, you can simply send them the link to the respective WhatsApp group for their local area and ask them to join if they would like to get more involved and engage with other volunteers near them.
+
+**Step 7: Organize and build power!**
+
+Once you have set up your broadcast list or group chat, you are ready to use Whatsapp for content distribution, organizing, and/or amplification.
+
+As previously mentioned, people expect WhatsApp to be a two-way communication channel so if, in this phase, you only use the platform to distribute messages and content then you will find your open & click-through rates will rapidly drop as people will lose interest in your messages. This is particularly true for groups, which can quickly become dormant and decline in numbers if you do not use them for authentic engagement with your supporters (either directly or through volunteer leaders). Fortunately, there are lots of ways you can keep your supporters engaged so they turn out and support you when you need them most! For example, some of the things that Amnesty India regularly sends to their WhatsApp groups are:
+
+-   Quizzes and competitions with concrete prizes (e.g. being on the guest list for limited-capacity speaker events or workshops);
+-   Invites to Facebook live Q&A sessions on specific campaigns (WhatsApp group members can send their questions via their WhatsApp groups beforehand and they are read out and answered during the Facebook live session, which is then sent to all the WhatsApp groups afterwards);
+-   Requests for ideas on tactics and creative actions for new campaigns;
+-   Invitations to (in-person) campaign design and planning sessions with staff members (again with limited capacity, giving priority to those who sign up first); and
+-   Invitations to specific campaigning events or demonstrations (giving WhatsApp group members two times: one earlier time for people who want to help plan and set up the event and another time for those that just want to participate).
+
+**Tricky parts / fixes**
+
+**Managing large group chats is difficult on WhatsApp**
+
+Large WhatsApp groups can easily become unwieldy and very time-consuming to manage. There are two ways to address this problem: The first is to establish clear rules or guidelines for your WhatsApp group. Post these in the group every time a new member is added so that people are reminded of them. For example, Amnesty India’s WhatsApp groups have the following rules:
+
+-   If you are not happy with the group, let an admin know
+-   You can unsubscribe at any time
+-   Keep the discussions related to human rights work and issues.
+-   Keep it clean and respectful
+
+Secondly, once you start increasing the number of groups you manage then you will soon need support from volunteers who will be recruited as group administrators. These people will be responsible for ensuring that everyone follows the established rules and guidelines, answering questions and generally facilitating / managing the discussions in order to keep the groups active. As staff members, your role will then be communicating with these volunteer leaders (ideally checking-in on a daily basis) to ensure that they have everything they need or need any support (for example, if they were asked a question they didn’t know the answer to).
+
+The limit of 256 people to a single group can be a challenge, but one that can usually be quite easily overcome: if you are nearing this limit, just send a message out to the group asking if there are any members that would be willing to leave this group and help set up and/or manage a new one - you will usually find at least one person who is willing to do so!
+
+**Can’t always control a narrative or a direction in a conversation**
+
+Once campaigning content is shared on WhatsApp, be it via WhatsApp groups or broadcast lists, it can be hard to control what then happens to that content as it can be easily altered, adapted and forwarded to people who were perhaps not the originally intended target audience. Content shared on WhatsApp can therefore often take on a life of its own.
+
+For this reason, [Amnesty International India’](https://amnesty.org.in/)s principal is to only share specific campaign tactics and actions via WhatsApp groups - never the overall strategy (i.e. don’t assume that just because your WhatsApp groups only consist of your supporters, the things you send them via WhatsApp won’t end up in the wrong hands). WhatsApp groups do sometimes receive invitations to in-person campaign strategy sessions though.
+
+**Difficult to generate engagement metrics**
+
+Unlike, say, Facebook Pages, WhatsApp on its own offers little in the way of engagement metrics to managers of groups and broadcast lists. However, the platform does let you see how many people have read a particular message. This feature can be combined with tools such as [Bitly](https://bitly.com/) (which lets you create multiple, unique links for a single webpage) in order to calculate metrics such as click-through rates, although this is much more labour intensive and time consuming than other platforms. However, managing multiple groups does provide you with the opportunity of testing different messages and content in order to see which ones generate the most engagement.
+
+## **Warning: The other side uses WhatsApp too!**
+
+WhatsApp is not inherently a progressive tool. Although WhatsApp employs end-to-end encryption, it is owned by Facebook, and like the other platform has [back-end tracking metrics](https://blog.whatsapp.com/10000627/Looking-ahead-for-WhatsApp), the nature of which is unclear.
+
+**Right-wing mobilization to influence Elections**
+
+It’s not just progressive groups who are mobilizing on WhatsApp. When messages are forwarded, there is no hint of where they originated.
+
+-   In India, the right-wing BJP party is using Whatsapp as their primary mobilization tactic. In the 2018 elections, [“the B.J.P. and Congress parties claimed to have set up at least 50,000 WhatsApp groups between them to spread their messages”](https://www.nytimes.com/2018/05/14/technology/whatsapp-india-elections.html)  
+      
+    
+-   A Muslim man who was killed by hindutva nationalist members of the BJP for allegedly killing a cow. It was broadcast on whatsapp, and amplified in realtime [https://www.aljazeera.com/programmes/listeningpost/2017/12/deadly-rumours-india-whatsapp-dilemma-171216091928319.html](https://www.aljazeera.com/programmes/listeningpost/2017/12/deadly-rumours-india-whatsapp-dilemma-171216091928319.html)
+-   Karnataka BJP members used whatsapp to circulate “fake polls, hoaxes about the killings of Hindu activists and [false claims that a Muslim lawmaker had promised “unending bloodshed of Hindus” if voted into power”](https://www.thestar.com/news/world/2018/05/31/fake-news-on-whatsapp-are-getting-people-killed-in-india.html)
+
+**Spreading racism/fascism through fake news**
+
+In the south of India, a false account of a child kidnapping gang went viral via WhatsApp leading to murders and lynchings that target trans women, among others. [https://www.cnn.com/2018/05/28/asia/india-transgender-whatsapp-mob-intl/index.html](https://www.cnn.com/2018/05/28/asia/india-transgender-whatsapp-mob-intl/index.html)
+
+## **Related resources**
+
+-   [How charities are adopting WhatsApp](https://www.charitycomms.org.uk/how-charities-are-adopting-whatsapp)
+-   [Activists using WhatsApp to confront Mugabe’s regime in Zimbabwe](https://qz.com/africa/748132/we-really-believe-social-media-will-drive-change-in-mugabes-zimbabwe/)
+-   [Facebook to integrate WhatsApp, Instagram and Messenger - BBC News](https://bbc.in/2DyLYz1)
+
+## **Attribution**
+
+This page is an [adaptation](https://blueprintsfc.org/guide/whatsapp-uses-for-campaigning/) of the work done by Blueprints for Change.
+
+**Input and resources for this framework were provided by:**
+
+[Sanam Sutirath Wazir (Amnesty India)](https://twitter.com/sanamwazir), [Mario Alvarado (Amnesty International / El Avispero),](https://twitter.com/mario_alvarado) [Paul de Gregorio](https://twitter.com/pauldegregorio), [Issa Amro (Youth Against Settlements)](https://twitter.com/issaamro), [Naindeep Singh (Jakara Movement)](https://www.jakara.org/our_staff)
+
+**This guide was prepared and reviewed by:**
+
+[Sarah Ali](https://twitter.com/sarahalidigital), [Tom Liacas](https://medium.com/@TomLiacas), [Chris Alford](https://twitter.com/christophA33), [Paul de Gregorio](https://twitter.com/pauldegregorio), [Mario Alvarado](https://twitter.com/mario_alvarado)

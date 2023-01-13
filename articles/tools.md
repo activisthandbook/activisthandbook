@@ -1,10 +1,12 @@
 ---
-title: Digital tools for activists 🛠
-description: Work more efficiently as activist with these digital tools
+title: >
+  Digital tools for activists 🛠
+description: >
+  Work more efficiently as activist with these digital tools
 langCode: en
-articleID: eaWNq3PeWJ-zjewex1-J
-languageCollectionID: uy1cypVU4KioFvNdwUqe
-lastUpdated: 1673627977312
+articleID: OVXjIrJbQYw2Wt3zcJLp
+languageCollectionID: iRmFT2tBTvlecN7BNHd9
+lastUpdated: 1673628396818
 tags: ["tools","chapters"]
 ---
 

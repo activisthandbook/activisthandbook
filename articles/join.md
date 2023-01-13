@@ -1,55 +1,26 @@
 ---
-title: Let’s train 350 million activists
-description: Join our campaign
+title: >
+  Join us 🙌
+description: >
+  Become involved and join our team of volunteers!
 langCode: en
-articleID: KB0njyx-GskZat4n190n
-languageCollectionID: SNArXIi8CZo6ZV6s_tdH
-lastUpdated: 1668411016809
-wordCount: 277
-focusMode:
-  isOn: true
-  buttonLabel: Join us
-  buttonAnchor: primary-action
-sidebar: false
-aside: false
+articleID: nmaJU2HfH6tEuDVxOULb
+languageCollectionID: GKAkIAp562IEAzyyFRXq
+lastUpdated: 1673628396818
+tags: ["about"]
 ---
 
-**Humanity is not on the right track. We are destroying our planet. Democratic and human rights are being threatened. And the rich are fueling the fire. It's time to act.**
+Activist Handbook is a Wikipedia-like platform for people to exchange experiences about change-making. We are training activists who are not afraid to challenge the status quo. Join us today:
 
-Let's learn how to bring about change. Join our campaign and help us train 350 million activists:
+> Join our community by signing up here:  
+> 👉 **[http://activism.rocks/join](http://activism.rocks/join)**
 
-<action-button buttonanchor="primary-action" buttonlabel="Join our campaign"></action-button>
+## We meet online & in local hubs
 
-## **Why 350 million?**
+We're activists from all over the world, so we cannot regularly meet face to face. Instead, we regularly have video calls. Are you new with Activist Handbook? We would very much like to get to know you during our next call! We also have an open [Facebook group](https://www.facebook.com/groups/activisthandbook/) in which activists can exchange experiences. Lastly, we communicate using a Slack workplace. If you would like to join our Slack, make sure to fill in the form above
 
-Science shows that change happens when 3.5% of the population takes action. In 2050, there will be 10 billion people on this planet. That's why we are going to train 350 million activists.
+Our community exists out of over 100 people from 20+ different countries (check out our [members map](/map)). More than 450 people have joined our Facebook group. Learn more about our team on the [about page](/about).
 
-Right now, we train 4000 new activists every month.
+## We value diversity
 
-## **How can I help?**
-
-Everyone can contribute. We are curious to hear what skills you would like to bring to our team. And we encourage learning new skills:
-
-- 📝 Write or translate articles
-- 📢 Help with promotion and outreach
-- 📆 Organise events
-- 🎬 Record or edit videos
-- 🎨 Design illustrations
-- 💻 Develop open source web apps
-- 🤑 Find funds or manage our finances
-
-You do not need to be an experienced activist. We will help you get started and give you training:
-
-<action-button buttonanchor="primary-action" buttonlabel="Join our campaign"></action-button>
-
-## **What happens after I join?**
-
-After you sign up:
-
-1.  First, we will **schedule a video call** with you to get to know each other.
-2.  We will share our **guides for volunteers** to help you get started.
-3.  We will help you **get together 5 to 10 people** to kickstart your local campaign.
-
-Don't have much experience with activism yet? Don't worry! You will be able to learn from fellow change-makers around the world.
-
-<action-signup><h2>Join our campaign</h2><p>There is no time for standing on the sidelines. We know 350 million is a large number. But we can do this together. Sign up and get involved:</p></action-signup>
+We believe that diversity strengthens our organisation. That is why we encourage people of all genders, sexual preferences and ethnic backgrounds, including people with disabilities, to join our cause.

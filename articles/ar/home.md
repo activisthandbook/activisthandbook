@@ -1,9 +1,10 @@
 ---
-title: Home
+title: >
+  Home
 langCode: ar
-articleID: VV8O0V8X5yYWV1-C7OKY
-languageCollectionID: JIHOVxoytvyerinAUcGq
-lastUpdated: 1673627977312
+articleID: er-XoVDDx5a1EkV9LVao
+languageCollectionID: 8HsXLVkUdzN_UPtV29I2
+lastUpdated: 1673628396818
 tags: []
 ---
 

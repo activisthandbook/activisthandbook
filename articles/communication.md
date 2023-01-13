@@ -1,10 +1,12 @@
 ---
-title: Communicate your message 💬
-description: Making sure your message comes across
+title: >
+  Communicate your message 💬
+description: >
+  Making sure your message comes across
 langCode: en
-articleID: 2hLfmAgRRkLCJNNtfJGi
-languageCollectionID: ykFNSQ_0Yu9_K1PYO5v2
-lastUpdated: 1673627977312
+articleID: PCIl3D3NxZsk_zFmMKhr
+languageCollectionID: mdsnXb34Ii5rOni7V93C
+lastUpdated: 1673628396818
 tags: []
 ---
 
