@@ -21,6 +21,7 @@ const articlesSearchIndex = client.initIndex("activisthandbook_articles");
 const state = reactive({
   searchQuery: null,
   showSearchDialog: false,
+  typedSinceEnter: false,
   searchResults: null,
   cashedSearchResults: {},
   selectedResult: 0,
@@ -64,13 +65,14 @@ function searchArticles() {
 }
 
 function handleEnter() {
-  if (state.searchResults) {
+  if (state.searchResults && state.typedSinceEnter) {
     goToArticle(state.searchResults[0].publishedFullPath);
     closeSearchDialog();
   } else searchArticles();
 }
 
 function handleInput() {
+  state.typedSinceEnter = true
   if (!state.searchQuery) {
     state.searchResults = null;
   }
@@ -92,12 +94,12 @@ const throttledSearch = throttle(
 );
 
 function goToArticle(publishedFullPath) {
-  console.log(publishedFullPath)
   search.value.blur();
-  router.go(publishedFullPath);
+  router.go('/' + publishedFullPath);
   state.showSearchDialog = false;
   state.searchResults = null;
   state.noResults = false;
+  state.searchQuery = null
 }
 </script>
 <template>
@@ -131,6 +133,7 @@ function goToArticle(publishedFullPath) {
             ref="search"
             @keydown.enter="handleEnter()"
             @input="handleInput()"
+            @focus="$event.target.select()"
           />
           <div class="suggestions" v-if="!state.searchQuery">
             <div>

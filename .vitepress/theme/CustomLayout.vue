@@ -249,9 +249,10 @@ function focusID(anchor){
 .action-top {
   background: rgba(0, 0, 0, 0.05);
   color: #333;
-  padding: calc(12px + 0.5vw) calc(8px + 1vw);
+  font-size: 14px;
+  padding: 12px 8px;
   font-style: italic;
-  margin-bottom: 16px;
+  margin-bottom: calc(16px + 1vh);
   border-radius: 2px;
   text-align: center;
 

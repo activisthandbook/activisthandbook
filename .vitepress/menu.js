@@ -1,25 +1,24 @@
 export const nav = [
   {
     text: "📖 Guides",
-    activeMatch: `^/(guide|style-guide|cookbook|examples)/`,
     items: [
-      { text: "📕 Theory", link: "/test2" },
-      { text: "🔥 Organizing", link: "/test" },
-      { text: "🎯 Strategy", link: "/test1" },
-      { text: "📢 Tactics", link: "/test1" },
-      { text: "❤️ Wellbeing", link: "/test1" },
-      { text: "💬 Communication", link: "/test1" },
-      { text: "💻 Tools", link: "/test1" },
+      { text: "📕 Theory", link: "/theory" },
+      { text: "🔥 Organizing", link: "/organising" },
+      { text: "🎯 Strategy", link: "/strategy" },
+      { text: "📢 Tactics", link: "/tactics" },
+      { text: "❤️ Wellbeing", link: "/wellbeing" },
+      { text: "💬 Communication", link: "/communication" },
+      { text: "💻 Tools", link: "/tools" },
     ],
   },
   {
     text: "🌍 Our community",
     items: [
-      { text: "👋 About us", link: "/test2" },
-      { text: "💪 Get training", link: "/test2" },
-      { text: "📚 Resources", link: "/test" },
-      { text: "📢 Campaigns", link: "/test1" },
-      { text: "📖 Volunteer guides", link: "/test1" },
+      { text: "👋 About us", link: "/about" },
+      { text: "💪 Get training", link: "/trainings" },
+      { text: "📚 Resources", link: "/resources" },
+      { text: "📢 Campaigns", link: "/campaigns" },
+      { text: "📖 Volunteer guides", link: "/support" },
     ],
   },
   {
