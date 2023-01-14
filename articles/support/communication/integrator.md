@@ -35,7 +35,7 @@ Make sure you coordinate with others who is going to approach who, so that peopl
 
 Send a message to people who are interested in a Facebook event to turn that ‘Interested’ or ‘Going’ click into actually attending:
 
-> Hey <<First Name>>, it's so cool you're interested in our <<Event about…>>. We're very happy to welcome you! - <<First Name>>
+> Hey `<<First Name>>`, it's so cool you're interested in our `<<Event about…>>`. We're very happy to welcome you! - `<<First Name>>`
 
 If people respond with e.g. ‘Happy to attend!’, follow up with something like:
 
@@ -58,19 +58,19 @@ To save time, we **automatically** send a series of welcome emails to new member
 _Immediately after someone signs up_, we send an email to confirm we have received their signup. The primary call to action is to fill in a form with additional follow up questions (see section below for more info).
 
 > **Subject:** How would you like to contribute, \*|FNAME|\*?
-> 
-> * * *
-> 
+>
+> ---
+>
 > Thank you for joining the Activist Handbook community, \*|FNAME|\*.
-> 
+>
 > **We'll reach out to you soon. To make sure we can get you in touch with the right coordinator, make sure to fill in this form.**
-> 
+>
 > In the meantime, you can get started here:
-> 
-> -   Meet our team by joining our Slack communication channel.
-> -   Join one of our upcoming online events. Feel free to bring a friend!
-> -   Want to help us grow? Share us in your Instagram story!
-> 
+>
+> - Meet our team by joining our Slack communication channel.
+> - Join one of our upcoming online events. Feel free to bring a friend!
+> - Want to help us grow? Share us in your Instagram story!
+>
 > We hope we'll be able to meet you soon!
 
 ### Second email: personal welcome message
@@ -78,23 +78,23 @@ _Immediately after someone signs up_, we send an email to confirm we have receiv
 _After one day,_ the second email is sent, which appears more personal (even though it is still sent automatically).
 
 > **Subject:** Welcome \*|FNAME|\*!
-> 
-> * * *
-> 
+>
+> ---
+>
 > Hey \*|FNAME|\*,
-> 
+>
 > Welcome to Activist Handbook, I'm excited to have you on our team! How about we have a video call soon?
-> 
+>
 > To meet the rest of our members, join our Slack group. It would be great if you could briefly introduce yourself there, so that the others know who you are.
-> 
+>
 > Also, make sure to let us know how you would like to contribute.
-> 
-> Best,  
-> <<First Name>>
-> 
+>
+> Best,
+> `<<First Name>>`
+>
 > P.S. Feel free to contact me any time if you have questions!
-> 
-> Activist Handbook  
+>
+> Activist Handbook
 > activisthandbook.org
 
 ### Third email: checking-in
@@ -102,43 +102,43 @@ _After one day,_ the second email is sent, which appears more personal (even tho
 _After two weeks,_ we send an email to check-in with the new member, to see if they need any help getting started. People often sign up, but then forget about it because they are busy with other stuff. This email is a friendly reminder that they signed up for Activist Handbook.
 
 > **Subject:** Checking-in
-> 
-> * * *
-> 
+>
+> ---
+>
 > Hey,
-> 
+>
 > Just checking in, \*|FNAME|\*. I saw you recently joined our group. Do you need any help getting started?
-> 
-> Know that you can always send me a message via Slack or WhatsApp:  
+>
+> Know that you can always send me a message via Slack or WhatsApp:
 > +31 6 57 70 48 83
-> 
+>
 > I hope to see you soon at one of our events!
-> 
-> Best,  
-> <<First Name>>
-> 
+>
+> Best,
+> `<<First Name>>`
+>
 > Activist Handbook
 
 ## Follow up questions
 
 > 👋 Tell us a bit about yourself! Are you involved in any activist movements?”
-> 
+>
 > 🌍 What's your city of residence?
-> 
-> 💪 How would you like to contribute?  
-> Write articles about activism  
-> Manage our social media  
-> Record or edit videos for our YouTube channel  
-> Develop our open source web apps  
-> Manage finances and find funds  
-> Translate articles into other languages  
+>
+> 💪 How would you like to contribute?
+> Write articles about activism
+> Manage our social media
+> Record or edit videos for our YouTube channel
+> Develop our open source web apps
+> Manage finances and find funds
+> Translate articles into other languages
 > Help organise events
-> 
-> ⏰ How much time to do you have available?  
-> One or more days per week  
-> A few hours per week  
+>
+> ⏰ How much time to do you have available?
+> One or more days per week
+> A few hours per week
 > Less than one hour per week
-> 
+>
 > ❓ Any questions? Remarks?
 
 ## **Send message via Slack**
@@ -147,33 +147,33 @@ When people join our Slack, our welcome bot will automatically send a message in
 
 The welcome bot also sends a private message to new members:
 
-> Hey <<Name>>, it’s cool to have you onboard!
-> 
+> Hey `<<Name>>`, it’s cool to have you onboard!
+>
 > I’m just a bot to help you get started. Here’s a few tips to become involved with Activist Handbook:
-> 
-> -   **Introduce yourself in #general.** Where’re you from? What are your pronouns? Are you involved in any activist movements?
-> -   **Get to know us at one of our** [**upcoming events**](https://www.facebook.com/activisthandbook/events/)**.** Check out #calendar for an overview.
-> -   **We encourage you to take initiative.** Join one of our teams! #team-communication #team-content #team-finance #team-events #team-developers #team-localisation
+>
+> - **Introduce yourself in #general.** Where’re you from? What are your pronouns? Are you involved in any activist movements?
+> - **Get to know us at one of our** [**upcoming events**](https://www.facebook.com/activisthandbook/events/)**.** Check out #calendar for an overview.
+> - **We encourage you to take initiative.** Join one of our teams! #team-communication #team-content #team-finance #team-events #team-developers #team-localisation
 
 You can also send a private message to make them feel welcome. Use their answers from the follow up form to personalise your message:
 
-> Hey <<First Name>>, I saw you just joined our Slack. If you need any help getting started, feel free to ask!  
->   
-> Since you filled in that you are interested in <<Something>>, I very much welcome you to join <<Some Upcoming Meeting or Event>>
+> Hey `<<First Name>>`, I saw you just joined our Slack. If you need any help getting started, feel free to ask!
+>
+> Since you filled in that you are interested in` <<Something>>`, I very much welcome you to join `<<Some Upcoming Meeting or Event>>`
 
 Or if you have not yet scheduled a video call:
 
-> Hey <<First Name>>, welcome to our Slack! How about we have a video call sometime soon so that we can get to know each other a bit better?  
->   
-> To introduce myself briefly: I am <<First Name>> from <<Country>>, and I am <<Coordinators Role>>. <<Some fun fact about yourself>>. How about you?
+> Hey `<<First Name>>`, welcome to our Slack! How about we have a video call sometime soon so that we can get to know each other a bit better?
+>
+> To introduce myself briefly: I am `<<First Name>>` from `<<Country>>`, and I am `<<Coordinators Role>>`. `<<Some fun fact about yourself>>`. How about you?
 
 ## **Schedule video call**
 
 Personal contact is vital to engage new members. You can have a one-on-one call, or organise a new members meetup. The conversation suggestions below can be used for either. Some general advice:
 
--   **Prepare your meeting:** Check if they already filled in the follow up questions. This way you do not have to ask things twice. Feel free to look them up on Facebook and send a friend request, that way you already strengthen your connection.
--   **Leave them with a good feeling:** Do not pressure people to become active in a team if they are not sure yet. Do not demand too much from them all at once, but instead welcome them to join meetings without having to make any big commitments. At the same time, if you notice someone is open to contributing, help them get started as much as possible.
--   **Make notes:** If you promise to do something, make sure to write it down so you do not forget. If there is anything that other coordinators need to know, pass it on directly or add a note to their Mailchimp contact details.
+- **Prepare your meeting:** Check if they already filled in the follow up questions. This way you do not have to ask things twice. Feel free to look them up on Facebook and send a friend request, that way you already strengthen your connection.
+- **Leave them with a good feeling:** Do not pressure people to become active in a team if they are not sure yet. Do not demand too much from them all at once, but instead welcome them to join meetings without having to make any big commitments. At the same time, if you notice someone is open to contributing, help them get started as much as possible.
+- **Make notes:** If you promise to do something, make sure to write it down so you do not forget. If there is anything that other coordinators need to know, pass it on directly or add a note to their Mailchimp contact details.
 
 <div></div>
 
@@ -188,8 +188,8 @@ We recommend to prepare your call by writing down a few bullet points you want t
 7.  **Determine how they would like to contribute and how much time they have available.** Ask about their interests, previous experiences, and what they would like to learn more about.
 8.  **Ask if they have any questions.** Maybe they already thought of something they wanted to talk with you about. Make sure to give them the opportunity to talk about the stuff they want to talk about. This is a conversation, not an interview!
 9.  **Invite them to upcoming events or meetings.**
-10.  **Ask if they're ok with taking a screenshot for posting on our socials, and ask for their handles.**
-11.  **End the conversation by repeating the most important points:** For example, if they showed interest in an upcoming event, say ‘It was really nice meeting you, I’m looking forward to seeing you again at <<Event Name>>"
+10. **Ask if they're ok with taking a screenshot for posting on our socials, and ask for their handles.**
+11. **End the conversation by repeating the most important points:** For example, if they showed interest in an upcoming event, say ‘It was really nice meeting you, I’m looking forward to seeing you again at `<<Event Name>>`"
 
 ## Invitation to events
 
@@ -201,7 +201,7 @@ Every member likes to contribute in a different way. It always is good to encour
 
 Some practical advice:
 
--   **Actively reach out to new members:** People like it if you personally reach out to them to see if they are interested in becoming involved with your team. Do not expect automated emails to do all the work for you.
--   **Engage people during meetings:** People may stay silent, because they do not quite know yet what to expect. Actively try to engage all meeting participants by starting with an introduction round. In a small group, when asking a question, do not wait until someone starts to speak, but instead do a full round. If you have more than 15 people attending, use polls and the chat to facilitate discussions.
--   **Trust new members with responsibilities:** Give a specific small to-do or role to new members, so that they know how they can contribute. Immediately make them feel part of the team, without putting too large of a burden on them.
--   **Follow up:** Reaching out to new members once is not enough. If they have shown interest in contributing, make sure to actively invite them to following events.
+- **Actively reach out to new members:** People like it if you personally reach out to them to see if they are interested in becoming involved with your team. Do not expect automated emails to do all the work for you.
+- **Engage people during meetings:** People may stay silent, because they do not quite know yet what to expect. Actively try to engage all meeting participants by starting with an introduction round. In a small group, when asking a question, do not wait until someone starts to speak, but instead do a full round. If you have more than 15 people attending, use polls and the chat to facilitate discussions.
+- **Trust new members with responsibilities:** Give a specific small to-do or role to new members, so that they know how they can contribute. Immediately make them feel part of the team, without putting too large of a burden on them.
+- **Follow up:** Reaching out to new members once is not enough. If they have shown interest in contributing, make sure to actively invite them to following events.
