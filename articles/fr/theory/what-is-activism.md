@@ -4,9 +4,9 @@ title: >
 description: >
   Définir l'activisme : qu'est-ce qu'un militant ?
 langCode: fr
-articleID: _hPst0sc2edfD_aHL_sR
-languageCollectionID: 3t2WzNz2k1DV52xe7XhR
-lastUpdated: 1673628396818
+articleID: D37GFZ1LkMRiPIzloPtycwYzkS5SdNxL
+languageCollectionID: RSawxfRErEmgxS3BsY3zvOqov6wUBI5V
+lastUpdated: 1673685329952
 tags: []
 ---
 

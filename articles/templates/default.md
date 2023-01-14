@@ -2,9 +2,9 @@
 title: >
   Template: Default
 langCode: en
-articleID: AWl0ci96kcPd9RVLuM4D
-languageCollectionID: siYJvfwNxdaBrN2Njny9
-lastUpdated: 1673628396818
+articleID: UWTQ5EtkDI5T1m6HOSfNwkyNRqicZVQU
+languageCollectionID: 6ARSfvUcot17PE_chUhzNQ5ARbeWEI_s
+lastUpdated: 1673685329952
 tags: []
 ---
 

@@ -2,9 +2,9 @@
 title: >
   Institutional tactics
 langCode: en
-articleID: KEjGc9B7hzMbyAUW0-tU
-languageCollectionID: YfXa24p4Gi9sHTnWA-bU
-lastUpdated: 1673628396818
+articleID: nw4eERozpfzjApJ70ZpLfMa-gQZLHwFb
+languageCollectionID: 1atlKrVlCTFgCLQEt77B-osg_ZzVV7tR
+lastUpdated: 1673685329952
 tags: []
 ---
 

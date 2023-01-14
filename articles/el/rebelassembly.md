@@ -4,9 +4,9 @@ title: >
 description: >
   Παράγοντας οδηγούς που επιφέρουν την αλλαγή
 langCode: el
-articleID: 3uZgZvU_nst5a00duFox
-languageCollectionID: xcK5GZXuwg2AVBrySctB
-lastUpdated: 1673628396818
+articleID: 85BU_NjW3B6pJ_UZT_-uAw05u1EXmTD2
+languageCollectionID: pWCftLI62RW98GgnkjBDA7kjc-b4t9L2
+lastUpdated: 1673685329952
 tags: ["rebel-assembly"]
 ---
 

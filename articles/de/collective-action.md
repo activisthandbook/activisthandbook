@@ -4,9 +4,9 @@ title: >
 description: >
   Gemeinsam können wir mehr erreichen.
 langCode: de
-articleID: 2d4kbMIuIJbbO0NJQQMB
-languageCollectionID: zpqRKs55fSWoJpTMc7zA
-lastUpdated: 1673628396818
+articleID: npaY8yjK4ibdBdESzsMtJl4HAcAL8Qqi
+languageCollectionID: zUN6ty6Qk8DMo3OaSLwiKbzvcTgOGzZw
+lastUpdated: 1673685329952
 tags: []
 ---
 

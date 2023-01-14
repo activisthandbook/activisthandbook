@@ -4,9 +4,9 @@ title: >
 description: >
   How does change happen?
 langCode: en
-articleID: fnIrBb0NXZrAOtUBZ27H
-languageCollectionID: 1M2uWNLHXYaONTDtEdEf
-lastUpdated: 1673628396818
+articleID: LmNWUunV45gqBmGssf3abNWza13wgs9C
+languageCollectionID: DoxgjhOrlNXLvH2mf2ZT8bDLuUrl8hwc
+lastUpdated: 1673685329952
 tags: []
 ---
 
@@ -31,14 +31,14 @@ _This section has not been written yet._
 
 To understand better what we mean with activism and why we are interested in it, we recommend you to read the following articles:
 
--   [What is activism](what-is-activism)
--   [Does activism work](does-activism-work)
--   [Why we do activism](why-do-activism)
+-   [What is activism](/theory/what-is-activism)
+-   [Does activism work](/theory/does-activism-work)
+-   [Why we do activism](/theory/why-do-activism)
 
 ### About demonstrations
 
--   [What is a demonstration](demonstration)
--   [Are protests effective](are-protests-effective)
+-   [What is a demonstration](/theory/demonstration)
+-   [Are protests effective](/theory/are-protests-effective)
 
 ### Theoretical concepts
 
@@ -47,14 +47,14 @@ As an activist, there are probably lots of things that you would like to change.
 We discuss terms that are frequently used in the context of change-making and investigate their meaning:
 
 -   [Dignity of life](/theory/dignity-of-life)
--   [Democracy](democracy)
--   [Ecology](ecology)
--   [Justice](justice)
--   [Power](power)
--   [Intersectionality](intersectionality)
+-   [Democracy](/theory/democracy)
+-   [Ecology](/theory/ecology)
+-   [Justice](/theory/justice)
+-   [Power](/theory/power)
+-   [Intersectionality](/theory/intersectionality)
 -   [Environmental activism and religions](/theory/activism_and_religions)
--   [Overton window](overton-window)
--   [Performative activism](performative-activism)
+-   [Overton window](/theory/overton-window)
+-   [Performative activism](/theory/performative-activism)
 
 <div><figcaption>People theorising what a better world could look like - Generated using OpenAI</figcaption></div>
 
@@ -65,7 +65,7 @@ We discuss terms that are frequently used in the context of change-making and in
 When improving this page, focus on the following:
 
 -   Find a way to structure this chapter
--   Discuss ‘theory of change' in general, and our perspective on it. We already have an article on [theory of change](change), which should be integrated with this chapter.
+-   Discuss ‘theory of change' in general, and our perspective on it. We already have an article on [theory of change](/theory/change), which should be integrated with this chapter.
 
 ### Questions activist may have
 

@@ -4,9 +4,9 @@ title: >
 description: >
   Coordinate the events team &amp; regularly organise meetups
 langCode: en
-articleID: AgV-2yTgO6clG7tWSEgN
-languageCollectionID: b3yp9VgsRD_aGgJdR1xy
-lastUpdated: 1673628396818
+articleID: Es2uf2daqlmqj_gC_MKF-u_mBa2eMaFf
+languageCollectionID: oXQcXsbD7_0RP6yc1rlf_tLADyM-jIkf
+lastUpdated: 1673685329952
 tags: []
 ---
 

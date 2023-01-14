@@ -4,9 +4,9 @@ title: >
 description: >
   Legal protection activists &amp; right to protest
 langCode: en
-articleID: g8fzgkJCr8gUT5DwcfTM
-languageCollectionID: 8_b6Lgmsrhe2dNDYY7le
-lastUpdated: 1673628396818
+articleID: 2w4IYdT--jGzyIvQz_uPm6ZhFt4x0jyr
+languageCollectionID: iF_DamX01lQk50orwSi0vEj-uB4SgzIo
+lastUpdated: 1673685329952
 tags: []
 ---
 

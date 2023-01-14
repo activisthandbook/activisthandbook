@@ -4,9 +4,9 @@ title: >
 description: >
   Project to support activists through education and research
 langCode: en
-articleID: -OrS5R4VuHie2rwDdl3o
-languageCollectionID: gqehlrGOZ-PX3lqyUuLn
-lastUpdated: 1673628396818
+articleID: EZ1vIgmTchqFyA3McgNmBAiqxZq5KaqH
+languageCollectionID: 5pkAwLlDi6jS1PUonsGuUDLpdHXrUvXL
+lastUpdated: 1673685329952
 tags: ["resources"]
 ---
 

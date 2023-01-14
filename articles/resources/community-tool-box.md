@@ -2,9 +2,9 @@
 title: >
   Community Tool Box
 langCode: en
-articleID: CDX59zW4JplnE8f9S7ZO
-languageCollectionID: aSM2CHoe8r1WR8wLzltx
-lastUpdated: 1673628396818
+articleID: BF9yQ6e12PZdIDDbxY6pVpWTXm31RJO5
+languageCollectionID: F2uwrCjt3NBFw1NMQl2kMRoJgXM0JwwP
+lastUpdated: 1673685329952
 tags: []
 ---
 

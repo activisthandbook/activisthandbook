@@ -4,9 +4,9 @@ title: >
 description: >
   Three texts that enshrine the rights and freedoms of human beings
 langCode: en
-articleID: jS5lTM7wgsVxhI4s6iuu
-languageCollectionID: 9lc8l6MfDB-zF3hWsR7r
-lastUpdated: 1673628396818
+articleID: iej0uYGr3CDZlcvynq2m5flmUP6YcRq2
+languageCollectionID: 5PGAJLJflddlHkteTrKBDMJkpH95t47F
+lastUpdated: 1673685329952
 tags: ["terms"]
 ---
 

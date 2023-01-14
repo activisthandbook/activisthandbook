@@ -2,9 +2,9 @@
 title: >
   Volunteer guide: Localisation coordinator
 langCode: en
-articleID: 2bN4SOJfC6C7eiSQ3vkO
-languageCollectionID: yZWt_0hq7DhwsMMeSt9O
-lastUpdated: 1673628396818
+articleID: aiE9hd-kNEx8NtOvnrnvq0lSc6JH-tdG
+languageCollectionID: u4xSUNsZlOOLjvhc-GQNSMP3X1J93XZ6
+lastUpdated: 1673685329952
 tags: []
 ---
 

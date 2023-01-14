@@ -2,9 +2,9 @@
 title: >
   Education as activist tactic
 langCode: en
-articleID: kNxIVX9vUzzfgYDeaTQi
-languageCollectionID: e5OfhV8zhJevfm4xAFQf
-lastUpdated: 1673628396818
+articleID: 0iM1Ybt-Lhrxd1sDOzRcCnsbqVLb06gG
+languageCollectionID: vI18rK1Qtnh1B19oRoOUVtarBrxCVtPS
+lastUpdated: 1673685329952
 tags: []
 ---
 

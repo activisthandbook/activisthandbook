@@ -2,9 +2,9 @@
 title: >
   Guide for activist photographers
 langCode: en
-articleID: TQTCJkeahhDV_HKXXk_a
-languageCollectionID: NSFzG6wuOU9Uo61f3UJu
-lastUpdated: 1673628396818
+articleID: uAjFiHvDfC9OxpQhl7FyMjbU_2SSh1kJ
+languageCollectionID: _jyTS0KcwRvT5FwFOwmHwhfkkW3CXYYR
+lastUpdated: 1673685329952
 tags: ["communication"]
 ---
 

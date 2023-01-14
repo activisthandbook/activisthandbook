@@ -4,9 +4,9 @@ title: >
 description: >
   Hoe zet je een succesvolle beweging op
 langCode: nl
-articleID: VbRxL9MmGGbRJflFpo3_
-languageCollectionID: JZSmk50dN2l-J1Kcyw4z
-lastUpdated: 1673628396818
+articleID: v7AajZgWNE5zaDMlv7NfsRWspjdFehH9
+languageCollectionID: ITWBzSSohZvn75yl1bMWEKXBcG25oQo7
+lastUpdated: 1673685329952
 tags: ["stub"]
 ---
 

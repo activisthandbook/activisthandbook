@@ -4,9 +4,9 @@ title: >
 description: >
   Writing a strategy for your movement
 langCode: en
-articleID: kSDyBf32gDlAjzPv5Bqc
-languageCollectionID: 2Lh8bBbPXLAaTIbsnqLs
-lastUpdated: 1673628396818
+articleID: oo1rE4yzsyjFsR5a-muGZ1vakgy3Z4Tz
+languageCollectionID: _ZCOZWiqf0Fjt1sq8bzfbsQmz1GVIvpJ
+lastUpdated: 1673685329952
 tags: []
 ---
 

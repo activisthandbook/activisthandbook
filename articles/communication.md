@@ -4,9 +4,9 @@ title: >
 description: >
   Making sure your message comes across
 langCode: en
-articleID: PCIl3D3NxZsk_zFmMKhr
-languageCollectionID: mdsnXb34Ii5rOni7V93C
-lastUpdated: 1673628396818
+articleID: BMTtgV3wrmjM0MOMSEsK8zAMcMGARurk
+languageCollectionID: vyM2R7LMYceaETy78b96LeimoDr1E-9y
+lastUpdated: 1673685329952
 tags: []
 ---
 
@@ -14,33 +14,33 @@ tags: []
 
 ## Communication strategy
 
--   📣 [**Audiences**](audiences)
+-   📣 [**Audiences**](/communication/audiences)
 -   ✊ **Engagement flow**
--   💬 **Language** (include [Inclusive language](inclusive-language), and [Communicating science](science))
--   **🎨** [**Visual identity**](visual-identity): Read this guide on how to create a brand kit.
+-   💬 **Language** (include [Inclusive language](/communication/inclusive-language), and [Communicating science](/communication/science))
+-   **🎨** [**Visual identity**](/communication/visual-identity): Read this guide on how to create a brand kit.
 
 ## Platforms
 
 Where do you want to share your message?
 
 -   [**Social media**](/tools/social-media): Stop mindlessly feeding the algorithm and start using social media effectively for your movement.
--   [**Chat apps**](chat-apps): Learn how to use chat apps such as WhatsApp to broadcast messages to members of your community.
--   [**SMS campaigns**](sms-campaigns): Spread your message and call people to action using text messages.
--   [**Phone banking**](phone-banking): Have effective conversations over the phone on a large scale.
--   [**News media**](news-media): Learn how to write press releases
--   [**Public speaking**](public-speaking) (not yet created): Learn how to give a speech during a protest.
+-   [**Chat apps**](/communication/chat-apps): Learn how to use chat apps such as WhatsApp to broadcast messages to members of your community.
+-   [**SMS campaigns**](/communication/sms-campaigns): Spread your message and call people to action using text messages.
+-   [**Phone banking**](/communication/phone-banking): Have effective conversations over the phone on a large scale.
+-   [**News media**](/communication/news-media): Learn how to write press releases
+-   [**Public speaking**](/communication/public-speaking) (not yet created): Learn how to give a speech during a protest.
 
 ## Content creation
 
--   **🎥** [**Videos**](videos): Learn how to record videos of your actions.
--   **📸** [**Photos**](photos): Become a professional photographer at protests.
--   **🔴** [**Livestream**](livestream): Learn how to organise a livestream.
--   **🏡** [**Action back-office**](action-back-office)**:** Every action needs people who stay at home or in the office to edit and share media online.
+-   **🎥** [**Videos**](/communication/videos): Learn how to record videos of your actions.
+-   **📸** [**Photos**](/communication/photos): Become a professional photographer at protests.
+-   **🔴** [**Livestream**](/communication/livestream): Learn how to organise a livestream.
+-   **🏡** [**Action back-office**](/communication/action-back-office)**:** Every action needs people who stay at home or in the office to edit and share media online.
 
 ## Big-budget communication
 
--   [**A/B testing your messaging**](a-b-testing)
--   [**Advertising**](advertising) **(needs to be created)**
+-   [**A/B testing your messaging**](/communication/a-b-testing)
+-   [**Advertising**](/communication/advertising) **(needs to be created)**
 
 <div><figcaption><strong>Global Climate Strike in London – </strong>Global Climate Strike in London. Tens of thousands turned out in central London to call for radical change to climate policies. The day included speeches and a march through central London. (<a href="https://www.flickr.com/photos/350org/48794671711/">350org, 2019</a>)</figcaption></div>
 

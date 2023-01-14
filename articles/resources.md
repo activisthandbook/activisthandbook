@@ -4,9 +4,9 @@ title: >
 description: >
   Resources for activists: Books, movies, podcasts
 langCode: en
-articleID: Gejeof0BL6bdn2UE-zAl
-languageCollectionID: mNsIVKtF8jputDB-FXDD
-lastUpdated: 1673628396818
+articleID: OWPq8HEDj152I14bzTt7J60L5YQmRfQn
+languageCollectionID: 0jQxMwFUI_9YjLpdFj6WCddogpRhHcob
+lastUpdated: 1673685329952
 tags: ["resources"]
 ---
 
@@ -18,12 +18,12 @@ _Resources in other languages:_ [_Nederlands_](/nl/resources)
 
 We made a collection of valuable resources for protestors, campaigners and all other social change-makers:
 
--   **🔗** [**Websites**](websites)
--   **📕** [**Books**](books)
--   **🎧** [**Podcasts**](podcasts)
--   **🎬** [**Films and documentaries**](films-documentaries)
--   **🎓** [**Scientific research**](scientific-research)
--   **📝** [**Articles and blogs**](articles-and-blogs)
+-   **🔗** [**Websites**](/resources/websites)
+-   **📕** [**Books**](/resources/books)
+-   **🎧** [**Podcasts**](/resources/podcasts)
+-   **🎬** [**Films and documentaries**](/resources/films-documentaries)
+-   **🎓** [**Scientific research**](/resources/scientific-research)
+-   **📝** [**Articles and blogs**](/resources/articles-and-blogs)
 
 > If you would like to learn more about mobilising, movement-building and organising protests, make sure to check out the rest of [Activist Handbook](/home).
 

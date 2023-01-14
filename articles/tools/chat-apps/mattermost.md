@@ -2,9 +2,9 @@
 title: >
   Mattermost
 langCode: en
-articleID: vNd8jaMiYVFzXGeI5yPf
-languageCollectionID: BmKOHCe6AcFFNX51NQcZ
-lastUpdated: 1673628396818
+articleID: lrO0MbNzrijc2hAjxCUSCLB5y-gCCB3a
+languageCollectionID: aEMCgloSy3bmG7SBNDWzPGKAFl0Ibi7K
+lastUpdated: 1673685329952
 tags: ["tools","chat apps","stub"]
 ---
 

@@ -4,9 +4,9 @@ title: >
 description: >
   Legal rights and police practices
 langCode: en
-articleID: hdVap20VPuYQmXBdE36-
-languageCollectionID: 9b-i0JgaBw-UiRAM0BiU
-lastUpdated: 1673628396818
+articleID: zc5CQ57fRTkyLinzeaWSWxt4IEUvrEMx
+languageCollectionID: LDnYVJ5ahSgEk6YFGbaiaUzCU3L_6XRc
+lastUpdated: 1673685329952
 tags: []
 ---
 

@@ -4,9 +4,9 @@ title: >
 description: >
   Responsibilities of first aiders at protests
 langCode: en
-articleID: _YlTc6HB9RiBKkAxTn74
-languageCollectionID: 6MfQfN3QQTBRTksoDne_
-lastUpdated: 1673628396818
+articleID: mK_W4dMU1W-1U10RwW3vN9_uJCGu2Iha
+languageCollectionID: 2y5Umz29su1iwh4IBMo47Cr_slLz4-tD
+lastUpdated: 1673685329952
 tags: []
 ---
 
@@ -66,11 +66,11 @@ There are some limitations all medics must adhere to while operating in a medic 
 
 **Maintain patient-caregiver confidentiality.** Medics must not break patient confidentiality. Apart from the ethical concerns of violating the trust between a medical practitioner and their patient, this may be illegal and violate local healthcare regulations. Medics do not talk to the police or journalists about their patients. Medics do not share photos or blog about patients they treat because given the number of cameras present during actions, it is unlikely this can be done while maintaining patient anonymity (3).
 
-Obtain informed consent. Medics must get informed consent from a patient before touching them or beginning care. When a patient consents to care, they are only consenting to the care necessary to heal them or provide lifesaving interventions. They are not consenting to a full medical examination or the collecting of tissue samples. Patients cannot consent to procedures like this because, as someone who is in need of care or in a possibly altered mental state, their consent is not freely given. Asking to take samples is likely coercion (4). Additional details about consent during an examination can be found in Chapter 6 (“[Patient Assessment](patient-assessment)”).
+Obtain informed consent. Medics must get informed consent from a patient before touching them or beginning care. When a patient consents to care, they are only consenting to the care necessary to heal them or provide lifesaving interventions. They are not consenting to a full medical examination or the collecting of tissue samples. Patients cannot consent to procedures like this because, as someone who is in need of care or in a possibly altered mental state, their consent is not freely given. Asking to take samples is likely coercion (4). Additional details about consent during an examination can be found in Chapter 6 (“[Patient Assessment](/wellbeing/riot-medicine/responsibilities/patient-assessment)”).
 
 ## Risk and Self-Preservation
 
-Confronting the State and fascism is an inherently risky endeavor, and there is some amount of risk you need to accept by joining a social movement. You should make preparations in case you are hospitalized or arrested. This is covered further in Chapter 3 (“[Pre-Action Planning](pre-action-planning)”).
+Confronting the State and fascism is an inherently risky endeavor, and there is some amount of risk you need to accept by joining a social movement. You should make preparations in case you are hospitalized or arrested. This is covered further in Chapter 3 (“[Pre-Action Planning](/wellbeing/riot-medicine/responsibilities/pre-action-planning)”).
 
 When treating a patient for any serious injury, you should not stop unless law enforcement makes you stop. By becoming a medic and offering treatment, this is a risk you accept. Obeying police and halting treatment can kill people (5). If police want you to stop, make them drag you away from your patient (6).
 

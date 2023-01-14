@@ -4,9 +4,9 @@ title: >
 description: >
   Activists that demand attention for the climate and ecological crisis
 langCode: en
-articleID: N_caB_xP4GPIK1jfA6vf
-languageCollectionID: WbeGyCHouGYn_Dr-KLUQ
-lastUpdated: 1673628396818
+articleID: _xKDr3r0NeZncCpjvozgRLTmwXJ0-DoA
+languageCollectionID: dxfnXNmYCFlrEddPuQ6KtRC-zPVbmNwq
+lastUpdated: 1673685329952
 tags: []
 ---
 

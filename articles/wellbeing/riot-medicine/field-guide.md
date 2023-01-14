@@ -4,9 +4,9 @@ title: >
 description: >
   A quick reference for first aiders during protests
 langCode: en
-articleID: FLBz9kZGWA--BOjKeDN9
-languageCollectionID: YZIxzx_sQF4S1bUhSLxQ
-lastUpdated: 1673628396818
+articleID: rjM_4eN-dzZHsuHG5rgnLZ-ujvylBF6v
+languageCollectionID: 5vynlmTZXjneeoK1-Zn9BajL0TcF_XlY
+lastUpdated: 1673685329952
 tags: []
 ---
 

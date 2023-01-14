@@ -2,9 +2,9 @@
 title: >
   Inclusive language
 langCode: en
-articleID: To0hwqvigzIgw9TySliC
-languageCollectionID: BiZl4NOfEn8CWtl0uYtV
-lastUpdated: 1673628396818
+articleID: u7aRZ48fKZpW2mRykp_FQxxpjvLa8DEQ
+languageCollectionID: HNaN2oEGZKZTKmfvZbNJxzLKM7YUMnH5
+lastUpdated: 1673685329952
 tags: ["stub","communication","inclusivity"]
 ---
 

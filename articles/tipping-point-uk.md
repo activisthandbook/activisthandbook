@@ -2,9 +2,9 @@
 title: >
   Tipping Point UK
 langCode: en
-articleID: BYj2ZKV3pI9_iOAPx0dE
-languageCollectionID: ply-WEYiGGtUREAoDRRR
-lastUpdated: 1673628396818
+articleID: OdVN722GRG9lLrM5XnjT4DcbC3J6J7PU
+languageCollectionID: jKqSFm9deQtaI1d_cMV4PlA9KAWzaU-J
+lastUpdated: 1673685329952
 tags: []
 ---
 

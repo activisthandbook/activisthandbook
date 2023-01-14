@@ -4,9 +4,9 @@ title: >
 description: >
   Rotterdamse klimaatbeweging
 langCode: nl
-articleID: i1d7Y0-30F41tZPoukpT
-languageCollectionID: aczbI1MLDKvgrv8RIxz2
-lastUpdated: 1673628396818
+articleID: SR1iB-ZToU2KctvY7fcJhiUjmC9MTt4b
+languageCollectionID: ekXsvWeVKDyBsuJ_rMzA3fgOvVILTeGn
+lastUpdated: 1673685329952
 tags: []
 ---
 

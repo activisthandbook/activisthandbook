@@ -4,9 +4,9 @@ title: >
 description: >
   Resource for activists
 langCode: en
-articleID: 8tNh0qKg7yjZDn8ASPTk
-languageCollectionID: DpTAlpXHEMzgjOkYFmqy
-lastUpdated: 1673628396818
+articleID: UdKJoVzUjE7LWVkjewxsRvfQ3rFySGFb
+languageCollectionID: xt7Vy9hEhnWIkSdFWkhGKjinr24zRVuG
+lastUpdated: 1673685329952
 tags: ["resources","books"]
 ---
 

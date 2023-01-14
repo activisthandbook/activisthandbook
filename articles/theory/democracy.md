@@ -4,9 +4,9 @@ title: >
 description: >
   What does it mean in various contexts
 langCode: en
-articleID: S92In8r3ug70HcjCPsGd
-languageCollectionID: LW3zr7wjTSLtI4Mqhf9W
-lastUpdated: 1673628396818
+articleID: ctOQoq_XeetaRurwEvu-thYuJS_q4kyp
+languageCollectionID: 0u-Vg8bQMqa4sejpsnujOjzoq4VnV7rB
+lastUpdated: 1673685329952
 tags: ["#workinprogress"]
 ---
 

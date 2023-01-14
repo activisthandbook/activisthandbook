@@ -4,9 +4,9 @@ title: >
 description: >
   Training and resources for change-makers
 langCode: en
-articleID: _w9jQ_8H8g93GsBHAL4b
-languageCollectionID: xgknxdPXzKHLD3eyQONX
-lastUpdated: 1673628396818
+articleID: QcaztZ-RCJNmXaTsUZ_3FV58s4Pkg9Ak
+languageCollectionID: 9UpYwtepkqw2LoWQkoKDUEByWYCdQqsE
+lastUpdated: 1673685329952
 tags: ["resources","training"]
 ---
 

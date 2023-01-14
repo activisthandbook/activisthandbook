@@ -2,9 +2,9 @@
 title: >
   Organisation frameworks
 langCode: en
-articleID: msuv6xSG3du15ciZGHph
-languageCollectionID: 1blpPXAWjPpJ6X6au5V6
-lastUpdated: 1673628396818
+articleID: DM-HnQuXGj3Dlw9cEOfHMqBkasmujtC6
+languageCollectionID: 7bUCqJzuzUujz8muxRRfloRyBo4uTWYk
+lastUpdated: 1673685329952
 tags: ["stub","organising"]
 ---
 

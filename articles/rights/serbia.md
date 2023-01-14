@@ -2,9 +2,9 @@
 title: >
   Right to protest in Serbia
 langCode: en
-articleID: USgWI5C3PTMkOhvzxQ1p
-languageCollectionID: 5pNbynlGTuSBlzerDhLV
-lastUpdated: 1673628396818
+articleID: pUTPmwmTeLA4VZuOLn7U3rD2qvaWkd6g
+languageCollectionID: opGR7IaathdfF8tF8jE0JnsNH7GGez1Q
+lastUpdated: 1673685329952
 tags: []
 ---
 

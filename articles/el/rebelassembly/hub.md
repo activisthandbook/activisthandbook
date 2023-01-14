@@ -4,9 +4,9 @@ title: >
 description: >
   Κάνε εγγραφή σε έναν τοπικό κόμβο
 langCode: el
-articleID: hnNBxQsvMdIh39U26nJ7
-languageCollectionID: XswfXeSglGuNoQTYutHv
-lastUpdated: 1673628396818
+articleID: QaLaNMu0eTE4a-RLY9yihcu9Y9wpF5y3
+languageCollectionID: lwIDfln8sgK5IQLIxVUKBPLulQg7dCZ0
+lastUpdated: 1673685329952
 tags: ["rebel-assembly"]
 ---
 

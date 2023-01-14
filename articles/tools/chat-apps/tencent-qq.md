@@ -2,9 +2,9 @@
 title: >
   Tencent QQ
 langCode: en
-articleID: Fg_W540C68U-rpO7qAAM
-languageCollectionID: 2T2JO6p-vyNWvbjIQPFZ
-lastUpdated: 1673628396818
+articleID: W4HKn0J95nh0CkNxTO3XWh4yvcd8a_B9
+languageCollectionID: qX_YwuefThaSCiDxrKYjOPK6cCuX3dRF
+lastUpdated: 1673685329952
 tags: []
 ---
 

@@ -2,9 +2,9 @@
 title: >
   Protesting rights in Russia
 langCode: en
-articleID: _zrMx6BZRcjTfJ46I7dL
-languageCollectionID: kWwaK0WWs9wqBSejUYlu
-lastUpdated: 1673628396818
+articleID: 2akVt_TsS8SOyzR8Yl1nIrYZbEzwX7Qu
+languageCollectionID: pNkPzOH6LLCUUj8F4gfDzyjqxCFmdl4b
+lastUpdated: 1673685329952
 tags: []
 ---
 

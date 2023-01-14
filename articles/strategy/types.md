@@ -4,9 +4,9 @@ title: >
 description: >
   Different ways of making impact
 langCode: en
-articleID: tSF7EsxyGwm9xlDybixc
-languageCollectionID: U-f6Zfi68YfuJ4f5kfjq
-lastUpdated: 1673628396818
+articleID: jYt25RFXEbqcqthCoh4G7ScO-7EtsDSG
+languageCollectionID: PjkARBDMLTT9GadggBuO-cpbzxkns2MM
+lastUpdated: 1673685329952
 tags: []
 ---
 

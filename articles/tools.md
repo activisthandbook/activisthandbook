@@ -4,9 +4,9 @@ title: >
 description: >
   Work more efficiently as activist with these digital tools
 langCode: en
-articleID: OVXjIrJbQYw2Wt3zcJLp
-languageCollectionID: iRmFT2tBTvlecN7BNHd9
-lastUpdated: 1673628396818
+articleID: W4SDua4Sq9STJLYIfrVrgVSGW8uci52u
+languageCollectionID: B6YKx4-T85kl9l0BeipCnKGJZGr5MvON
+lastUpdated: 1673685329952
 tags: ["tools","chapters"]
 ---
 
@@ -22,50 +22,50 @@ _**✨ Highlighted tool:**_ [_Rebel Tools_](/rebel-tools)_, the all-on-one tools
 
 The following tools can be used to communicate within your movement, and reach out to potential new members. For example, check out our comparison of [chat apps](/tools/chat-apps), where we provide some suggestions for how to set up internal communication channels if your group starts getting bigger.
 
-We also have guides on how to use social media platforms like [Instagram](instagram), [Facebook](facebook) and [Twitter](twitter) effectively. And if you need pictures to post on your socials, make sure to bookmark our collection of free [photos](photo-libraries), [illustrations](vector-libraries) and [videos](video-libraries).
+We also have guides on how to use social media platforms like [Instagram](/tools/instagram), [Facebook](/tools/facebook) and [Twitter](/tools/twitter) effectively. And if you need pictures to post on your socials, make sure to bookmark our collection of free [photos](/tools/photo-libraries), [illustrations](/tools/vector-libraries) and [videos](/tools/video-libraries).
 
 -   **❤️** [**Social media**](/tools/social-media)
 -   **💬** [**Chat apps**](/tools/chat-apps)
--   **📸** [**Photo libraries**](photo-libraries)
--   **✏️** [**Vector illustration libraries**](vector-libraries)
--   **🎞** [**Video footage libraries**](video-libraries)
--   **☎️** [**Video calling**](video-calling)
+-   **📸** [**Photo libraries**](/tools/photo-libraries)
+-   **✏️** [**Vector illustration libraries**](/tools/vector-libraries)
+-   **🎞** [**Video footage libraries**](/tools/video-libraries)
+-   **☎️** [**Video calling**](/tools/video-calling)
 -   **✉️** [**Email and newsletters**](/tools/newsletters)
--   📱 [**Broadcasting messages**](broadcasting-messages)
--   **🔗** [**Website**](website)
--   **❓** [**Support desk**](support-desk)
--   🔍 [**Search engine optimisation (SEO)**](seo)
--   🔴 [**Livestreaming**](livestreaming)
+-   📱 [**Broadcasting messages**](/tools/broadcasting-messages)
+-   **🔗** [**Website**](/tools/website)
+-   **❓** [**Support desk**](/tools/support-desk)
+-   🔍 [**Search engine optimisation (SEO)**](/tools/seo)
+-   🔴 [**Livestreaming**](/tools/livestreaming)
 
 ## Productivity apps
 
--   **🗂** [**Productivity suites**](productivity-suites): All-in-one packages for productivity tools.
--   **⚡** [**Movement organising**](organising): All-in-one solutions for membership management, hosting events, sharing petitions.
--   **🙋‍♀️** [**Decision making**](decision-making): Platforms that help you make democratic decisions, including everyone in the conversation.
--   **✅** [**Project management**](project-management): Tools that help you keep track of projects and to-do's while working in teams.
--   **📂** [**File storage**](file-storage): Solutions for storing and sharing documents.
--   📝 [**Documents**](documents): Modern text editors for collaborating online
--   🎤 [**Presentations**](presentations): Apps to make presentation slides.
--   **💡**[**Brainstorming**](brainstorming): Creative tools for collecting ideas online.
--   ❓ [**Forms**](forms): Tools to collect responses using surveys and signup forms.
--   🤖 [**Workflow automation**](workflow-automation): Connect all your tools and automate repetitive tasks.
+-   **🗂** [**Productivity suites**](/tools/productivity-suites): All-in-one packages for productivity tools.
+-   **⚡** [**Movement organising**](/tools/organising): All-in-one solutions for membership management, hosting events, sharing petitions.
+-   **🙋‍♀️** [**Decision making**](/tools/decision-making): Platforms that help you make democratic decisions, including everyone in the conversation.
+-   **✅** [**Project management**](/tools/project-management): Tools that help you keep track of projects and to-do's while working in teams.
+-   **📂** [**File storage**](/tools/file-storage): Solutions for storing and sharing documents.
+-   📝 [**Documents**](/tools/documents): Modern text editors for collaborating online
+-   🎤 [**Presentations**](/tools/presentations): Apps to make presentation slides.
+-   **💡**[**Brainstorming**](/tools/brainstorming): Creative tools for collecting ideas online.
+-   ❓ [**Forms**](/tools/forms): Tools to collect responses using surveys and signup forms.
+-   🤖 [**Workflow automation**](/tools/workflow-automation): Connect all your tools and automate repetitive tasks.
 
 ## Creative media
 
 -   **🎨** [**Graphic design**](/tools/graphic-design): Creating visually attractive imagery is a great way to illustrate your message. In this article you will find a list of photography and vector editing applications.
--   **🎬** [**Making videos**](videos): By publishing promotional videos for your actions on social media and recording your protests, even people who are outside your direct circle will be able to get to know your movement. In this article we discuss various ways in which you can share videos with your fellow rebels, including Youtube and Vimeo, but also open source self-hosted alternatives.
--   **🎤** [**Podcasts**](podcasts): Publish your audio recordings with one of these tools. Podcasts are a great way to convey your message in a personal way.
+-   **🎬** [**Making videos**](/tools/videos): By publishing promotional videos for your actions on social media and recording your protests, even people who are outside your direct circle will be able to get to know your movement. In this article we discuss various ways in which you can share videos with your fellow rebels, including Youtube and Vimeo, but also open source self-hosted alternatives.
+-   **🎤** [**Podcasts**](/tools/podcasts): Publish your audio recordings with one of these tools. Podcasts are a great way to convey your message in a personal way.
 
 ## Acting
 
--   **📝** [**Petitions**](petitions)
--   **📞** [**Contacting politicians**](contacting-politicians)
--   **⚠️** [**Responding in crises**](responding-in-crises)
+-   **📝** [**Petitions**](/tools/petitions)
+-   **📞** [**Contacting politicians**](/tools/contacting-politicians)
+-   **⚠️** [**Responding in crises**](/tools/responding-in-crises)
 
 ## Digital challenges
 
--   [Digital security](security)
--   [Privacy](privacy)
+-   [Digital security](/tools/security)
+-   [Privacy](/tools/privacy)
 -   [Tools for archiving](/organising/archiving-tools)
 -   Bandwidth limitations / No Internet
 -   Access in countries that implement filtering / censorship

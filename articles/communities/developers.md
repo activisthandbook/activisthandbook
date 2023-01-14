@@ -4,16 +4,16 @@ title: >
 description: >
   Developers that want to make a change
 langCode: en
-articleID: g_2ExI9n7qgER1eRLTmE
-languageCollectionID: VR8wYxnlXMxPpzsUsiop
-lastUpdated: 1673628396818
+articleID: NlevbKxKZYLzHYXN73sFp2pqf6enig-y
+languageCollectionID: gGTFi91yJngTjiLDsk0YiZYZBvwzO0cI
+lastUpdated: 1673685329952
 tags: []
 ---
 
 ## Resources
 
 -   [Hacktivism](https://en.wikipedia.org/wiki/Hacktivism) from Wikipedia
--   [Aaron Swartz](Aaron Swartz) from Wikipedia
+-   [Aaron Swartz](/communities/developers/Aaron Swartz) from Wikipedia
 -   [Digital Tools for Activism](https://github.com/drewrwilson/toolsforactivism) by Drew Wilson \[GitHub\]
 -   [Coders Should Be Activists](https://onezero.medium.com/coders-should-be-activists-5104bd18e349) by Owen Williams (2020) \[Blog\]
 -   [Activism for developers](https://blog.testdouble.com/posts/2020-06-23-activism-for-developers/) by Josh Klina (2020) \[Blog\]

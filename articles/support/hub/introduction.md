@@ -4,9 +4,9 @@ title: >
 description: >
   Building the Wikipedia for activists
 langCode: en
-articleID: mgRci7BI8ERKp6VuOFMA
-languageCollectionID: SHCl8xye6tKPJf1CRV0h
-lastUpdated: 1673628396818
+articleID: DrImSVfUnTavGB5BoSFTOnngsRm4IELm
+languageCollectionID: sKyFV3JxpzQ6b-6iR7SY3c3C_SXKKSEK
+lastUpdated: 1673685329952
 tags: []
 ---
 

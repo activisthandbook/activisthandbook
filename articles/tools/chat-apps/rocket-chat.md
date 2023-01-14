@@ -2,9 +2,9 @@
 title: >
   Rocket Chat
 langCode: en
-articleID: dATZ1Q_zbWH0-N2jzc9y
-languageCollectionID: oy6lBCDmTQDro7YXMmmk
-lastUpdated: 1673628396818
+articleID: _NTgdq3H1_ltj5rhUc-CoZEj1H7JpNtN
+languageCollectionID: WI4qv77L78aohEyYsKQ6_shn2p0MVOox
+lastUpdated: 1673685329952
 tags: ["tools","threaded apps","stub"]
 ---
 

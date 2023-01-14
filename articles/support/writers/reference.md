@@ -4,9 +4,9 @@ title: >
 description: >
   How to add links to external resources
 langCode: en
-articleID: sUhLY4ld73mJGapm4NxH
-languageCollectionID: 26Qxy4SAMO6CHwVTPj_g
-lastUpdated: 1673628396818
+articleID: hbifSy3fy9nqQDZ59006lNeSgFdeKOyh
+languageCollectionID: 4GHGBRL2lCEUw2RqhJvZ8IT1OXn_q8oX
+lastUpdated: 1673685329952
 tags: []
 ---
 
@@ -14,10 +14,10 @@ tags: []
 
 > Examples of correctly formatting external resources:
 > 
-> -   [Name of article](#) by Author (2020) | [View in archive](#)
-> -   [Book: Name of book](#) by Author (2020)
-> -   [Video: Name of video](#) \[French\] by Author (2020)
-> -   [Name of resource](#) by Author (no date)
+> -   [Name of article](/support/writers/reference/#) by Author (2020) | [View in archive](/support/writers/reference/#)
+> -   [Book: Name of book](/support/writers/reference/#) by Author (2020)
+> -   [Video: Name of video](/support/writers/reference/#) \[French\] by Author (2020)
+> -   [Name of resource](/support/writers/reference/#) by Author (no date)
 
 The first step when writing a new article is to collect resources. Resources can be external articles, books, movies, and more. Here are a few tips when collecting resources:
 
@@ -29,7 +29,7 @@ The first step when writing a new article is to collect resources. Resources can
 
 When you add an illustration you will be given an option to edit the captions at the bottom. We recommend the following format of the caption:
 
-<div><figcaption><a href="#">Image title</a> by Author (Year)</figcaption></div>
+<div><figcaption><a href="/support/writers/reference/#">Image title</a> by Author (Year)</figcaption></div>
 
 ## Footnotes
 

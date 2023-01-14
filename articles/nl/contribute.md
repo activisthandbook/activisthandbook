@@ -4,9 +4,9 @@ title: >
 description: >
   Iedereen kan bijdragen aan Activist Handbook!
 langCode: nl
-articleID: r_ABSBVz9M-RNr5jfbJ6
-languageCollectionID: F9Eojzvno9m1UnzRxLDc
-lastUpdated: 1673628396818
+articleID: zMG9XDCX16xDkwVBlPGEtDoSoiAIVFZM
+languageCollectionID: ajHHy5e7jXHuYXfdTO-VqvINbtzGWPz_
+lastUpdated: 1673685329952
 tags: []
 ---
 

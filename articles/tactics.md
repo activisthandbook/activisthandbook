@@ -4,9 +4,9 @@ title: >
 description: >
   A list of tactics for activists and tactical action planning
 langCode: en
-articleID: MukOgjLyGsSm3n5V12lD
-languageCollectionID: FWi3NKX_AXCbpWRRJ2RM
-lastUpdated: 1673628396818
+articleID: u2uIhh0syYqbQXWoN5Ufc3JRuYK3uOaS
+languageCollectionID: oyaLu175_j_IB5fycyWhZghGFdbQROr0
+lastUpdated: 1673685329952
 tags: []
 ---
 
@@ -16,14 +16,14 @@ tags: []
 
 ## Choose your tactic
 
-You should pick your tactics based on your [strategy](/strategy). To help you get started, we created four broad categories. Tactics may fall under multiple categories. Also make sure to read our guide on how to [choosing your tactic](choose).
+You should pick your tactics based on your [strategy](/strategy). To help you get started, we created four broad categories. Tactics may fall under multiple categories. Also make sure to read our guide on how to [choosing your tactic](/tactics/choose).
 
 I want to…
 
--   **📢** [**Challenge the system**](system-challanging), through disruption and disobedience
--   **🛠** [**Build alternatives**](alternative-building), through creation of new spaces for communities
--   **📚** [**Change our culture**](cultural), through education, art and awareness campaigns
--   **🏛** [**Work within institutions**](institutional), through election campaigns, lobbying, legal action and financial pressure
+-   **📢** [**Challenge the system**](/tactics/system-challanging), through disruption and disobedience
+-   **🛠** [**Build alternatives**](/tactics/alternative-building), through creation of new spaces for communities
+-   **📚** [**Change our culture**](/tactics/cultural), through education, art and awareness campaigns
+-   **🏛** [**Work within institutions**](/tactics/institutional), through election campaigns, lobbying, legal action and financial pressure
 
 <div><figcaption>People marching - Generated using OpenAI</figcaption></div>
 
@@ -33,35 +33,35 @@ I want to…
 
 Protesting is great way to attract the attention of the public, either by gathering a large crowd or by doing something out of the ordinary.
 
-**Topics:** [March](march) | [Flash mob](flash-mob) | [Occupation](occupation) | [Direct action](direct-action) | [Civil disobedience](civil-disobedience) | [Cultural disobedience](cultural-disobedience) | [Human banner](human-banner) | [Cacerolazo](cacerolazo) | [Hunger strike](hunger-strike) | [Banner drop](banner-drop) | [Citizen's arrest](citizens-arrest) | [Distributed action](distributed-action) | [Hoax](hoax) | [Lamentation (mourning)](https://beautifulrising.org/tool/lamentation) | Walking blockade
+**Topics:** [March](/tactics/march) | [Flash mob](/tactics/flash-mob) | [Occupation](/tactics/occupation) | [Direct action](/tactics/direct-action) | [Civil disobedience](/tactics/civil-disobedience) | [Cultural disobedience](/tactics/cultural-disobedience) | [Human banner](/tactics/human-banner) | [Cacerolazo](/tactics/cacerolazo) | [Hunger strike](/tactics/hunger-strike) | [Banner drop](/tactics/banner-drop) | [Citizen's arrest](/tactics/citizens-arrest) | [Distributed action](/tactics/distributed-action) | [Hoax](/tactics/hoax) | [Lamentation (mourning)](https://beautifulrising.org/tool/lamentation) | Walking blockade
 
 ### **Creative 🎨**
 
 Activism can be beautiful. By using creative tactics you can make your movement stand out from the crowd.
 
-**Topics:** [**Visual Identity**](/communication/visual-identity) | [Posters](posters) | [Stickers](stickers) | [Stamps](stamps) | [Film](film) | [Photography](photography) | [Art](/tactics/art) | [Theatre](/tactics/theatre) | [Music](/tactics/music) | [Artistic vigil](artistic-vigil)
+**Topics:** [**Visual Identity**](/communication/visual-identity) | [Posters](/tactics/posters) | [Stickers](/tactics/stickers) | [Stamps](/tactics/stamps) | [Film](/tactics/film) | [Photography](/tactics/photography) | [Art](/tactics/art) | [Theatre](/tactics/theatre) | [Music](/tactics/music) | [Artistic vigil](/tactics/artistic-vigil)
 
 ### Digital 👩‍💻
 
 There are many ways of digital activism. Some of them include sharing pictures and stories, building a network or sharing a certain hashtag, getting as many people as possible to sign a petition.
 
-**Topics:** [Petitions](petition) | [Hacktivism](hacktivism)
+**Topics:** [Petitions](/tactics/petition) | [Hacktivism](/tactics/hacktivism)
 
 ### Informational 🎓
 
 Sometimes having a conversation is better than shouting slogans. Informational tactics are there to start a public debate about certain topics, in the hope that the outcome of the debate will lead to societal change.
 
-**Topics:** [Education](education) | [Door-to-door canvassing](canvassing) | [Leafletting](leafletting) | [Hosting a talk or debate](talk-debate) | [Journalism](journalism) | [Whistleblowing](whistleblowing) | [Blogging](blogging) | [Novels](novels)
+**Topics:** [Education](/tactics/education) | [Door-to-door canvassing](/tactics/canvassing) | [Leafletting](/tactics/leafletting) | [Hosting a talk or debate](/tactics/talk-debate) | [Journalism](/tactics/journalism) | [Whistleblowing](/tactics/whistleblowing) | [Blogging](/tactics/blogging) | [Novels](/tactics/novels)
 
 ### Institutional 🏛
 
 By joining existing institutions one can make change happen from within. Institutional tactics create societal change while following the rules of the existing system.
 
-**Topics:** [Voting](/organising/frameworks/elections) | [Running for office](running-for-office) | [Judicial](judicial) | [Corporate](corporate)
+**Topics:** [Voting](/organising/frameworks/elections) | [Running for office](/tactics/running-for-office) | [Judicial](/tactics/judicial) | [Corporate](/tactics/corporate)
 
 ### Financial 🤑
 
-**Topics:** [Boycott](boycot) | [Divestment](divestment) | [Shareholder](shareholder)
+**Topics:** [Boycott](/tactics/boycot) | [Divestment](/tactics/divestment) | [Shareholder](/tactics/shareholder)
 
 > “A good tactic is one that **your people enjoy**. If your people are not having a ball doing it, there is something very wrong with the tactic.”
 > 
@@ -69,11 +69,11 @@ By joining existing institutions one can make change happen from within. Institu
 
 ## Action workshops
 
--   🚔 Resisting arrest ([Going floppy](going-floppy))
+-   🚔 Resisting arrest ([Going floppy](/tactics/going-floppy))
 -   🎨 Painting banners
 -   🏳 Creating flags
--   ☮️ [Disabling a tank](disable-tank)
--   👋 [Hand signals](hand-signals)
+-   ☮️ [Disabling a tank](/tactics/disable-tank)
+-   👋 [Hand signals](/tactics/hand-signals)
 
 <div><figcaption>One-person protest, blocking a road - Generated using OpenAI</figcaption></div>
 
@@ -112,7 +112,7 @@ _\*According to Semrush_
 -   [https://www.humanrightscareers.com/issues/types-of-activism/](https://www.humanrightscareers.com/issues/types-of-activism/)
 -   [https://en.wikipedia.org/wiki/Category:Activism\_by\_type](https://en.wikipedia.org/wiki/Category:Activism_by_type)
 -   [https://therevolutionmovie.com/index.php/change-the-world/become-an-activist/types-of-activism/](https://therevolutionmovie.com/index.php/change-the-world/become-an-activist/types-of-activism/)
--   [New Tactics in Human Rights]( https://www.newtactics.org/tactics) by Center for Victims of Torture
+-   [New Tactics in Human Rights](/tactics/ https://www.newtactics.org/tactics) by Center for Victims of Torture
 
 ### Creative
 

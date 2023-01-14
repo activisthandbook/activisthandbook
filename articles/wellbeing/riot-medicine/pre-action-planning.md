@@ -4,9 +4,9 @@ title: >
 description: >
   Prepare for a protest as first aider
 langCode: en
-articleID: gOw1v-WKnWpETih9HLdE
-languageCollectionID: 2hUpKhXn3DGo2E0D64xt
-lastUpdated: 1673628396818
+articleID: O3aLN2rGCtFml8miPyUrqRIZAq0Jfr3K
+languageCollectionID: y_SYgW1MBew4DRfr4KfsC3Q2IysPm1v5
+lastUpdated: 1673685329952
 tags: []
 ---
 

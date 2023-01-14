@@ -2,9 +2,9 @@
 title: >
   What is a demonstration?
 langCode: en
-articleID: y_Fhi3ZsIpfWmAzdQ83J
-languageCollectionID: VeLQQnKsV0COukWx1G3O
-lastUpdated: 1673628396818
+articleID: VZ4QOFc6rZ6vfPDv7vYC4YH2kEzdv4_s
+languageCollectionID: yMvIDu4Q9xWMm0rD0CnIZznCz0VNVJpJ
+lastUpdated: 1673685329952
 tags: []
 ---
 

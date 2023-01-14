@@ -4,9 +4,9 @@ title: >
 description: >
   How to manage your time as an activist
 langCode: en
-articleID: 3CQXvwJivYD1NUFsCRwT
-languageCollectionID: hBVHqeD7DT9RkFWoI0qb
-lastUpdated: 1673628396818
+articleID: CsctGAZU7O67toY7Q9EIpkIhZwsNXWiM
+languageCollectionID: x_QTQFBxDRb-uq_XsUr2Og5vhgSSVV0E
+lastUpdated: 1673685329952
 tags: ["wellbeing","shift","shift x activist handbook","burnout","management","life"]
 ---
 

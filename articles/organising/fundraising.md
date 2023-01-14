@@ -4,9 +4,9 @@ title: >
 description: >
   Guide: Grant writing, crowdfunding, donations
 langCode: en
-articleID: m4EW2f7b8GVcVB_Z5qUM
-languageCollectionID: qt7i8LFoVjZxD-ftKRWE
-lastUpdated: 1673628396818
+articleID: qQTo3gfOiJPPxnRONovaOFpGzkciUQBf
+languageCollectionID: YysI4TsYBoPQCVpGD283FNRXCZDhTueU
+lastUpdated: 1673685329952
 tags: []
 ---
 
@@ -14,10 +14,10 @@ tags: []
 
 There are a lot of ways for activists to raise funds. Whether it's through online crowdfunding platforms, asking for donations, finding sponsors, or applying for grants from charitable foundations, there are many options available. We wrote detailed guides that discuss grant-writing and donor cultivation, and many other topics:
 
--   **💰** [**Grants**](grants)
--   🙌 [**Crowdfunding**](crowdfunding)
--   **❤️** [**Donations**](donations)
--   **💶** [**Sponsorship**](sponsors)
+-   **💰** [**Grants**](/organising/fundraising/grants)
+-   🙌 [**Crowdfunding**](/organising/fundraising/crowdfunding)
+-   **❤️** [**Donations**](/organising/fundraising/donations)
+-   **💶** [**Sponsorship**](/organising/fundraising/sponsors)
 
 ## Managing funds
 

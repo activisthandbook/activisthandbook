@@ -4,9 +4,9 @@ title: >
 description: >
   We want to make it easy for everyone to contribute
 langCode: en
-articleID: GX2iYgqELlYL7oDUvl1w
-languageCollectionID: vBQPVkt5XGhnTQpNBsKI
-lastUpdated: 1673628396818
+articleID: DHckOCDB4o9JOZVuQnJ5J9uVfDGn-y87
+languageCollectionID: R7Z8WSkSG6qQDJNtkJejVNBMJmSa9ZjA
+lastUpdated: 1673685329952
 tags: []
 ---
 

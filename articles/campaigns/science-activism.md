@@ -4,9 +4,9 @@ title: >
 description: >
   learn from Scientist Rebellion and other academic activists
 langCode: en
-articleID: MkvW1z4gsrD8Nglo2XA1
-languageCollectionID: 14H-VBdDZoFZe8edC7pt
-lastUpdated: 1673628396818
+articleID: tsnorE3rr3XsaM7a--_7bJl3B6ddwmcG
+languageCollectionID: wqy374U2fP-7X5Y0ivpSTIX3NkCGtqnS
+lastUpdated: 1673685329952
 tags: []
 ---
 

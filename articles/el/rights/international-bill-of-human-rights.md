@@ -4,9 +4,9 @@ title: >
 description: >
   Τρία κείμενα που κατοχυρώνουν τα δικαιώματα και τις ανθρώπινες ελευθερίες
 langCode: el
-articleID: cHcdEh2HVHMVGSgXlzqz
-languageCollectionID: 9lc8l6MfDB-zF3hWsR7r
-lastUpdated: 1673628396818
+articleID: zk30wFM6xnY507-fb39sK1TCGtkPzzDQ
+languageCollectionID: 5PGAJLJflddlHkteTrKBDMJkpH95t47F
+lastUpdated: 1673685329952
 tags: ["terms"]
 ---
 

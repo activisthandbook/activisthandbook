@@ -4,9 +4,9 @@ title: >
 description: >
   Understanding burnout in the context of activism
 langCode: en
-articleID: oL7gmwYIZLwKbLsBjq4c
-languageCollectionID: w0vwZO8qz9EqA9pnxa5E
-lastUpdated: 1673628396818
+articleID: Y39sYBCayNFM9G5XLt_8fDLmjrbzBnXl
+languageCollectionID: D8RHfaLPBqkQw3ZD44qlF6aeZMxKtEfl
+lastUpdated: 1673685329952
 tags: []
 ---
 

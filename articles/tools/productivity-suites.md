@@ -4,9 +4,9 @@ title: >
 description: >
   Affordable all-in-one packages for rebels
 langCode: en
-articleID: aGlfxGsm-vX-A6hJY_Xa
-languageCollectionID: 0g_k_uPEhXodCc5O8fgP
-lastUpdated: 1673628396818
+articleID: 3hInvxD3BcRWB0ISiWwazZt8QEzNXHDV
+languageCollectionID: cil1lp42NAslUWfSnvcy1NB2uTlNgt-q
+lastUpdated: 1673685329952
 tags: []
 ---
 

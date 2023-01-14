@@ -4,9 +4,9 @@ title: >
 description: >
   Definitie en uitleg: Wanneer ben je een activist?
 langCode: nl
-articleID: WjrWZ7LVoEAZL04iU8TL
-languageCollectionID: 3t2WzNz2k1DV52xe7XhR
-lastUpdated: 1673628396818
+articleID: 6OkQJtX6i1Ir23mys6xU9nJgMqNCKVfc
+languageCollectionID: RSawxfRErEmgxS3BsY3zvOqov6wUBI5V
+lastUpdated: 1673685329952
 tags: []
 ---
 

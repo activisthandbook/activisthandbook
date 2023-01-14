@@ -4,9 +4,9 @@ title: >
 description: >
   How to continue after the event
 langCode: en
-articleID: zds-imlMvMEqQfv_6z_Y
-languageCollectionID: nq87zUDvp75GhCxdn0Zi
-lastUpdated: 1673628396818
+articleID: u0gON3n26L3uzJnMU7XfeONf4OTkS0om
+languageCollectionID: v1RbkaykC34cVLqqs7PzwethzhQTIvQK
+lastUpdated: 1673685329952
 tags: []
 ---
 

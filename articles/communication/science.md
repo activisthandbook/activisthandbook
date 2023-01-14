@@ -4,9 +4,9 @@ title: >
 description: >
   Protest messaging based on facts
 langCode: en
-articleID: esIPxpvHhrSTLEY-t2_D
-languageCollectionID: IaWRgs3KgMSU4nNNTA20
-lastUpdated: 1673628396818
+articleID: UKkpT7xh0_TrCI7Y9q5fxVh7Hr7Zw2Vx
+languageCollectionID: hMsqBdFy8A4dfnVaTucDSQ3fue8RPGPu
+lastUpdated: 1673685329952
 tags: []
 ---
 

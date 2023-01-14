@@ -4,9 +4,9 @@ title: >
 description: >
   Guides for Friday for Future activists
 langCode: en
-articleID: csvuQCagibBsod6NzbWg
-languageCollectionID: XgUod-EYHZRgIc2JvtA_
-lastUpdated: 1673628396818
+articleID: KjlQph_jDFfk9odbQWLY9kVNobEYRICb
+languageCollectionID: E94skzSXbQZkGsxwhItMydzIlbUvoH_d
+lastUpdated: 1673685329952
 tags: ["climate","movement"]
 ---
 

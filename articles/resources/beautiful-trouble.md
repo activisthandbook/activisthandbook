@@ -4,9 +4,9 @@ title: >
 description: >
   Online toolbox and book for activists around the globe
 langCode: en
-articleID: QiNLQOZhBwfHIpXfwlUF
-languageCollectionID: qT9P6KoMhe4Xb9KvyGBN
-lastUpdated: 1673628396818
+articleID: TDbfQbp9-kGfsyxxc2lChV849aZUYA-B
+languageCollectionID: oGRunxzKXr3D97jVjO_oaubv983dn3Q5
+lastUpdated: 1673685329952
 tags: ["resources","training"]
 ---
 

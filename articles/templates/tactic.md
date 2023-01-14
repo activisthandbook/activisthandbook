@@ -2,9 +2,9 @@
 title: >
   Template: Tactic
 langCode: en
-articleID: -jJ01I9H0gbLEczQwf19
-languageCollectionID: TVqInySflCKj9UKiRGoB
-lastUpdated: 1673628396818
+articleID: 3Sj0OTSUAu7dq7CrM7eLDhd3uBei7MMa
+languageCollectionID: 16RF1_a6CbSU4-Xk9adTXZT00Z2cWfcW
+lastUpdated: 1673685329952
 tags: []
 ---
 
@@ -42,4 +42,4 @@ The same goes for other examples...
 
 ## Resources
 
--   [A useful resource](#) by Someone (2020) | [Archived](#)
+-   [A useful resource](/templates/tactic/#) by Someone (2020) | [Archived](/templates/tactic/#)

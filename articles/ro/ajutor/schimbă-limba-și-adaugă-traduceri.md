@@ -4,9 +4,9 @@ title: >
 description: >
   Pagină-suport
 langCode: ro
-articleID: Rnq_bIUgwYiKNWgfVvgc
-languageCollectionID: X_g5zNYx426Ff-FHAmOX
-lastUpdated: 1673628396818
+articleID: Y-S4P2BmIHBmV9yJw9m1gdTAOPNZUJiD
+languageCollectionID: BMU1B_5bAX46gBu0RfH96p8vKWqXV6zO
+lastUpdated: 1673685329952
 tags: []
 ---
 

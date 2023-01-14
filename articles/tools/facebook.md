@@ -4,9 +4,9 @@ title: >
 description: >
   Manage your movement's Facebook page
 langCode: en
-articleID: xcYfgjhikRuYbEF3pfOS
-languageCollectionID: JoN4mZjHe28L-jA52n_G
-lastUpdated: 1673628396818
+articleID: cjVUzNemyIKNDMixvDR87MZaXeXpcO9U
+languageCollectionID: jIsA5t8ijHhUxvAcOjN9aVHbHKe-euRD
+lastUpdated: 1673685329952
 tags: ["social media","stub"]
 ---
 

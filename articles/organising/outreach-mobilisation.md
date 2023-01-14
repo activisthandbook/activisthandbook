@@ -2,9 +2,9 @@
 title: >
   Outreach &amp; mobilisation
 langCode: en
-articleID: XcDR0I_24BLMVlh7mb7x
-languageCollectionID: ITGoac6cGu04b3qxXQTB
-lastUpdated: 1673628396818
+articleID: JbIsaMvuEi4oB4lE1RD7RJwYUUsB-gmH
+languageCollectionID: RwbzRV8EKN3dlwELRpKCd8r4U7dKgDgj
+lastUpdated: 1673685329952
 tags: []
 ---
 

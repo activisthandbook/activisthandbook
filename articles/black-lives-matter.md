@@ -4,9 +4,9 @@ title: >
 description: >
   Activist movement
 langCode: en
-articleID: YdStNBL5j2HW8v6tpFhl
-languageCollectionID: LaxiCM01CurpB0PwjFVd
-lastUpdated: 1673628396818
+articleID: yoFIGlaoWDsQLfuyAAI_n_FPYZS8nK_R
+languageCollectionID: s_oO_B5FJxwbHesr0GUcy2xYlXL8jp_h
+lastUpdated: 1673685329952
 tags: []
 ---
 

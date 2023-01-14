@@ -4,9 +4,9 @@ title: >
 description: >
   The people behind the Activist Handbook project
 langCode: en
-articleID: ACEVyv73WE0kfN-UuGJe
-languageCollectionID: mhWB3Tw3Q-JIaXemeVm4
-lastUpdated: 1673628396818
+articleID: Oq4ZHdXzS-mjMff7CCy43KjpkpEJhAn1
+languageCollectionID: QJt9oZic5PsFowBAfymmW1nkWdMjH2B7
+lastUpdated: 1673685329952
 tags: []
 ---
 

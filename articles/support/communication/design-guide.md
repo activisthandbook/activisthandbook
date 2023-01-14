@@ -4,9 +4,9 @@ title: >
 description: >
   Colours, fonts and logo of Activist Handbook
 langCode: en
-articleID: Ocqk7Fc04pmTmHg3Dk-3
-languageCollectionID: YIjfgUUJy8oD39VwTR9J
-lastUpdated: 1673628396818
+articleID: 5jblKyBLaXUVbR8mk73c7XUa0E5iA5nA
+languageCollectionID: bxNBxJsygvDxUoBCYUqo9cje85hI59tn
+lastUpdated: 1673685329952
 tags: []
 ---
 

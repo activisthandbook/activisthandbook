@@ -4,9 +4,9 @@ title: >
 description: >
   Get ready to participate in the event
 langCode: en
-articleID: V5yzWa62l_ylUjhQgUmw
-languageCollectionID: IGKM3Qf0P1QYPbyQ0N5N
-lastUpdated: 1673628396818
+articleID: 2teD0o0lTfMH5jUhgI3hxaCmHGY953pO
+languageCollectionID: 2Wy2-j2nIN7ZB6DvdLYyVV73YTldl8tW
+lastUpdated: 1673685329952
 tags: []
 ---
 

@@ -4,9 +4,9 @@ title: >
 description: >
   Does protesting work?
 langCode: en
-articleID: W_jjnkDEJntq6Ndn7DLq
-languageCollectionID: 4Q2StuD__GpfFLChjXQZ
-lastUpdated: 1673628396818
+articleID: in1XfQ1mJaewnDEICz6bRjuHW3R-zv5E
+languageCollectionID: LggutCEdL3XiJ4Bx8Rdchvtan7mZ9uU1
+lastUpdated: 1673685329952
 tags: []
 ---
 

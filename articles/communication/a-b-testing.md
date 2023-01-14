@@ -4,9 +4,9 @@ title: >
 description: >
   Find out what message is most effective for your movement
 langCode: en
-articleID: YWT7842nZnODJgnY9cJR
-languageCollectionID: FhdLhydnzhF9CEYRhh3H
-lastUpdated: 1673628396818
+articleID: m9AZs9OdmKc10SvUzytfw6B_Z_pAUcrb
+languageCollectionID: IfouMBLY6-HvNaAu5naUtfpWmkTipyfr
+lastUpdated: 1673685329952
 tags: ["communication"]
 ---
 

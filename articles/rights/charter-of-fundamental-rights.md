@@ -4,9 +4,9 @@ title: >
 description: >
   A legally-binding document enshrining the rights of European Union citizens
 langCode: en
-articleID: zlnYYObuHDjdNr6vzSbp
-languageCollectionID: pJzdXJ353Ww8-e5UP62x
-lastUpdated: 1673628396818
+articleID: FNdryMN3b6xs-ArybSNpPdpQEksi8LvN
+languageCollectionID: iDkn5llmdCAkJEu_T-SDpQSCIHzifCIN
+lastUpdated: 1673685329952
 tags: ["terms"]
 ---
 

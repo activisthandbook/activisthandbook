@@ -4,9 +4,9 @@ title: >
 description: >
   Антивоєнна тактика
 langCode: uk
-articleID: P4tK6TuAfNlKeAt_bmKI
-languageCollectionID: agBvUcv3uabs8I15HsE1
-lastUpdated: 1673628396818
+articleID: TZ7syWQs98SmQm8x6wdXWJWll6_q9rbA
+languageCollectionID: j2qoIL9WBUib8JbNDAuF-zRASb7B30XR
+lastUpdated: 1673685329952
 tags: []
 ---
 

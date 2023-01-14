@@ -4,13 +4,13 @@ title: >
 description: >
   A guide for first aid and street medics at protests
 langCode: en
-articleID: s5fDZrO4LhWVXbsKROat
-languageCollectionID: wbFH1lOSaiZUoa6bdpX5
-lastUpdated: 1673628396818
+articleID: oJBTxZxtDNpeQ5tDgh5kL41Hn6yieu6S
+languageCollectionID: e4wDLfdU-y8KdFR9G1xxTToe7AAkOxnU
+lastUpdated: 1673685329952
 tags: []
 ---
 
-**This page is meant as a starting point for anyone who wants to learn more about providing first aid at protests. Start by reading the introduction below, or explore the various topics about street medics further down.** **If you need a quick reference during actions, make sure to check out the** [**FIELD GUIDE.**](field-guide)
+**This page is meant as a starting point for anyone who wants to learn more about providing first aid at protests. Start by reading the introduction below, or explore the various topics about street medics further down.** **If you need a quick reference during actions, make sure to check out the** [**FIELD GUIDE.**](/wellbeing/riot-medicine/field-guide)
 
 This section of Activist Handbook was derived from the book [Riot Medicine](https://riotmedicine.net), which the author Håkan Geijer generously published under a Creative Commons Zero 1.0 Universal license.
 
@@ -44,19 +44,19 @@ _(1) Riot medics are strongly encouraged to apply their medical knowledge by pro
 
 ## Organize
 
--   [Responsibilities](responsibilities)
--   [Organizational Structures](organizational-structures)
--   [Pre-Action Planning](pre-action-planning)
--   [Post-Action Tasks](post-action-tasks)
--   [Training](training)
+-   [Responsibilities](/wellbeing/riot-medicine/responsibilities)
+-   [Organizational Structures](/wellbeing/riot-medicine/organizational-structures)
+-   [Pre-Action Planning](/wellbeing/riot-medicine/pre-action-planning)
+-   [Post-Action Tasks](/wellbeing/riot-medicine/post-action-tasks)
+-   [Training](/wellbeing/riot-medicine/training)
 
 ## Medicine
 
--   [Patient Assessment](patient-assesment)
+-   [Patient Assessment](/wellbeing/riot-medicine/patient-assesment)
 -   [Patient Evacuation](/wellbeing/riot-medicine/patient-evacuation)
--   [Psychological Care](psychological-care)
--   [Medication](medication)
--   [Alternative Medicine](alternative-medicine)
+-   [Psychological Care](/wellbeing/riot-medicine/psychological-care)
+-   [Medication](/wellbeing/riot-medicine/medication)
+-   [Alternative Medicine](/wellbeing/riot-medicine/alternative-medicine)
 -   Basic Life Support
 -   Wound Management
 -   Riot Control Agent Contamination

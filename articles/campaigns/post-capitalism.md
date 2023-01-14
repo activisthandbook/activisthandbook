@@ -4,9 +4,9 @@ title: >
 description: >
   Non-mainstream approach to economics
 langCode: en
-articleID: 0NI3Tk4yPdEumKo9aQpD
-languageCollectionID: _ifGkMUslGaJTJopZbAC
-lastUpdated: 1673628396818
+articleID: _goVfzLXVcDPTy5Ae0kDaj2OX20MUNAg
+languageCollectionID: Hyg-w81yonc06zIoRGj2KmLJ6lpljePB
+lastUpdated: 1673685329952
 tags: ["campaign"]
 ---
 

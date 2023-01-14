@@ -4,9 +4,9 @@ title: >
 description: >
   Opkomen voor de rechten van werknemers
 langCode: nl
-articleID: B5Q6fTdFF_0yEoYbDbql
-languageCollectionID: vthDjRr3HPuFUdaRVFXM
-lastUpdated: 1673628396818
+articleID: IwG0z3nwUbQ1fovPKGlIIlrZ0w_m78K3
+languageCollectionID: ZjB1q0EKzxQBxJbF3O8eoZWKm02e2ccP
+lastUpdated: 1673685329952
 tags: []
 ---
 

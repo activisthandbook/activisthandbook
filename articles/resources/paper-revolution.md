@@ -4,9 +4,9 @@ title: >
 description: >
   Library with resources for anarchist activists
 langCode: en
-articleID: hf5IK7JsS6Q30vhd06I1
-languageCollectionID: OyUQHJiL6hBKTzIeODfV
-lastUpdated: 1673628396818
+articleID: HPaucEGB32LEQIp8jESvDCMCWd2GtkrE
+languageCollectionID: DQwfHArxQL5KWnxuwziVxSmYKRky0suz
+lastUpdated: 1673685329952
 tags: []
 ---
 

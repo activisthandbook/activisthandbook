@@ -2,9 +2,9 @@
 title: >
   Privacy for activists
 langCode: en
-articleID: nxaUgUNv42Vrf3PsLt4d
-languageCollectionID: iNsAdX2h6FOhubt2zXIr
-lastUpdated: 1673628396818
+articleID: gMnJszTf06exVRrba6aV86kHokWfINax
+languageCollectionID: BPieGljCRCPKKz5s_8V3sAJVFLpN1Z8_
+lastUpdated: 1673685329952
 tags: ["tools","stub"]
 ---
 
@@ -12,5 +12,5 @@ tags: ["tools","stub"]
 
 ## **Resources**
 
--   **Our Data Our Selves** by Tactical Tech
+-   [**Our Data Our Selves**](/tools/privacy/) by Tactical Tech
 -   [**Data Detox Kit**](https://datadetoxkit.org/en/privacy/) by Tactical Tech

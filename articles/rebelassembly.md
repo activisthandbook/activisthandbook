@@ -4,9 +4,9 @@ title: >
 description: >
   Producing guides for change-makers
 langCode: en
-articleID: qIpixm7xen-khiLnPoL4
-languageCollectionID: xcK5GZXuwg2AVBrySctB
-lastUpdated: 1673628396818
+articleID: E6tbwmCLS_2Jn280pX3WDhriDHjA4lUx
+languageCollectionID: pWCftLI62RW98GgnkjBDA7kjc-b4t9L2
+lastUpdated: 1673685329952
 tags: ["rebel-assembly"]
 ---
 
@@ -56,7 +56,7 @@ All over the globe, activists will be coming together in local hubs. In 48 hours
 
 ## Share the event
 
-Make some noise on social media with the hashtags `#TrainRebels` `#UprootTheSystem` and [share](share) the link with your network:
+Make some noise on social media with the hashtags `#TrainRebels` `#UprootTheSystem` and [share](/rebelassembly/share) the link with your network:
 
 **👉** [**activisthandbook.org/rebelassembly**](/rebelassembly)
 

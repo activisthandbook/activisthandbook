@@ -4,9 +4,9 @@ title: >
 description: >
   This is how we structure articles on the website
 langCode: en
-articleID: FJ5TS6bDLUBg0PH_kjo0
-languageCollectionID: TXUEraH5msCgEe_lY0Yh
-lastUpdated: 1673628396818
+articleID: A5dapC45MtkwR9UG8WdFKQLheWcI5pEO
+languageCollectionID: LFDQXJRTka3AXLG-4XWf9DdbM66Hg2WC
+lastUpdated: 1673685329952
 tags: ["#internalguide","#workinprogress"]
 ---
 

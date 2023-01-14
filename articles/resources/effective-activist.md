@@ -4,9 +4,9 @@ title: >
 description: >
   Platform to learn how to become an effective activist.
 langCode: en
-articleID: Z-LOOX-y64BMO3bM5NGP
-languageCollectionID: ayXs3zHFS4ulriAeitjs
-lastUpdated: 1673628396818
+articleID: SBFXc993Qqrgo-jCWIVsmrvTwD1dAZxG
+languageCollectionID: SYcd0H7eQAbMu1ptG8b-iLVewZZOWTH8
+lastUpdated: 1673685329952
 tags: ["resources","website"]
 ---
 

@@ -4,9 +4,9 @@ title: >
 description: >
   Guide: Find keywords to improve website performance
 langCode: en
-articleID: BLhrgQetnYpDkpS2QqA7
-languageCollectionID: baCdo9VC1Uy4ZBTxNFcf
-lastUpdated: 1673628396818
+articleID: yEXi_t94Sc9dbrzXwQqUIJDr5HJ6OzKO
+languageCollectionID: RqyGuL3H0DAdaxqg858ZXMwnqSvW7c_V
+lastUpdated: 1673685329952
 tags: ["seo"]
 ---
 

@@ -4,9 +4,9 @@ title: >
 description: >
   How to coordinate an Activist Handbook team
 langCode: en
-articleID: iYAUVqdazDAX0hze6wKq
-languageCollectionID: IlVaWDby0QYiX8osmJmT
-lastUpdated: 1673628396818
+articleID: bcOXhcsLQCgnWEfNfElLh4Y9p8nP2hbe
+languageCollectionID: JkEM7rqncXxxQuty1CW3R39PWV44OYhY
+lastUpdated: 1673685329952
 tags: []
 ---
 
@@ -22,15 +22,15 @@ tags: []
 
 The following guides are relevant to all members in the core circle:
 
--   🛠 [Tools we use](tools)
--   ☎️ [Facilitate meetings](facilitate-meetings)
--   📂 [Manage projects](manage-projects)
+-   🛠 [Tools we use](/support/core/tools)
+-   ☎️ [Facilitate meetings](/support/core/facilitate-meetings)
+-   📂 [Manage projects](/support/core/manage-projects)
 
 ## Role guides
 
 We have written a guide for each role within the core circle:
 
--   ⭕️ [Project facilitator](project-facilitator)
+-   ⭕️ [Project facilitator](/support/core/project-facilitator)
 -   💬 [Communication coordinator](/support/communication/coordinator)
 -   📝 [Content coordinator](/support/content/coordinator)
 -   🌏 [Localisation coordinator](/support/localisation/coordinator)

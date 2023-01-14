@@ -4,9 +4,9 @@ title: >
 description: >
   Taking care of environmental rebels
 langCode: en
-articleID: gB57PMhb0hlhPgEHb0Kb
-languageCollectionID: cIID9Utna7phrvSPyik3
-lastUpdated: 1673628396818
+articleID: J73OYMYy0lLPUud0nENaTnrZrV0ykVF3
+languageCollectionID: qKTodbXJF2ISS9cLWaH-fCa81o4D_0eY
+lastUpdated: 1673685329952
 tags: []
 ---
 
@@ -14,7 +14,7 @@ tags: []
 
 Articles:
 
--   [**Anxiety and grief**](anxiety-grief)
+-   [**Anxiety and grief**](/wellbeing/climate/anxiety-grief)
 -   Trauma \[e.g. [this article](https://www.climatepsychologyalliance.org/handbook/541-trauma)\]
 -   Shame \[e.g. [this article](https://www.climatepsychologyalliance.org/handbook/415-shame)\]
 -   Denial \[e.g. [this article](https://www.climatepsychologyalliance.org/handbook/362-climate-change-denial)\]

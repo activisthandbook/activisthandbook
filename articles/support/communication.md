@@ -2,9 +2,9 @@
 title: >
   Volunteer guide: Communication circle
 langCode: en
-articleID: 0uKADw0MC39Ebdf8MyFH
-languageCollectionID: jh_zzjNGmcyP7IXC-iNb
-lastUpdated: 1673628396818
+articleID: vd9ytLC3DR2VNmPbOMIjAwSFpuoPXSNG
+languageCollectionID: U6RYZdX7T_PPK8plCvkOiccfc2CD8ibL
+lastUpdated: 1673685329952
 tags: []
 ---
 
@@ -25,7 +25,7 @@ tags: []
 
 ## Role guides
 
--   **⭕️** [**Communication coordinator**](coordinator)**:** The communications coordinator leads the communication team and is responsible for designing a communications strategy.
+-   **⭕️** [**Communication coordinator**](/support/communication/coordinator)**:** The communications coordinator leads the communication team and is responsible for designing a communications strategy.
 -   **👋** [**Integrator**](/support/communication/integrator)**:** The integrator is the first point of contact for people who have shown interest in contributing to Activist Handbook.
 -   **📢** [**Outreach officer**](/support/communication/outreach)**:** The outreach officer is responsible for reaching out to other organisations, to see if we can partner up.
 -   **❤️** [**Social media manager**](/support/communication/social-media)**:** Our social media manager is responsible for our activity on Instagram, Facebook, Twitter, LinkedIn and Youtube.

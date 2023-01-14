@@ -2,9 +2,9 @@
 title: >
   Project management tools for activists
 langCode: en
-articleID: JIqHYHaLzvRPQ_bct0iE
-languageCollectionID: DPekM-P9SLlZNa85NJRD
-lastUpdated: 1673628396818
+articleID: -zcFAdF-bKKZnxwRZiZ9V8d6GEbS-Zit
+languageCollectionID: egTQ-wU_L272Hc5EvXazxKEhXHaOWDXW
+lastUpdated: 1673685329952
 tags: []
 ---
 

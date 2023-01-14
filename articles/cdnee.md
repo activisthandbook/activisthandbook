@@ -4,9 +4,9 @@ title: >
 description: >
   A capacity-building network of youth organisations committed to the development and implementation of Green ideas in Eastern Europe
 langCode: en
-articleID: y65iJceMP4LshpHjxWuy
-languageCollectionID: FhH5En_xHdqchviTiRiw
-lastUpdated: 1673628396818
+articleID: rZGlt_6bLh28egXvJC2r-ydTpaH7xQ0a
+languageCollectionID: Cl18JOrYUJFkGmxbySrnagOEWAdLxLan
+lastUpdated: 1673685329952
 tags: ["communities"]
 ---
 

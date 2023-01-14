@@ -4,9 +4,9 @@ title: >
 description: >
   How to start an activist organisation
 langCode: en
-articleID: HgPnQhc5PK7ltTgMta1i
-languageCollectionID: wD6H0G5Z6-CeVeAgD4o4
-lastUpdated: 1673628396818
+articleID: giNhpzUbgC6kk7sqMLbvELn8eLhpzayB
+languageCollectionID: LQRsKlZac_g-e7quW8rXAvpfVr2mTX6y
+lastUpdated: 1673685329952
 tags: []
 ---
 

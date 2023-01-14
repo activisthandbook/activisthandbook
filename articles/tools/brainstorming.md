@@ -2,9 +2,9 @@
 title: >
   Online brainstorming tools for activists
 langCode: en
-articleID: 8BT2wab8h_Mb_-FxCgHv
-languageCollectionID: -VTcNuXfONsBhLs7_ma_
-lastUpdated: 1673628396818
+articleID: BZpDuULZzPrViIjdcQfxcv7Y4PbZSEaI
+languageCollectionID: gLEDkce0i9FPlHfktxhxSIkD9PQn5bX0
+lastUpdated: 1673685329952
 tags: ["tools","stub"]
 ---
 

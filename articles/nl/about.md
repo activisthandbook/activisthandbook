@@ -2,9 +2,9 @@
 title: >
   Over Activist Handbook
 langCode: nl
-articleID: doGEW4yzF8bq8xHE5AJ2
-languageCollectionID: ygsnP6SpB9qepiY3a75P
-lastUpdated: 1673628396818
+articleID: NQ4AJjTw7qGetOwBjsty4blsYFtovjhO
+languageCollectionID: LhPFF-DwqY4R0PAtteTbmCqiJlZY9sdL
+lastUpdated: 1673685329952
 tags: []
 ---
 

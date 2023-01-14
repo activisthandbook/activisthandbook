@@ -2,9 +2,9 @@
 title: >
   Trainingen voor activisten
 langCode: nl
-articleID: LFGopSt7N7GfwEctLRC2
-languageCollectionID: 50Sth1uFt4AtsAty8fZM
-lastUpdated: 1673628396818
+articleID: JhybjuRo4Ev8w3GZmzo5MvL5rrOSpInS
+languageCollectionID: iz4Jp11HfhSNk3iKz_ft0paw49e9DA1e
+lastUpdated: 1673685329952
 tags: []
 ---
 
@@ -19,7 +19,7 @@ tags: []
 -   [**Lowlander Project**](https://www.lowlanderproject.nl/trainingen): _“Lowlander is een trainingscentrum voor iedereen die zich wil inzetten voor een eerlijk en duurzaam Nederland. Wij trainen mensen om hun leiderschap te ontdekken, ontwikkelen en in te zetten voor maatschappelijke verandering.”_
 -   [**Milieudefensie**](https://milieudefensie.nl/doe-mee/trainingen): Milieudefensie bied gratis trainingen aan over klimaatrechtvaardigheid, de inclusieve klimaatbeweging, organizing, klimaatprojectplanning en actietraining. De trainingen zijn bedoeld voor 8 tot 25 deelnemers, en kunnen zowel online als fysiek plaatsvinden.
 -   [**LSVb Trainingen op Maat**](https://lsvb.nl/diensten/trainingen-op-maat/): De trainingen van de landelijke studenten vakbond kosten 125 tot 450 euro, afhankelijk van de grote van je organisatie. Je leert over medezeggenschap, studieverenigingen, en persoonlijke ontwikkeling.
--   [**BKB Academie**](bkb-academie): Uitgebreid trainingsprogramma voor campaigners. Georganiseerd door het BKB Campagnebureau.
+-   [**BKB Academie**](/trainings/bkb-academie): Uitgebreid trainingsprogramma voor campaigners. Georganiseerd door het BKB Campagnebureau.
 -   [**Build Your Movement**](https://buildyourmovement.dudaone.com/#WhatWeDo) ([Twitter](https://twitter.com/BuildUrMovement)): We amplify the resilience of social movements by focusing on its core: people.
 
 ## Evenementen

@@ -4,9 +4,9 @@ title: >
 description: >
   Guides for change-makers written by activists
 langCode: en
-articleID: haN1iuAK-zv9_eFdZbZC
-languageCollectionID: gPgl51AmmUGPT-KHpIfm
-lastUpdated: 1673628396818
+articleID: Ef-Kz7rcLxWmr8EnvmDWaMIgK37GauHS
+languageCollectionID: x4vAd-reEc0jw58caScY5Pz4ih5h_tX8
+lastUpdated: 1673685329952
 tags: ["resources"]
 ---
 

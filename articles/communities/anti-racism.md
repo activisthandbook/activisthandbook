@@ -2,9 +2,9 @@
 title: >
   Anti-racism movements
 langCode: en
-articleID: C0mbujl4SbUSFArW93f0
-languageCollectionID: 1qotpGL-kFU3p8j7sKko
-lastUpdated: 1673628396818
+articleID: SyPwrV1V9WdX1OA5dMN6VX5pqzyVBL0l
+languageCollectionID: ibbCubp3h7PXCoT_kFGsR1yBJ43GnZ4E
+lastUpdated: 1673685329952
 tags: []
 ---
 

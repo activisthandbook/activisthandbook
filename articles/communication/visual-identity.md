@@ -4,9 +4,9 @@ title: >
 description: >
   How to design a brand kit for your movement
 langCode: en
-articleID: MtvFZWRdpe-czFVsEZIh
-languageCollectionID: s_DQU7PcTTHwt87QPB6D
-lastUpdated: 1673628396818
+articleID: 95OLkdMv2g_eh4S9tBy32iyf6Zhtmyxy
+languageCollectionID: _SkQpCFdrb-c3ZJbsIYNTVd2qFcJ82rx
+lastUpdated: 1673685329952
 tags: ["stub","communication","shift x activist handbook","graphic design","brand"]
 ---
 

@@ -4,9 +4,9 @@ title: >
 description: >
   Support page
 langCode: en
-articleID: nc16DxHFi52ID97gaO4u
-languageCollectionID: 3juOuOJDzQ7NFikrzmuh
-lastUpdated: 1673628396818
+articleID: gZB7b6rAMs-Tj6-50POhUPpq7LpfAUoU
+languageCollectionID: 0TBAFXPJF6_sC1SdRtpozI6EkawZe0gy
+lastUpdated: 1673685329952
 tags: []
 ---
 
@@ -20,13 +20,13 @@ On this page, it will be explained how to edit a page, create a new one, move it
 
 Anyone can edit pages on Activist Handbook. All edits are saved. This makes it easier for moderators to prevent vandalism and creates transparency about who added what information.
 
-To edit a page, click the blue **Edit** button in the bottom right corner. Our visual editor will now appear. Use the menu bar on the top of the screen to style the text. We also have a more elaborate guide on [how to style and format articles](@) on Activist Handbook. Once you are done editing, make sure to click the green **Save** button in the top right. To close the visual editor, click the red **Close** button in the top right.
+To edit a page, click the blue **Edit** button in the bottom right corner. Our visual editor will now appear. Use the menu bar on the top of the screen to style the text. We also have a more elaborate guide on [how to style and format articles](/support/edit-create-move-or-delete-a-page/@) on Activist Handbook. Once you are done editing, make sure to click the green **Save** button in the top right. To close the visual editor, click the red **Close** button in the top right.
 
 ### Solving & preventing a save conflict
 
 When multiple people are editing the same page simultaneously, the visual editor will will give an orange warning in the top right. A problem might arise once one of the people saves their edits, after which another person saves their own edits, causing the first person's edits to be overwritten.
 
-Luckily, all edits are saved in the [**version history**](#). When you notice your edits are being overwritten, just copy your contributions from the version history and save the page again.
+Luckily, all edits are saved in the [**version history**](/support/edit-create-move-or-delete-a-page/#). When you notice your edits are being overwritten, just copy your contributions from the version history and save the page again.
 
 To prevent a save conflict, **save your edits regularly** while typing.
 

@@ -2,9 +2,9 @@
 title: >
   Volunteer guide: Project facilitator
 langCode: en
-articleID: wx9viDX73mzelAuWxlZO
-languageCollectionID: npZEK02KRMmKYBagr7ZZ
-lastUpdated: 1673628396818
+articleID: UuGk8E9H8IU46HCCQQjxbDUDwaXtJ94p
+languageCollectionID: TaPb8jE9Hge0iM-vt6DjsMzOcL5tWnxt
+lastUpdated: 1673685329952
 tags: []
 ---
 
@@ -69,7 +69,7 @@ Before starting a new project, a [project proposal](https://docs.google.com/docu
 -   **Assist people in writing these proposals.** Give constructive feedback on the proposals written.
 -   **Ensure projects are only started when their purpose is a priority for Activist Handbook at that point in time.** The priority of projects is determined by looking at the amount of resources available (volunteers, money and otherwise) and the degree to which the project aligns with the purpose of Activist Handbook.
 -   **Facilitate good collaboration between everyone involved in the project.** Make sure everyone is in the loop and facilitate an atmosphere in which all people in relevant roles can contribute.
--   **Check up regularly to see if progress is being made.** If this is not the case, [identity why this is the case](#h-3-identify-problems-offer-support).
+-   **Check up regularly to see if progress is being made.** If this is not the case, [identity why this is the case](/support/core/project-facilitator/#h-3-identify-problems-offer-support).
 
 ## Regular check-ins
 

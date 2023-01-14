@@ -2,9 +2,9 @@
 title: >
   Volunteer guide: Finance circle
 langCode: en
-articleID: hFsiRDYdDkNKIbRPI4uK
-languageCollectionID: RdRvN80IXuPG_yMKZmi2
-lastUpdated: 1673628396818
+articleID: FHgLgKokSW0jExNSIfA0toTrDlbwl1lo
+languageCollectionID: Oy1s8yDMzxrYkknQ3zIH4cmNgX_xRqjx
+lastUpdated: 1673685329952
 tags: ["support"]
 ---
 
@@ -24,7 +24,7 @@ tags: ["support"]
 
 We have written a guide for each role within the core circle:
 
--   **⭕️** [**Finance coordinator**](coordinator)
+-   **⭕️** [**Finance coordinator**](/support/finance/coordinator)
 -   **📇** [**Fundraiser**](/support/finance/fundraiser)
 
 You can find descriptions and vacancies for these roles on [our Airtable](https://airtable.com/shr6GqOJ7587fNbEn/tbloV4g8loVisebVz?filter_Circles=Finance%20circle).

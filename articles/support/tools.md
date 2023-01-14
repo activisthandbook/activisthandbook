@@ -4,9 +4,9 @@ title: >
 description: >
   Volunteers at Activist Handbook use these tools to work effectively
 langCode: en
-articleID: hbqgzvqyQfQdp8gcx4N4
-languageCollectionID: 2QlXwW0yBWPl7Cf4IyBz
-lastUpdated: 1673628396818
+articleID: NBJ2EPao6u1MkAaBCUGnPnKHdDRyO3K0
+languageCollectionID: rx5IwkIliP7dbNz4-NIQgmowAIcV2gyw
+lastUpdated: 1673685329952
 tags: []
 ---
 
@@ -51,7 +51,7 @@ Important security steps:
 
 ## Gmail & Google Groups
 
-All volunteers get their own email addresses, which can be accessed via [Gmail](mail.activisthandbook.org). For example: [joppe@activisthandbook.org](mailto:joppe@activisthandbook.org)
+All volunteers get their own email addresses, which can be accessed via [Gmail](/support/tools/mail.activisthandbook.org). For example: [joppe@activisthandbook.org](mailto:joppe@activisthandbook.org)
 
 In addition, all circles have their own email addresses. For example, the finance circle can be contacted via [finance@activisthandbook.org](mailto:finance@activisthandbook.org)
 

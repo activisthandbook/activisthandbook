@@ -4,9 +4,9 @@ title: >
 description: >
   Deciding what frame to use in telling your story
 langCode: en
-articleID: 2JATjOIxpqW15d3L9xkT
-languageCollectionID: wui9RupWLlmOv2mqDlst
-lastUpdated: 1673628396818
+articleID: GY3Uou9zW_EfzPMskWOytny8kAp2G86Y
+languageCollectionID: NnaEJfsRikmbEJGBt_xwGNBMH7jW1k-4
+lastUpdated: 1673685329952
 tags: ["stub","communication"]
 ---
 

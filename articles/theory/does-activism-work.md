@@ -2,9 +2,9 @@
 title: >
   Does activism work?
 langCode: en
-articleID: Iun2mx7SqCy-pxyRaWm9
-languageCollectionID: 7xQ3MXRaF0jDAi0bKVqK
-lastUpdated: 1673628396818
+articleID: NrGJDFh6klrk-6nVmWTftJK1RN_YApxb
+languageCollectionID: PFMZW4TcwmMTsIuhkCFbjkzHIQexek3T
+lastUpdated: 1673685329952
 tags: []
 ---
 

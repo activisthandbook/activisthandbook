@@ -4,9 +4,9 @@ title: >
 description: >
   Climate movement that uses civil disobedience as tactic
 langCode: en
-articleID: bAkHE4GMw35_sTDIXbAX
-languageCollectionID: SbZk1EZ2jdkaLa9TI8XY
-lastUpdated: 1673628396818
+articleID: qwUyZRNSDjvimXwoNK4Hs-zbVBIjGY6_
+languageCollectionID: HFh-IoDCu6QBqF6e5z-66QTDbmZpX5HL
+lastUpdated: 1673685329952
 tags: ["movements","climate"]
 ---
 

@@ -4,9 +4,9 @@ title: >
 description: >
   Decision-making and power within activist movements
 langCode: en
-articleID: C84bnLrfxGkqvy4H0q1G
-languageCollectionID: XvG0fHRp4_qJHlDAnzA8
-lastUpdated: 1673628396818
+articleID: An0X-iELIxG34QaD8TwLcSM6ixPHxqrW
+languageCollectionID: kQaogUwOltR2jwgLnQrul9wEYG869znE
+lastUpdated: 1673685329952
 tags: []
 ---
 

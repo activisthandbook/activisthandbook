@@ -4,9 +4,9 @@ title: >
 description: >
   How to use Discord for communication, outreach, and promotion
 langCode: en
-articleID: 51RbG1SEiy4peDbjVQ-9
-languageCollectionID: xQW1kGjZu6SwPEK9F3oP
-lastUpdated: 1673628396818
+articleID: 8xlBt5FpuX2IU8GHtEgsw_lBzKRI_yrw
+languageCollectionID: p7K8RlGx070i_tIcD5oB-zal29EGKmE_
+lastUpdated: 1673685329952
 tags: ["tools","chat apps","shift x activist handbook"]
 ---
 

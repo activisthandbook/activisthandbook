@@ -4,9 +4,9 @@ title: >
 description: >
   Building movements on Twitter
 langCode: en
-articleID: IIFLTJXblR9S5iwNB8Oj
-languageCollectionID: aEVZXxtAUA4-RNXjkbJi
-lastUpdated: 1673628396818
+articleID: ZgW9sk0cb3rXjgwft5tA471e8XuQKxOn
+languageCollectionID: 5Ub6uV4cr5EPTR4uDzOxC-1GV0dbRY9B
+lastUpdated: 1673685329952
 tags: ["tools","social media","stub","communication"]
 ---
 

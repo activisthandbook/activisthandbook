@@ -4,9 +4,9 @@ title: >
 description: >
   Guide for activists: political campaign strategies
 langCode: en
-articleID: tJJn7OVv13Yqnp0bndPH
-languageCollectionID: JZSmk50dN2l-J1Kcyw4z
-lastUpdated: 1673628396818
+articleID: COcbBZLFi-cCBsnRrP5gYvHTZs_R6gK0
+languageCollectionID: ITWBzSSohZvn75yl1bMWEKXBcG25oQo7
+lastUpdated: 1673685329952
 tags: ["tactics","chapters"]
 ---
 
@@ -14,9 +14,9 @@ tags: ["tactics","chapters"]
 
 With a good campaign strategy, your movement or campaign makes more impact. In the articles below, we help you define what exactly the change is that you want to achieve, and what steps you need to take to get there.
 
--   **🎓** [**Strategy basics 101**](basics)
--   **📢** [**Types of campaign strategies**](types)
--   **📝** [**Develop your own strategy**](develop)
+-   **🎓** [**Strategy basics 101**](/strategy/basics)
+-   **📢** [**Types of campaign strategies**](/strategy/types)
+-   **📝** [**Develop your own strategy**](/strategy/develop)
 
 Before you can start to define your strategy, you need to get a group of likeminded people together and [organise yourselves](/organising). After you have defined your strategy, we recommend you to browse through our [list of tactics](/tactics) to get inspiration.
 
@@ -24,8 +24,8 @@ Before you can start to define your strategy, you need to get a group of likemin
 
 ## Other strategy guides
 
--   [Dealing with opposition](opposition)
--   [Power mapping](power-mappig)
+-   [Dealing with opposition](/strategy/opposition)
+-   [Power mapping](/strategy/power-mappig)
 
 ## Improve this chapter
 

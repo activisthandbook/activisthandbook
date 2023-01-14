@@ -4,9 +4,9 @@ title: >
 description: >
   What is a protest?
 langCode: en
-articleID: UKv4brdDzmINxL5pub34
-languageCollectionID: Y7KTVoz9u-M6M8fC-M0y
-lastUpdated: 1673628396818
+articleID: pWeVKUpssuKvMAATXKu-JTGz_DZhy_DE
+languageCollectionID: 0h8zvUYJ-eMcYmTlugYhZJqZKCJe-Y0r
+lastUpdated: 1673685329952
 tags: ["dictionary"]
 ---
 

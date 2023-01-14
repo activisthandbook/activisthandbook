@@ -2,9 +2,9 @@
 title: >
   Judicial activism
 langCode: en
-articleID: wpA-uwmiOG3w8PHQ1nSk
-languageCollectionID: oPq7-4Fkj8_r3NvdVubm
-lastUpdated: 1673628396818
+articleID: _zjLUj8Cp2BZzhycdItQp3vVGpKG67oi
+languageCollectionID: 78GzjW67sTPkK4e4zKsIDmI1woZ2GRB2
+lastUpdated: 1673685329952
 tags: []
 ---
 

@@ -4,9 +4,9 @@ title: >
 description: >
   Support page
 langCode: en
-articleID: Uq7xAkD4-ZdSAmaoj7pu
-languageCollectionID: kmiLP2yecoKJ56LktwiE
-lastUpdated: 1673628396818
+articleID: Wwc0SM0n73XaxbrSzweSM1b1lQIXI3NR
+languageCollectionID: ppO4xc1zC5cADY5lpiP98ZqbFoHdYXkf
+lastUpdated: 1673685329952
 tags: []
 ---
 
@@ -39,4 +39,4 @@ Copy the link to the saved webpage and add it to a resource like this:
 
 Or like this when referenced in-text:
 
-_Lorem ipsum, blah, blah, as explained_ [_here_](#) _\[_[_Archived version_](https://web.archive.org/)_\]_
+_Lorem ipsum, blah, blah, as explained_ [_here_](/support/adding-links/#) _\[_[_Archived version_](https://web.archive.org/)_\]_

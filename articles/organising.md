@@ -4,9 +4,9 @@ title: >
 description: >
   Guides about movement building
 langCode: en
-articleID: OyK7hgRLqM7OAWDkYbwE
-languageCollectionID: 9lHWzDguhG76a0HxkfM6
-lastUpdated: 1673628396818
+articleID: GFvsfesraMcpFrYRamJYwIAZCW1mcX26
+languageCollectionID: YfxztiarswuRxlSVkEfPzSh-Qw90yUoO
+lastUpdated: 1673685329952
 tags: ["chapters"]
 ---
 
@@ -16,10 +16,10 @@ tags: ["chapters"]
 
 You want to achieve change. But where do you start? We recommend you find likeminded people and start organising yourselves together. No matter whether you just decided to take action, or would like to improve the organisational structure of an existing movement, these three guides should help you get started:
 
-1.  ✊ [**Organise a protest**](protest) — Take action today
-2.  📢 [**Organise a campaign**](campaign) - Make plans for the upcoming year
-3.  **🌊** [**Build a movement**](build-movement) — In it for the long run
-4.  **📄** [**Organisation frameworks**](frameworks) — Organise better
+1.  ✊ [**Organise a protest**](/organising/protest) — Take action today
+2.  📢 [**Organise a campaign**](/organising/campaign) - Make plans for the upcoming year
+3.  **🌊** [**Build a movement**](/organising/build-movement) — In it for the long run
+4.  **📄** [**Organisation frameworks**](/organising/frameworks) — Organise better
 
 <div><figcaption>A protest movement has come together to defend a forest - Generated using OpenAI</figcaption></div>
 
@@ -27,13 +27,13 @@ You want to achieve change. But where do you start? We recommend you find likemi
 
 You want to make a big impact. But you have a limited access to resources needed to get there. This section focusses on building capacity to bring about change.
 
-In this section, you will learn how to [grow your movement](outreach-mobilisation) and how to [keep members engaged](recruitment-engagement) within your community. Also make sure to check out our guide on [building coalitions](coalition-building).
+In this section, you will learn how to [grow your movement](/organising/outreach-mobilisation) and how to [keep members engaged](/organising/recruitment-engagement) within your community. Also make sure to check out our guide on [building coalitions](/organising/coalition-building).
 
--   **📢** [**Outreach & mobilisation**](outreach-mobilisation)
--   **💪** [**Recruitment & engagement**](recruitment-engagement)
--   🙌 [**Coalition building**](coalition-building)
--   **🎓** [**Knowledge sharing and training**](knowledge-sharing)
--   **🤑** [**Fundraising**](fundraising)
+-   **📢** [**Outreach & mobilisation**](/organising/outreach-mobilisation)
+-   **💪** [**Recruitment & engagement**](/organising/recruitment-engagement)
+-   🙌 [**Coalition building**](/organising/coalition-building)
+-   **🎓** [**Knowledge sharing and training**](/organising/knowledge-sharing)
+-   **🤑** [**Fundraising**](/organising/fundraising)
 
 <div><figcaption>People exchanging knowledge and experiences about activism - Generated using OpenAI</figcaption></div>
 
@@ -41,11 +41,11 @@ In this section, you will learn how to [grow your movement](outreach-mobilisatio
 
 Learn about power structures (both visible and invisible), and how your organisation can improve decision-making and empower its members. Explore how to tackle structural oppression and inaccessibility in your organisation. Learn how to facilitate meetings and brainstorms.
 
--   **🗳** [**Decision making, facilitation and power**](decisions-and-power)
+-   **🗳** [**Decision making, facilitation and power**](/organising/decisions-and-power)
 -   **❤️** [**Diversity and intersectionality**](/organising/diversity)
--   **💻** [**Online organising**](online)
+-   **💻** [**Online organising**](/organising/online)
 -   **💬** [**Internal communication**](/organising/internal-communication)
--   🔐 [**Security culture**](security-culture)
+-   🔐 [**Security culture**](/organising/security-culture)
 
 <div></div>
 

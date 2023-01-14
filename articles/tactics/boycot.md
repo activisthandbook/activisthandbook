@@ -2,9 +2,9 @@
 title: >
   Boycot
 langCode: en
-articleID: TD1Dqh98ve1VQ_KrsYIF
-languageCollectionID: XzV50vQIJIjfakOFDKyd
-lastUpdated: 1673628396818
+articleID: bLAPEekOSqnZWLNkfrA_gnIF5ETEFoa8
+languageCollectionID: lb31izPI8IWLvBhwHPg-4VDrByAmTtoH
+lastUpdated: 1673685329952
 tags: ["tactics","stub"]
 ---
 

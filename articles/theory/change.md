@@ -4,9 +4,9 @@ title: >
 description: >
   How does change happen?
 langCode: en
-articleID: uNVqK4hNRhrAio0p_JY7
-languageCollectionID: dKq4lD-qWUa75bTXMwOP
-lastUpdated: 1673628396818
+articleID: eXJVnrLqNtZFJ-kTwd4gx62H8oSPTfU5
+languageCollectionID: Gzbw-7EWsyNUfYEJbLeo_FMASKXDiMM6
+lastUpdated: 1673685329952
 tags: ["theory"]
 ---
 

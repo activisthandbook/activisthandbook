@@ -2,9 +2,9 @@
 title: >
   Volunteer guides: Writers circle
 langCode: en
-articleID: a9Z3YvilS-FiHEUvOFso
-languageCollectionID: vEQq52Rzdb7GJ8ZhhbAF
-lastUpdated: 1673628396818
+articleID: LxFGOuEVFnT3bgdwO1Zd6zs0OtrDE_ha
+languageCollectionID: bZUvoxLOv5Ju4JQ62Nrdtn4vnnClcLo2
+lastUpdated: 1673685329952
 tags: []
 ---
 
@@ -16,7 +16,7 @@ tags: []
 -   **🔢** [**Structuring articles**](/support/writers/structure)
 -   **🎨** [**Styling articles**](/support/writers/style)
 -   **📄** [**Reference guide**](/support/writers/reference)
--   💯 [**Improve existing content**](improve)
+-   💯 [**Improve existing content**](/support/writers/improve)
 -   **✔️** [Content requirements](/support/writers/requirements) **(needs to be updated!)**
 
 ## Guides for specific roles

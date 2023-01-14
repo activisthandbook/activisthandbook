@@ -4,9 +4,9 @@ title: >
 description: >
   Produire des guides pour les acteurs du changement
 langCode: fr
-articleID: iTPLfBYYAIqBHAXB1GtX
-languageCollectionID: xcK5GZXuwg2AVBrySctB
-lastUpdated: 1673628396818
+articleID: icLcrBSQefgNBM5ih5yC86x7zdcsgA3S
+languageCollectionID: pWCftLI62RW98GgnkjBDA7kjc-b4t9L2
+lastUpdated: 1673685329952
 tags: []
 ---
 

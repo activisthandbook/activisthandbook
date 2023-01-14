@@ -4,9 +4,9 @@ title: >
 description: >
   Erstellung von Leitfäden für Weltveränder*innen
 langCode: de
-articleID: 7ijwT01iaIXAcBV1E19n
-languageCollectionID: xcK5GZXuwg2AVBrySctB
-lastUpdated: 1673628396818
+articleID: pB8VOXspAT43bcGh2XJKyIwmSzS-QsVf
+languageCollectionID: pWCftLI62RW98GgnkjBDA7kjc-b4t9L2
+lastUpdated: 1673685329952
 tags: []
 ---
 

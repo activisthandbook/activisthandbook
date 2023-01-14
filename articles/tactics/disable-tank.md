@@ -4,9 +4,9 @@ title: >
 description: >
   Anti-war tactics
 langCode: en
-articleID: FniTua9kirn3rE_xKz2O
-languageCollectionID: agBvUcv3uabs8I15HsE1
-lastUpdated: 1673628396818
+articleID: orJImjtskSkzKw62A6fgtqXWzrdEQjP5
+languageCollectionID: j2qoIL9WBUib8JbNDAuF-zRASb7B30XR
+lastUpdated: 1673685329952
 tags: []
 ---
 

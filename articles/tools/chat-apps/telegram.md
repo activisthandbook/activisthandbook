@@ -4,9 +4,9 @@ title: >
 description: >
   Great functionality, bad privacy practice
 langCode: en
-articleID: AS_0QLttFMb0URS-a51n
-languageCollectionID: JD-M6_NoT4859qZfi81v
-lastUpdated: 1673628396818
+articleID: oMtM-obSdeXJmlIBUKheqDJZDWJbx6CW
+languageCollectionID: ASDLUzGgBD7s0JbYf8GpFHPPgwWatHUZ
+lastUpdated: 1673685329952
 tags: ["tools","chat apps"]
 ---
 

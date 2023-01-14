@@ -4,9 +4,9 @@ title: >
 description: >
   What is activism?
 langCode: en
-articleID: 6JEoOzG0yEOvjPMVxIrt
-languageCollectionID: DV61DE6v5gh-GKJmqKLc
-lastUpdated: 1673628396818
+articleID: 6MtUBCQ-4GURL7GCsr0nrZEDG5FKidHv
+languageCollectionID: g9LIc0sXqSs9q7QVCMNBzTB_Ke9RH65n
+lastUpdated: 1673685329952
 tags: ["dictionary"]
 ---
 

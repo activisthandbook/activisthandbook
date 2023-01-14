@@ -2,9 +2,9 @@
 title: >
   Activism during a pandemic
 langCode: en
-articleID: R9S2RpkU4Wb9z0UWMBkD
-languageCollectionID: xVSfa6xWuqS-OT2mEPKd
-lastUpdated: 1673628396818
+articleID: lp7MnwtEabOZBNKY87DxBmKQNcZIwQKQ
+languageCollectionID: b7SRAOR8GAK6zWrSckuXVZnDC9kWtYCb
+lastUpdated: 1673685329952
 tags: ["wellbeing","stub"]
 ---
 

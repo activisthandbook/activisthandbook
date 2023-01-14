@@ -4,9 +4,9 @@ title: >
 description: >
   Newsletter (noun): a bulletin issued periodically to the members of a society or other organisation.
 langCode: en
-articleID: gCrcpSqgtFkFf3LbGA6b
-languageCollectionID: BjBgBuoXYmSz2fS3ailP
-lastUpdated: 1673628396818
+articleID: kNJ4yk9usNSR2mbO43oT-JrEXltgiXa8
+languageCollectionID: tyid58wfw9hZYHpJ7SJeVZ85PkSKW_qS
+lastUpdated: 1673685329952
 tags: []
 ---
 

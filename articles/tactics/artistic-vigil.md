@@ -2,9 +2,9 @@
 title: >
   Artistic vigil
 langCode: en
-articleID: tsT2FnuclKsZQJO4WIWc
-languageCollectionID: _FQvhdddzZQNbGdQa3-q
-lastUpdated: 1673628396818
+articleID: WKCizqSJ01IzzD_0VqIqTWcsVlG4pyAI
+languageCollectionID: LVw8xgB0jEWx4Okfw_CtTfWE_qg90x3Y
+lastUpdated: 1673685329952
 tags: []
 ---
 

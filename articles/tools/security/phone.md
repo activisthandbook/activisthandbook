@@ -4,9 +4,9 @@ title: >
 description: >
   Getting your smartphone ready for protests
 langCode: en
-articleID: AtM3lPArSccIRYBEMphH
-languageCollectionID: ZfzwDklRn8zTmE5HCsGQ
-lastUpdated: 1673628396818
+articleID: uRLmn_79fabJjAqNBb5TOXJMFixvSBeY
+languageCollectionID: nF9dpyecd__bMJwJqrDydKHW8jvQp_yE
+lastUpdated: 1673685329952
 tags: []
 ---
 

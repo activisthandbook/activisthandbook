@@ -4,9 +4,9 @@ title: >
 description: >
   Resource for activists by Chris Crass (2013)
 langCode: en
-articleID: fk2ofHmzHVOprjfa45b8
-languageCollectionID: jMtobtAI__QgYXKbZj65
-lastUpdated: 1673628396818
+articleID: o_cTYZU6KJi-yamhielIb498mA1allJJ
+languageCollectionID: X-6J0Z6aiDE_ebP_Ybrpc1JnQZ25CF6b
+lastUpdated: 1673685329952
 tags: []
 ---
 

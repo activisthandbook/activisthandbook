@@ -4,9 +4,9 @@ title: >
 description: >
   Training for political campaigners and activists
 langCode: en
-articleID: JdTDhSbj7Mw81o6QdiNR
-languageCollectionID: Jc1ZOVSZZLxBUTadayzR
-lastUpdated: 1673628396818
+articleID: z0s_LcXpoPmb7Tf2G3l9x6XvpmERLF6T
+languageCollectionID: wZyC7rQ5ohM1Negoe1Got1QENfxdQ99C
+lastUpdated: 1673685329952
 tags: []
 ---
 

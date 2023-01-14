@@ -2,9 +2,9 @@
 title: >
   Support desk tools for activists
 langCode: en
-articleID: bpNdkkkuTO9uQANhZXqR
-languageCollectionID: LxB-nAAmaVHVpudgEtJ6
-lastUpdated: 1673628396818
+articleID: qy8KzTfxPyBEuqdlmmVwFn27kQFSMcJz
+languageCollectionID: G2DypraLQsHCfcVywJwV1gThDvg5q-9H
+lastUpdated: 1673685329952
 tags: []
 ---
 

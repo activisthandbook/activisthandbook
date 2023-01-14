@@ -4,9 +4,9 @@ title: >
 description: >
   Klimaatactiegroep in Amsterdam
 langCode: nl
-articleID: CQCxchz20_42I5ugeCe_
-languageCollectionID: 4sKhxf_3fPqvwCFFNfQJ
-lastUpdated: 1673628396818
+articleID: biiVBgYEu5kDDXRy2EyP0wldySd3x5XL
+languageCollectionID: vxXksI2rCDyNrhNz1ptEFDA3BUm6hzsX
+lastUpdated: 1673685329952
 tags: []
 ---
 

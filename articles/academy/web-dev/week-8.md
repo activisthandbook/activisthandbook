@@ -2,9 +2,9 @@
 title: >
   Week 8
 langCode: en
-articleID: HNO0erDLsqCKnP8aj1Qu
-languageCollectionID: 9_fvWxXzpnCUwcUODXmA
-lastUpdated: 1673628396818
+articleID: nwwCZx8wwKTQOVtqvOC7_45qfFA_IlIY
+languageCollectionID: nZhc-Eob6tY8GwCCNPrquINMQUwUEf-R
+lastUpdated: 1673685329952
 tags: []
 ---
 

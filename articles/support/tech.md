@@ -4,9 +4,9 @@ title: >
 description: >
   Things to know if you want to join the Tech circle
 langCode: en
-articleID: aEh_Xmu9utAHl31vLApK
-languageCollectionID: hndTQ86xzjPGNWf6J_Zf
-lastUpdated: 1673628396818
+articleID: klW6NS5AfnwX-aZq4R2r103EdQ1xIBO0
+languageCollectionID: 0R855C0hKLB-lc-km3ti9Za7R0Do3JuB
+lastUpdated: 1673685329952
 tags: ["#internalguide"]
 ---
 
@@ -34,17 +34,17 @@ The following guides are relevant to all members in the Tech circle:
 
 -   **🎓** [**Web development for rebels**](/academy/web-dev)
 -   **🔐** [**Security training**](/support/tech/security-training)
--   [Website](website)
+-   [Website](/support/tech/website)
 
 ## Role guides
 
 We have written a guide for each role within the Tech circle:
 
--   **⭕️** [**Tech coordinator**](coordinator)
--   **🦋** [**Rebel Tools coordinator**](rebel-tools-coordinator)
--   **🖐** [**Tech supporter**](supporter)
--   **👩‍💻** [**Tech trainer**](trainer)
--   **🎓** [**Tech student**](student)
+-   **⭕️** [**Tech coordinator**](/support/tech/coordinator)
+-   **🦋** [**Rebel Tools coordinator**](/support/tech/rebel-tools-coordinator)
+-   **🖐** [**Tech supporter**](/support/tech/supporter)
+-   **👩‍💻** [**Tech trainer**](/support/tech/trainer)
+-   **🎓** [**Tech student**](/support/tech/student)
 
 You can find descriptions and vacancies for these roles on [our airtable](https://airtable.com/shr6GqOJ7587fNbEn/tbloV4g8loVisebVz?filter_Circles=Tech%20circle).
 

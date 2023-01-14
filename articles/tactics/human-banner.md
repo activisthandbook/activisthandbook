@@ -2,9 +2,9 @@
 title: >
   Human banner
 langCode: en
-articleID: wo_Uc1P9lib6-rOdoDqZ
-languageCollectionID: 0-imFVyR2mYMhUgRlghX
-lastUpdated: 1673628396818
+articleID: Te6O383mSsjf-RnksW4UxTOIFPtJ8cfD
+languageCollectionID: Paea-zCSsOxRK78N7K40QKdAQf4_41V5
+lastUpdated: 1673685329952
 tags: ["tactics","stub"]
 ---
 

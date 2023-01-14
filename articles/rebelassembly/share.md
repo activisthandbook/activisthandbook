@@ -4,9 +4,9 @@ title: >
 description: >
   Promotion material
 langCode: en
-articleID: wQeTYM3mr_Kja-rlgxCY
-languageCollectionID: m5RQYoa4cvnz_UDI_KiM
-lastUpdated: 1673628396818
+articleID: zP3CChoWzpShg90nFyh-6pjTLZm5JUQN
+languageCollectionID: xT9ZvYjbMKNvR6htUFTUM9-0-MlcFlGv
+lastUpdated: 1673685329952
 tags: []
 ---
 

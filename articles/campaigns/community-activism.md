@@ -4,9 +4,9 @@ title: >
 description: >
   Take action for your community
 langCode: en
-articleID: l0arlMCphSCy4o7WNc8Q
-languageCollectionID: F4asu8Y3Eamd3P1aD6ou
-lastUpdated: 1673628396818
+articleID: lQry8wYg2zgtdrRrOkPTg98zB7B-rpb6
+languageCollectionID: 2mWOwVhgviNB1Z6mXDz7ixRMMRFYj_XY
+lastUpdated: 1673685329952
 tags: ["campaign"]
 ---
 

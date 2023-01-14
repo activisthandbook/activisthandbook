@@ -2,9 +2,9 @@
 title: >
   Week 7: Connecting to a backend (Amplify)
 langCode: en
-articleID: zLd0KU2FLZspu_PXKVKO
-languageCollectionID: 8cTawmbotAlZnVZOqBnx
-lastUpdated: 1673628396818
+articleID: KzOZCIIxvJXlK8s2jQR2eF5p_H-8v-88
+languageCollectionID: 7MU_txlKDVoWITvWo-Rv5VnxaTxnXQfL
+lastUpdated: 1673685329952
 tags: []
 ---
 

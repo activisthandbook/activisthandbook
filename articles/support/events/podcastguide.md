@@ -2,9 +2,9 @@
 title: >
   How to make a podcast
 langCode: en
-articleID: g0Oo48RsrLkNozngLMQM
-languageCollectionID: 4vxEdzKqg6sFXK058WjY
-lastUpdated: 1673628396818
+articleID: hUl_H1-7VguBwMr8nEgK5FWmSLFq7w8c
+languageCollectionID: gbXB6gO_-NcT1mw3Up-vEbxENlPHjn8Y
+lastUpdated: 1673685329952
 tags: []
 ---
 

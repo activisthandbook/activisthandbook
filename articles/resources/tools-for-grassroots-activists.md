@@ -4,9 +4,9 @@ title: >
 description: >
   Resource for grassroots organising by by Nora Gallagher and Lisa Myers
 langCode: en
-articleID: VfZ8BJLzw9e04feRCMi4
-languageCollectionID: IUvX2EkplrsxZkE1_9T9
-lastUpdated: 1673628396818
+articleID: WSBAEuFKxVA1l4hy_2qdB1ka-bQh2Qsm
+languageCollectionID: xi2i2SYFFrghwhlNWk0OZVtar1r9CzDx
+lastUpdated: 1673685329952
 tags: ["resources","books"]
 ---
 

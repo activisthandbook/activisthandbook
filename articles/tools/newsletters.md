@@ -4,9 +4,9 @@ title: >
 description: >
   Tools to send newsletters and maintain an email list
 langCode: en
-articleID: 03Qa5m2NP6v6gCv0ES8V
-languageCollectionID: zXzblUJO0FXQdboiSsAu
-lastUpdated: 1673628396818
+articleID: mTUlrThvYBCPGLn2PEenAzoSy2wU_nJN
+languageCollectionID: kuhtuN7F2BwHAWa7fCqT-WWLtASNsEsv
+lastUpdated: 1673685329952
 tags: ["tools","social media"]
 ---
 

@@ -4,9 +4,9 @@ title: >
 description: >
   How to give a speach at a protest
 langCode: en
-articleID: L_NqctZ8jnI5ZZdwZoGZ
-languageCollectionID: PCful3ATACg119mnY9pd
-lastUpdated: 1673628396818
+articleID: QvtHh9_ZXwJElaCvmDKboLf8fLI9RsK-
+languageCollectionID: q3IWow_2WCwF2ap7xY3OGBC7OcLFAnhM
+lastUpdated: 1673685329952
 tags: ["communication"]
 ---
 

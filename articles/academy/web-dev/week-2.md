@@ -2,9 +2,9 @@
 title: >
   Week 2: Structuring your webpage (HTML)
 langCode: en
-articleID: _C8U_5C_cc2gci4DNRZz
-languageCollectionID: ENMM2N_YwRfWEFLhPRRL
-lastUpdated: 1673628396818
+articleID: Kn60OGj1QDE8cyg2xBheQnK3NN8VXlFp
+languageCollectionID: W0iljGmx18PAJh1VXTfONM4csshD-SPv
+lastUpdated: 1673685329952
 tags: []
 ---
 

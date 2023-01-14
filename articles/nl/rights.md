@@ -4,9 +4,9 @@ title: >
 description: >
   Demonstratierecht &amp; politiepraktijken in Nederland en België
 langCode: nl
-articleID: SJzmNbUK9LtDDlebYWNO
-languageCollectionID: izNmBpD1Zsizh7CIRlOO
-lastUpdated: 1673628396818
+articleID: t3qpOJjrazWff0M39YRQImGn6ELy-hd6
+languageCollectionID: gkeDb25kJ-ryhomiRn8gCpwVDDcR985-
+lastUpdated: 1673685329952
 tags: []
 ---
 
@@ -24,16 +24,16 @@ Zorg ervoor dat de autoriteiten niet op basis van deze redenen je demonstratie k
 
 Volgens het Europese hof hoef je demonstraties niet aan te kondigen, maar volgens Nederlandse regels moet dit wel. De Nederlandse wet houdt zich dus niet aan Europese regelgeving. De politie en de Gemeente willen graag weten wat je van plan bent, naar eigen zeggen zodat ze het protest beter kunnen faciliteren en veilig kunnen laten verlopen. De meeste gemeentes hebben in hun Algemene Plaatselijke Verordening (APV) vastgelegd hoe en of je betogingen moet aanmelden. Voldoe je hier niet aan, dan kan de burgemeester in uitzonderlijke omstandigheden de betoging verbieden. In praktijk betekent het niet melden van je betoging helaas vaak dat de driehoek (burgemeester, politie en justitie) eerder geneigd is de betoging te beëindigen met als reden gevaar voor de Openbare Veiligheid of vanwege het niet aanmelden. In verschillende gemeentes, waaronder Den Haag, kan je zelfs een boete krijgen voor het niet melden van een betoging.
 
--   [Amsterdam](amsterdam)
--   [Rotterdam](rotterdam)
--   [Den Haag](den-haag) (voeg pagina toe)
--   [Utrecht](utrecht) (voeg pagina toe)
--   [Eindhoven](eindhoven) (voeg pagina toe)
--   [Groningen](groningen) (voeg pagina toe)
--   [Tilburg](tilburg) (voeg pagina toe)
--   [Almere](almere) (voeg pagina toe)
--   [Breda](breda) (voeg pagina toe)
--   [Nijmegen](nijmegen) (voeg pagina toe)
+-   [Amsterdam](/rights/amsterdam)
+-   [Rotterdam](/rights/rotterdam)
+-   [Den Haag](/rights/den-haag) (voeg pagina toe)
+-   [Utrecht](/rights/utrecht) (voeg pagina toe)
+-   [Eindhoven](/rights/eindhoven) (voeg pagina toe)
+-   [Groningen](/rights/groningen) (voeg pagina toe)
+-   [Tilburg](/rights/tilburg) (voeg pagina toe)
+-   [Almere](/rights/almere) (voeg pagina toe)
+-   [Breda](/rights/breda) (voeg pagina toe)
+-   [Nijmegen](/rights/nijmegen) (voeg pagina toe)
 
 ### Legitimatie
 

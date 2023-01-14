@@ -4,9 +4,9 @@ title: >
 description: >
   Will you lead our finance team?
 langCode: en
-articleID: 3L8qA8Yx9ufhYA6aaVH1
-languageCollectionID: p60cs2idbkcSJ11z_Lkx
-lastUpdated: 1673628396818
+articleID: 7g7ny6n6EvB7Ht40Ha_npGxDs442zE2t
+languageCollectionID: i6l9utQ8wWPhxggwvKgAfphq12b74Xj8
+lastUpdated: 1673685329952
 tags: []
 ---
 

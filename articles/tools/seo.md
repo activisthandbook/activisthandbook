@@ -4,9 +4,9 @@ title: >
 description: >
   Guide: Search engine optimisation for nonprofits and activists
 langCode: en
-articleID: xbcaB_D6xIvy2P7Ia-Ku
-languageCollectionID: yeETriaUIal3iO5bIQem
-lastUpdated: 1673628396818
+articleID: 8agV_vJCNpGiSPaTAY1GSYf1mfN88izh
+languageCollectionID: KOb54yxdSm9UDCTKsNohL7BHQXSETFZl
+lastUpdated: 1673685329952
 tags: []
 ---
 
@@ -98,9 +98,9 @@ There are many things you can do to improve your search engine performance. Choo
     -   Google Analytics
     -   Matomo (privacy-friendly alternative)
     -   Want the most feature-rich solution? Choose Google Analytics. Care about privacy? Use Matomo.
--   **🔍** [**Find search keywords**](keywords): Find out what people look up on Google, and compare differences over time and geographically.
--   👀 [**Competitor research**](competitor-research): Learn from other activist organisations and opponents.
--   **🔗** [**Get more backlinks**](backlinks)**:** Get a list of websites that link to yours. The more websites link to yours, the higher your search rankings. And it is a great way to find potential partner organisations & do outreach.
+-   **🔍** [**Find search keywords**](/tools/seo/keywords): Find out what people look up on Google, and compare differences over time and geographically.
+-   👀 [**Competitor research**](/tools/seo/competitor-research): Learn from other activist organisations and opponents.
+-   **🔗** [**Get more backlinks**](/tools/seo/backlinks)**:** Get a list of websites that link to yours. The more websites link to yours, the higher your search rankings. And it is a great way to find potential partner organisations & do outreach.
 -   **📝 Write better content (guide not created yet):** Get suggestions on how to write better articles so that you can reach more people on Google.
 -   **👩‍💻** [**Develop a better website**](/tools/website)**:** Make your website faster and more accessible to get better search results.
 

@@ -4,9 +4,9 @@ title: >
 description: >
   Organising first aid at protests
 langCode: en
-articleID: _ys7YJKqOwkLD1KPZONN
-languageCollectionID: My9ReF2MfOFl30SaMYcf
-lastUpdated: 1673628396818
+articleID: UJxTofTA8YR-MV4qOt-98-fQDoEgBbEr
+languageCollectionID: b7r37YsTWCjkseCpFrnh8JJ9t6tOAcl4
+lastUpdated: 1673685329952
 tags: []
 ---
 

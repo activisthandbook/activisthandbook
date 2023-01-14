@@ -2,9 +2,9 @@
 title: >
   Tactics for alternative building
 langCode: en
-articleID: LqTC9zEqF0M2ikSolkJx
-languageCollectionID: 3PPRTRckfjq-_8zpougB
-lastUpdated: 1673628396818
+articleID: 5LC6uc36QC4KsEp8vNreW07N4YuLfext
+languageCollectionID: EVLvIpuR06FvlOOxYGue78Tqa6IRkU15
+lastUpdated: 1673685329952
 tags: []
 ---
 

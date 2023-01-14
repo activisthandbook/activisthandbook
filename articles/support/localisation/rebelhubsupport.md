@@ -2,9 +2,9 @@
 title: >
   Volunteer guide: Rebel hub support
 langCode: en
-articleID: pUQ4Gscf0ZNbQdLBVzSg
-languageCollectionID: 53-PGk8ShcUbqg9nGG8i
-lastUpdated: 1673628396818
+articleID: wtYvmd9XDOSSwbHRG0K0YXFnpl84v-mC
+languageCollectionID: bRTb3hsd8dqKujG_gEDgBUia_9-Z3Ijb
+lastUpdated: 1673685329952
 tags: []
 ---
 

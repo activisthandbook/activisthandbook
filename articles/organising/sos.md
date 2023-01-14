@@ -4,9 +4,9 @@ title: >
 description: >
   Organising framework used by Extinction Rebellion
 langCode: en
-articleID: IJN6G1qHKRP7YTluSepZ
-languageCollectionID: Kn4jpyyv43Ju5nen3_H7
-lastUpdated: 1673628396818
+articleID: _0ANz19uH5claT8ySXwh5_OUaoYmrCvL
+languageCollectionID: s1mpJTJ37a4uFil1241Bj9b_3OEQpCVA
+lastUpdated: 1673685329952
 tags: []
 ---
 

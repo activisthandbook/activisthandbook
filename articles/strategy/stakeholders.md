@@ -2,9 +2,9 @@
 title: >
   Strategy: Stakeholders
 langCode: en
-articleID: tirZn6sopVR5NqBVCOaJ
-languageCollectionID: 51SfoRZVKnWIQCpNDdPy
-lastUpdated: 1673628396818
+articleID: vniVmr5XOo_J7FH_6dpNSVlywWV_m9Sw
+languageCollectionID: UZsnDJtVIzRXT8_-jBIWDLSQr0vlHQ3e
+lastUpdated: 1673685329952
 tags: ["easy to improve"]
 ---
 

@@ -4,9 +4,9 @@ title: >
 description: >
   Volunteer guide for the communication circle
 langCode: en
-articleID: ftDXM8rIsGIQRHEctl6O
-languageCollectionID: kCOMDPBraguzd5n3NxkS
-lastUpdated: 1673628396818
+articleID: 7uWWDxX098zcyfu-DB0WxtZXqiknkbK3
+languageCollectionID: fOxNXULz6eIFg9Uu2eGDnj1mgh3Y8P7k
+lastUpdated: 1673685329952
 tags: []
 ---
 

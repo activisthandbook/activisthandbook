@@ -4,9 +4,9 @@ title: >
 description: >
   How can we process the information we gather, to serve our strategies?
 langCode: en
-articleID: BEgHGHB-xAsdfGSmlVqy
-languageCollectionID: Uonk6e3u_JRqy_8P7b6L
-lastUpdated: 1673628396818
+articleID: b81TiMNG31Mgifg0jskAoodm72JIN3qo
+languageCollectionID: kXhFnEMTzjxSxNqi2k3QgRq2XQOPdsl4
+lastUpdated: 1673685329952
 tags: []
 ---
 

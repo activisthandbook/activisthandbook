@@ -2,9 +2,9 @@
 title: >
   Protest stickers
 langCode: en
-articleID: uCus1yFpJ-2ACpMko9UN
-languageCollectionID: rBUE4P2TU--bUQXchqVD
-lastUpdated: 1673628396818
+articleID: Iq4xUihE7MPahoZUfgigjGnmfJd8dZvK
+languageCollectionID: 0kEOUOwIGElH8HsSq8Ic_jy2kN2WvxFk
+lastUpdated: 1673685329952
 tags: ["tools","stub"]
 ---
 

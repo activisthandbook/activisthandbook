@@ -4,9 +4,9 @@ title: >
 description: >
   Share the good, the bad and the ugly about your experiences of activism!
 langCode: en
-articleID: A_95mFu_hUwCWMqGOlmM
-languageCollectionID: XKl3BbfzpyXtzpZHPskk
-lastUpdated: 1673628396818
+articleID: Rc-z0udZ-viHPv5CB9uByKCvloBHxxDU
+languageCollectionID: zH56FpJdly9QinuTWT_zJRFfDzTCXWr4
+lastUpdated: 1673685329952
 tags: []
 ---
 

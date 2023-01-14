@@ -4,9 +4,9 @@ title: >
 description: >
   Representing life which can not speak
 langCode: en
-articleID: iu8DRJioR8r3l9I7S6Sw
-languageCollectionID: kVAALJ3Oyoi7cjkngZNn
-lastUpdated: 1673628396818
+articleID: HngEIuDqw3FN0parVfMMiasfU6LVR2IH
+languageCollectionID: Q2bb-wjR77PXnBNoUm2fthJ3rAu0jq-K
+lastUpdated: 1673685329952
 tags: ["campaign"]
 ---
 

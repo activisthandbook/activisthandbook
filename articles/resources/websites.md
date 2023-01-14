@@ -4,9 +4,9 @@ title: >
 description: >
   Resources for change-makers
 langCode: en
-articleID: xNeSi4Sf6YlFmZ9rM4jh
-languageCollectionID: ZrC8cV3Car46-U5m5qNI
-lastUpdated: 1673628396818
+articleID: ZCq-l7Y9h3GwfkKPxMK0oOiDP84O1Jtc
+languageCollectionID: Mtd2FuWOUkKF6t3voMqIbkiYbmfxw2dl
+lastUpdated: 1673685329952
 tags: []
 ---
 
@@ -61,7 +61,7 @@ The following websites about activism are not available under a creative commons
 -   [**The Citizen's Handbook**](https://citizenshandbook.org/toc.html)
 -   [**The Movement Hub**](/resources/the-movement-hub)
 -   [**Resistance School**](https://www.resistanceschool.com/courses/) (they also have [Youtube channel](https://www.youtube.com/channel/UCqC33pTXw19hp1lIJ8mAcRw/featured))
--   [**YWCA Advocacy Toolkit**]( https://www.ywca.org.au/advocacy-toolkit/): 36 page PDF publication for intersectional feminist activists.
+-   [**YWCA Advocacy Toolkit**](/resources/websites/ https://www.ywca.org.au/advocacy-toolkit/): 36 page PDF publication for intersectional feminist activists.
 -   [**NetChange reports**](http://netchange.co/reports)**:** Distributed Organizing Worksheet, Digital Engagement Teams in 2018, Networked Change Report, Networked Change In Canada, Directed-network Campaign Planning Tool
 -   [**Learning for Justice**](https://www.learningforjustice.org)
 -   [**Bond NGO Support (UK)**](https://www.bond.org.uk/ngo-support)

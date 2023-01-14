@@ -4,9 +4,9 @@ title: >
 description: >
   The MAP Model for Organizing Social Movements
 langCode: en
-articleID: oebyVMIYXlVowNfh6XnS
-languageCollectionID: 7TSp4T2Z7a_DD5aRgXwq
-lastUpdated: 1673628396818
+articleID: M_z8f2okZ9OAQHTkO6lo_gJTQlcp0vOM
+languageCollectionID: U--sdrwRfMyO5qltjHVG18MhPdjiZO8G
+lastUpdated: 1673685329952
 tags: []
 ---
 

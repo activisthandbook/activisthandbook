@@ -4,9 +4,9 @@ title: >
 description: >
   Aanmelden protest of manifestatie in Rotterdam
 langCode: nl
-articleID: ax90Br98Wop3TzP4otiM
-languageCollectionID: qhZvXFP4XFzD5VEMw7DS
-lastUpdated: 1673628396818
+articleID: DlD4wMm3ojWpMhyAwCi9MrLOsvqOq0LW
+languageCollectionID: fpBJjqEL6mKhKL9e286DuxbPH2blqGa3
+lastUpdated: 1673685329952
 tags: []
 ---
 

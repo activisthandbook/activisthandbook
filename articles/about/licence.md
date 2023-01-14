@@ -2,9 +2,9 @@
 title: >
   Licence
 langCode: en
-articleID: nqfNnotBZ8JPjhjm8saU
-languageCollectionID: nP28Vl_RFwO15yIxhykz
-lastUpdated: 1673628396818
+articleID: SYBx3K90EFRNygRFqn65KpYNhdC_Cy6N
+languageCollectionID: akDKp3pUERbB3v_Bm83K31oCreF1MLXM
+lastUpdated: 1673685329952
 tags: []
 ---
 

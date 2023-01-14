@@ -4,9 +4,9 @@ title: >
 description: >
   Hosted by FYEG and Activist Handbook
 langCode: en
-articleID: CgiX_jklIlNt_Xrg5CA9
-languageCollectionID: bBo4sQQSgDRbd1DkA5Y8
-lastUpdated: 1673628396818
+articleID: iNjc-ieVAdhKY_iuuCbNoE7XR1k6uisI
+languageCollectionID: 8tTTdIHSf0GbiueZn7eFupvhxg0nxha1
+lastUpdated: 1673685329952
 tags: []
 ---
 
@@ -14,7 +14,7 @@ tags: []
 
 ## Preparation
 
-We have recorded a video explaining everything you need to know before the event. If you prefer reading, you can also check out our [preparation guide](prepare).
+We have recorded a video explaining everything you need to know before the event. If you prefer reading, you can also check out our [preparation guide](/writeathon/prepare).
 
 Before joining our event on the 11th, make sure to do the following:
 
@@ -26,10 +26,10 @@ Before joining our event on the 11th, make sure to do the following:
 
 ## Important info
 
--   ⚡️ [**Preparation guide**](prepare)
--   🕙 [**Programme**](programme)
--   **📝** [**How to write good articles**](writing-guide)
--   **🙌** [**After the event**](next-steps)
+-   ⚡️ [**Preparation guide**](/writeathon/prepare)
+-   🕙 [**Programme**](/writeathon/programme)
+-   **📝** [**How to write good articles**](/writeathon/writing-guide)
+-   **🙌** [**After the event**](/writeathon/next-steps)
 
 ## Organisation
 

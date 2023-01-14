@@ -4,9 +4,9 @@ title: >
 description: >
   By activists, for activists
 langCode: en
-articleID: FUR8Z7XVYB68VmPiAZ7o
-languageCollectionID: ygsnP6SpB9qepiY3a75P
-lastUpdated: 1673628396818
+articleID: LNXRqImbhPI80njD8gqTNDmY0HwjFLBG
+languageCollectionID: LhPFF-DwqY4R0PAtteTbmCqiJlZY9sdL
+lastUpdated: 1673685329952
 tags: ["about"]
 ---
 
@@ -14,8 +14,8 @@ Activist Handbook is a Wikipedia-style collaborative manual created by activists
 
 We [believe](/about/principles) that knowledge should be free and available to everyone. We strive to connect globally, learn from various activist undertakings in different political and historical contexts. Cooperation, sharing, diversity and mutuality are important to us. Our organisation aims to support local communities who want to learn from activist experiences from their peers around the globe and share their invaluable experience and practices.
 
--   **❤️** [**People**](people)
--   **📝** [**Licence**](licence)
+-   **❤️** [**People**](/about/people)
+-   **📝** [**Licence**](/about/licence)
 
 <div><figcaption>Map: Rebel Hubs part of the international Activist Handbook network</figcaption></div>
 

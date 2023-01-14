@@ -2,9 +2,9 @@
 title: >
   Volunteer guide: Events circle
 langCode: en
-articleID: d36OXntWczYcxQ3L_ckh
-languageCollectionID: -VeGEGXZIsXAp19_oRLD
-lastUpdated: 1673628396818
+articleID: HF28kdYj8_k9NS1qyD0mnlvIWSgsmmU3
+languageCollectionID: uQi6opfjPe-0_5AsrJv1ce68f9zxKa0j
+lastUpdated: 1673685329952
 tags: []
 ---
 
@@ -27,7 +27,7 @@ In July 2022, change-makers from across the globe are coming together to write p
 
 ## Special events
 
--   [Mini hackathon](mini-hackathon)
+-   [Mini hackathon](/support/events/mini-hackathon)
 -   [Movie screening](/support/events/movie-screening)
 -   How to host a livestream
 

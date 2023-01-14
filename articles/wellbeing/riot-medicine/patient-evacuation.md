@@ -4,9 +4,9 @@ title: >
 description: >
   How to evacuate patients during a protest
 langCode: en
-articleID: 8Qd3EeB6G8DG0cJDr6dq
-languageCollectionID: Mbk_O5c-5lC2c9azm9AT
-lastUpdated: 1673628396818
+articleID: I7umlZKIuE6NdoHAVXGa4gU6nvcf_t7T
+languageCollectionID: vARchustJOno8atXKDP9zc9WhEVNFfr4
+lastUpdated: 1673685329952
 tags: []
 ---
 

@@ -2,9 +2,9 @@
 title: >
   Digital security training
 langCode: en
-articleID: V1TDyQLgM4YmKJbSNLwS
-languageCollectionID: qIxeheTGdXxAUafxiXMg
-lastUpdated: 1673628396818
+articleID: HA4-uAgtXUUJVKPrn5amTh8p-Si57kni
+languageCollectionID: 1l-1PUCxTWzHixfQ0Aw_CPyLMPXplJIb
+lastUpdated: 1673685329952
 tags: []
 ---
 

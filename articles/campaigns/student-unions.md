@@ -4,9 +4,9 @@ title: >
 description: >
   Guide for student activists
 langCode: en
-articleID: kQ6kURwrFka6Qj4sFHj1
-languageCollectionID: _VbOjT2YYxLB28aTpQT4
-lastUpdated: 1673628396818
+articleID: xat43liO0zTuYThWPpxozf-nkbmj3GFC
+languageCollectionID: uwGMKCirCEnc0q3Br2vm3UEIj7UsA2H6
+lastUpdated: 1673685329952
 tags: []
 ---
 

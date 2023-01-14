@@ -4,9 +4,9 @@ title: >
 description: >
   Book for children to learn about activism
 langCode: en
-articleID: pCg8ngiXBLmYhkYVq29_
-languageCollectionID: GXQ8hAGCkJWUEeIPECG0
-lastUpdated: 1673628396818
+articleID: 3mD_P8yAXznyXuT6otWrDst6UD91THva
+languageCollectionID: -CG7dzKRF8o1pjDB76ZiSqltY2EpeqWv
+lastUpdated: 1673685329952
 tags: ["resources","books"]
 ---
 

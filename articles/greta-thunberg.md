@@ -4,9 +4,9 @@ title: >
 description: >
   Climate activist from Sweden
 langCode: en
-articleID: pJPG0Id9aPZBm8rC_k0i
-languageCollectionID: LGrXV4IPmAc0mKe5nnUr
-lastUpdated: 1673628396818
+articleID: DsUOTiXXZ5COrckP4wIRilhFJtAvx-HM
+languageCollectionID: yiiQ96kV0HGlO_3bReSjTOIjHdUjIS8_
+lastUpdated: 1673685329952
 tags: []
 ---
 

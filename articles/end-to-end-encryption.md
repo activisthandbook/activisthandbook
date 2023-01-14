@@ -2,9 +2,9 @@
 title: >
   End-To-End Encryption
 langCode: en
-articleID: RgDACSYHc2xlfNnkFLUu
-languageCollectionID: QRFikz3ywN_VTE19B2A0
-lastUpdated: 1673628396818
+articleID: AzF_cq1BLy_0up3ICBpH_lVlB7DCtDKU
+languageCollectionID: nUgvXsSO8eNu9eyWzE_uTxblNjXTARtu
+lastUpdated: 1673685329952
 tags: ["terms"]
 ---
 

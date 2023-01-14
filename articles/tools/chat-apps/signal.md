@@ -4,9 +4,9 @@ title: >
 description: >
   A privacy-friendly chat app for protestors
 langCode: en
-articleID: jAr0vSNeLcpkz5yq39xy
-languageCollectionID: LJ6-rgfvtBlE_F4m3mg_
-lastUpdated: 1673628396818
+articleID: 6l-3OFisRJlBSRpEwupdbSnfUuUP-8lt
+languageCollectionID: U8wElbTD8qlZ13DCfUjqgVSe_gHWwtdZ
+lastUpdated: 1673685329952
 tags: []
 ---
 

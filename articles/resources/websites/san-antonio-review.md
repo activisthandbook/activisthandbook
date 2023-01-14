@@ -4,9 +4,9 @@ title: >
 description: >
   A rundown of the resources available at the San Antonio Review website
 langCode: en
-articleID: _Lar-O4PgbkeDzkbmqXK
-languageCollectionID: m35eBUIrXut7wRfejKCu
-lastUpdated: 1673628396818
+articleID: QskKhat5Ne8TUmSBnBAfONjqhfmJHuYP
+languageCollectionID: dkCt8SpUxYqdiTCyVXfqul1R3F056iq_
+lastUpdated: 1673685329952
 tags: ["resources","stub","websites"]
 ---
 

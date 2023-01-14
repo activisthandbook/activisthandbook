@@ -2,9 +2,9 @@
 title: >
   Presentation tools for activists
 langCode: en
-articleID: 01X2hA36c40rbpy_ggtj
-languageCollectionID: hp2p2KFQFlmtgeqMYCPu
-lastUpdated: 1673628396818
+articleID: ebDBqKUIb0YyPheRMhoXWLzioAh-uZJ9
+languageCollectionID: nVqzqzhHVwtxt-sorWf1fTZbz4wl_EAH
+lastUpdated: 1673685329952
 tags: ["tools","stub"]
 ---
 

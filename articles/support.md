@@ -4,9 +4,9 @@ title: >
 description: >
   Articles to help you as contributor to Activist Handbook 
 langCode: en
-articleID: afY3vKA7QWpuIc5czE-s
-languageCollectionID: gByymYvJbTPLUhWE1F-H
-lastUpdated: 1673628396818
+articleID: IgmYaXvxqnda5CWzF0Wo7qX8_Aih_4ZU
+languageCollectionID: J7c14RwtgVuMsNShh-ceLkNpFa4D_16F
+lastUpdated: 1673685329952
 tags: []
 ---
 

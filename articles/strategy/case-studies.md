@@ -4,9 +4,9 @@ title: >
 description: >
   Seeking case studies from all activists -about everything from tiny actions to huge movements!
 langCode: en
-articleID: tX7ARg4JsKhGz2JbuRbN
-languageCollectionID: ofo8sDzstZzEDTljmB2y
-lastUpdated: 1673628396818
+articleID: avFwUzCyXU0PKGO3Fdc_qiEVsOe0lp5K
+languageCollectionID: XrRlUvcmRGansswZtkwBjZ69_xL0eSZl
+lastUpdated: 1673685329952
 tags: []
 ---
 
@@ -39,19 +39,19 @@ Personal, emotional, and expressive accounts of your experiences of activism are
 
 ### Different types of case studies
 
--   [**Beginnings**](beginnings)**;** case studies of how activist groups, political parties, NGO's, revolutionary civil disobedience movements or any other type of group, formed.
--   [**Endings**](endings)**;** case studies of how different types of groups ended, either voluntarily or involuntarily. (And did they end because they succeeded, failed, or evolved into something else?)
--   [**Theories of change**](ToC-outcomes) and **desirable outcomes** case studies; what ToC have different groups operated by -in other words what have different groups assumed about the way change happens in society? Also, what are the desirable outcomes for the group in question? What is their vision for an ideal society, if they have one?
--   [**Strategies**](strategies-case-studies) case studies; what strategies have groups used, or are groups currently using? What has worked? How is success defined?
--   [**Campaigns**](campaigns-case-studies)**;** what specific campaigns are worthy of study, for their success or ‘failure’ or ‘nearly-success’?
--   [**Tactics / actions**](tactics-actions-case-studies)**;** what worked, and what didn't, and why? And what nearly worked? What else may have worked?
--   [**Organisation case studies**](organisation-case-studies)**;** what methods and types of organisation have been used, and why, and how successful have they been? Has direct democracy or some other form of horizontal organising method been used? If not, why? Includes studies of **leadership.**
--   [**Mobilisation case studies**](mobilisation-case-studies)**;** how have people been mobilised, and retained / integrated within movements and organisations?
--   [**Communications case studies**](comms-case-studies)**;** how have / do activist groups communicate(d) amongst their members, and with potential new members and members of the public? What works? This can include technology and also human skills such as NVC.
--   [**Media case studies;**](media-case-studies) how has the established and independent media, as well as media platforms in general, such as the internet, including social media platforms, been used by activists? This can include case studies of **image.**
--   [**Arts case studies**](arts-case-studies)**;** how have the arts been used in activism?
--   [**Regenerative cultures and well being**](regen-well-being-case-studies)**:** what case studies can you provide of real-life good and bad examples of activists taking care of themselves and others, and also more profoundly developing regenerative, supportive cultures in activist groups and movements? This can include good examples of conflict resolution.
--   [**Finance case studies**](finance-case-studies)**;** what fund-raising worked or didn't work in particular cases?
--   [**Litigation & legal;**](litigation-legal-case-studies) what legal aspects have there been to groups and their actions, especially in the case of civil disobedience? What fines or custodial sentences have been given to activists in different countries? What new laws threaten us as activists in different parts of the world?
--   [**Security and surveillance case studies**](security-surveillance-case-studies)**;** which groups and movements were infiltrated and / or surveilled by police and authorities, and did this matter, and could this infiltration have been prevented? Which ‘secure’ software (e.g. communications software) has helped or hindered groups?
--   [**State oppression case studies**](state-oppression-case-studies)**;** how does State oppression affect activist groups in different countries? What can we learn from this?
+-   [**Beginnings**](/strategy/case-studies/beginnings)**;** case studies of how activist groups, political parties, NGO's, revolutionary civil disobedience movements or any other type of group, formed.
+-   [**Endings**](/strategy/case-studies/endings)**;** case studies of how different types of groups ended, either voluntarily or involuntarily. (And did they end because they succeeded, failed, or evolved into something else?)
+-   [**Theories of change**](/strategy/case-studies/ToC-outcomes) and **desirable outcomes** case studies; what ToC have different groups operated by -in other words what have different groups assumed about the way change happens in society? Also, what are the desirable outcomes for the group in question? What is their vision for an ideal society, if they have one?
+-   [**Strategies**](/strategy/case-studies/strategies-case-studies) case studies; what strategies have groups used, or are groups currently using? What has worked? How is success defined?
+-   [**Campaigns**](/strategy/case-studies/campaigns-case-studies)**;** what specific campaigns are worthy of study, for their success or ‘failure’ or ‘nearly-success’?
+-   [**Tactics / actions**](/strategy/case-studies/tactics-actions-case-studies)**;** what worked, and what didn't, and why? And what nearly worked? What else may have worked?
+-   [**Organisation case studies**](/strategy/case-studies/organisation-case-studies)**;** what methods and types of organisation have been used, and why, and how successful have they been? Has direct democracy or some other form of horizontal organising method been used? If not, why? Includes studies of **leadership.**
+-   [**Mobilisation case studies**](/strategy/case-studies/mobilisation-case-studies)**;** how have people been mobilised, and retained / integrated within movements and organisations?
+-   [**Communications case studies**](/strategy/case-studies/comms-case-studies)**;** how have / do activist groups communicate(d) amongst their members, and with potential new members and members of the public? What works? This can include technology and also human skills such as NVC.
+-   [**Media case studies;**](/strategy/case-studies/media-case-studies) how has the established and independent media, as well as media platforms in general, such as the internet, including social media platforms, been used by activists? This can include case studies of **image.**
+-   [**Arts case studies**](/strategy/case-studies/arts-case-studies)**;** how have the arts been used in activism?
+-   [**Regenerative cultures and well being**](/strategy/case-studies/regen-well-being-case-studies)**:** what case studies can you provide of real-life good and bad examples of activists taking care of themselves and others, and also more profoundly developing regenerative, supportive cultures in activist groups and movements? This can include good examples of conflict resolution.
+-   [**Finance case studies**](/strategy/case-studies/finance-case-studies)**;** what fund-raising worked or didn't work in particular cases?
+-   [**Litigation & legal;**](/strategy/case-studies/litigation-legal-case-studies) what legal aspects have there been to groups and their actions, especially in the case of civil disobedience? What fines or custodial sentences have been given to activists in different countries? What new laws threaten us as activists in different parts of the world?
+-   [**Security and surveillance case studies**](/strategy/case-studies/security-surveillance-case-studies)**;** which groups and movements were infiltrated and / or surveilled by police and authorities, and did this matter, and could this infiltration have been prevented? Which ‘secure’ software (e.g. communications software) has helped or hindered groups?
+-   [**State oppression case studies**](/strategy/case-studies/state-oppression-case-studies)**;** how does State oppression affect activist groups in different countries? What can we learn from this?

@@ -4,9 +4,9 @@ title: >
 description: >
   A guide for facilitating the translation sub-circle within the localisation circle
 langCode: en
-articleID: TuDEkdVvobWTVwLjHPdE
-languageCollectionID: Wkjtgd8WGMHvdkaoV-H-
-lastUpdated: 1673628396818
+articleID: qr25Vx7AyNqbFQZ5agzgn2gDv5BoKCFW
+languageCollectionID: gwePffXM0k-qbXyoRSHucT0Mg4D0uh9L
+lastUpdated: 1673685329952
 tags: []
 ---
 

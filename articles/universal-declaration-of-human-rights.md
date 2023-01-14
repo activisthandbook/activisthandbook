@@ -4,9 +4,9 @@ title: >
 description: >
   International document that enshrines the rights and freedoms of human beings
 langCode: en
-articleID: DfMOtCgrT-zSg9Y1MfVg
-languageCollectionID: hcIOJ3t0a8F1Fd35sCJl
-lastUpdated: 1673628396818
+articleID: -oDxAozSYsSb0phq8kq14p8yOfEf4HUd
+languageCollectionID: SkSaEpCzbRwjYTfHDq6cQQfpNOSozXhb
+lastUpdated: 1673685329952
 tags: ["terms"]
 ---
 

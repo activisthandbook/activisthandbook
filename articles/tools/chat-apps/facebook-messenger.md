@@ -4,9 +4,9 @@ title: >
 description: >
   A no-go for protestors
 langCode: en
-articleID: EGN92VjSyh4djUfoj_So
-languageCollectionID: NU7g8eJv7NzX_Wbp5GFd
-lastUpdated: 1673628396818
+articleID: jq5BcbLAu3q9AXqkUFkM2Vw0uG90jnT3
+languageCollectionID: nNCp5TJHEEns5LN31uwDHq4ERmf39ate
+lastUpdated: 1673685329952
 tags: []
 ---
 

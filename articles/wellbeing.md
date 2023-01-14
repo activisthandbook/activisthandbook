@@ -4,15 +4,15 @@ title: >
 description: >
   Taking care of change-makers
 langCode: en
-articleID: 0R-WfrYZkyTkU9D6OdRM
-languageCollectionID: Ti5vJ4pwBC_S4o41pnwb
-lastUpdated: 1673628396818
+articleID: _cKeo5SlmfymwgVIUcO9LihJJGGErxMo
+languageCollectionID: f4atxDWEP1HAkYujKLZPcNwETAv4UBVv
+lastUpdated: 1673685329952
 tags: ["wellbeing","chapters"]
 ---
 
 **This chapter is meant as a guide on how to safeguard the wellbeing of activists. In the process of trying to make a change, you might forget about your own wellbeing. You will learn how why the wellbeing of you and your fellow change-makers is vital for the long term effectiveness of your movement.**
 
-👉 Need help now? Check out [**Wellbeing Hotlines**](hotlines) and XR's [**Don't Panic guide**](https://docs.google.com/document/d/10UbkxVAUVBJt0xtS_uE78LXCV8QeFwvW76BB6T_ZSok/edit)**.**
+👉 Need help now? Check out [**Wellbeing Hotlines**](/wellbeing/hotlines) and XR's [**Don't Panic guide**](https://docs.google.com/document/d/10UbkxVAUVBJt0xtS_uE78LXCV8QeFwvW76BB6T_ZSok/edit)**.**
 
 ## Introduction
 
@@ -33,7 +33,7 @@ Articles about wellbeing practices that you can implement as a group:
 Articles about wellbeing practices that you can implement during your actions:
 
 -   **👉 Basics of action wellbeing** (does not exist yet)
--   **🩺** [**Riot medicine**](riot-medicine)
+-   **🩺** [**Riot medicine**](/wellbeing/riot-medicine)
 -   **☮️ De-escalation** (available soon!)
 
 ## **Self-help**
@@ -41,16 +41,16 @@ Articles about wellbeing practices that you can implement during your actions:
 Articles for individuals that want to take care of their own wellbeing:
 
 -   **👉** [**Basics of self-help**](/wellbeing/self-care)
--   ⚠️ [**Don't Panic guide**](https://docs.google.com/document/d/10UbkxVAUVBJt0xtS_uE78LXCV8QeFwvW76BB6T_ZSok/edit): for if you need urgent help right now, also check out our [wellbeing hotlines](hotlines)
+-   ⚠️ [**Don't Panic guide**](https://docs.google.com/document/d/10UbkxVAUVBJt0xtS_uE78LXCV8QeFwvW76BB6T_ZSok/edit): for if you need urgent help right now, also check out our [wellbeing hotlines](/wellbeing/hotlines)
 -   **⏰** [**Time Management**](/wellbeing/time-management)
 
 ## **Special publications**
 
 Articles that have been written to cover special issues that are currently relevant (also make sure to check out [campaigns that we support](/campaigns)):
 
--   **😔** [**Activist burnout**](/wellbeing/burnout) (should be merged with [Anxiety & Stress](anxiety-stress))
--   **😷** [**Activism during a pandemic**](pandemic)
--   **💚** [**Wellbeing climate activists**](climate)
+-   **😔** [**Activist burnout**](/wellbeing/burnout) (should be merged with [Anxiety & Stress](/wellbeing/anxiety-stress))
+-   **😷** [**Activism during a pandemic**](/wellbeing/pandemic)
+-   **💚** [**Wellbeing climate activists**](/wellbeing/climate)
 
 > **You can contribute:** Whatever your experiences as activist are, they are valid and deserve to be heard. We want to provide the opportunity for people all over the world to share exchange their experiences. This way we can learn from each other and find comfort in our welcoming community.
 > 

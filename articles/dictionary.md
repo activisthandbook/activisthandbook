@@ -4,9 +4,9 @@ title: >
 description: >
   Meaning and definitions
 langCode: en
-articleID: e66Rsc-ihyVCVWS5fCLs
-languageCollectionID: AK8NUXN3uOy-ddyAAD6E
-lastUpdated: 1673628396818
+articleID: efqtBuWekeiu8zP_x4-ExOs71pZ49ISQ
+languageCollectionID: iE57KKBTrc5u-SMIP5Nn8uz6lJ3OPBPN
+lastUpdated: 1673685329952
 tags: ["dictionary"]
 ---
 
@@ -14,7 +14,7 @@ tags: ["dictionary"]
 
 ## **Definitions**
 
--   [**Activism**](activism)
--   [**Activist**](activist)
--   [**Protest**](protest)
--   [**Demonstration**](demonstration)
+-   [**Activism**](/dictionary/activism)
+-   [**Activist**](/dictionary/activist)
+-   [**Protest**](/dictionary/protest)
+-   [**Demonstration**](/dictionary/demonstration)

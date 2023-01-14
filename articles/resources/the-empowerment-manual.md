@@ -4,9 +4,9 @@ title: >
 description: >
   A Guide for Social Change Activists by Starhawk (2011)
 langCode: en
-articleID: oGeHWVMW_xQ2SkmAZMdd
-languageCollectionID: BBGa5GJSlAKSuQVp7Yq_
-lastUpdated: 1673628396818
+articleID: 6UBAxivjH6zW-8hxCRY8W0CYeBjaGat4
+languageCollectionID: FKu3r215J8XAB1nfrBK56FhAXvi-emUL
+lastUpdated: 1673685329952
 tags: []
 ---
 

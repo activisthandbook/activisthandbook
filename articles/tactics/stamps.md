@@ -4,9 +4,9 @@ title: >
 description: >
   Guide for activists
 langCode: en
-articleID: WQy39wRSo9DKFmqQlkkG
-languageCollectionID: c18veYt0alfQNiwnv46E
-lastUpdated: 1673628396818
+articleID: vPO1TwCsGKENxs-gEP-t2jYOE6JFNDoG
+languageCollectionID: 6dzYate04UNhy6OHhEPu7q4Mi_p3hvd4
+lastUpdated: 1673685329952
 tags: []
 ---
 

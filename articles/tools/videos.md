@@ -2,9 +2,9 @@
 title: >
   Making videos
 langCode: en
-articleID: YhVhjwYIOpnYtBYWXB0c
-languageCollectionID: 1uA2zZfu7h1C5F3amlx0
-lastUpdated: 1673628396818
+articleID: ECxIC3lB6ndXNGS-cmh_dMmi6OVHgrih
+languageCollectionID: AuSmOLynklPButu118TzDRQfAaERA6JV
+lastUpdated: 1673685329952
 tags: ["tools","stub"]
 ---
 

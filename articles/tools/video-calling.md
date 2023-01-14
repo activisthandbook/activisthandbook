@@ -4,9 +4,9 @@ title: >
 description: >
   A comparison of video call tools specifically for activists
 langCode: en
-articleID: lD_jwE7TlJSfG3usFWw5
-languageCollectionID: pYAj_fJnqCVoSCTYHpc-
-lastUpdated: 1673628396818
+articleID: JieE_LXeMd6xiSRdMSjdp8L0BC3cCVhd
+languageCollectionID: AWJs8CllrTMOajPLcGITyevmiBnsdv1N
+lastUpdated: 1673685329952
 tags: []
 ---
 
@@ -22,7 +22,7 @@ None of these video calling tools for large groups offer end-to-end encryption, 
 
 -   [**Jitsi Meet**](https://meet.jit.si): Jitsi offers a free to use video calling service. There is no hard limit for the number of participants, although the experience may become laggy when calling with more people. If you have a very large group, you can also livestream the call to YouTube.
 -   [**Skype**](https://www.skype.com/en/): This is perhaps the best known platform. You can call with up to 50 people. It also offers the option to record video calls.
--   [**Google Meet**](meet.google.com) **(Google Workspace plan required)**: With Google Meet you can now call with up to 250 people, livestream to YouTube, and store the video call automatically in Google Drive. Meet also offers the option to join by calling from your phone number, which is useful if your internet connection is not good enough. You can only use Google Meet meet if your organisation has a paid G Suite plan. However, people who are outside your organisation can still join the call with a link. There also is the option for nonprofit organisations to get G Suite for free.
+-   [**Google Meet**](/tools/video-calling/meet.google.com) **(Google Workspace plan required)**: With Google Meet you can now call with up to 250 people, livestream to YouTube, and store the video call automatically in Google Drive. Meet also offers the option to join by calling from your phone number, which is useful if your internet connection is not good enough. You can only use Google Meet meet if your organisation has a paid G Suite plan. However, people who are outside your organisation can still join the call with a link. There also is the option for nonprofit organisations to get G Suite for free.
 -   [**Microsoft Teams**](https://products.office.com/en-us/microsoft-teams/group-chat-software) **(Office 365 Business Premium required):** With Teams you can have online meetings with up to 250 people. An paid Office 365 Business Premium plan is required. However, registered nonprofit organisations can also apply for a free plan.
 -   [**Zoom**](https://zoom.us): With the free plan, you can call up to 100 participants. However, there is a limit of 40 minutes for video calls.
 -   [**Discord**](https://discordapp.com) **(audio focussed):** Being targeted at gamers, this app is primarily focussed on audio calling, with no limit to the number of participants. However, it is also possible to have a video call with up to 8 people on the free plan.

@@ -4,9 +4,9 @@ title: >
 description: >
   Using a flash mob as activist tactic
 langCode: en
-articleID: 0MtPJ3MoJYv9CUyYew72
-languageCollectionID: YpG-Nq8GSuoyQGhcPZ5z
-lastUpdated: 1673628396818
+articleID: CeaBFAg2bHdBPV7DX7luKTaDC81VlAC5
+languageCollectionID: 3x62OeitWhJlVI6uo6wzpEVBW8k_pmwW
+lastUpdated: 1673685329952
 tags: []
 ---
 

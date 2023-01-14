@@ -4,9 +4,9 @@ title: >
 description: >
   Guide for Activist Handbook writers
 langCode: en
-articleID: xJcu9BGXq406EK7K_K-A
-languageCollectionID: iz-RDDzxmlIreuZuK1Xo
-lastUpdated: 1673628396818
+articleID: evIbfFTJ--qoOx90sLHHAjX5XP8ThYy4
+languageCollectionID: OREbjzryyJXmb4IA1g8yC6oEEwBice_h
+lastUpdated: 1673685329952
 tags: []
 ---
 

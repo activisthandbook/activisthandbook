@@ -4,9 +4,9 @@ title: >
 description: >
   A call to action
 langCode: en
-articleID: 8sIdCPSvzC2rgwGHGl2S
-languageCollectionID: 2XJHDOf8A83QEB3WYabf
-lastUpdated: 1673628396818
+articleID: k3M6YxA2GaKsK0RPljwsuJ_sWSGAaKlo
+languageCollectionID: KwQsDgIhWqqoQpGAiELQC2vJnBZCLoan
+lastUpdated: 1673685329952
 tags: ["tools","communication"]
 ---
 

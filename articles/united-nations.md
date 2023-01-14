@@ -4,9 +4,9 @@ title: >
 description: >
   An international organisation made up of 193 member states
 langCode: en
-articleID: 5jRKjDu8jMpS523Wpgnm
-languageCollectionID: IEFVWKIWebnBjBYCdaR7
-lastUpdated: 1673628396818
+articleID: csPOhBDEMV8A1Tfaxt0n1yv8lgzqjLqf
+languageCollectionID: 61mrBuegGiVBVHff4a3tKM9fUNwTaZaa
+lastUpdated: 1673685329952
 tags: ["terms"]
 ---
 

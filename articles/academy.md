@@ -4,9 +4,9 @@ title: >
 description: >
   Courses for rebels offered by Activist Handbook
 langCode: en
-articleID: GmsJ53h6L6_3KhJLc8RZ
-languageCollectionID: wKZhZ9WpUgEFxCYhoDcw
-lastUpdated: 1673628396818
+articleID: IrXwdqMQWTNiUhYVf6mt3_WTkEaIgkz_
+languageCollectionID: 9qOrDJs5rY_oy8zDY_7g7Te5I6bczZaO
+lastUpdated: 1673685329952
 tags: []
 ---
 

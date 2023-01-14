@@ -4,9 +4,9 @@ title: >
 description: >
   Factors we look at in our reviews
 langCode: en
-articleID: XWi3OQyKYQ3YIaskpGMt
-languageCollectionID: NaCHiyRExTWwkVX50cIQ
-lastUpdated: 1673628396818
+articleID: Y8yiunsgH2mTTpHnchBEiOHQOjeK2MRu
+languageCollectionID: cpzSwjwQ-eZAtW_FIXP9culTyqmaI3Ap
+lastUpdated: 1673685329952
 tags: []
 ---
 

@@ -4,9 +4,9 @@ title: >
 description: >
   Overview of the resources available at The Direct Action Movement
 langCode: en
-articleID: 1J_JQqkZeGzO11lTilE7
-languageCollectionID: aH63u6o8Dy9gVh3NT8RA
-lastUpdated: 1673628396818
+articleID: erDHVORnWx-JnljVsE03e4_A7xDDlA3e
+languageCollectionID: GV6wh1qQrHT_B8LA7vLINi47HjaSt1oW
+lastUpdated: 1673685329952
 tags: ["resources","stub","websites"]
 ---
 

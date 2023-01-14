@@ -4,9 +4,9 @@ title: >
 description: >
   Tasks after protests for first aiders
 langCode: en
-articleID: pjc8PFJjLxHm-Fsvkqqx
-languageCollectionID: 6dDNnfgbQ2ZC6F0PKnUl
-lastUpdated: 1673628396818
+articleID: BMpuTXeJC3ULrKsGeZbmaxLhBv-06VLz
+languageCollectionID: vhlZssFs-pDo7hqsmMQmDeZ6fiWo20VO
+lastUpdated: 1673685329952
 tags: []
 ---
 

@@ -2,9 +2,9 @@
 title: >
   How to prepare for a protest
 langCode: en
-articleID: CNcznnnv51AThzNZvGtU
-languageCollectionID: f2Bh2arF5SRqX_xPF_Zc
-lastUpdated: 1673628396818
+articleID: VKwCmgZkCgL0IvX_1LuvYx-TfNouZnf9
+languageCollectionID: dYunQmAarWHwiTHL8J1gSwWVBF146s-h
+lastUpdated: 1673685329952
 tags: []
 ---
 

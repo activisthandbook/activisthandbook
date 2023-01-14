@@ -4,9 +4,9 @@ title: >
 description: >
   Free images and pictures
 langCode: en
-articleID: kitfhki8S4AWJzDrhLke
-languageCollectionID: jQKrIhPk6TxVFgKmSn0e
-lastUpdated: 1673628396818
+articleID: 3HM_UaK-nsYSnR0_n_0E0fI0S5LQ1LDz
+languageCollectionID: Arq8ziE8dz1iYqX9II2SXNHS2x3GEJZO
+lastUpdated: 1673685329952
 tags: []
 ---
 
@@ -16,12 +16,12 @@ tags: []
 
 ## List of photo libraries
 
--   [**Pexels**](https://www.pexels.com): More than 3000 free stock photos and videos. No attribution is required under their licence.
+-   [**Pexels**](https://www.pexels.com): More than 3000 free stock photos and videos. No attribution is required under their [licence](/tools/photo-libraries/).
 -   [**Unsplash**](https://unsplash.com): Over 2 million free stock photos. No attribution is required under their [licence](https://unsplash.com/license).
 -   [**Pixabay**](https://pixabay.com)
 -   [**Flickr**](https://www.flickr.com/creativecommons/)
 -   [**350 Flickr**](https://www.flickr.com/photos/350org/albums): Over 69,000 photos of climate activists. The licence differs per photo.
--   [**Fridays for Future Germany**]( https://cloud.fridaysforfuture.de/s/wCfyAyy6ZstLfpP) (licence unclear): Photos of Fridays for Future protests in Germany.
+-   [**Fridays for Future Germany**](/tools/photo-libraries/ https://cloud.fridaysforfuture.de/s/wCfyAyy6ZstLfpP) (licence unclear): Photos of Fridays for Future protests in Germany.
 -   [**Wikimedia Commons Images**](https://commons.wikimedia.org/wiki/Category:Images)
 -   [**FreeImages**](https://www.freeimages.com/)
 

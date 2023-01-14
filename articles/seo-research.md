@@ -2,9 +2,9 @@
 title: >
   SEO Research
 langCode: en
-articleID: 42-9hO_lKg5JJtZWGIWa
-languageCollectionID: kTGFjm8glvqdESyu-5vC
-lastUpdated: 1673628396818
+articleID: X1_ExkcSesAhWYHYCluNYpfcswaDpFyy
+languageCollectionID: IK_ehAojNN1PQjUoEWYa-WYA6zTiWhxk
+lastUpdated: 1673685329952
 tags: []
 ---
 

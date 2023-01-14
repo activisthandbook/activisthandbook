@@ -4,9 +4,9 @@ title: >
 description: >
   Use SMS and other chat apps to reach large audiences  
 langCode: en
-articleID: AW-vG0VYYSIfJSmuU7V9
-languageCollectionID: SHSY7KUrRJI0CucD6OWF
-lastUpdated: 1673628396818
+articleID: 7Sy4uH8rhFJTLsc6CGYXkn51jtsZnaO9
+languageCollectionID: EcjZEj3cyk03J3dxXeV0WyUHc4-IbnsL
+lastUpdated: 1673685329952
 tags: ["tools","stub","communication"]
 ---
 

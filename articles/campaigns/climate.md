@@ -4,9 +4,9 @@ title: >
 description: >
   Guides for environmental protest movements
 langCode: en
-articleID: OVr6nhs0oPgCKNOjoHsM
-languageCollectionID: l9RLeoo6H42bOTd_tliX
-lastUpdated: 1673628396818
+articleID: x_ajQlipIOJE2boFuQQzWVELI449NEci
+languageCollectionID: DSJ0nWHeXryFXpw376kVNpBfGjaXepWZ
+lastUpdated: 1673685329952
 tags: ["climate"]
 ---
 

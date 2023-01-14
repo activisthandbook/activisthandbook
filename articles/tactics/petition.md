@@ -2,9 +2,9 @@
 title: >
   Petition
 langCode: en
-articleID: 74PadEfVD1Hi5x9d3RX8
-languageCollectionID: 08DzWJZplbzWT81VoKzm
-lastUpdated: 1673628396818
+articleID: 6_w1dXgZKlMGWQ_qMX1BZPs8wqJIND4z
+languageCollectionID: PbCKDDSCu-BLIcj2FC01g-s6QYFaoPVY
+lastUpdated: 1673685329952
 tags: ["tactics","stub"]
 ---
 

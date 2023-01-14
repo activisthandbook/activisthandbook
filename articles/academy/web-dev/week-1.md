@@ -4,9 +4,9 @@ title: >
 description: >
   Rebel Academy | Web development course
 langCode: en
-articleID: 24JK77aIwNy_OefXa072
-languageCollectionID: uBtt1cGM4tAgJpXCpWRX
-lastUpdated: 1673628396818
+articleID: Cnh_LKCu8XpFOUGHDJqkbw_N8cnL9XWs
+languageCollectionID: dJPJt-pEISeiQQ5p70TZjokFKh2YGjaO
+lastUpdated: 1673685329952
 tags: []
 ---
 

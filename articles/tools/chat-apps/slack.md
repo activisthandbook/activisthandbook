@@ -2,9 +2,9 @@
 title: >
   Slack
 langCode: en
-articleID: ELOeMnMkOqzXkC350NG7
-languageCollectionID: uTknuCAQ7E9b90WAjsRa
-lastUpdated: 1673628396818
+articleID: cKYXrDU7rSQYTSClIxu4zwTFl6JWD_F5
+languageCollectionID: RPTfdHIF-eXuyVIvmX1ItV0MjvYPVgz2
+lastUpdated: 1673685329952
 tags: ["tools","chat apps","threaded apps"]
 ---
 

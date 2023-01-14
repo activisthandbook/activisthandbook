@@ -4,9 +4,9 @@ title: >
 description: >
   Handing out flyers: impact &amp; how to organise
 langCode: en
-articleID: JynlVhj8g3X4Q-jA5KqE
-languageCollectionID: 6a8jcFDcAK2rAnhCQ0ED
-lastUpdated: 1673628396818
+articleID: 6Cu4TpRUqzmxZe4YFAdl0Rd99cLiNo5T
+languageCollectionID: RTjAFhai8Oy2dznHJrOOCWl_7O7obMgo
+lastUpdated: 1673685329952
 tags: []
 ---
 

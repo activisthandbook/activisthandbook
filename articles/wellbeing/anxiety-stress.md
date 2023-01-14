@@ -2,9 +2,9 @@
 title: >
   Anxiety &amp; stress
 langCode: en
-articleID: fNL1lBwT6t39rDaAbzhm
-languageCollectionID: hZTBdCXB8KiQzm52hRG8
-lastUpdated: 1673628396818
+articleID: DpTkyF3K1ISg_bPcXhAKgyKloVwFikSE
+languageCollectionID: FUIu9U683xjP3qvMGsrgmK7wsGO9F-pn
+lastUpdated: 1673685329952
 tags: []
 ---
 

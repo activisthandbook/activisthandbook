@@ -4,9 +4,9 @@ title: >
 description: >
   Από ακτιβίστριες/ιστές, για ακτιβιστές/ίστριες
 langCode: el
-articleID: dSXV1PrNCY17ZF6ZgJBv
-languageCollectionID: ygsnP6SpB9qepiY3a75P
-lastUpdated: 1673628396818
+articleID: u6IBc25y23DFUXdp49vRuQgdmZW_JS29
+languageCollectionID: LhPFF-DwqY4R0PAtteTbmCqiJlZY9sdL
+lastUpdated: 1673685329952
 tags: []
 ---
 
@@ -20,7 +20,7 @@ tags: []
 -   **🎨** [**Οδηγός σχεδιασμού**](/about/design-guide)
 -   **©️** [**Άδεια**](/about/licence)
 
-> Θα θέλαμε πολύ να σε γνωρίσουμε! Έλα σε επαφή: [contact@activisthandbook.org](contact@activisthandbook.org)
+> Θα θέλαμε πολύ να σε γνωρίσουμε! Έλα σε επαφή: [contact@activisthandbook.org](/about/contact@activisthandbook.org)
 
 ## Με λίγα λόγια
 

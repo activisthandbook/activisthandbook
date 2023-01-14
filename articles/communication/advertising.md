@@ -2,9 +2,9 @@
 title: >
   Advertising for activists
 langCode: en
-articleID: kvS4ldL4CGyYncV1Qs2-
-languageCollectionID: AyFQNvT9RYUsYOGLRgNV
-lastUpdated: 1673628396818
+articleID: YqhUJKS8Gu3fvQjhLSlyOfw8Josj5uj8
+languageCollectionID: 3ssLx5qylbHrDExWWy8_vfUWA33LT5tN
+lastUpdated: 1673685329952
 tags: []
 ---
 

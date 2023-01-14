@@ -4,9 +4,9 @@ title: >
 description: >
   A security guide for rebels
 langCode: en
-articleID: QzQVKVsZfHHCBsPgR-xi
-languageCollectionID: 6oO7h2juYdAhH0ILP0Rn
-lastUpdated: 1673628396818
+articleID: OjqSUhZOuu8sKoV6ICKgMDmTNC3g5Oij
+languageCollectionID: w1Dnvlk6M2oc5ywTm5xr-qJYrIqKSiri
+lastUpdated: 1673685329952
 tags: []
 ---
 

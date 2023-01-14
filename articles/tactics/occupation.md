@@ -4,9 +4,9 @@ title: >
 description: >
   Blockade as activist tactic
 langCode: en
-articleID: uOTNVyj_0aNsu1BgRol5
-languageCollectionID: OrdN8R8lSKh89Zn0B2dS
-lastUpdated: 1673628396818
+articleID: W3DKeIKpaYMRq-c8hhpaPb_jJox8_cwD
+languageCollectionID: egztDQYztZ87MxyoEq67Jkvlfq7yZH0n
+lastUpdated: 1673685329952
 tags: ["tactics","stub"]
 ---
 

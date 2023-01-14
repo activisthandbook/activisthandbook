@@ -2,9 +2,9 @@
 title: >
   Volunteer guide: Styling articles
 langCode: en
-articleID: pMb77x9-pe7nAyJD-ZhN
-languageCollectionID: p2jXTRBmDcaM2WrZrbnv
-lastUpdated: 1673628396818
+articleID: iZ4mNSbzRgCFM0b4mvmjqECumYlpNfmN
+languageCollectionID: _3lWxbsusvrKimQW_4oXrtPaKj81gqDm
+lastUpdated: 1673685329952
 tags: []
 ---
 
@@ -16,7 +16,7 @@ To subdivide an article with titles, first use the **Heading 1**. Subsections of
 
 ## Bold text style
 
-Make links [**bold**](#style-guide) if they are an important part of the page. For example: do not make links to external resources bold, unless the page's main aim is to help people find external resources.
+Make links [**bold**](/support/writers/style/#style-guide) if they are an important part of the page. For example: do not make links to external resources bold, unless the page's main aim is to help people find external resources.
 
 ## Bullet points
 

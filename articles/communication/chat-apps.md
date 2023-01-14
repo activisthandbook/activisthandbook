@@ -4,9 +4,9 @@ title: >
 description: >
   How activists can use Signal, WhatsApp or Telegram
 langCode: en
-articleID: f3yAoBbgF3Ac-t4kKomA
-languageCollectionID: 60INexem7np_wWjOJ4Im
-lastUpdated: 1673628396818
+articleID: BLtY_ALb5eKp_otO_21c0Q3dhfRvROZi
+languageCollectionID: he8RI2Ua7ZGunX4zsuWarFPKA3quia45
+lastUpdated: 1673685329952
 tags: ["tools","communication"]
 ---
 

@@ -4,9 +4,9 @@ title: >
 description: >
   Defending against infiltration and surveilance
 langCode: en
-articleID: AMOqzRiqT4PnSzWBpUWp
-languageCollectionID: LpJV2z2uygnnA5mthZIM
-lastUpdated: 1673628396818
+articleID: T6fTXd_jvBCYrvzEIRlXJ-5-b3EXZtHd
+languageCollectionID: -_1ng_LdjMBcwal92soGUSnDfIMYpn_-
+lastUpdated: 1673685329952
 tags: ["organising"]
 ---
 

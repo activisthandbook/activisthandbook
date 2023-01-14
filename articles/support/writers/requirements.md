@@ -2,9 +2,9 @@
 title: >
   Volunteer guide: Content requirements
 langCode: en
-articleID: hSOZ0yj1y5dYLY7V2umo
-languageCollectionID: kVObfhSNZ3WVFd__n0LQ
-lastUpdated: 1673628396818
+articleID: chpPET_e-zl_9fs29pyWdSeFEAwUzPSb
+languageCollectionID: sazxMWTmfifGnzGexU07LSSYKt4JCtCI
+lastUpdated: 1673685329952
 tags: []
 ---
 

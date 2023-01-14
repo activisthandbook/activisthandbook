@@ -2,9 +2,9 @@
 title: >
   Internal Communication
 langCode: en
-articleID: V0W4ZMbFYgCCy59QZ7vp
-languageCollectionID: fkSRvJn1QThwd3uAQc1f
-lastUpdated: 1673628396818
+articleID: nhgrYhVezkENJbF71q_MWiZfxqtyCAHn
+languageCollectionID: i1wFav5UaJjkVSZcH-DdykgURD7gXgp7
+lastUpdated: 1673685329952
 tags: []
 ---
 

@@ -4,9 +4,9 @@ title: >
 description: >
   Support article
 langCode: en
-articleID: 5IU4lqYK5mL6S3eGG0Tj
-languageCollectionID: tnKLBMRKDcgropKSQ41B
-lastUpdated: 1673628396818
+articleID: jLm4pQOjNB5sJSaBi1t_XWGbMTa74OTX
+languageCollectionID: 3DP1ODy6nZep788y92KmYURko_YWHhig
+lastUpdated: 1673685329952
 tags: []
 ---
 
@@ -20,7 +20,7 @@ To become active as volunteer for Activist Handbook, please follow these steps:
 
 1.  **Getting started with a video call:** After you have applied for a role, you will receive an invitation from one of our coordinators to set up a video call. This is not an interview, we just want to get to know you and see how you would like to contribute to this project.
 2.  **Officially** [**register**](https://airtable.com/shrbfrxknihy8mYXe) **as volunteer.** It is important you fill in this form!
-3.  [**Download Slack**](http://slack.com/download) **and turn on** [**notifications**](https://slack.com/intl/en-nl/help/articles/201355156-Configure-your-Slack-notifications). Our integrator will add you to channels that are relevant to you. Our tech circle is happy to help you get started with Slack: [tech@activisthandbook.org](tech@activisthandbook.org)
+3.  [**Download Slack**](http://slack.com/download) **and turn on** [**notifications**](https://slack.com/intl/en-nl/help/articles/201355156-Configure-your-Slack-notifications). Our integrator will add you to channels that are relevant to you. Our tech circle is happy to help you get started with Slack: [tech@activisthandbook.org](/support/basics/tech@activisthandbook.org)
 
 ## We are here to help
 

@@ -4,9 +4,9 @@ title: >
 description: >
   A guide for the role of Fundraiser
 langCode: en
-articleID: OxQBNiJaZVbGBYN8JWj1
-languageCollectionID: DG8xe1xleQFtZlvyiQFi
-lastUpdated: 1673628396818
+articleID: IE4-1wa41wmzOA_v0uxxwTS7tFAa_xod
+languageCollectionID: Xk9LeUh6xx15lt-RApmbPzaR3b2XZ4LR
+lastUpdated: 1673685329952
 tags: ["#internalguide"]
 ---
 

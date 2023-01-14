@@ -4,9 +4,9 @@ title: >
 description: >
   Yes, but only for anti-android protestors
 langCode: en
-articleID: XeOAai0NlbJ-VZLpmviV
-languageCollectionID: QXtU-sr528o7JmYuyDfa
-lastUpdated: 1673628396818
+articleID: i43ANhAym1BJaXNfROb9-M7llWDiIz8o
+languageCollectionID: fXDzxZc-2GFZ05ujRHSAxmBiWoBwhVqq
+lastUpdated: 1673685329952
 tags: []
 ---
 

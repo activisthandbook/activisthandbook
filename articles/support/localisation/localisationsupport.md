@@ -2,9 +2,9 @@
 title: >
   Localisation support
 langCode: en
-articleID: f9byFSQxFQJOW_cJtq9y
-languageCollectionID: hiFctpR_fSptFPEahJv6
-lastUpdated: 1673628396818
+articleID: l5q9-cmpF3d5ubK0C8TLA9KLoeTyULWi
+languageCollectionID: EBXUU4V6LhWVAeOLL__6iMMa3N7gkpPv
+lastUpdated: 1673685329952
 tags: []
 ---
 

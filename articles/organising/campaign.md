@@ -2,9 +2,9 @@
 title: >
   Organise a campaign
 langCode: en
-articleID: rhz8-D8cWWubXwG_yHvf
-languageCollectionID: TmGcaA9xNsb2gulNLROr
-lastUpdated: 1673628396818
+articleID: 0vALc0YymV2e_tfvdQzuFbaMwI2b41iG
+languageCollectionID: Wc8TUl_IOkTClWmcjoC5Eq5ULWJ1OUfm
+lastUpdated: 1673685329952
 tags: []
 ---
 

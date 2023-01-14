@@ -2,9 +2,9 @@
 title: >
   Volunteer guide: lead translator
 langCode: en
-articleID: IsrxOnTvoM621-zdxFPC
-languageCollectionID: uEk63lo06oKyK8arZ2Kg
-lastUpdated: 1673628396818
+articleID: fIuxEr1BY6cjkvniH2iL4rjkndFnXiF4
+languageCollectionID: 0snn5crAIyIBKzJo3JWuzRtJ2FLI65vj
+lastUpdated: 1673685329952
 tags: []
 ---
 

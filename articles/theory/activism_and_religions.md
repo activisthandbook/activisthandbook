@@ -4,9 +4,9 @@ title: >
 description: >
   Role of nature protectivism in world religions
 langCode: en
-articleID: J2c7sL9melnGk60fezZt
-languageCollectionID: 8YCjlI8a-0mIFizCkwqL
-lastUpdated: 1673628396818
+articleID: skHmB-VAuYisKI_bGmiJsoP94O0hFbfK
+languageCollectionID: hijRewrzFLdGyFoJbQ3LrwvvwG5gmoqj
+lastUpdated: 1673685329952
 tags: []
 ---
 

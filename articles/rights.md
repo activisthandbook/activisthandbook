@@ -4,9 +4,9 @@ title: >
 description: >
   The law &amp; police practices
 langCode: en
-articleID: qHQApNbjD4is6DJrZLPd
-languageCollectionID: izNmBpD1Zsizh7CIRlOO
-lastUpdated: 1673628396818
+articleID: Low61G_NC5m_d3yB-Ut3llWW7XNFpozI
+languageCollectionID: gkeDb25kJ-ryhomiRn8gCpwVDDcR985-
+lastUpdated: 1673685329952
 tags: []
 ---
 
@@ -16,16 +16,16 @@ tags: []
 
 The right to protest is different in every country. We have written guides that describe all these different local contexts:
 
--   🌐 [**International**](international)
--   **🇦🇺** [**Australia**](australia)
--   🇬🇷 [**Greece**](greece)
+-   🌐 [**International**](/rights/international)
+-   **🇦🇺** [**Australia**](/rights/australia)
+-   🇬🇷 [**Greece**](/rights/greece)
 -   🇳🇱 [**Netherlands**](/nl/rights) (written in Dutch)
--   🇷🇺 [**Russia**](russia) (written in Russian & English)
--   🏴󠁧󠁢󠁳󠁣󠁴󠁿 [**Schotland**](schotland)
--   🇷🇸 [**Serbia**](serbia)
--   🇿🇦 [**South Africa**](south-africa)
--   🇬🇧 [**United Kingdom**](uk)
--   🇺🇸 [**United States**](united-states) (written in English and Spanish)
+-   🇷🇺 [**Russia**](/rights/russia) (written in Russian & English)
+-   🏴󠁧󠁢󠁳󠁣󠁴󠁿 [**Schotland**](/rights/schotland)
+-   🇷🇸 [**Serbia**](/rights/serbia)
+-   🇿🇦 [**South Africa**](/rights/south-africa)
+-   🇬🇧 [**United Kingdom**](/rights/uk)
+-   🇺🇸 [**United States**](/rights/united-states) (written in English and Spanish)
 -   _Add your country!_
 
 <div><figcaption>Ende Gelände – The activists split into four groups approaching the mine from different sides. To get to the mine, they had to cross a motorway and flow through various police lines (<a href="https://www.flickr.com/photos/350org/20577167336/in/photolist-xmkmXb-drTy45-P6vijC-7a5egv-drS8ku-P6vhGL-vGUV6f-7ciX8k-7cnLV3-7a5edB-P8Zzv6-7a93RW-TUxZ7U-N5yqvC-aq3inm-MzkMSj-7cnPc1-V4vWca-7ciZh6-Td8qv3-g7bfnM-7cnN3Y-79XeVr-7cnLYq-8JAG9e-7ciYTF-7ciX5e-apZdQv-PcZKoy-7cnMYb-7cnP2h-7cnPqj-7ciZav-7ciZuk-MGe4Cx-7ciZ72-8HPmSz-8MrdXh-7a4CDf-WcZZaf-ticWdv-7cnNXU-qdQz5v-apZMkh-Wd1233-7bt2wE-g7c9tt-rWxaHw-se7jAK-W4YBxH">Tim Wagner, 2015</a>)</figcaption></div>

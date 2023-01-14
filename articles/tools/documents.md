@@ -4,9 +4,9 @@ title: >
 description: >
   Collaborative text editing and smart spreadsheets
 langCode: en
-articleID: UckMZWlGHuKQ5luYnNDl
-languageCollectionID: VHkhjVlSul2tUvJXnx_n
-lastUpdated: 1673628396818
+articleID: XwIsCByJCQmjRZtstS24_oOFRuFtjjIS
+languageCollectionID: 2NFe1LxazuEHv0msUIV7GY7sepWIIgq0
+lastUpdated: 1673685329952
 tags: []
 ---
 

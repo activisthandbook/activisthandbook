@@ -2,9 +2,9 @@
 title: >
   History of Activist Handbook 📜
 langCode: en
-articleID: 99RqFQoMuEfonmTHIkAa
-languageCollectionID: sKQzQI2Ur59iH_0oChPM
-lastUpdated: 1673628396818
+articleID: D9fX1EKpRNM_nqW9w-5dUAq6IKnAUW--
+languageCollectionID: ymHsndaqijKVVfknSvymuP9ToRAOtar0
+lastUpdated: 1673685329952
 tags: []
 ---
 

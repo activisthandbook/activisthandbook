@@ -4,9 +4,9 @@ title: >
 description: >
   Ateliers et formation pratique pour les militants
 langCode: fr
-articleID: YIdBJpUvFpcGcSOj9unP
-languageCollectionID: 50Sth1uFt4AtsAty8fZM
-lastUpdated: 1673628396818
+articleID: F4XPIH9A5sVNymbQbtS9X4zSf8brLFcK
+languageCollectionID: iz4Jp11HfhSNk3iKz_ft0paw49e9DA1e
+lastUpdated: 1673685329952
 tags: []
 ---
 

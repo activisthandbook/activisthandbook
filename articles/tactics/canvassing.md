@@ -4,9 +4,9 @@ title: >
 description: >
   How to organise a canvassing action
 langCode: en
-articleID: KqY6edUWspjFAW-ROjOS
-languageCollectionID: sVrch6Zs_A9fvUbeuNF6
-lastUpdated: 1673628396818
+articleID: Rb_yBZX-2up0FyC2sKkWFz01tB0c4447
+languageCollectionID: vH0O1hKceZsFmyNWPTHqlmuZ0xX92ilG
+lastUpdated: 1673685329952
 tags: ["tactics","stub"]
 ---
 

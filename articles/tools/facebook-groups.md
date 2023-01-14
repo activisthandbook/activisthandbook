@@ -4,9 +4,9 @@ title: >
 description: >
   Social media tools used by rebels
 langCode: en
-articleID: O2ZSXS8Y83nI9vOJXlxP
-languageCollectionID: K7_hmsDzHwbxlPMCBXFD
-lastUpdated: 1673628396818
+articleID: guUaku58Eiv7WBfIU_BZ-mTXWpbeYwDv
+languageCollectionID: rQ7_otmRc_rjjA_YIeFI8GOZs-j1yixa
+lastUpdated: 1673685329952
 tags: ["social media"]
 ---
 

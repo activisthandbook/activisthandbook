@@ -2,9 +2,9 @@
 title: >
   Finances 🤑
 langCode: en
-articleID: hAOwm4eILCcWh77KJmDu
-languageCollectionID: cRufmhgTeTJHnqIBg1X0
-lastUpdated: 1673628396818
+articleID: s9rIC3MJxiFePZXTURTlnbBuAl_6nmr8
+languageCollectionID: cLEdUqyXmtS3gTSG_3N0ZuEh0nJlqE_V
+lastUpdated: 1673685329952
 tags: []
 ---
 

@@ -4,9 +4,9 @@ title: >
 description: >
   Responding to criticism
 langCode: en
-articleID: bQ11cGp2Mrw3p_DoO8Bx
-languageCollectionID: OOHwUMMKaeyogYY7hI3s
-lastUpdated: 1673628396818
+articleID: Qw5RVhxgk1VP1qhm3CdQoLujD-n-XCb-
+languageCollectionID: boN4LcSNf_W3wn-yIH8b2s7Vs-TXr2Db
+lastUpdated: 1673685329952
 tags: []
 ---
 

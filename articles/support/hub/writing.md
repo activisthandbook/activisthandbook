@@ -2,9 +2,9 @@
 title: >
   Training: Writing for activists
 langCode: en
-articleID: W8uU3xEaGDCpUnzO4-YD
-languageCollectionID: mXkNBUZWOKqjVhUpfX_V
-lastUpdated: 1673628396818
+articleID: BnrPmm9gsz-_LZiagQFPbzyNRjM7jSmB
+languageCollectionID: X9Hh7R1i0JlOVbf0ZRQP6uHiOnYTKU-N
+lastUpdated: 1673685329952
 tags: []
 ---
 

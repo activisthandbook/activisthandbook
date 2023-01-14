@@ -4,9 +4,9 @@ title: >
 description: >
   Klimaatbeweging die burgerlijke ongehoorzaamheid als tactiek gebruikt
 langCode: nl
-articleID: 0S3LM-4V90VwPx_Pk4m3
-languageCollectionID: SbZk1EZ2jdkaLa9TI8XY
-lastUpdated: 1673628396818
+articleID: -emxnmJ5VuVjtlRglKArlb3HyOqEq7_U
+languageCollectionID: HFh-IoDCu6QBqF6e5z-66QTDbmZpX5HL
+lastUpdated: 1673685329952
 tags: []
 ---
 
@@ -39,9 +39,9 @@ Op [Activist Handbook](/home) vind je meer handleidingen als je meer wil leren o
 
 ## Afdelingen
 
--   [Amsterdam](amsterdam)
--   [Den Haag](den-haag)
--   [Rotterdam](rotterdam)
+-   [Amsterdam](/extinction-rebellion/amsterdam)
+-   [Den Haag](/extinction-rebellion/den-haag)
+-   [Rotterdam](/extinction-rebellion/rotterdam)
 
 ## Veelgestelde vragen
 

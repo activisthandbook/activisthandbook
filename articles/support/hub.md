@@ -4,9 +4,9 @@ title: >
 description: >
   Build a local network of activists and trainers
 langCode: en
-articleID: 3UTKsY-xciugBVdeDIn8
-languageCollectionID: nGJpxmSvVEG7_vMXC21o
-lastUpdated: 1673628396818
+articleID: iHCt5iFG4mRTxH7x3Ie151iCOIwxcvcY
+languageCollectionID: LtP1UwADZWIBsklIOZEcwhSfO_eqt2wU
+lastUpdated: 1673685329952
 tags: []
 ---
 
@@ -14,10 +14,10 @@ tags: []
 
 ## Rebel Assembly Guides
 
--   [**Training 1: Introduction to Activist Handbook**](introduction)
--   [**Training 2: Outreach & recruitment**](outreach)
--   [**Training 3: Writing for activists**](writing)
--   [**Training 4: Facilitation & programme**](facilitating)
+-   [**Training 1: Introduction to Activist Handbook**](/support/hub/introduction)
+-   [**Training 2: Outreach & recruitment**](/support/hub/outreach)
+-   [**Training 3: Writing for activists**](/support/hub/writing)
+-   [**Training 4: Facilitation & programme**](/support/hub/facilitating)
 
 ## Q&A
 

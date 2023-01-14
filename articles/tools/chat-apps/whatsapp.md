@@ -4,9 +4,9 @@ title: >
 description: >
   Popular but not privacy-friendly
 langCode: en
-articleID: 011sYkyORAbW17nKMFvV
-languageCollectionID: ZhUgCSS5jMoNvddhh-jg
-lastUpdated: 1673628396818
+articleID: PmPNnyMFqdjnycSM0h-dWlzY1v4y_E4J
+languageCollectionID: JaerkOkUf4_ZdLlf7HXKtdjQ8yz614-L
+lastUpdated: 1673685329952
 tags: []
 ---
 

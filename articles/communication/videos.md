@@ -2,9 +2,9 @@
 title: >
   Guide for activist videographers
 langCode: en
-articleID: JLAT7IyDJb9HUaHBjmz5
-languageCollectionID: T86fuUPd72HYWwiF9_rg
-lastUpdated: 1673628396818
+articleID: 6EXWoQLp8X-3fYDGuIvVQ_BHnN58v2dR
+languageCollectionID: X1Wj4Mby69peiKK9jVrKjKhOOf74LjeT
+lastUpdated: 1673685329952
 tags: ["communication"]
 ---
 

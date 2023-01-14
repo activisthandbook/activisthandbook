@@ -4,16 +4,16 @@ title: >
 description: >
   Keep your movement safe online
 langCode: en
-articleID: xaMiyp6mv5zcJNPs5RN_
-languageCollectionID: i2YCX3XyTIhMc4MTFOZR
-lastUpdated: 1673628396818
+articleID: ZtUDgvqGjmlOA6i-t_UgTwInQtCN-MqO
+languageCollectionID: EHhPxvGEOnPgfN2vwPYlXyeisMo_r6VJ
+lastUpdated: 1673685329952
 tags: []
 ---
 
 You should protect yourself from hackers. As activist, you are in a high risk group. Digital security practices help protect campaigners from malicious online attacks and intrusive surveillance efforts led either by groups that are hostile to your agenda or by repressive government agencies.
 
--   [Securing your phone](phone)
--   [Securing your laptop](laptop)
+-   [Securing your phone](/tools/security/phone)
+-   [Securing your laptop](/tools/security/laptop)
 
 ## **Who needs this?**
 

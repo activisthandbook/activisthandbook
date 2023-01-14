@@ -4,9 +4,9 @@ title: >
 description: >
   Bist du ein Aktivist? 
 langCode: de
-articleID: YvtzQQXX0jPCJklaZWZp
-languageCollectionID: Zr590f3CCk85_HkDD18h
-lastUpdated: 1673628396818
+articleID: gV8rF5vd6sekWK019WEWffhHIhsnuOZB
+languageCollectionID: H2PzTckY_HdedQsjjZaW_Gcky92WYjDQ
+lastUpdated: 1673685329952
 tags: []
 ---
 

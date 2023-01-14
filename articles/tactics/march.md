@@ -4,9 +4,9 @@ title: >
 description: >
   How to organise a protest march
 langCode: en
-articleID: sGs1mC4Fk8BOiJ0IYSZ5
-languageCollectionID: TObndo6Cll12ZEUmW6L0
-lastUpdated: 1673628396818
+articleID: zlXtGSQRLgwoZm_lEb-2Vq5QqjAaYWeH
+languageCollectionID: r4vt4KzD8-4_NJq7U58Q3KQ4hZNddlHq
+lastUpdated: 1673685329952
 tags: ["tactics"]
 ---
 
