@@ -6,14 +6,21 @@ description: >
 langCode: en
 articleID: N7GP20ZDyk8nyNL3ugsLYHLcd66AdKRh
 languageCollectionID: hSVDuD1UdAolm0PS1CqpwNtc0E4tT3-j
-lastUpdated: 1673685329952
+lastUpdated: 1673693031279
+wordCount: 195
 tags: ["about"]
+focusMode: 
+  isOn: true
+  buttonLabel: Join
+  buttonAnchor: primary-action
+sidebar: false
+aside: false
 ---
 
 Activist Handbook is a Wikipedia-like platform for people to exchange experiences about change-making. We are training activists who are not afraid to challenge the status quo. Join us today:
 
 > Join our community by signing up here:  
-> 👉 **[http://activism.rocks/join](http://activism.rocks/join)**
+> 👉 [**http://activism.rocks/join**](http://activism.rocks/join)
 
 ## We meet online & in local hubs
 
@@ -24,3 +31,5 @@ Our community exists out of over 100 people from 20+ different countries (check 
 ## We value diversity
 
 We believe that diversity strengthens our organisation. That is why we encourage people of all genders, sexual preferences and ethnic backgrounds, including people with disabilities, to join our cause.
+
+<action-signup tags="interested-in-volunteering,newsletter" redirect="/next-steps/signup-volunteer" buttonlabel="Sign up"><h2>Join our team</h2><p>Write something here..</p></action-signup>
