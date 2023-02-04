@@ -1,0 +1,15 @@
+---
+title: >
+  Presentation tools for activists
+langCode: en
+articleID: 62WhfOC1PeiosZ8G7IcDiNl1SuEx-ySq
+languageCollectionID: XScs5_eo35aVwyhgYO5daMwscNcCUsIe
+lastUpdated: 1624720233975
+tags: ["tools","stub"]
+---
+
+Giving presentations is an important part of activism. It can be used to inform people about an issue, rally them to take action, or raise money for a cause. Here are some tools that activists can use to create presentations:
+
+**Google Slides:** Slides is a free online presentation builder that allows users to create slideshows with text, images, and videos.
+
+**Pitch:** Pitch is a free online presentation builder that allows users to create slideshows with various templates.
