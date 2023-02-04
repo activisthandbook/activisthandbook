@@ -1,5 +1,19 @@
 # Activist Handbook
 
+## Deploy using Cloudflare Pages
+
+### Build & deployment settings
+
+Production branch: main
+Preview branches: dev
+Build command: yarn run build
+Build output directory: .vitepress/dist
+
+## Environment variables
+
+NODE_VERSION: 14
+ACTIONNETWORK_API_KEY: secret
+
 ## Dynamic image
 
 Common screen sizes:
