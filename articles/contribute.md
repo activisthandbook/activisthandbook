@@ -6,7 +6,7 @@ description: >
 langCode: en
 articleID: X3umAd56zE_WfRK7zcHngdegG3YyMXkk
 languageCollectionID: iy2_KUsH2lXPdvhd5Txr2B7jyLgtdRVS
-updatedTimestamp: 1675524981238
+updatedTimestamp: 1675530208462
 createdTimestamp: 1675522460685
 wordCount: 96
 ---
@@ -15,7 +15,7 @@ You can contribute to Activist Handbook! Our platform works just like Wikipedia:
 
 There are many ways you can help make Activist Handbook better:
 
--   **📝** [**Improve, translate or write new articles**](contribute/write/improve)
+-   **📝** [**Improve, translate or write new articles**](contribute/write)
     
 -   **📢** [**Tell others about Activist Handbook**](share)
     
