@@ -4,8 +4,8 @@ title: >
 description: >
   How to recognise and raise POC voices within your movement
 langCode: en
-articleID: S7u8lnAkGIO7T6a4OsVVKIB1LW4XBxBb
-languageCollectionID: iV9hn0Sbiz3e6fR-z77LZJO-NKItTAmr
+articleID: zolF2uln2WPUX7y6yB3O5ZTm8lRZeq5R
+languageCollectionID: h-RQY9YpavRIEBMEIcHzbaXIt_FYvP0n
 lastUpdated: 1639649947522
 tags: []
 ---

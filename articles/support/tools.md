@@ -4,8 +4,8 @@ title: >
 description: >
   Volunteers at Activist Handbook use these tools to work effectively
 langCode: en
-articleID: RECSt-tuTAESpZ2ooETRUNfAQKUL3SLx
-languageCollectionID: Yrig3FAIqWA7OOdYSgZ6lztbAilbKusX
+articleID: IRusWHwB2x87Uhs-rRcerk76UYUTy4i0
+languageCollectionID: 7XDy61yvKpaLRRTTmcECY4_Z6hOYsyYL
 lastUpdated: 1618836565403
 tags: []
 ---

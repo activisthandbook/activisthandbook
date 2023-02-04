@@ -2,8 +2,8 @@
 title: >
   Workflow automation tools for activists
 langCode: en
-articleID: ydoUAiqsLREhbtv7ywU3IAB_O-itUQhO
-languageCollectionID: cwwvV2NThesG2zsakknkqyuqBZG9tIIR
+articleID: ZiF6omrPDykHceZ75KS70PfGnJg67D0Y
+languageCollectionID: lcpxY7YdfmZQBHkL1bVIAEk9i3pQWg61
 lastUpdated: 1624720274805
 tags: ["tools","stub"]
 ---

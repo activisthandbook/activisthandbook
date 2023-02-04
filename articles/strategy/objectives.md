@@ -2,8 +2,8 @@
 title: >
   Strategy: Objectives
 langCode: en
-articleID: _--WwkHFN7D7DyFdB3qd2dGBYXhxjNa9
-languageCollectionID: 9xg4zLpdYDo2QbBko8W-UwuVXjdCY8Uf
+articleID: xFbGdePqDrjGrRPfWFfdfLPYOnckrAsW
+languageCollectionID: Uj2_hL9Hq8bXpdl8xeERqouM461JNPqZ
 lastUpdated: 1629639517283
 tags: []
 ---

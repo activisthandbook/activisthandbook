@@ -4,8 +4,8 @@ title: >
 description: >
   Διεθνές έγγραφο που κατοχυρώνει τα δικαιώματα και τις ελευθερίες των ανθρώπων
 langCode: el
-articleID: pnaOVzKtSBhLHQnus64u_4fsvrxNlB82
-languageCollectionID: ft6Kpq41AGVYaJ4SXcZmSbQNzBtKACHZ
+articleID: FOEBJFJKZTbwCjua4FwJdwxF9VLgotH1
+languageCollectionID: cENw14Te67C2cUtz8tN_FOBeox9EcIq-
 lastUpdated: 1606932918818
 tags: ["terms"]
 ---

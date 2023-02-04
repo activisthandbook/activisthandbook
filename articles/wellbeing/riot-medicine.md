@@ -4,8 +4,8 @@ title: >
 description: >
   A guide for first aid and street medics at protests
 langCode: en
-articleID: O0KdJJ0QQkJPujELty54288ZJtd9XmFl
-languageCollectionID: 0MxKh19w6cIxTfrHUUv0Tw-s8oSL1QDl
+articleID: Deg8NLdjp5VRnwXECCU9H1YWMWDUbbQa
+languageCollectionID: 0_srD33Dxjp1Rf2OKG5FXnyZt4VMbqFF
 lastUpdated: 1602158637408
 tags: []
 ---

@@ -2,8 +2,8 @@
 title: >
   Film as activist tactic
 langCode: en
-articleID: 47Lsz84V4NB31FrATHqOtAYmAyb99_Nh
-languageCollectionID: EdPmYmWK42MQ6ABomSsku2iM1aDDCUZu
+articleID: APC6BzB71qPD8Tg6vD49IQYbu_Di_bTi
+languageCollectionID: c79lDmzjyf0xxKIqXs9XRzz1JSvsLMfg
 lastUpdated: 1648632347717
 tags: ["tactics","stub"]
 ---

@@ -4,8 +4,8 @@ title: >
 description: >
   Share audio recordings with your movement
 langCode: en
-articleID: BQo5pXVj_bouM-Q6-ArsNGnNBU2kxSId
-languageCollectionID: u8UQO4E0brRGAMcv2Ha90njaTGc6RXco
+articleID: 8oTIX6KOzNZXpJibJDd_SkQQPxrS-PZA
+languageCollectionID: 9VmjWw-WeSsX8bwlJH7sZf8fO6s4lQkC
 lastUpdated: 1618653072425
 tags: []
 ---

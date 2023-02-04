@@ -4,8 +4,8 @@ title: >
 description: >
   A practical guide for protestors
 langCode: en
-articleID: LoqZZk0K8e4peAIcXZtGqLKBl0LUF1eY
-languageCollectionID: cvinJEGiowPYTJyF5w_R_4wS1JFV__wV
+articleID: g5UHxqvQZQUeoikqqIGJP0chN8iSEYzQ
+languageCollectionID: Zzec_ZBqq9AQVG_sJ7Y4sNuAY9v00_hV
 lastUpdated: 1643186702873
 tags: ["tactics","stub"]
 ---

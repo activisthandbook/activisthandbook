@@ -4,8 +4,8 @@ title: >
 description: >
   Εκπαίδευση που παρέχεται από την ομάδα μετάφρασης
 langCode: el
-articleID: zJu9tAdy7Y3Fi5VCUpqtPyKkzR9Cr54C
-languageCollectionID: ABsuSu08OWN7MvNGVbW0iFowcFv0FlVl
+articleID: RKROZ9E8HUzV4kPxiBPM5Uyl5F6QDlRK
+languageCollectionID: x4CYI2HikBHa1rgwJ0uNS7XsWEzEeoHc
 lastUpdated: 1595527741210
 tags: []
 ---

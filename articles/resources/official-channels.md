@@ -4,8 +4,8 @@ title: >
 description: >
   Book about activism by Brian Martin
 langCode: en
-articleID: 9juEFM1xg8rC1F8IjF2_A2al5GLWI6M3
-languageCollectionID: UL-nUOims6yPYXjj7j6WEaSfdRIu6o0o
+articleID: GKh8xPb_TVfDRXJ6eQ8smbwEER_W50j2
+languageCollectionID: veq1aXbl71a7QQIhBbe8v5LjysdMQZ-A
 lastUpdated: 1655466914969
 tags: ["books"]
 ---

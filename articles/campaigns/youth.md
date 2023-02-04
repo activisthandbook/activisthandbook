@@ -2,8 +2,8 @@
 title: >
   Youth activism
 langCode: en
-articleID: ly7vkxGLhVllwfeq_PCOGtTJG_YtpBG0
-languageCollectionID: pBNUWM_1T2n41YFfCFwuj6I4a9BiTq_Q
+articleID: IFYswVa6uN_IIfbq3Z7ZtCxxuruLN0PL
+languageCollectionID: 9pwlMO92Cydg6DGhJ5_99s6bGoyD6QCQ
 lastUpdated: 1671823128445
 tags: []
 ---

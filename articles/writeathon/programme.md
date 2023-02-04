@@ -4,8 +4,8 @@ title: >
 description: >
   What our day will look like
 langCode: en
-articleID: _dSS1qoYAEiDR7NBDmEIpzE5FmsGx7d4
-languageCollectionID: Pi_IVRDL4jW1XHnDfdTBJ1KaEaL1ESRQ
+articleID: spx1Fj2JJt51EiH9w4TG-njfXWn83Bpe
+languageCollectionID: 2P3vdoXi_wRish8pchdl7L-LVs3POR59
 lastUpdated: 1638527102729
 tags: []
 ---

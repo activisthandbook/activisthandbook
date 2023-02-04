@@ -4,8 +4,8 @@ title: >
 description: >
   A comparison of tools for designing illustrations
 langCode: en
-articleID: f0xzFFpmEYf57aoir_TJWlMgTQDlsJ1e
-languageCollectionID: sPjbtf4e9J9X00ULnvnLieiSKi22ztWG
+articleID: 46dReUQlJpRUwVQTD_qTmV1VAyrFfa_K
+languageCollectionID: fyordx2FA-soUPpjprLmwLVXYIq5VcCh
 lastUpdated: 1583671011955
 tags: ["tools"]
 ---

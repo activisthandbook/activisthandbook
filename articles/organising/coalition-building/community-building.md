@@ -4,8 +4,8 @@ title: >
 description: >
   How do you build rapport and friendship among your project volunteers?
 langCode: en
-articleID: WTeN6Iv21BzLY5P1cs57Ako742slcPcU
-languageCollectionID: ItsR3I9iJRDhV-5COv9dGytBlPD9rrfZ
+articleID: AmkmqogEmSCyL2CXBKSKHGzCQvUhYV2T
+languageCollectionID: gKmBvpTD93c3wA05cJJIXYlRz60UFAKI
 lastUpdated: 1652094713752
 tags: ["communication","organising","organisation","community","meetings","connection","shift","shift x activist handbook"]
 ---

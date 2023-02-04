@@ -2,8 +2,8 @@
 title: >
   Guides for women's rights activists
 langCode: en
-articleID: mh878KNkPuRAdFh44AeLoLoyXehPOoUY
-languageCollectionID: WBFHrjeCP_gq_DHQm7b6zX5_sjwMYzVr
+articleID: tIT95NRXmSkm-514fm98r7O_SOMJSyfl
+languageCollectionID: LYo3UGx2leSG37MX5ryu9GtNeH4SoGcJ
 lastUpdated: 1663865832071
 tags: []
 ---

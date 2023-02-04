@@ -4,8 +4,8 @@ title: >
 description: >
   A guide to the role of content coordinator
 langCode: en
-articleID: VtGaoXfFHN6FVWOT46yxNkvVCMvjV1MB
-languageCollectionID: 0njF0fJvo3EVzE3BgMj-nI_ii5Nvh3Bi
+articleID: xUNaHWQhs-R8ZB64UZBQtE2Swq0p8xBV
+languageCollectionID: o3ggo8rX9kIq1TwKopukAA60yvgaeG0_
 lastUpdated: 1637578173922
 tags: []
 ---

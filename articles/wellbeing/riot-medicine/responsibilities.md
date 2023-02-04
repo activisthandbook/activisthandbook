@@ -4,8 +4,8 @@ title: >
 description: >
   Responsibilities of first aiders at protests
 langCode: en
-articleID: jIduwSP3cFRflx2kjOI2gPfxOjOtORcI
-languageCollectionID: CHYb-4W4OaN8HkUfJidqA8Vdan8JrrH3
+articleID: ZTQABi5F0n4ij-1aEkaO8imWWsB5STYA
+languageCollectionID: g9eYZ4FpD2vb8XTcoQ_3oH5n456q1jdz
 lastUpdated: 1602161713853
 tags: []
 ---

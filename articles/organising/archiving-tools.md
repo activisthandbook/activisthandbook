@@ -4,8 +4,8 @@ title: >
 description: >
   Safe, accessible and decetralized
 langCode: en
-articleID: Mo1dJCgcKKznQ7uWE7cp0SiTIwWuZD0P
-languageCollectionID: Dq6F9G8xzAIQuCN2pvAuRbvgIIpsRF9G
+articleID: Gsv6bAkLV5Plj3_G2MHa1q-L7c7cYkxu
+languageCollectionID: A2FKgCvEi3eA8Yvyfoc7rRswMld01Vdb
 lastUpdated: 1647786701713
 tags: []
 ---

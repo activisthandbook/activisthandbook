@@ -2,8 +2,8 @@
 title: >
   Week 3: Styling your webpage
 langCode: en
-articleID: HI1V0mdmMFGU9AKJ9JBGh1C1bw-THrx2
-languageCollectionID: UOyhFDA5m40A7wQgik8whcBD8u9MbR49
+articleID: 5N-WkBmjDlVDmLPDt7iHzy1HcYnFcZAz
+languageCollectionID: ozccD-lhROMdBdQ8HahJYV8lx21bZv8k
 lastUpdated: 1630056874025
 tags: []
 ---

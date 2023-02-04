@@ -4,8 +4,8 @@ title: >
 description: >
   Aanmelden protestactie in Amsterdam
 langCode: nl
-articleID: Bt_2G3opzYMR-sUOa0lA0QL7uKjWrw2Y
-languageCollectionID: w4Op3cAggOvsGI0xOl2vHjLbRM_HEeuC
+articleID: jApHUnQam3tZ_1nhw0Vgr3DGYxEa4ebi
+languageCollectionID: qynivJMGHhySXBVxUChA7NDbimuh8eMg
 lastUpdated: 1643390332873
 tags: []
 ---

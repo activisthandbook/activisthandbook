@@ -4,8 +4,8 @@ title: >
 description: >
   Provide a safe space for everyone in Activist Handbook
 langCode: en
-articleID: yrGdmdKUsz1dQIJiJVPikC154tfKxQdd
-languageCollectionID: z_zX-ZCwr8j5QtApiXFaWId-KhPjvOQT
+articleID: uA40qywJ8U513-Aiej1MkVcHkofT38Qq
+languageCollectionID: HqWsmbdlWuSNHZEgePH41um7lMXk8Lvp
 lastUpdated: 1614251606814
 tags: []
 ---

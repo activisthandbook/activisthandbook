@@ -4,8 +4,8 @@ title: >
 description: >
   Work aimed at tackling socioeconomic oppression, such as within an organisation.
 langCode: en
-articleID: K7Uz3dxL15Hzeh24j6zSwgsAs7JnM0Sf
-languageCollectionID: ptleI5haR-ggrClJU8OaO0ULeAl5YciL
+articleID: dubXbRE9tKMOzj-rG19wv4ap_fzGqF_Z
+languageCollectionID: fN4HI5zgw7VUCUHFag7iMi-yk-Y0M_iY
 lastUpdated: 1602689677053
 tags: []
 ---

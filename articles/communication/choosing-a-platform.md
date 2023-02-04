@@ -4,8 +4,8 @@ title: >
 description: >
   This article will help you chose an optimal communication platform
 langCode: en
-articleID: n1xOndMbwMT1j7PjzgKlJ-Q-RHeex202
-languageCollectionID: lNwYTHh1i58-PBShRq-s3OhgbZJxdHCE
+articleID: dnXjynCQ_S_kRZsop-oVXfRO8HPAAFBe
+languageCollectionID: DYa6LNdTuI1ajeUBWKCJBqKgm3XuuwN3
 lastUpdated: 1639827736142
 tags: ["#workinprogress"]
 ---

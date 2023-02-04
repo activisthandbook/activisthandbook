@@ -4,8 +4,8 @@ title: >
 description: >
   Work more efficiently as activist with these digital tools
 langCode: en
-articleID: UHVwITzgVNh0WJYbFbJqexzMyidMOwrZ
-languageCollectionID: LKK-Ke66dXwT2c_mNdxn3GcJ0Qe6w-v7
+articleID: _FhS3DYPgN9p0h3elRVarmYTU8jQvcTA
+languageCollectionID: _umEWSFrid1WEvO8qO_6umUHhX8sIc49
 lastUpdated: 1583509229031
 tags: ["tools","chapters"]
 ---

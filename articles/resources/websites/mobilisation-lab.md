@@ -4,8 +4,8 @@ title: >
 description: >
   Overview of the content available at Mobilisation Lab
 langCode: en
-articleID: MyndaUAjlU3zCc1v3TLMskXXEE41UrTP
-languageCollectionID: xQ5aPVdCEma8GEvmpZmYW7UcISb-Qnlb
+articleID: zJN5YQF78r3Gyjfx0QdS6jUizfTGUpQ5
+languageCollectionID: GlsvRbqKa_yS3fvPutTWzsxVAX4QngMz
 lastUpdated: 1655736899127
 tags: ["resources","websites"]
 ---

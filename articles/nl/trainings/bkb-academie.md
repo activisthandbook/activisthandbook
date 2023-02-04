@@ -4,8 +4,8 @@ title: >
 description: >
   Trainingen voor politieke campaigners en activisten
 langCode: nl
-articleID: xKj6X9enrw4CRqoiOtgFAP39U4YliTze
-languageCollectionID: JRJvd04_toMkiGEkUN4OpDlsDrDeAj7R
+articleID: Lv3hvFPoOXSSUX0eA2iHsdgpOVMhqlP0
+languageCollectionID: WIX4fNX-NLubrxJ2nGw-o3GEC61QSMfQ
 lastUpdated: 1654074608469
 tags: ["training"]
 ---

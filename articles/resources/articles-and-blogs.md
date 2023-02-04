@@ -4,8 +4,8 @@ title: >
 description: >
   Resources for rebels
 langCode: en
-articleID: iAG8CaE5P0HoGwvfIbe1019GTGWCgZ9p
-languageCollectionID: zdfnQf5VqpMoZI_Px1tfX9mQfQ0zkVTO
+articleID: eAfCzZ6pIg0WL_yud4NsVU5u_Ffe7Vir
+languageCollectionID: XTdkOpAnm1_H-k3j9t_Lv6LzxG96apvO
 lastUpdated: 1602592184978
 tags: ["stub"]
 ---

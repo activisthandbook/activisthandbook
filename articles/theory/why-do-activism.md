@@ -4,8 +4,8 @@ title: >
 description: >
   Activism and its impact
 langCode: en
-articleID: -VqQ9jx2QQ4Yd4eATIIPOSI84LmhzBov
-languageCollectionID: dby5Pjdet_yQAjASThUp8LXoGO-z-AnM
+articleID: ktbJwsA2VUk7cyA-NvXcyBDEXQtaPcP4
+languageCollectionID: rjAp8YzE527Ke6xubNFBANdur549FquJ
 lastUpdated: 1663873438157
 tags: []
 ---

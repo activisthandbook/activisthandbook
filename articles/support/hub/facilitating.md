@@ -2,8 +2,8 @@
 title: >
   Training 4: Facilitation &amp; programme
 langCode: en
-articleID: fiKsmuGF1khkwOcj86S5a-pY8mugexuF
-languageCollectionID: 2sYCDwJiuePDacA6F3xM87ZFjYeXBtnT
+articleID: bNi69t23RWSMDLnlUrvOUOhcIrNb0G00
+languageCollectionID: WCZjHxLBxiaFudJZb05lZQ51l2Zr_4OB
 lastUpdated: 1652790742191
 tags: []
 ---

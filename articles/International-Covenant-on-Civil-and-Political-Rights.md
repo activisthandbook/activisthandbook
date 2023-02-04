@@ -4,8 +4,8 @@ title: >
 description: >
   An international treaty that enshrines the civil and political rights of human beings
 langCode: en
-articleID: 1JXWrM2fdrLkyuM2xxFHFt2Qw40fsNsw
-languageCollectionID: 7iiGYR4BDgRdknC1o7xQmOr3a3BomnpF
+articleID: 8ni8vbuJJfvslhhFHaPlDlmWp6FA_Z0c
+languageCollectionID: buhAXtvS0MYZYV4Jx-KlE7UwMB0pNLCX
 lastUpdated: 1604594994463
 tags: ["terms"]
 ---

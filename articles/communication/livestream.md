@@ -4,8 +4,8 @@ title: >
 description: >
   How to organise a livestream for your activist movement
 langCode: en
-articleID: CSqhXUvDMNM1tAun9ojRDTZujpOrtC7U
-languageCollectionID: snbLUjBbl8vNaEz9IQq6e0ZgplP8DLEo
+articleID: ky-uVAwXwnV5X9GC0N9g01jdMX-k19qS
+languageCollectionID: pRGEccHBPV4-dCWUXF4MoIf_69aCjW4p
 lastUpdated: 1637328051760
 tags: ["stub","communication"]
 ---

@@ -2,8 +2,8 @@
 title: >
   Performative activism
 langCode: en
-articleID: 39zTOGX8DtzE3ZsschXZDOjHUNHXOxkm
-languageCollectionID: XQ6l42THMRZs3ieTLfif1CWk9wai2ifj
+articleID: HZJ9C9RmXO_YM3kWYYXrjdPHY-WaAYN_
+languageCollectionID: Al3pI_cqj09oNUxYa0i7jGyYhUJCAc9I
 lastUpdated: 1653392062394
 tags: []
 ---

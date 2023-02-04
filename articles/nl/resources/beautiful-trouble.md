@@ -4,8 +4,8 @@ title: >
 description: >
   Handleidingen en workshops voor activisten
 langCode: nl
-articleID: o33ajLJdFaQP_AegTtn0RhC8OW7YWUY1
-languageCollectionID: d7fFpjHlYzNkBaaQaV2WOkdnQD59oXVe
+articleID: fme94s5qWKxNZ5xMffcCuJ6N_RPQiuaK
+languageCollectionID: UJ-LgBfnSlQgKMjdqUrJYRp38wEB9Efz
 lastUpdated: 1648974835948
 tags: []
 ---

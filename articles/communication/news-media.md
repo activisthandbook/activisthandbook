@@ -2,8 +2,8 @@
 title: >
   Reaching news media as activists
 langCode: en
-articleID: BPRi8Lc8Bg7DTeYZq9qAfeVLSerz5wYO
-languageCollectionID: 2Mp0hyI3lQjbutxaBo5PSREjrppEyGaU
+articleID: QYNawon-AjklCbxGb81-gHUwL1XRd2-t
+languageCollectionID: MRMwO2j7BNRQKw8sfodmmrZld4vemHZu
 lastUpdated: 1629625461157
 tags: ["stub","communication","easy to improve"]
 ---

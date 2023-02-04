@@ -4,8 +4,8 @@ title: >
 description: >
   Seeking case studies from all activists -about everything from tiny actions to huge movements!
 langCode: en
-articleID: j_z7BUd_5qg83Q9aYM8mWr0Xh6L-pNF-
-languageCollectionID: L3U7wGvx1jDk0cRmXSjl35opYjukp6xr
+articleID: xjPHHxZmEFXU2mlZedvRzvV7_4jcLZHt
+languageCollectionID: VTApBRYwEYMBX5xVW7wuVyFsOIg_5y3e
 lastUpdated: 1615550522971
 tags: []
 ---

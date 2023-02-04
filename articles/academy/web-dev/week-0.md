@@ -4,8 +4,8 @@ title: >
 description: >
   Web development course
 langCode: en
-articleID: KlDLe5bittTyES82Mcx6-P31QOd7sEjB
-languageCollectionID: AGYyrYuaEpogrbhaW4TfqP-DhVryGYqs
+articleID: 7Xfr639QhNxFjtQSo9M0EJ2nCi3YQgbL
+languageCollectionID: -9dAegVSToKT_JSwy10pbNBaaHG4Tdhz
 lastUpdated: 1632909595300
 tags: []
 ---

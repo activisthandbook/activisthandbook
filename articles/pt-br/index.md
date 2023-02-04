@@ -2,8 +2,8 @@
 title: >
   Activist Handbook 
 langCode: pt-br
-articleID: mV9d3m5QgxQdunLrpeQl8Svxv9BJLtDC
-languageCollectionID: mdnnDhAiiHq8PieAy5_EZRqyLXx4sOjZ
+articleID: kyexW9u199XD3ehNaOUfwCq6il5McKLf
+languageCollectionID: vbmW_zEU8ZBHe8iIxIEstlSfL78cABJe
 lastUpdated: 1606169158519
 tags: []
 ---

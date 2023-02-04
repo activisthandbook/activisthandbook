@@ -4,8 +4,8 @@ title: >
 description: >
   How Nonviolent Revolt is Shaping the Twenty-First Century
 langCode: en
-articleID: xbA4jOwSeY1hoIhCB9b7wM4bFkwiFvFu
-languageCollectionID: kYWPwUKhfctBqf_Ah42m8JPorDAd_ZRK
+articleID: E4f4wpHJ3vqzdtO9jpy7SPPucIkijmHA
+languageCollectionID: aV2eosSZ1AFxlaEG4__C0zo9m8PPuhdQ
 lastUpdated: 1645352776029
 tags: ["resources","books"]
 ---

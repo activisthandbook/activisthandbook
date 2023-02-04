@@ -2,8 +2,8 @@
 title: >
   Week 5: Building components (Javascript &amp; Vue)
 langCode: en
-articleID: vd0413FYwURszE6-7NtTdz7VVK_irvep
-languageCollectionID: 5JYKaZjc9nu5vIASlw1XGVjj2gA8u4KI
+articleID: luf2Os3HAvqKnq2N6lRdSgMBjnpL4wx0
+languageCollectionID: ExeYU6asybmlz6MDKqzCN8dH2FB-1zHx
 lastUpdated: 1632050372672
 tags: []
 ---

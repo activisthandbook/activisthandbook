@@ -4,8 +4,8 @@ title: >
 description: >
   Chat apps for activists
 langCode: en
-articleID: rhazEGKlIHg45kJERVhuUJLM-i1MXMNL
-languageCollectionID: Bvnk3K0ymJvPLQLPHqI3QBHhsYr2DNPa
+articleID: HIEQDv3Yx0T5mcih8MrYpcLQyZNVpPJN
+languageCollectionID: bsdqfs9yeCPdxOhVpxN345FdsQ8utjC0
 lastUpdated: 1601822256345
 tags: []
 ---

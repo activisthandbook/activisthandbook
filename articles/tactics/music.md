@@ -2,8 +2,8 @@
 title: >
   Music as activist tactic
 langCode: en
-articleID: IToW9aehBq4xYjvrl-t88-Hk4ne5dTiU
-languageCollectionID: ZamXN9TJ8fZWq2sN7Z8wkqbxWJWigyeJ
+articleID: EXQQ-m8YritxSmsrvvZzP2vtJdb41WV5
+languageCollectionID: ZJLoJt9uLwOMWkhYKzW1Q05kODcHor80
 lastUpdated: 1648633218900
 tags: ["tactics","sub"]
 ---

@@ -4,8 +4,8 @@ title: >
 description: >
   Websites, boeken en artikelen voor activisten
 langCode: nl
-articleID: KnAWfJ83Dp1JZtKO59q5mgIOXC2Q_cEx
-languageCollectionID: Jd5Fynx6YkahG7UEnlV4ex6mGGnF70P0
+articleID: lRIgDcd_SqZUZ21YvMYdU977aUQFcT0k
+languageCollectionID: 1ZJn8NaxJ_WxKa_U1m9Xlf_1G93_IQ8u
 lastUpdated: 1587383553977
 tags: []
 ---

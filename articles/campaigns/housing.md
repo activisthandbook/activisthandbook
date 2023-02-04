@@ -4,8 +4,8 @@ title: >
 description: >
   Activists fighting for tenants rights
 langCode: en
-articleID: qpmUeDJgR_7-MDeG6Y-lV8EsqdjjcTj-
-languageCollectionID: U_cqULiSsSTTWrp-4s2eddaPk890pVj0
+articleID: GZ4Q9ZQEVklXHDz66jNhjhVIewpNh2OX
+languageCollectionID: vGiAVZBXQPJhmrATOnIUY0BRySsU4lSP
 lastUpdated: 1639830802442
 tags: []
 ---

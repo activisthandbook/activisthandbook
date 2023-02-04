@@ -4,8 +4,8 @@ title: >
 description: >
   How to organise a civil disobedience action
 langCode: en
-articleID: PKZFl58ivsb-f2ssFJAPBhhplGj_FutF
-languageCollectionID: s3h3wzsGSHHag3ZQBa6yWHocE37SdVXN
+articleID: rjIKtYP4gLMvk-yjbZytrEgSqHaV_rvf
+languageCollectionID: ZYq0ZSIQGaY9tbE7YCWCYrklyrf5ZcrQ
 lastUpdated: 1643198421398
 tags: []
 ---

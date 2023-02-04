@@ -4,8 +4,8 @@ title: >
 description: >
   Origins and appliance
 langCode: en
-articleID: pprp-M8RJdA6K3Ba92O_D4nV8iCSxQfT
-languageCollectionID: l3dP8O4FAN5J6pjPrPLo6joxD_vKYwt7
+articleID: 0GLSG6xNtrRxxjbuC3aQQsxe4ri2b_Uj
+languageCollectionID: kDR8lOo3rg3Xa51AJouJO7WzLrVQ7HbW
 lastUpdated: 1639383713372
 tags: []
 ---

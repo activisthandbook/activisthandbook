@@ -4,8 +4,8 @@ title: >
 description: >
   Legal rights and police practices in the US
 langCode: en
-articleID: 75sdb0BjpsHxeBtSRNIlPaMWEvWfd4WA
-languageCollectionID: _y4cu26P6s86RdC4OSarAe7k4G8KjjlK
+articleID: Mb6GB0aiRHajqQW_wsv6eS925_-Htks4
+languageCollectionID: oPWho-tXAChbb3GfRjkPiHp_Zw4x42HM
 lastUpdated: 1643184725455
 tags: []
 ---

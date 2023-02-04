@@ -2,8 +2,8 @@
 title: >
   Volunteer guide: Communication circle
 langCode: en
-articleID: p9LQ6FRYwjkcGgXXMmHudgI7eC9rCYyp
-languageCollectionID: ZOnZ8fuVTWnP2Cm3C7bYhfS9MtHNm6lw
+articleID: 6TF-MZ6OodsLfFjJilkOPQEouoNhBxIO
+languageCollectionID: xbzVo5I7bWzzI0sPWDmbD055CDBz0MRq
 lastUpdated: 1619451211417
 tags: []
 ---

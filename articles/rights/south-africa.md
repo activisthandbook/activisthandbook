@@ -2,8 +2,8 @@
 title: >
   Protesting rights in South Africa
 langCode: en
-articleID: j1zO2sdCHh2litU7Uy1-eQQGgA93LUgQ
-languageCollectionID: JfP5eQuYvGVowG9Y86Jx1lyO_D46usfq
+articleID: ODrCFvJdXcBNsafZfQV4jcb2We6dL7-8
+languageCollectionID: n9iZycyJO-vl9OPAd1QMk07NbfCYoazj
 lastUpdated: 1644920664956
 tags: ["stub"]
 ---

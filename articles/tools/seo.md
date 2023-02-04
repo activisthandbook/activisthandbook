@@ -4,8 +4,8 @@ title: >
 description: >
   Guide: Search engine optimisation for nonprofits and activists
 langCode: en
-articleID: uV6TKJ4TWPplCKMhE5JW2AUx0hYkiysv
-languageCollectionID: F9mQ-VopZ8N51gV4VCSaWf49sUVd17KX
+articleID: GRZTMOOdRRKvszcTgxXFLD8BLmGSMUdz
+languageCollectionID: jn3F_H5ZKnY4lyI9Zsu9-Fwk82rwaKQz
 lastUpdated: 1645030914881
 tags: []
 ---

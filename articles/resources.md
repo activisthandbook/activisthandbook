@@ -4,8 +4,8 @@ title: >
 description: >
   Resources for activists: Books, movies, podcasts
 langCode: en
-articleID: VRhEf_nZmvQ5iL04RFZ01LNFni1h_bYb
-languageCollectionID: Jd5Fynx6YkahG7UEnlV4ex6mGGnF70P0
+articleID: p2JHElUNuhZ0836tywQzp55W8IFaKw55
+languageCollectionID: 1ZJn8NaxJ_WxKa_U1m9Xlf_1G93_IQ8u
 lastUpdated: 1583508790126
 tags: ["resources"]
 ---

@@ -4,8 +4,8 @@ title: >
 description: >
   Producing guides for change-makers
 langCode: en
-articleID: RcWMy_kdK_CeomR1IR7k3WPTjhWiceyH
-languageCollectionID: Bd0PPsWzvhCidvGQOnkGRxr0Ua5baC_q
+articleID: LTwqYj8Zz4zIiascSOVeza6fTTeYP8CQ
+languageCollectionID: hZaA-5n7QEKZlBSE3bqgsTzTUGRN978u
 lastUpdated: 1642090442098
 tags: ["rebel-assembly"]
 ---

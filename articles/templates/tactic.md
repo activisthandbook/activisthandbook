@@ -2,8 +2,8 @@
 title: >
   Template: Tactic
 langCode: en
-articleID: zRUatdqHyIUP0Q0Ho1fIIFV7Ax1yU2L4
-languageCollectionID: 5b27FIaWNjShJFxVumCHitLY_aemgADK
+articleID: eHLwFVXxrgRyXmzpN_WUKI5CYIT3kE9-
+languageCollectionID: -L3IzEfASTaM_4vXb83FBJBDTdkzzbqu
 lastUpdated: 1584827737110
 tags: []
 ---

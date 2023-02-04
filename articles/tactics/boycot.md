@@ -2,8 +2,8 @@
 title: >
   Boycot
 langCode: en
-articleID: tktY91cINqrehoLnFFg2yG3P5-c9Lgvt
-languageCollectionID: EkpiPlsZEu_bQGk12zn7iWLKQjstxaFW
+articleID: gegmdf_gRKABtNNUfvy7Q_9MgPmgu0mr
+languageCollectionID: esxjd9DVoxyTC7O8oA5p1pF00GSQ6-5S
 lastUpdated: 1584825687893
 tags: ["tactics","stub"]
 ---

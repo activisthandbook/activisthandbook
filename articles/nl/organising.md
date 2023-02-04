@@ -4,8 +4,8 @@ title: >
 description: >
   Samen bereiken we meer
 langCode: nl
-articleID: KFcd_QqF7LrO8kZGOnypTjAQFwznkAJS
-languageCollectionID: Ic_NQ2AJFFyAXcvT4vNl8W1fyFkc5ZxW
+articleID: y7q7eF82z5TYuAZ7sIdXtpRGWJN9HbBJ
+languageCollectionID: 2iL5uLyfvLfLZc8ZAdnUzGAQX_cgwUc1
 lastUpdated: 1643291179480
 tags: []
 ---

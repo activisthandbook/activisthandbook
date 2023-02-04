@@ -2,8 +2,8 @@
 title: >
   Integrator (FR)
 langCode: fr
-articleID: O-TiQ5KqzVb22weWX1EylwicPSlGbZys
-languageCollectionID: JFCrbmKzn3BRbloblch-FVpVnaX7Mz5W
+articleID: qh7BvZh8nPWK6JnlXlzT0QgmO75JOsGe
+languageCollectionID: _ifh-Vn4aaCsrtYaBG4281YQQiglLbzX
 lastUpdated: 1644585650685
 tags: []
 ---

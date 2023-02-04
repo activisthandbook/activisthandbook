@@ -4,8 +4,8 @@ title: >
 description: >
   Using TikTok for your protest movement
 langCode: en
-articleID: kkAAaL4_idB-0FNHE8fyqusENYKmuebx
-languageCollectionID: nNU9Ya6IpfAXgHnk8Uje9w-cChyXCues
+articleID: fL4mwJjtuDeeWW7ho0ER61oRiJrNifwT
+languageCollectionID: HH82OnC48TPZ8cus-KG6KM4THMOBEHh3
 lastUpdated: 1642505542116
 tags: ["stub"]
 ---

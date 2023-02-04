@@ -4,8 +4,8 @@ title: >
 description: >
   Training organisation for activists
 langCode: en
-articleID: 07qbns4Ud45AwcPJi2naR25GycjYSjs0
-languageCollectionID: fvChQWfW3DNJHdm0xPl2akeJWCppU4L8
+articleID: c28YTMWozXKJyEwAOjxZ2mxZXY-lbBcS
+languageCollectionID: olIMgqUO_XEwXKE_FA55iCKNwBHfvlBj
 lastUpdated: 1644934677035
 tags: []
 ---

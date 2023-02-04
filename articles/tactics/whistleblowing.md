@@ -4,8 +4,8 @@ title: >
 description: >
   Whistleblowing as an act of resistance
 langCode: en
-articleID: T9O-slrPgmTScKsry6sbWgIStKPv1pWp
-languageCollectionID: 4aE80e7ruSA55ymwRW-t9wjoohcPs-sZ
+articleID: Fn589_uQOXBjwvaZElBu6omQSBKfvf3W
+languageCollectionID: 0vRbsdAvTvZsPaUcliNujm7iWPEkYZmM
 lastUpdated: 1585064961603
 tags: []
 ---

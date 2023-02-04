@@ -2,8 +2,8 @@
 title: >
   Volunteer guide: Finance circle
 langCode: en
-articleID: AiTb31RIySD-mYtdmeBDR-UUGkqG4vqj
-languageCollectionID: GFZqhjbuTEOo08LEIPru5qGFfIc8jx2e
+articleID: 6RVEt2hh8V9_mZMC5zqc9OiAWrbv-0cI
+languageCollectionID: d3x4geN-5TZZuyH1qitcSSwKsd0_ymhs
 lastUpdated: 1619445209120
 tags: ["support"]
 ---

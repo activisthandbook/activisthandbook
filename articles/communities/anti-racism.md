@@ -2,8 +2,8 @@
 title: >
   Anti-racism movements
 langCode: en
-articleID: c9_Fuc0KgKQnY1JGhvs4QgZ-BhR8bct2
-languageCollectionID: O0iACXgcRIduPxz6DVNXfzp_mOhXkLPK
+articleID: KrpwjwOoHr3zCMWENjIrEyuRAB-OYHw7
+languageCollectionID: yNS2pz9hwmZXjoGXy0yTnBB04sAo6J6M
 lastUpdated: 1601805514177
 tags: []
 ---

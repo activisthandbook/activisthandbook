@@ -4,8 +4,8 @@ title: >
 description: >
   Member of the communication circle
 langCode: en
-articleID: X4lyy_EEU6pCmFNozAhTKB3inMDRmDiS
-languageCollectionID: KVu0Kd9Gpn0fXTnotCDwpFOpV-BCeHRr
+articleID: 0fE2SSfPCHEnbsdE3-Prlg-K4mToRZiM
+languageCollectionID: 30KtrkZLCdWg9Qpt72Ryfo2n1C1zPe4Z
 lastUpdated: 1636711724849
 tags: []
 ---

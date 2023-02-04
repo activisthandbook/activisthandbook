@@ -4,8 +4,8 @@ title: >
 description: >
   Raise funds for your cause
 langCode: en
-articleID: vAiWesUlOhwOsH7B9JJquYqOQotJ5ueU
-languageCollectionID: lhlpNZr5DiH1LBReyPDRJMS6ZdwD2T6G
+articleID: wuVKILP4liOKKz9Ir8SlIJeNvtR120gt
+languageCollectionID: H8QOE9BMXU28ETMaeWPFn75Aukwcfv3X
 lastUpdated: 1653383457850
 tags: []
 ---

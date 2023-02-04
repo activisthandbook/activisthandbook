@@ -4,8 +4,8 @@ title: >
 description: >
   How to assess a patient during a protest
 langCode: en
-articleID: ztFUBRnEHNjC5iBDuswFAOFqCHD9G1Si
-languageCollectionID: ec8rN0x61LXhvXBW_1iRBcOrczJtQq8T
+articleID: _BnQLrmfYFT9NyjcMJ090CZjohKTdnNR
+languageCollectionID: OVlRyXDvcdBAt1_PFh4Ozd5BBdSWMhic
 lastUpdated: 1605013464631
 tags: []
 ---

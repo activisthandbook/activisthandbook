@@ -2,8 +2,8 @@
 title: >
   Template: Default
 langCode: en
-articleID: LwCKBdS6g1JMNqqhkFCRnEJc6yqukNCi
-languageCollectionID: hUuhx9R57AnNdoS_wAoshdYz3XA0UPzb
+articleID: fSs8TqU-63NNCSm9tjIzvM1jh3NGgGXP
+languageCollectionID: fc3H1NVuMR-E9PNxPwNXnQuCs6bkiLe7
 lastUpdated: 1643547585555
 tags: []
 ---

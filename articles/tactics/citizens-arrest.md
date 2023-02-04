@@ -2,8 +2,8 @@
 title: >
   Citizen's arrest
 langCode: en
-articleID: 0dvpy2ffDaCkBBG0Y_C81-WLjOLgrG6r
-languageCollectionID: h6Zme4iqsvXAVaAUM0gioRvKkcH0C2Al
+articleID: w9XXTFY4kVT1s7aotJni_djli38QVFiD
+languageCollectionID: FuxtSWbO33G9Ssxz4ju47zHi4AWhMubh
 lastUpdated: 1647952911058
 tags: []
 ---

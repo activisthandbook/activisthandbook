@@ -4,8 +4,8 @@ title: >
 description: >
   Puting pressure on Kenya's government in order to build a better hospital system that takes care of women in labour
 langCode: en
-articleID: yPoxL0S04iWb1fKLACnUGetUG_T73dRK
-languageCollectionID: t3J7JcP1HQLHuiOA3lDhovIFjTV5bpzh
+articleID: AzUw-scgHRIrvTDTNoqdAK2XPFzRzz9D
+languageCollectionID: svLkaERWeqCNWd05RnNfVSNM44xO-cBn
 lastUpdated: 1663877233897
 tags: []
 ---

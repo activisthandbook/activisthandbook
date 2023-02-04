@@ -4,8 +4,8 @@ title: >
 description: >
   Making Activist Handbook accessible for all
 langCode: en
-articleID: m87Qe29HigCxnSt_ebSxbCYhT5QvIlIv
-languageCollectionID: 6i2YousyfAWdfJT_oyAuQpfVrMA43lur
+articleID: 3uiCEzLYpt1IhexJpRmy6mjfhiBz_Bkn
+languageCollectionID: UbWFnK0HFp_qJb6b3GaZdRKc817fdYJp
 lastUpdated: 1656062384878
 tags: []
 ---

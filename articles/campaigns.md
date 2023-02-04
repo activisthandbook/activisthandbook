@@ -4,8 +4,8 @@ title: >
 description: >
   Good causes that Activist Handbook supports
 langCode: en
-articleID: 1lQmPBKe52m0NtJ3rXchS6fln_K2mZjF
-languageCollectionID: ILhzI4F2TSxX3QO8TlrFc2guKLPiRoTt
+articleID: c4L2x0pWlUtcQ6RyikLG9sE4KPBUkgNE
+languageCollectionID: GsUEXf9xjOCPs2pSe9JLVp0JaWIGjZ09
 lastUpdated: 1639823695813
 tags: []
 ---

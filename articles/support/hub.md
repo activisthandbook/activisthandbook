@@ -4,8 +4,8 @@ title: >
 description: >
   Build a local network of activists and trainers
 langCode: en
-articleID: h0bFwJEIGlAou223qHnu9Z1jz9_YAyDm
-languageCollectionID: reTeHtNUkqqc9RasGH99DSGNaY6YwIR_
+articleID: GyTxuGoQxskkFX_9rdHLO5Qw-MkKFRrk
+languageCollectionID: ojiaeVYZMBL6etEga68qimMZv_-MAVGp
 lastUpdated: 1648628716730
 tags: []
 ---

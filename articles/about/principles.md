@@ -4,8 +4,8 @@ title: >
 description: >
   These are our guiding stars
 langCode: en
-articleID: 7eYNIIj0NOBBiVn0y2DpHcQKxQQMQ5a3
-languageCollectionID: D5-AfTH-yHF-4P15vTucH8lI7K2rIrxT
+articleID: kvI3CjSmtgXAL6ppvqJaPw_uvplS2zgR
+languageCollectionID: lMcYdcRTjKALLkvkbb4FpyIkMuHcZz7v
 lastUpdated: 1587909866478
 tags: []
 ---

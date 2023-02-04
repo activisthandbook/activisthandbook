@@ -4,8 +4,8 @@ title: >
 description: >
   Plan voor verandering
 langCode: nl
-articleID: iLz-Yszxbchf3dLAqADFzfAiXBpdfl2a
-languageCollectionID: pdUs03_FgbtVBe3Hjg1nT_mxpm1B9Ky8
+articleID: M8EK946dWnY5E-ddQdDfxBUlzOu4Zflz
+languageCollectionID: J2Ob8I-vLt6F7hsqCHl_RhDVkGC1ybLs
 lastUpdated: 1661358426857
 tags: []
 ---

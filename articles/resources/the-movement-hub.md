@@ -4,8 +4,8 @@ title: >
 description: >
   Resources and training for activists
 langCode: en
-articleID: oZ06JrGg6P_AfhW3DPCN8Db933o6k2Rs
-languageCollectionID: oxIzavptNq5_c141c-4_RdJDQgdBf_3w
+articleID: 4yysvcHxa3d2F8YQ5hVILkzKqvk2iD-F
+languageCollectionID: nzI39WwkzYbvKOGUTT-xrD2DBqD_lr0t
 lastUpdated: 1648723245930
 tags: []
 ---

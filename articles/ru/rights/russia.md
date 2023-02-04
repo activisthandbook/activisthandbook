@@ -2,8 +2,8 @@
 title: >
   Протест против прав в России
 langCode: ru
-articleID: t1OiFjmC3jqegZm8rHsGgxmTQOqbF59w
-languageCollectionID: XB5nRWxfx_in6ChXjx3UCJaJ6EpSlNEh
+articleID: UoTRk68Uar13FfVEXW6QxX9NY2hVZyK1
+languageCollectionID: jxTRUFDQoowvuULU0S2RUOb52Ws8Z-ti
 lastUpdated: 1643194492137
 tags: []
 ---

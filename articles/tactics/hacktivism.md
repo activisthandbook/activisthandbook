@@ -4,8 +4,8 @@ title: >
 description: >
   Using technology to achieve social change
 langCode: en
-articleID: R4KvsOvKLRgO-MaambBjdLHY07KUeITJ
-languageCollectionID: NIxsHhdiZA5oFt5kJcFoYIXioLh4sx40
+articleID: cCKi_42dmZdhZ_fmHJGpUE7Vu5bYefJM
+languageCollectionID: SZ45TpMl4NJk3wfg85H128UoNwOjtDQ6
 lastUpdated: 1584724065882
 tags: ["tactics","stub"]
 ---

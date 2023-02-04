@@ -4,8 +4,8 @@ title: >
 description: >
   Μια διεθνής συνθήκη που κατοχυρώνει τα αστικά και πολιτικά δικαιώματα των ανθρώπων
 langCode: el
-articleID: hAj8EdShoWMCwIN6Xa9aac3NS9P-3Ns9
-languageCollectionID: 7iiGYR4BDgRdknC1o7xQmOr3a3BomnpF
+articleID: 62C-gXfKoAjw8vQUyW1QEG2jhqB_9pk4
+languageCollectionID: buhAXtvS0MYZYV4Jx-KlE7UwMB0pNLCX
 lastUpdated: 1606933664261
 tags: ["terms"]
 ---

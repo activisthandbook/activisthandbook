@@ -2,8 +2,8 @@
 title: >
   Intersectionality in activism
 langCode: en
-articleID: 41zzDJ6VfX33QJiojuZbU1IvmM5o0NxP
-languageCollectionID: 4JJ3bO1DH6--KOGk8XNpLDGT9s3NWbPb
+articleID: olT_XIf0lZBkCN-cJhb596iRnXzg1Og4
+languageCollectionID: qaJxWu5suaAAKhjiEt782KyecmdWFkgi
 lastUpdated: 1653392187220
 tags: []
 ---

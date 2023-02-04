@@ -4,8 +4,8 @@ title: >
 description: >
   How to encourage youth toward activism
 langCode: en
-articleID: vKhDbkeP9CIYIUrlNw0Scp4X0Peqr8Hm
-languageCollectionID: YNklEr7_7xXBJX0CAY-daOmH2Ui0czL7
+articleID: vCB4nEXCm-PJhxriQOIOfol96rD3xSh3
+languageCollectionID: UXUQ9pLX_3QbP4v2p7syI4mvXNMiLUcX
 lastUpdated: 1652107950999
 tags: ["training","shift","shift x activist handbook","youth","recruitment","engagement"]
 ---

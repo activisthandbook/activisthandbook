@@ -4,8 +4,8 @@ title: >
 description: >
   Make our collaborative platform available in your language
 langCode: en
-articleID: b8PiQu0ygdyTbFs00ehVMYMlOMM8HlIF
-languageCollectionID: cJUkFk70BGWtFgBOJc9o-6D6ng0Pa_1Z
+articleID: HJ_e3YaE8b_9BqTKLtHJ38-DdI8rhe2Q
+languageCollectionID: rr0InNNkFRl9lXuHH7A4LaDx1KKPIfSJ
 lastUpdated: 1588160184388
 tags: []
 ---

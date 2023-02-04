@@ -2,8 +2,8 @@
 title: >
   Power mapping
 langCode: en
-articleID: sILIQAI405gDLQoIObf58CLxrDAGJy7G
-languageCollectionID: Oqg941Qb9TyKhkn9FDIpZt0HOOyDteH0
+articleID: uiDeJMFqhPgXNkUGHs935IpQ8UAPW__c
+languageCollectionID: QvjMKJSSgPKUYdzwj1yBI_3gdMmuuH6L
 lastUpdated: 1672072174024
 tags: []
 ---

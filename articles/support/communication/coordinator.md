@@ -2,8 +2,8 @@
 title: >
   Volunteer guide: Communications coordinator
 langCode: en
-articleID: U-QFz6BD4eYZl2jDtIAjkZWTQGRuPNmz
-languageCollectionID: tDmM1ZUoEMu0_6ATT2d66Fubd3RsxL29
+articleID: _eeRLceVi6t8l-YY9fsWECjAYtImD6RV
+languageCollectionID: i_2dlm0Xlq6Mq6fHBn65PvimIoKxPFqU
 lastUpdated: 1614692115553
 tags: []
 ---

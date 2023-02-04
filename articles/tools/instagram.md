@@ -4,8 +4,8 @@ title: >
 description: >
   Using social media as rebels
 langCode: en
-articleID: FvvzCL5GY-c6YjqHYSd9o3cZPyWxxJQz
-languageCollectionID: Myo02e96adG-Rgdx9DRjZOcWYmFqsqji
+articleID: SY9FCX7pCVS2O2P1PLTJ7qCXvU5MSFxd
+languageCollectionID: 7Jfznk5OtS3_kSxTiwgEey440hnk-HKG
 lastUpdated: 1638441224778
 tags: ["social media","communication"]
 ---

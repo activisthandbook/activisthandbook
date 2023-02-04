@@ -2,8 +2,8 @@
 title: >
   Discussion: Violence
 langCode: en
-articleID: gYDflx22y3U9g5TAGeQUixU8T2kaJwzN
-languageCollectionID: V6BUiOog-iC7-_l9zsVR7TDBwvgzA6OH
+articleID: Fw5egyl8SRhDouUGEPuOfpYOc_mkJKCG
+languageCollectionID: fFLD-KTTm0M6YPSM_xJawSHlGEd1fYTd
 lastUpdated: 1591807507113
 tags: []
 ---

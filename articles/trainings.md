@@ -4,8 +4,8 @@ title: >
 description: >
   Training, workshops, consulting for activist movements
 langCode: en
-articleID: vEhqSaVgA8xTuip5XBaYUwixH3kUm63s
-languageCollectionID: qZO_mxedJ_-DhLZIvA3og1bcW7ycbvuy
+articleID: YUfVGkwMxm05zjEjl7vPQ9gPpUCItupH
+languageCollectionID: vijKrgNARghr6p534ZbiZ1HWioKFbDgl
 lastUpdated: 1587834484219
 tags: ["training"]
 ---

@@ -4,8 +4,8 @@ title: >
 description: >
   Workshops für soziale Bewegungen
 langCode: de
-articleID: FGqfjDJ7D30qNJVneQVblDU_Ay0u4oPN
-languageCollectionID: qZO_mxedJ_-DhLZIvA3og1bcW7ycbvuy
+articleID: goggLNMfD6zuIMy6iKE_s-3I78PZ6laB
+languageCollectionID: vijKrgNARghr6p534ZbiZ1HWioKFbDgl
 lastUpdated: 1665477867119
 tags: []
 ---

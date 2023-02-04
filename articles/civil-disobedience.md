@@ -4,8 +4,8 @@ title: >
 description: >
   Choose the best options for your strategy!
 langCode: en
-articleID: v6DKTiJ62Gxjv-22YG4uMukZY5hgHER_
-languageCollectionID: UgAg9rZvfv6ZbgWaAi_8GuNeQhXiDg-2
+articleID: bJY7TehD9yw3C7YDNPRa6DQCRGndvlcQ
+languageCollectionID: AvrOYkygOiTExVA8bfSwkZuYCSySdnnX
 lastUpdated: 1615045859163
 tags: []
 ---

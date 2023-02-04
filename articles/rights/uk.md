@@ -2,8 +2,8 @@
 title: >
   Legal rights in the UK
 langCode: en
-articleID: 36yzebSJReoOHTx5y7e-PeVIbahICDsq
-languageCollectionID: ihYRNELQIcu6CYJ-PjjW5kmMdO38-MSI
+articleID: vf-B5_F4WssXGGJ07furT_DBLMzeIC4k
+languageCollectionID: ZZjSdPQQAl6m76o-1yNy5Ib1AP52UXRk
 lastUpdated: 1653134533605
 tags: []
 ---

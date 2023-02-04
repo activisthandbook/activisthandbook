@@ -4,8 +4,8 @@ title: >
 description: >
   Guide for partners
 langCode: en
-articleID: lCWaEiJTqTzJJYGuh_uIZQzqdVMdSPFE
-languageCollectionID: si1iKwq1Qe51wekjinqrnfHy_Znpr8XD
+articleID: 8UzfUCroNPRhI0dMyrdPv89t_0_c1P3o
+languageCollectionID: mB5SggaZri5djDGqHN8iS_UFWFL6s5FO
 lastUpdated: 1638186436294
 tags: []
 ---

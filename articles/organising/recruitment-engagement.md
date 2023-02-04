@@ -4,8 +4,8 @@ title: >
 description: >
   Community building for activist movements
 langCode: en
-articleID: jm-RXYOOx-qAkhC11L7pmEZtt8of4nDr
-languageCollectionID: dkiub1ZS9f97ofSnLJVgK_YIltchepP-
+articleID: lwXuStFPLIQwUu_yg2hsZwnl_MLJaQ6X
+languageCollectionID: KJDBDugCUogRlOSqDrfCc5k89fd-lkA5
 lastUpdated: 1583671492658
 tags: []
 ---

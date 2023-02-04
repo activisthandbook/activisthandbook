@@ -2,8 +2,8 @@
 title: >
   Events: Übersetzen
 langCode: de
-articleID: L2TfeSg-J08xBBRaQGLXVwRCCCLYbBzW
-languageCollectionID: ABsuSu08OWN7MvNGVbW0iFowcFv0FlVl
+articleID: e3_RE6n8kvhtLIYJvM4O4_DvbuNaq3gN
+languageCollectionID: x4CYI2HikBHa1rgwJ0uNS7XsWEzEeoHc
 lastUpdated: 1595528248691
 tags: []
 ---

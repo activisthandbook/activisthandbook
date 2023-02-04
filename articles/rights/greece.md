@@ -4,8 +4,8 @@ title: >
 description: >
   Legal protections of activists in Greece
 langCode: en
-articleID: yzizJZox1oZcUBohbycUfzArPZhZ03Rq
-languageCollectionID: pg8IBkBtnnsCIvhJbfq-EgLF9by3kVPM
+articleID: hcHK8QYA7RLTrQudaQfaIHgyOJySs8l9
+languageCollectionID: 1yKodMV80HpuwZBa1pnB8ikZlrBPjPY3
 lastUpdated: 1613378113556
 tags: []
 ---

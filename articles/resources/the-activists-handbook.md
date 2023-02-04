@@ -4,8 +4,8 @@ title: >
 description: >
   Resource for activists by Randy Shaw
 langCode: en
-articleID: E2dVj6PgxLy4dred4d6vp0HYslsBxfmD
-languageCollectionID: PxV92JMVB-F0kC-mnkjIuE_4sMxJjpIu
+articleID: ymIKSWCGwEUTzBXon0u0HV-azHLjx6ni
+languageCollectionID: w05rqC4Sm6D44Hje7p0MBD-Esa4QLotc
 lastUpdated: 1645351688865
 tags: ["resources","books"]
 ---

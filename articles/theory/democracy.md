@@ -4,8 +4,8 @@ title: >
 description: >
   What does it mean in various contexts
 langCode: en
-articleID: F1dCMfBi6Pe4M8PTEogmcQ5-ex-GsUmc
-languageCollectionID: _6qdytZLbuSbMbvjXC3D5_lVz7x4V8XO
+articleID: lnzbjoL7IE_7y0APAqYALHx9XUWJJ5pv
+languageCollectionID: eHPS7RZlZxSSVw26IwJC75X9nM2IsquR
 lastUpdated: 1639236292739
 tags: ["#workinprogress"]
 ---

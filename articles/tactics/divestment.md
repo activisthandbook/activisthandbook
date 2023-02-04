@@ -2,8 +2,8 @@
 title: >
   Divestment
 langCode: en
-articleID: NsGzK_qeVPVMLDgtFuOo5IG-H1fm4Br_
-languageCollectionID: RPCDrRXgsBR97IlqRV1ObKJMxFB-E2eb
+articleID: iwc7hLQGYHd81g8X6YDe3USbaZ0hpE-y
+languageCollectionID: mVwoFKCmd18wizwVzWKEGLLuF8zJVEYv
 lastUpdated: 1584720154521
 tags: ["tactics","stub"]
 ---

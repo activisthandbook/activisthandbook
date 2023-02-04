@@ -4,8 +4,8 @@ title: >
 description: >
   Guide how to organise for workers' rights
 langCode: en
-articleID: TJKBqEB7xf_O0F0slz_TSx6LToe2vKMZ
-languageCollectionID: iXhSTsgXimm63FbUVgTAjuZYdwzAgIOe
+articleID: X7dnr0re_YMAcC3OOUVryk4EaCCPTvg2
+languageCollectionID: XdfqTZXP9K8EydOJWDh8ovDU8xeBzzdy
 lastUpdated: 1640341078897
 tags: []
 ---

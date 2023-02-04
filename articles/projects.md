@@ -4,8 +4,8 @@ title: >
 description: >
   Ideas, ongoing and previous projects of Activist Handbook
 langCode: en
-articleID: rMJZp6g1W7HotsBUAvVgj-5aTbcYduDA
-languageCollectionID: YElKrfY5ZkkrGHGzmADUOHx1tJ-7G6UM
+articleID: AO1NXzFpTsB7ZbrnwKV6kLs0sr5C6Zwe
+languageCollectionID: HsMAkKTyusF9oaHzBNKw479eIJpGkEcK
 lastUpdated: 1624097506002
 tags: []
 ---

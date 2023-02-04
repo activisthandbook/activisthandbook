@@ -4,8 +4,8 @@ title: >
 description: >
   Παλεύοντας για μια Ευρώπη που είναι βιώσιμη, χωρίς αποκλεισμούς, φεμινιστική και κοινωνική
 langCode: el
-articleID: jFq3giryQyV4XLLbzHs2X7bCeF8KqFl_
-languageCollectionID: zCgHC9wICWuxJ8CCEdWL0kaMj2HdrD8X
+articleID: -j8rjV1GRR6y3H4VTcJAsHFknq_3lzfv
+languageCollectionID: 6OLP47pFz2rTdqHhWlARKhKrfum29xM1
 lastUpdated: 1649123839298
 tags: []
 ---

@@ -4,8 +4,8 @@ title: >
 description: >
   A list of activist movements and organisations
 langCode: en
-articleID: lH2af8XiSuLR_8SiL4QFsBkm_yuYtGTE
-languageCollectionID: uMjf2yOwbRZiB4JzsXw3EsEM512qTYx4
+articleID: 1s4HwpULxHZ9lnnbAkmyklL06MEtTk_9
+languageCollectionID: 4VyVtsNZg1-__620xSie_NPIoy3DTRLP
 lastUpdated: 1583508846547
 tags: []
 ---

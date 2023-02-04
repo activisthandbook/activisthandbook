@@ -4,8 +4,8 @@ title: >
 description: >
   Guide: Grant writing, crowdfunding, donations
 langCode: en
-articleID: sc5PFF5cjFAI2zifHfgNBtCWo8OEnpPw
-languageCollectionID: 8pe8UUqnFpJzvZXKThVH5oUbYdLVynQa
+articleID: KpSE6GZzWtgmL1uqgz-MGDkI0p43Y3tw
+languageCollectionID: 0i_-Q9v7ZVA3wxBRMxfhy5eJ5GSoLBKU
 lastUpdated: 1598872029744
 tags: []
 ---

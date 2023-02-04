@@ -2,8 +2,8 @@
 title: >
   Strategy: Scope and goals
 langCode: en
-articleID: FEnDOiitZelTATYxU3RnngJKcf0W39MU
-languageCollectionID: bOwoy57qcoyD4HwS-YlJkCtI3uXccVbY
+articleID: 7zLEPOZU_7A7hdmn_yxvmPfszRpuAnM8
+languageCollectionID: JT70woxo-3ieK_OAhUoFqugkLbQQrJg4
 lastUpdated: 1629632184152
 tags: []
 ---

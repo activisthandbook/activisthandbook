@@ -2,8 +2,8 @@
 title: >
   Overton window in activism
 langCode: en
-articleID: ly2ZhGuI3T71abBm5OIPeBYTQAK6L1F5
-languageCollectionID: 9ngGodOyDzsau8eHZCV-XCaHksWJt7Qx
+articleID: 1HomVJ9yAk_cvkjp5QUQBRAoETdlu75y
+languageCollectionID: pGiSOv0qFyRgHDryHiYzttjQQjQP3caA
 lastUpdated: 1653391724935
 tags: []
 ---

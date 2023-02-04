@@ -4,8 +4,8 @@ title: >
 description: >
   Ένας διεθνής οργανισμός που αποτελείται από 193 κράτη μέλη
 langCode: el
-articleID: E27V_XFuJbtOa2GMHMHq7SDeVuY5jWGC
-languageCollectionID: WholJj8kqsUanSSBP4vgndCRxN7E1lgT
+articleID: FJIhr-QtctVKNTtUQ4hvN9oKdi-vp_aY
+languageCollectionID: Erdr8MbAE3Rk1ETMeccndOMhovAQtOiI
 lastUpdated: 1606935179972
 tags: ["terms"]
 ---

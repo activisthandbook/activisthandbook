@@ -4,8 +4,8 @@ title: >
 description: >
   How to outreach
 langCode: en
-articleID: VrLowCyv_Xk57d3McOTQm-59nyYIUpcE
-languageCollectionID: 14OmDfdA5vasgSGcmnO4aWbZdiWjnwI9
+articleID: XsdmDqELTadimxQlJpJFGwVE734NerIf
+languageCollectionID: Seh02BdJgZvk_lFHjIFAFICrnocEdTRn
 lastUpdated: 1652037452534
 tags: ["communication","outreach","networking","collaboration","shift","shift x activist handbook"]
 ---

@@ -4,8 +4,8 @@ title: >
 description: >
   Support page
 langCode: en
-articleID: -JsxTvNoRoLXCRo6mYIO13t2AM-7dRnl
-languageCollectionID: CiJRzuPIz_CZlkYTpPxGKcndpj7rIGpJ
+articleID: l52PRxf_Xs1YXbL2_5oIu5wPgq6mmYY7
+languageCollectionID: nRDizog0KQhK_aM7_Q2dDDRP056DnfD-
 lastUpdated: 1597913598184
 tags: []
 ---

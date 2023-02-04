@@ -2,8 +2,8 @@
 title: >
   Addressing gender discrimination in the workspace
 langCode: en
-articleID: byYZrGOb-5bNzANxJ0HqRiMvOk25kTjS
-languageCollectionID: stDkreeaEfO9BTrlrr2kCsom705S-Ufb
+articleID: w9lGeF__5jTXZNYZTL0cExMjfFrsVL5g
+languageCollectionID: 9OdeZ2_R4ZNwetMee-5oKOcwA4hH8S1p
 lastUpdated: 1663877693370
 tags: []
 ---

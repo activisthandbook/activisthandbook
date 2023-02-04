@@ -2,8 +2,8 @@
 title: >
   Localisation support
 langCode: en
-articleID: 66St0m8WebYb2KnfMW5ZgShHLs-zN7Ql
-languageCollectionID: gUDHXBSy50yJmftaOWvISTcvMOGzf9o-
+articleID: UReSxt_tp11U8P2Z6NSEZ6_2WCdaelqe
+languageCollectionID: JGJHgFhz8A0LWNEOkyWuc4D5gOkEhHsz
 lastUpdated: 1642870043562
 tags: []
 ---

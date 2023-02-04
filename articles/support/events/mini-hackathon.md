@@ -4,8 +4,8 @@ title: >
 description: >
   A highly focussed physical meetup that is easy to organise
 langCode: en
-articleID: Sr31KC7UYM_SCku85QQt-34vU6syVTKh
-languageCollectionID: _S8vAViqQfYbFx4NptLevVArMA1eY1lJ
+articleID: 6H50NTLY0CzPxtspvG8_qMHtN0W8KXJC
+languageCollectionID: 03z3YSKzBHQY2ikcVTnc1REJbdKwrxAu
 lastUpdated: 1633161233043
 tags: []
 ---

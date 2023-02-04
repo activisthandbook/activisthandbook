@@ -4,8 +4,8 @@ title: >
 description: >
   Für Aktivisten, von Aktivisten
 langCode: de
-articleID: DkfTbzsBFHhwPKghS4j4BEfqKNB3WjuC
-languageCollectionID: mdnnDhAiiHq8PieAy5_EZRqyLXx4sOjZ
+articleID: hZ_KEfzuv0cgT6_toFDc_2aiYFxq5mql
+languageCollectionID: vbmW_zEU8ZBHe8iIxIEstlSfL78cABJe
 lastUpdated: 1586525573973
 tags: []
 ---

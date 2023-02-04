@@ -2,8 +2,8 @@
 title: >
   Art in activism
 langCode: en
-articleID: J4x9bnGDZyNctN7QBaVV7zEtXlfhrAyr
-languageCollectionID: mnxvBikpDn4S3DLNJdFu91EZz9Fh3R3B
+articleID: ZW9wuev4dNGCokp_i73AsgkfQxqwnIJd
+languageCollectionID: WcaHabJ-l6n7a6_Lc2F3E3mo1_s364zn
 lastUpdated: 1647952710477
 tags: []
 ---

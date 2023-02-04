@@ -2,8 +2,8 @@
 title: >
   Protest stickers
 langCode: en
-articleID: tzyIRjDfU6CvEeRuPFFUBZQ1QtQOKNRo
-languageCollectionID: nSx1DMF0pWkzjoMd7tatI4l0wy6Y5TX0
+articleID: jx745O6rzmTkaN2f_01jBGTvL7751o_v
+languageCollectionID: qcqahY0YbfGKY86g1Zbcts_V--wWqEU3
 lastUpdated: 1643185062190
 tags: ["tools","stub"]
 ---

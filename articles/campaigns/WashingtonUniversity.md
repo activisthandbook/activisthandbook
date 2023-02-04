@@ -4,8 +4,8 @@ title: >
 description: >
   A Thematic Month blog special
 langCode: en
-articleID: cnp5auIvIw3-2zOmIjO60LcCXJaWTrW-
-languageCollectionID: K7k0w3vTfJluXJ-ro5vacvMXyJ-nRAw0
+articleID: 66L3rkK6rU8Vlprd33cvIh9iQokmtMSP
+languageCollectionID: yn_fAmyPsL9CVMAz0gHDFqz_NwmD9y10
 lastUpdated: 1647787360895
 tags: []
 ---

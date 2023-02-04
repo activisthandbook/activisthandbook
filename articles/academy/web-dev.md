@@ -4,8 +4,8 @@ title: >
 description: >
   Part of Rebel Academy, offered by Activist Handbook
 langCode: en
-articleID: 7q3XAozws7eIrTQxro-AKVTZtLC7NAjH
-languageCollectionID: CucXhKbjMOdH1rfn-FkdsliY2MlHwDff
+articleID: FjumHNm60N_XvVcCdmTTqEjfbSnjQLAV
+languageCollectionID: 0tnicjpH9_uY7hNukw2LpoPoqwQ_MXN4
 lastUpdated: 1624540410257
 tags: []
 ---

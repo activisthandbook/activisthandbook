@@ -4,8 +4,8 @@ title: >
 description: >
   Drie tekten waarin de rechten en vrijheden van mensen zijn vastgelegd
 langCode: nl
-articleID: ZfwcxcU4IdxO7YiswIcRxXrqGjqSq21S
-languageCollectionID: hAysUOKhtM1au3CGKw3vd-m4Tchl3UnE
+articleID: GpbQBU-JjL5zj0UDHHGI9NqkJgSzlGhg
+languageCollectionID: Ii_23eNiOU0ZlKYppFffHDnwqIPq8VMw
 lastUpdated: 1605821721133
 tags: []
 ---

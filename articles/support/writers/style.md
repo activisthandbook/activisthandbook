@@ -2,8 +2,8 @@
 title: >
   Volunteer guide: Styling articles
 langCode: en
-articleID: knU1XSWzIfK88YVmDvAOScbedu03eZRe
-languageCollectionID: ulFZS_jZWK2e0eXq4i1M0LoFPVQX8QNM
+articleID: cqbVlqceig1UU1xCHWf_8jAI1AUX2Iup
+languageCollectionID: _ZAYgM5iNWOxhoRDaSNoO1GerGRVVrmV
 lastUpdated: 1638535157565
 tags: []
 ---

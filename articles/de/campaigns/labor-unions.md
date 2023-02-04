@@ -2,8 +2,8 @@
 title: >
   Leitfaden für Gewerkschaften
 langCode: de
-articleID: 5--Ehan0eyKaEc4-XQnkxQKFMSv5CF4i
-languageCollectionID: iXhSTsgXimm63FbUVgTAjuZYdwzAgIOe
+articleID: FuCBBBXpUnRCflAwFsiUfoeC1QfUuLmF
+languageCollectionID: XdfqTZXP9K8EydOJWDh8ovDU8xeBzzdy
 lastUpdated: 1648836277062
 tags: []
 ---

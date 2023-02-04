@@ -4,8 +4,8 @@ title: >
 description: >
   A comparison of communication tools for activists
 langCode: en
-articleID: FDeW9hd_QDDW0XTlIxD2vD_gsGdmRHlj
-languageCollectionID: Pw2eoFCdihy_rtDNNAyuKw0jjMQciZBS
+articleID: m4uMcFhEZyoTvnn4zBDqd0RZwSnP7cNl
+languageCollectionID: KPVizBwWat4_W_BEiKmG-JlKkM_iQl99
 lastUpdated: 1583664381534
 tags: ["tools","social media"]
 ---

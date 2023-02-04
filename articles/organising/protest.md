@@ -4,8 +4,8 @@ title: >
 description: >
   Step-by-step guide for activists
 langCode: en
-articleID: 3tEx0kqA7wJVH3TB80CmDxmBHTzOsiVk
-languageCollectionID: FZzXJRq8D751GqhbB00jy7-WOiLOXq-N
+articleID: 6j6Jjxj6fW6JHwbbSKjEsOVqejxYkpRu
+languageCollectionID: Og8DHuouMtyNVNIn-Ho6sZwl7Jfos6XQ
 lastUpdated: 1643184635101
 tags: []
 ---

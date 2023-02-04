@@ -2,8 +2,8 @@
 title: >
   Week 6: UI frameworks (Quasar)
 langCode: en
-articleID: y8ZIKd5dZu1k3PLiCyEjuuke-ucNNkgM
-languageCollectionID: BWiBAhnb0Z4db1NMB0ST46PrJX6oMR7o
+articleID: VQOw-gVxJmvj9KPqcgbWhCg06aq7ULMv
+languageCollectionID: d82FLKWDVZeP4fJ2cWTEl213Q8_d7HWE
 lastUpdated: 1632049944402
 tags: []
 ---

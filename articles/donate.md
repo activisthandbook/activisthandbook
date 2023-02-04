@@ -4,8 +4,8 @@ title: >
 description: >
   Activist Handbook Foundation
 langCode: en
-articleID: ehb0FkmDMxjUupjAvAMSeUqgxL5bPgtA
-languageCollectionID: SdcrmLoMRIGSLbOF0sz6l_1zKiuHhcIe
+articleID: RfS6sXjxFwB6FA02vbXiw2SI3godONBT
+languageCollectionID: YxVcA8hFIuNOHStYi3InEFz5wGP7jcLu
 lastUpdated: 1653550767310
 tags: []
 ---

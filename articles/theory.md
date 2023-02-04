@@ -4,8 +4,8 @@ title: >
 description: >
   How does change happen?
 langCode: en
-articleID: CTFdCSB253tXTiEvSDq6PoX5xwxTEpHc
-languageCollectionID: pdUs03_FgbtVBe3Hjg1nT_mxpm1B9Ky8
+articleID: YDhDPuRtRiSVyvpIQFEshkjwntMOHg2j
+languageCollectionID: J2Ob8I-vLt6F7hsqCHl_RhDVkGC1ybLs
 lastUpdated: 1593095391290
 tags: []
 ---

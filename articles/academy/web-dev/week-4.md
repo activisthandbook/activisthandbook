@@ -2,8 +2,8 @@
 title: >
   Week 4: Adding interactivity (Javascript &amp; Vue)
 langCode: en
-articleID: CzCOsBXP-1QiST8jcewgaFi4JUOck-bA
-languageCollectionID: covRsI84rP8xacw8NP-VnrI29cdV_c4M
+articleID: 3YJrB6CQhvmp7x5yXYZaa6YM-KQMIVCA
+languageCollectionID: 18GGzuniI3Rsbsog_0BSvq8yaAJcnScv
 lastUpdated: 1632050201859
 tags: []
 ---

@@ -2,8 +2,8 @@
 title: >
   Strategy: Vision
 langCode: en
-articleID: pHjTi-fJOpuHob7JM2xwPbYpgwxzECaR
-languageCollectionID: XV5BQNLyWJwVUbrxV2H4Nz8ev2bx-Xd0
+articleID: l6FCTNrIOjJgjbmAX-uOdA_cKokTzzVi
+languageCollectionID: y_D9jrB56xW6ReNETEa8mVmhAEGmoTnB
 lastUpdated: 1629632224949
 tags: []
 ---

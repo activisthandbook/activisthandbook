@@ -4,8 +4,8 @@ title: >
 description: >
   Meaning and definitions
 langCode: en
-articleID: 1cmTZnk3o8Qugsj6HNTjgmzvmsjsMAQs
-languageCollectionID: sZhefDVl4s1zWmrtXdBx7YuQ-xjuhcla
+articleID: UTg9A6F5jt2XqzAJtN_vBBqhIWHx1PBq
+languageCollectionID: NgO232EqFGw-JPmJHHFN625pc8JyySZh
 lastUpdated: 1648643244780
 tags: ["dictionary"]
 ---

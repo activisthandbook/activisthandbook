@@ -4,8 +4,8 @@ title: >
 description: >
   Promotie en outreach voor activisten
 langCode: nl
-articleID: EWdFAaOZ1BnDIH-vWvROE2ft5yBDeaYW
-languageCollectionID: vdiJptnckqXiCa0PXUQ2CkiS5H6Nd3-B
+articleID: l8Ro_UNwp_KvKQzqhpE_zIY1F-3YPXhH
+languageCollectionID: Hm6ZaeMf02oXtZN2LlCr1NkH7Cxu6Il_
 lastUpdated: 1643293788651
 tags: []
 ---

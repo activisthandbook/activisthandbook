@@ -4,8 +4,8 @@ title: >
 description: >
   From activating, to relationship and coalition building
 langCode: en
-articleID: uviyk3gGjofwH_uUzaz7Wc4ABcssRHlF
-languageCollectionID: 0p3uks3JyLR9T5uOjaH3TTnRDLCLStV_
+articleID: qGyyOA4U4qdYKk_YaXDw0h3R-M_Ml4Cu
+languageCollectionID: Y5iKMJr75Jg9A4_oCm5JeN7DHSNeAyHq
 lastUpdated: 1639825756438
 tags: ["archived"]
 ---

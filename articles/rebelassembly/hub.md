@@ -4,8 +4,8 @@ title: >
 description: >
   Sign up with a local hub
 langCode: en
-articleID: EBBLWEobCMbtLzSDWtCrsxJT7jDGzZ73
-languageCollectionID: AX9mlyvS7RNgx_vYCbRxJpT1O4-RxtOT
+articleID: KMSAlx96fKq88EMqHKlAbna2p-cvW-gP
+languageCollectionID: csAsbf956IQDL1J5DyV3j-nSGEIZgRtA
 lastUpdated: 1648455790501
 tags: ["rebel-assembly"]
 ---

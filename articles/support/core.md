@@ -4,8 +4,8 @@ title: >
 description: >
   How to coordinate an Activist Handbook team
 langCode: en
-articleID: 4gGM1iq4BBLnbAW17kudu2sYC-leAPw1
-languageCollectionID: U8rTlmESA_TF_LMKLVidkI5-JHvPWpCU
+articleID: 2UkBeDLNeVYpzXLZW6b_y-gneJqvOkgu
+languageCollectionID: 45BBcP-9xhzdfoy-8tbQokv9c43gBjoy
 lastUpdated: 1614246395258
 tags: []
 ---

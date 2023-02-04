@@ -2,8 +2,8 @@
 title: >
   Cultural disobedience
 langCode: en
-articleID: xA-1IGHHW96MCrAVVn0xL_vl0RVSu-2j
-languageCollectionID: LeS_ay390dkZu5Ng1KEQiS6kAUgK8hc8
+articleID: lWTdToR0Pf51f7c6WaEH1_xrssVUwwXn
+languageCollectionID: RBEMtcuev9digDq62sB7KUBntGD36Llb
 lastUpdated: 1643198480025
 tags: []
 ---

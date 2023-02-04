@@ -2,8 +2,8 @@
 title: >
   Advertising for activists
 langCode: en
-articleID: lndGbrFw4tNKOh7P-OOpzetQ4G8jLWea
-languageCollectionID: A3mStjSFnFMqX0d-b4R-ZCjflHnpHYUj
+articleID: Our4TK1YN98kMzQ013EtCcF2WTglDd2a
+languageCollectionID: V6jhLCxjbOGJbzLhCBpdTz0jLIVpe46G
 lastUpdated: 1654093387853
 tags: []
 ---

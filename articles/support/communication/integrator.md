@@ -4,8 +4,8 @@ title: >
 description: >
   How to welcome new Activist Handbook members
 langCode: en
-articleID: uZ4oFydE-KK_bge1fkANeXVfub3F-qfO
-languageCollectionID: JFCrbmKzn3BRbloblch-FVpVnaX7Mz5W
+articleID: ewYO0Ffz__dZL13JAJoA0MBGbpoK0lug
+languageCollectionID: _ifh-Vn4aaCsrtYaBG4281YQQiglLbzX
 lastUpdated: 1614247903344
 tags: []
 ---

@@ -4,8 +4,8 @@ title: >
 description: >
   Making sure your message comes across
 langCode: en
-articleID: SGr0uYkJ_UUKu2C3Exe5-bX9bxMUVYMn
-languageCollectionID: vdiJptnckqXiCa0PXUQ2CkiS5H6Nd3-B
+articleID: J3gTgLgqTAzHrap5en3ePR2GBmNRAg__
+languageCollectionID: Hm6ZaeMf02oXtZN2LlCr1NkH7Cxu6Il_
 lastUpdated: 1583509188074
 tags: []
 ---

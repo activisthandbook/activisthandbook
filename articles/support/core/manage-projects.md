@@ -4,8 +4,8 @@ title: >
 description: >
   How to manage projects at Activist Handbook
 langCode: en
-articleID: 83x5ZSbjIv_SVINRuKJvZ1MOHzL4tZAg
-languageCollectionID: dpS0AuBogAodPhGPx7Ps77JibgaJb0Pq
+articleID: HY4Vn9h0PLgnj8qHHangMhFiwDcQelDc
+languageCollectionID: JWlhb_qBnJ-uHMSWj-NzN11krI_acTOv
 lastUpdated: 1614422975190
 tags: []
 ---

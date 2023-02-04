@@ -4,8 +4,8 @@ title: >
 description: >
   Thematic months is an ongoing project, in which we organise activities around an activist handbook chapter each month. 
 langCode: en
-articleID: MpFxb5IfmLCKQ2QrFECD5YrTqv8ADj16
-languageCollectionID: WOOcjdvW1LE0sJw2N3IxJsC50grYK_8s
+articleID: w3ymx5Ux4SSIyRHWkJ1Movv05wlqCW_m
+languageCollectionID: sgrSAf4LqZeIBTzSjprLmtbm8cRAxmeA
 lastUpdated: 1655034537027
 tags: []
 ---

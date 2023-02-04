@@ -4,8 +4,8 @@ title: >
 description: >
   A concept that states that the transition towards an environmentally sustainable society should be socially just.
 langCode: en
-articleID: 7SneQUXyOwkcqsF-HBegVsrKzZiP1ZSQ
-languageCollectionID: pjhvXwO_JTJtUg22CQSmsKBkrQjtrazK
+articleID: rb5aBgFXLtMBfdbSj-2zLVUu8378MDBK
+languageCollectionID: aq7NEgFCciufnBZ1hq9c3MB-MhB9MVHZ
 lastUpdated: 1605267326822
 tags: ["terms","stub"]
 ---

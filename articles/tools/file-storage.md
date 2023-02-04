@@ -4,8 +4,8 @@ title: >
 description: >
   Collaborating online with tools for activists
 langCode: en
-articleID: Kz4m8nZs4YirdDiDs6LYfkne3WgxLBjQ
-languageCollectionID: Nbfy8M6hohxYYHAth1oxKgOabev-P1wq
+articleID: uGB4YkI3J2SAZP97fyBgIdmoAYQSxSB8
+languageCollectionID: 47m_RVMQThcvdR-TQF9Ho1uOvR9jdTcR
 lastUpdated: 1624720137940
 tags: ["tools","stub"]
 ---

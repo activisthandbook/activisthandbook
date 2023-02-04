@@ -4,8 +4,8 @@ title: >
 description: >
   Learn from the Roe v. Wade protest
 langCode: en
-articleID: VmaAqNAtH63RvNWdBdTr_0ZJ0IFpRbjK
-languageCollectionID: GTOZkkdHiQti4hJLYK2sRjiJl15hYPHL
+articleID: 6Dek_DioB_JdPrdRED31AXy8-D8f2xPc
+languageCollectionID: 6odZDnaWK3gMfkHdm1XNikcwZvFvfQor
 lastUpdated: 1663866421025
 tags: []
 ---

@@ -2,8 +2,8 @@
 title: >
   Theatre as activist tactic
 langCode: en
-articleID: w55Ew6p2uOMsSPv4hUO4PN3V6HlvMijF
-languageCollectionID: O7zlysX3yW7uva9wrPGn5Prk-mQdwHZL
+articleID: 5wHEYiXi1k6GdvjgV1eHMZK3QCzSV_cy
+languageCollectionID: XpCcQTNEsjpDAvZf4_6Qk1VKMHKbK0xs
 lastUpdated: 1584719584549
 tags: []
 ---

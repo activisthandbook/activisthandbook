@@ -4,8 +4,8 @@ title: >
 description: >
   Protestgroep die actie voert voor het klimaat
 langCode: nl
-articleID: I4WAjEEBv8vLZ66LBQ6e5UlHg563QY2A
-languageCollectionID: _UFyS1eoK_by5C0-P8bMyxMDzE0ZC0Ue
+articleID: vhK6V7tNXe5a5dNQSKRxgwjzcLpe0RcE
+languageCollectionID: LbvGIAriUtZ-MqwAiSKmwzEKjJnmaka8
 lastUpdated: 1648976340927
 tags: ["movements"]
 ---

@@ -4,8 +4,8 @@ title: >
 description: >
   Defining activism: what is an activist?
 langCode: en
-articleID: suHTuRgGifynGrxUzSdXTUPYEKAW0oSZ
-languageCollectionID: POynbxix8G-STxpYFpUev67--Uwr_zk0
+articleID: cVIZgL8OdSMxfah2ieoxYK1JQxemQkj1
+languageCollectionID: RfeJdH-LyWwpcJhml2MrFY8hoejKzHvP
 lastUpdated: 1638949628585
 tags: []
 ---

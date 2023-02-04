@@ -4,8 +4,8 @@ title: >
 description: >
   Support for writers of Activist Handbook
 langCode: en
-articleID: g1y8O-n7F_isB9J-6U4pdA0R_HnFDXfV
-languageCollectionID: bwWp28KayQOGxkJE9zNIMRDYRLgEf0mI
+articleID: L6HLMcMuWvuQCPgrhcApn9oL3Mol0Pw0
+languageCollectionID: eRsd9Am7ioaPmGsoelBxC2K9pW9yhHN5
 lastUpdated: 1587978890874
 tags: []
 ---

@@ -2,8 +2,8 @@
 title: >
   Créer de coalitions
 langCode: fr
-articleID: ALkYj4lz8UwECaVEW80-E0GapmplMaKH
-languageCollectionID: dkIIFyuLMStKDHJVXRjmDygU_cw_D-5x
+articleID: uSolzEf8BcyWSuwJK_I0sbNk14OkIa8v
+languageCollectionID: NgRZAH8Dvd769ZcUN-JmgJ-fd9tfCsVX
 lastUpdated: 1644928452790
 tags: []
 ---

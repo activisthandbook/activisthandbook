@@ -4,8 +4,8 @@ title: >
 description: >
   Demonstratierecht &amp; politiepraktijken in Nederland en België
 langCode: nl
-articleID: J_WDHQIjsMVYb8A7F6zyYhxqok1mFTiN
-languageCollectionID: _MjOs6Rwi1fIFqDlng5szzIOTrWYUm5R
+articleID: fKmFu-JZItd1YnD9S1AJYWOlgz04w1dN
+languageCollectionID: I-YpwczEWStif-VOD4LPxMApnw3oe250
 lastUpdated: 1629198632960
 tags: []
 ---

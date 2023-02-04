@@ -4,8 +4,8 @@ title: >
 description: >
   Activist Handbook
 langCode: el
-articleID: r0J_lnScNs8q-wi0sdfKsVSzI-4Zr-iK
-languageCollectionID: mdnnDhAiiHq8PieAy5_EZRqyLXx4sOjZ
+articleID: y5XVEfgBgKTJZuFnkaOFB0ctdadDJrnJ
+languageCollectionID: vbmW_zEU8ZBHe8iIxIEstlSfL78cABJe
 lastUpdated: 1610893529505
 tags: ["about"]
 ---

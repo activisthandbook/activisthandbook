@@ -4,8 +4,8 @@ title: >
 description: >
   Hosted by FYEG and Activist Handbook
 langCode: en
-articleID: -OG_-Hyobo_TW_n4Z07nz2aj1XeKxt_P
-languageCollectionID: rieTd0-RZCqsRepMNr6RVybo-vWyXJ3r
+articleID: Sw7NAfrIh9QIMut2Andki7HbjsSDexTl
+languageCollectionID: 7B5wf5OA0L0J-nirovmWyxU2f9zb0gMg
 lastUpdated: 1638194534258
 tags: []
 ---

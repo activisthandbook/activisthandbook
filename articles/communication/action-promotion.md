@@ -4,8 +4,8 @@ title: >
 description: >
   Mobilising people to join your action
 langCode: en
-articleID: jryJQZkoKYfOO5Jx5UN0ZJn-2ZYbS8I9
-languageCollectionID: ACJOdAGZMy7IQLjo4m8PASraGNzm3PBc
+articleID: QI6pLpSB_WxTHbMNPebI9C7lEtTYD82A
+languageCollectionID: laldUoB-2u4XfwfCNqXWX_De5y05NOaA
 lastUpdated: 1637329113244
 tags: ["stub","communication"]
 ---

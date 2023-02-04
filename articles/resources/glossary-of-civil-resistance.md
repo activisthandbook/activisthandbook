@@ -4,8 +4,8 @@ title: >
 description: >
   A Resource for Study and Translation of Key Terms
 langCode: en
-articleID: rKvhFlQ8fAYadORk4kMilfEpLq60uwQi
-languageCollectionID: 2M1cZaAMFJMPHkIUmLN1oMOmDTPGtyF9
+articleID: qqjY7cBtgTpJi0dL3oKPRz6TZb-H2z1F
+languageCollectionID: DZOO_CQ0ByWFF73lD5ZMqXzC_QcOWw6t
 lastUpdated: 1655467227967
 tags: ["books"]
 ---

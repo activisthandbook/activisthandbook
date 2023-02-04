@@ -4,8 +4,8 @@ title: >
 description: >
   Create effective protest messaging
 langCode: en
-articleID: L9N98czqUgfww2LYImm8cyJT1Z5JjVnk
-languageCollectionID: nYHxfIGhwpAQfb7O0VueYrhIKVYQHV4F
+articleID: Jzag-atXbcwJ6m-27zyX1YLlyxaJSH_-
+languageCollectionID: g0TMmsewMGK5PbMu0jgwTYQ2NkpVkE8k
 lastUpdated: 1639825857293
 tags: []
 ---

@@ -4,8 +4,8 @@ title: >
 description: >
   Fighting for a Europe that is sustainable, inclusive, feminist and social
 langCode: en
-articleID: JcaUiyoZZgglqNuG0AaTeiGbUyRhG1UP
-languageCollectionID: zCgHC9wICWuxJ8CCEdWL0kaMj2HdrD8X
+articleID: BDdPQ2EhXmAT5rQ34-9uj80YWMdEn9cC
+languageCollectionID: 6OLP47pFz2rTdqHhWlARKhKrfum29xM1
 lastUpdated: 1584805814642
 tags: ["communities"]
 ---

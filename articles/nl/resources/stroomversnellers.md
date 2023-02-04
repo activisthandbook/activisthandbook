@@ -4,8 +4,8 @@ title: >
 description: >
   Trainingen en toolbox voor activisten
 langCode: nl
-articleID: lIrpq8PB4Rflm7Pdq7CNYtndAjBvkgKQ
-languageCollectionID: 134ifJTA1hVMfqj7A80R6ZYPMKbVlcZO
+articleID: CWR1EQRktNc8VByRy1r1TxYh6Nh_znSt
+languageCollectionID: Nz2Il_1Vr64yilL1jO571KNBGjda6aeH
 lastUpdated: 1644943183633
 tags: ["resources","training"]
 ---

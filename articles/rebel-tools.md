@@ -4,8 +4,8 @@ title: >
 description: >
   Tools for actvivists
 langCode: en
-articleID: MbrnTA8TuhIPr1CrY4bWKvfVSwgQvY63
-languageCollectionID: 9Jy5d_BRv15ruRQT2rZulYRkEM8ql2_o
+articleID: 52D_0Fps6AP75H3KTd3rWIAXLO8f1o0l
+languageCollectionID: VXqkTwurZpcU4DQHlIYAdc_qO6NNKom7
 lastUpdated: 1647167738991
 tags: ["tools"]
 ---

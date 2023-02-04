@@ -2,8 +2,8 @@
 title: >
   Inclusive language
 langCode: en
-articleID: -p37ROVvPBIdOXV5Eu3ZUVvsaV_4tK4a
-languageCollectionID: BxiTDIcOfm9kvs3ys1TYbNjwoGSakeUy
+articleID: e6muqMbpS1HXvvFPbhpo3TPXkVMdYgc7
+languageCollectionID: JhUsbjAbkKjzvr9KBYAX4auz8TExeCc0
 lastUpdated: 1637329077922
 tags: ["stub","communication","inclusivity"]
 ---

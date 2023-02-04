@@ -4,8 +4,8 @@ title: >
 description: >
   Look after your own wellbeing
 langCode: en
-articleID: yUFvL9NgzGOZbmSFfkIxHj0kzMgN-IQs
-languageCollectionID: L06u1IUPOs_YX79O1TSn_tVH_acL3Ouk
+articleID: SdGCuXTBOPmOl3qcrWUnI0nJo4crT4ap
+languageCollectionID: DEIKIoXv2JeLqqzsXIga6EL5fQWWLQQg
 lastUpdated: 1585064839403
 tags: []
 ---

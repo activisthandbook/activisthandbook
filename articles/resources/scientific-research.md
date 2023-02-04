@@ -4,8 +4,8 @@ title: >
 description: >
   Trusted sources for social change-making publications
 langCode: en
-articleID: nJWxDsZHHADvdk8k_0nvq9CRWnLQDEih
-languageCollectionID: W8JlkUVFFCHsPCR7CneArW5Wr1Zwlpl_
+articleID: NbvpN7vyT-YZG2PgH_TqUgza-92xFSY8
+languageCollectionID: 8XR_3Id0ZXpXu-CI3Klije2pt9_UHzja
 lastUpdated: 1602592134129
 tags: ["stub"]
 ---

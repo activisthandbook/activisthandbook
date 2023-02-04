@@ -4,8 +4,8 @@ title: >
 description: >
   Guide for activists: political campaign strategies
 langCode: en
-articleID: P9XBD-UmPhtu6Jr4Zi75YwhcXr2oZfnv
-languageCollectionID: cx01hvhAc-jb6555S_agltQIDOZF6AcK
+articleID: v7ONnIEx3he17_I-JD0CgqlZRX-75Zuy
+languageCollectionID: GEBMCoST8DAOBDN-LZdnxBWpOlQD18V2
 lastUpdated: 1583509165087
 tags: ["tactics","chapters"]
 ---

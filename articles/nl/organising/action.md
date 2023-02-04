@@ -4,8 +4,8 @@ title: >
 description: >
   Actieplanning
 langCode: nl
-articleID: VIIreZJ3NwymC5ylCVtdYMqJUyz1_XV9
-languageCollectionID: FLwko9OwJ_22QadtjYRx5pJ0gs1WCJ6D
+articleID: DZ4TKTW5DShdlAHWoCrGTmFwZkIl67Dl
+languageCollectionID: VGQISIxH6QcGIdTAM3BSyB7r_MH4uT-l
 lastUpdated: 1643292848580
 tags: ["stub"]
 ---

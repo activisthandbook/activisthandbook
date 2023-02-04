@@ -4,8 +4,8 @@ title: >
 description: >
   Become a partner of Activist Handbook
 langCode: en
-articleID: z4ad1GSoPFdTlM1l8PMnrAH81I1EYeLO
-languageCollectionID: eeYz6I0F36ttAJ5xPSd5QPX_qbXLnTEd
+articleID: aaxL7iJG4b6uhB1gUxhH9gLMHxK-e2-5
+languageCollectionID: fq0bmSihqXqKFnTyglS84MLy3-tIQWBU
 lastUpdated: 1632575279603
 tags: []
 ---

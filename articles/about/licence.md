@@ -2,8 +2,8 @@
 title: >
   Licence
 langCode: en
-articleID: bqgROyafHdgVueyKR6D8TQkUeDz4347G
-languageCollectionID: QlTHq7vFJK7tLioeE6obtRDURdShhGXE
+articleID: pvLfAcvqiacOgPirLbba-fGuZ9OLdx-X
+languageCollectionID: 377qmPE0gyZ_wJYDdpuXF8nbyXy8oNm7
 lastUpdated: 1587910140904
 tags: []
 ---

@@ -2,8 +2,8 @@
 title: >
   Photography as activist tactic
 langCode: en
-articleID: 5SHk6oOV3oGovAFDBmrxbiTsGwZd0rRe
-languageCollectionID: oFqtw9M2fNP8lMi_oNYSJA7U2l5j3kiI
+articleID: UzzFejzPlxybCdPU1y8YBmc5N3ogWG6C
+languageCollectionID: Gsbo6OBez8mxcBfsW0O4Vqtx1xWNqgZy
 lastUpdated: 1648632897338
 tags: ["tactics","stub"]
 ---

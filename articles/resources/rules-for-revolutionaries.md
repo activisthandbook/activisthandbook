@@ -2,8 +2,8 @@
 title: >
   Book: Rules for Revolutionaries
 langCode: en
-articleID: QXxmJL4DoMTa4r2rFzaX-ryywUgb-oGO
-languageCollectionID: d-_euj3qtzqu-ctmu7tXUe7s_MpCWPt2
+articleID: wW8TOejHgg5EnUdhj_WDv9PmMIJpHp0l
+languageCollectionID: T68C4Mo4oLjL-VegH7FWd8lS6f4vJB7W
 lastUpdated: 1645349312599
 tags: []
 ---

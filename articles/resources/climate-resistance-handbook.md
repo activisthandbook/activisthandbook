@@ -4,8 +4,8 @@ title: >
 description: >
   Resource for environmental activists
 langCode: en
-articleID: 2F8A5qVeXj9L_P__G2FLHAovhPLVorSQ
-languageCollectionID: 2eDVTOXWHyAQTfzUMlWlqH7i4EQDMeZH
+articleID: _GCbIlYyn4P8khccTv3He9yY8QFPgPMV
+languageCollectionID: YeZircfrUifKVCxjd-_CX710ctxx0_wK
 lastUpdated: 1645350582066
 tags: []
 ---

@@ -4,8 +4,8 @@ title: >
 description: >
   Passively resisting being arrested
 langCode: en
-articleID: OSSHvn_ASdYc6Vt_xk-XZoqZnfvQVon8
-languageCollectionID: AUqAmM_jp87aruJJILOx_8tuQzf8ys_t
+articleID: zg8l2p35CbtIgSFg0dpxO8jVsu_kSqLr
+languageCollectionID: zc10aSe6XFW6ffyEQWGYcEhxiXFTH6XJ
 lastUpdated: 1621162488611
 tags: []
 ---

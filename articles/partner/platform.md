@@ -4,8 +4,8 @@ title: >
 description: >
   Partners can use our platform to publish guides
 langCode: en
-articleID: POcghI1uNjvO1d20E3yLOzF1Og0-vK2P
-languageCollectionID: k1vXPSXxzokz45BO21-YM4dI8xDRpCJX
+articleID: E7EcTUnqddzYhcjOVt2CW0GP-wFAr3Sa
+languageCollectionID: x-_EXkhSPbY4Xk0eMMinzKUpC3i7A9H7
 lastUpdated: 1636538940563
 tags: []
 ---

@@ -4,8 +4,8 @@ title: >
 description: >
   Moderators help to ensure quality content
 langCode: en
-articleID: l32fafE-dby80H542jWY1hjEqBXAihZy
-languageCollectionID: AutEa0CKOi20soManYi60lOPJSPW2N6B
+articleID: AVDgs-pPkmh0Th5iRCxxAKu5xw7c4w3q
+languageCollectionID: fUiscL_obY5ujPkWOeLFEleZ5tT0wGKT
 lastUpdated: 1588160588747
 tags: []
 ---

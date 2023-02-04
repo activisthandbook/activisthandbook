@@ -4,8 +4,8 @@ title: >
 description: >
   Acquiring money for an event or organization
 langCode: en
-articleID: IC0fo4l62g0KkiwbYX_Qhjf1fg3pNs36
-languageCollectionID: nBppwMxI0d4F4Gy6sQ_ggeJi8ae4EjvL
+articleID: j7X3cZ2J7x8jahmOP1hYtmckJDixEq1f
+languageCollectionID: PzAbp3YXv5nDsKr78R1E-0Fpv6udtXQs
 lastUpdated: 1652018986829
 tags: ["funding","organising","finance","sponsorship","shift x activist handbook"]
 ---

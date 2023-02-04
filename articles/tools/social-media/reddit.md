@@ -4,8 +4,8 @@ title: >
 description: >
   Learn how to use reddit for outreach and promotion
 langCode: en
-articleID: i4vK4LOOp3WJQcHOm2rGE6AAdnKWq-gP
-languageCollectionID: YUVDXeFaQmZsLsCjBXar82QnbnqDKitw
+articleID: v5u1Asf_-c9GZvsNLa5SdUUouQ72LPdC
+languageCollectionID: cs4SZK5As3-pEsIkw9gUwRF5EqcZWNcN
 lastUpdated: 1652882478321
 tags: ["tools","social media","shift x activist handbook"]
 ---

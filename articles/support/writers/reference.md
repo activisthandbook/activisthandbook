@@ -4,8 +4,8 @@ title: >
 description: >
   How to add links to external resources
 langCode: en
-articleID: C_8FnkW3pdMhMDI_g1VSw85B9GnL1LAP
-languageCollectionID: 0VT1CVclP7XiyFTt1x4Ww2IARAqv0aw4
+articleID: gIy4JRPENENmBGrcC9_7FJLpCpZu6hZ3
+languageCollectionID: zqrOa5IGptZFCGSKGnkNzosdULLw5WH2
 lastUpdated: 1638535112349
 tags: []
 ---

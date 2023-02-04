@@ -2,8 +2,8 @@
 title: >
   Benvenuti nel gruppo di traduzione
 langCode: it
-articleID: y2AFpys2bkfX-lltYKNS4HC9Kv7Y2Lgx
-languageCollectionID: mdnnDhAiiHq8PieAy5_EZRqyLXx4sOjZ
+articleID: D7h0sPcfZjQyCnxS2UCDvt5tvW6D6Ue-
+languageCollectionID: vbmW_zEU8ZBHe8iIxIEstlSfL78cABJe
 lastUpdated: 1595527925189
 tags: []
 ---

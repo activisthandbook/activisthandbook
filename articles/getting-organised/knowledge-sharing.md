@@ -4,8 +4,8 @@ title: >
 description: >
   Everything related to knowledge in an organisation, from activist training and reflection to organisational learning and knowledge management.
 langCode: en
-articleID: EAXMRs8rKoLciZ4wkp9X0JTUnwQtKXGA
-languageCollectionID: yKn-4bKlHfRmJ1vl3pS-6TX3OzYKoGes
+articleID: eAc37w-tbCZmuCknlkQ3p4-OSc318aMl
+languageCollectionID: HQcuu125ik7cZj0vhJixTLSc-H3s1ukI
 lastUpdated: 1593099637083
 tags: []
 ---

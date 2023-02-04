@@ -4,8 +4,8 @@ title: >
 description: >
   Learn how to take care of yourself
 langCode: en
-articleID: rwAetFSij56q4N49DR50A1IXZ63Qf_Qf
-languageCollectionID: QeHUj7BN6F3yyRHBSlyDJODMN8RID13i
+articleID: e8-5UcsLpoZXX-fCfIxnA3bLRddNjudZ
+languageCollectionID: qvMUFu-6HNSoAXywb6xaJBkcb4OpV3b8
 lastUpdated: 1586790886473
 tags: ["wellbeing"]
 ---

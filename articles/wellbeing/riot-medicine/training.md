@@ -4,8 +4,8 @@ title: >
 description: >
   Educate yourself about first aid during protests
 langCode: en
-articleID: OId35rHQ1Zbf3qc7-PwCGSfwReAAJgLO
-languageCollectionID: V_TVaZL03FSsJ_fyeiAWxmmbY2pzTxKm
+articleID: 747kcNJ9WN6shuWqlNE5cFUbzNWRzwaO
+languageCollectionID: Z3taKdM9i_vQCWNBSTDBgAZfdU5CUjjs
 lastUpdated: 1602336490310
 tags: []
 ---

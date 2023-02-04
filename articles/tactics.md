@@ -4,8 +4,8 @@ title: >
 description: >
   A list of tactics for activists and tactical action planning
 langCode: en
-articleID: cLYQFTe6YXQ_hgnV0DOjMm6kSzSvzeK9
-languageCollectionID: NbCRkwkVzAMYXjumv-oyUl8k2hSScU4N
+articleID: dqIEdknV4hO7Eqa1OZNQWeeF1D-KptVM
+languageCollectionID: WeIM7eSP9ovc2D_rh7HpCq26GW7AQRV-
 lastUpdated: 1594650737037
 tags: []
 ---

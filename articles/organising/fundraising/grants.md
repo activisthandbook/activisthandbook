@@ -4,8 +4,8 @@ title: >
 description: >
   Grant-writing, how to apply for funds
 langCode: en
-articleID: CpFjJlu1FztbNlr-GmB0WrjTv8lJIqja
-languageCollectionID: 68xqtI9rBUXVnq0sKzj5y3Sv1oALaj0O
+articleID: nvYJUSvMYQBKbKUWEFjrFx2RM7h-rujy
+languageCollectionID: euxBKM_ggqL4ABereNx9siCJJULONX49
 lastUpdated: 1653383403513
 tags: []
 ---

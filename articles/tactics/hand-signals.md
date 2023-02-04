@@ -4,8 +4,8 @@ title: >
 description: >
   Hand signals at protests for activists
 langCode: en
-articleID: sLSuhNwI5wHsJjaY8S0PRuRCrn_AXvKC
-languageCollectionID: sZt2Ahkp21tSBXF9dEiWihWSld8BTwM3
+articleID: EQBlbQaRIWzvxCM1OwWxo1ovPLxcftVJ
+languageCollectionID: Ss_aamUUeUYcpQZ5r2hm14BHGKJTTNmR
 lastUpdated: 1653816605792
 tags: []
 ---

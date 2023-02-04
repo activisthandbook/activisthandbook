@@ -4,8 +4,8 @@ title: >
 description: >
   Από ακτιβίστριες/ιστές, για ακτιβιστές/ίστριες
 langCode: el
-articleID: gtRk8hPrzKnEMLj7mELPC3B0Fa3gqUKD
-languageCollectionID: DAJgCnRCGvcjSgsA8_580PAdCyRc_1gY
+articleID: 1SxYmGQmaVAK8P68VvpbX2RSUIED7SQE
+languageCollectionID: 6U4kXo7qbzKkrfaO_cJnG9RkCS37n1Qz
 lastUpdated: 1614457998048
 tags: []
 ---

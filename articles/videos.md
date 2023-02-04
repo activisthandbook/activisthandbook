@@ -2,8 +2,8 @@
 title: >
   Videos
 langCode: en
-articleID: 4nc8k0y0nGCXXPlK901gZy7IANsGmZWf
-languageCollectionID: y1zUvGWL3re0XmNQQrSWpKcMZ5e69YsY
+articleID: YCv1SrSmArLi7pyqt2gRIU5rCrNSXVtu
+languageCollectionID: gDTSvEinZWOtAv3Td6jJOtE0rEE5g83p
 lastUpdated: 1583506598214
 tags: ["videos","communities"]
 ---

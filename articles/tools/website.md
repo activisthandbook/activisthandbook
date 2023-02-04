@@ -4,8 +4,8 @@ title: >
 description: >
   Tools for activists
 langCode: en
-articleID: ZsUunB84NczjLYSDKgxoGYTzNw5E4cR0
-languageCollectionID: CscjlZLNdDLCn2Iy9xUVOhKFUMM_-dks
+articleID: ZUrNlqdSDlfVXNMJiYQANxUXR-Nfk0Ot
+languageCollectionID: kIM9_43fNehCDeDZ1FhiTtRLltaC_pQA
 lastUpdated: 1602565482279
 tags: ["tools","easy to improve"]
 ---

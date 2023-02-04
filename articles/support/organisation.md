@@ -4,8 +4,8 @@ title: >
 description: >
   How Activist Handbook is organised
 langCode: en
-articleID: AlK1JKD2LpJBDX-0o_Z4INRoZnqFo6-v
-languageCollectionID: HJ3ZSqEpDFJvLz9pALG99cbBZqCO1ED8
+articleID: NGQzO8U3FrTkICXN1UjvJiVxvmnqMRl7
+languageCollectionID: P2KVMGeg5MkSv-bG8U5sqWwSJOjBQtB5
 lastUpdated: 1617875329187
 tags: []
 ---

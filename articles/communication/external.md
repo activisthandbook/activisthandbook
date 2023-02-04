@@ -2,8 +2,8 @@
 title: >
   External communication
 langCode: en
-articleID: M8DYjbwNXyplGazN_RMQzX98LVH4WAxd
-languageCollectionID: cNc-yypx8Zh2nBQhUoHuMYMaVFH-7ooc
+articleID: uAUdN2BvjVfbPrl3ZpcB3T5OlGbKwUXL
+languageCollectionID: Cc7IUPlpUSpY5fLrqZR-qkKaaDpY-pvZ
 lastUpdated: 1585064730940
 tags: []
 ---

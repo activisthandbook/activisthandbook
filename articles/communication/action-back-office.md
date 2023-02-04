@@ -2,8 +2,8 @@
 title: >
   Action back-office for communication
 langCode: en
-articleID: 4GVONfwhwg4xSC4L910VqcXDoh-jUsPG
-languageCollectionID: Z8v9d5EN11kocoXbuwUJ9M5BtfJTCd_T
+articleID: krKgR8tTJSZxpOu_4JAU1A2uhok0t4z3
+languageCollectionID: buwX9ZRbzKpEl7uDmMmK-XCaOuutXiZn
 lastUpdated: 1629627805676
 tags: ["communication"]
 ---

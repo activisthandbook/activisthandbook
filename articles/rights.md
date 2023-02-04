@@ -4,8 +4,8 @@ title: >
 description: >
   The law &amp; police practices
 langCode: en
-articleID: PnRA69b1XQyXlty1n_aGdWWi9azkMfV-
-languageCollectionID: _MjOs6Rwi1fIFqDlng5szzIOTrWYUm5R
+articleID: K0Qld3HRqVZOPQAo4HNcamdTubXfnbZU
+languageCollectionID: I-YpwczEWStif-VOD4LPxMApnw3oe250
 lastUpdated: 1595863865377
 tags: []
 ---

@@ -4,8 +4,8 @@ title: >
 description: >
   By activists, for activists
 langCode: en
-articleID: uuEqgSp5aaU5hmxUFIuWsBSRGhIY6fuf
-languageCollectionID: DAJgCnRCGvcjSgsA8_580PAdCyRc_1gY
+articleID: HoOfo2tH3HucVjYIbZL9LtPorVEFZtI-
+languageCollectionID: 6U4kXo7qbzKkrfaO_cJnG9RkCS37n1Qz
 lastUpdated: 1584809921964
 tags: ["about"]
 ---

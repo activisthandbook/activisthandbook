@@ -4,8 +4,8 @@ title: >
 description: >
   A comparison of video call tools specifically for activists
 langCode: en
-articleID: wKStKOftEKzX5B9DGGOb5x11WA0OQyXF
-languageCollectionID: pHRdEBY2s9eeiVkWSQVnva9gc5RnL2NJ
+articleID: OIdzm4zCNy5uueuVtSGK-dWoAYJojt2l
+languageCollectionID: rOnRkqeKFocsL5LElVfQGPX5zRbZgjK8
 lastUpdated: 1585060695885
 tags: []
 ---

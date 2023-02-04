@@ -4,8 +4,8 @@ title: >
 description: >
   Een lijst met tactieken voor protestbewegingen
 langCode: nl
-articleID: luhyZWHxEVzStrN5I8qBIzWqF4IzwTUZ
-languageCollectionID: NbCRkwkVzAMYXjumv-oyUl8k2hSScU4N
+articleID: FWRov6lAZC_scGA1FIzm7qEDpx7yi7VQ
+languageCollectionID: WeIM7eSP9ovc2D_rh7HpCq26GW7AQRV-
 lastUpdated: 1643294897053
 tags: ["tools","stub"]
 ---

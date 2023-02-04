@@ -2,8 +2,8 @@
 title: >
   Web Server
 langCode: en
-articleID: chZpTu5ekY13V46wy1Vh7JgYuIUZVKuM
-languageCollectionID: Do9VjOZLLrJc41pXKRoz_OBOlfuH0sgg
+articleID: ZLWqip7EqtlndeeeTW-UHNC-3y4syFkU
+languageCollectionID: b8EkqUrO4HU98YlgomwZ6uNpHBIhhdLS
 lastUpdated: 1599740998674
 tags: ["terms"]
 ---

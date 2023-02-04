@@ -4,8 +4,8 @@ title: >
 description: >
   Will you help strengthen our local communities?
 langCode: en
-articleID: EREFb3j3yJYfSWvZM2qa3jcbNlaOtN68
-languageCollectionID: W_5_NO1mMImcSKVSUoeL-QQHna6qZNl_
+articleID: xqyf36ntQYc8S1lDh0l-Px7uCwSErDGj
+languageCollectionID: qZaJBvO8dCY54r-EkreoxbMvjgQ0SISJ
 lastUpdated: 1604833071560
 tags: []
 ---

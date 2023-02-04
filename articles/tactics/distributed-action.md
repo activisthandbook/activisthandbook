@@ -2,8 +2,8 @@
 title: >
   Distributed action
 langCode: en
-articleID: kYDymyk0ZCKpYAx7oNRmFbjJDbg2zanO
-languageCollectionID: vRzByQmLPgmGE3gTKEbQjqBxnOOWgI4V
+articleID: wcu5lM8ZDjMGV4i_HSSpAMSYKIpitYxy
+languageCollectionID: grt78SrH33wae1zPVbABCjgQ7AkFw1ka
 lastUpdated: 1648631761545
 tags: []
 ---

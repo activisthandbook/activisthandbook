@@ -4,8 +4,8 @@ title: >
 description: >
   Activist Handbook
 langCode: ru
-articleID: IAZ87sSKcGI7Kn3JbwUGDpuZ2mtV3wWB
-languageCollectionID: mdnnDhAiiHq8PieAy5_EZRqyLXx4sOjZ
+articleID: PBHygJOleRlruJwBLluZ1XGcibX0LMpP
+languageCollectionID: vbmW_zEU8ZBHe8iIxIEstlSfL78cABJe
 lastUpdated: 1643232888798
 tags: ["stub"]
 ---

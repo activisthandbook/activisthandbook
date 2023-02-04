@@ -2,8 +2,8 @@
 title: >
   Building a new web
 langCode: en
-articleID: 7rgcZ6oqFwDNYRJCmfmzIkC_4iJx4jvD
-languageCollectionID: AdDtOjwOSyeutKgSazRKhYkBp_4eUFWU
+articleID: y56URY3X4uw4Vkz-1uHkmSOlT60oLLrL
+languageCollectionID: XAFQ7_dLdewqoOqkNRL_TRN6b_szxCK5
 lastUpdated: 1639826329993
 tags: ["tools","stub"]
 ---

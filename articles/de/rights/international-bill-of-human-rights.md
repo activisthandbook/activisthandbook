@@ -4,8 +4,8 @@ title: >
 description: >
   Drei Texte, in denen die Rechte und Freiheiten der Menschen verankert sind. 
 langCode: de
-articleID: 02pOIPxRMf8vkaBXiOj83c7_bvHnSE6J
-languageCollectionID: hAysUOKhtM1au3CGKw3vd-m4Tchl3UnE
+articleID: PADVH2ayLfy6aPqdAsYOwab6HtFVtkph
+languageCollectionID: Ii_23eNiOU0ZlKYppFffHDnwqIPq8VMw
 lastUpdated: 1605817216218
 tags: []
 ---

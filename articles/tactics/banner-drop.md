@@ -2,8 +2,8 @@
 title: >
   Banner drop
 langCode: en
-articleID: uEoeZgn5NHzsXPpwEcONE4Ihb5Mudglv
-languageCollectionID: D9ysqw2RmeJYXybsYSedB7p6yeqUug4r
+articleID: Um4ETPFHNSgyRUTGKG4ONVPXvftmTAVT
+languageCollectionID: 3RJQdw6PqUXxx-Az1Jk2kGgxDyNWNm_s
 lastUpdated: 1591795633805
 tags: ["tactics","stub"]
 ---

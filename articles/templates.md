@@ -2,8 +2,8 @@
 title: >
   0. TEMPLATES
 langCode: en
-articleID: -pWiKHJlwf9O41btvNJ0QRR1k7VUYhRO
-languageCollectionID: cbFR0k1fRgLOEjIhUHvSsEp3U8HZwviD
+articleID: TvjPImPqJmQ5EVstBXnlxOtxcWonGdHG
+languageCollectionID: WRS1UBimKUZfSuSC5-wWYNFkX5gmhBrR
 lastUpdated: 1643547491579
 tags: []
 ---

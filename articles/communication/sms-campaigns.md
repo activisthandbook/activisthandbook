@@ -4,8 +4,8 @@ title: >
 description: >
   Broadcasting text messages
 langCode: en
-articleID: QZWdf45Qsn20hqKlVVexTplWU_wOiaCA
-languageCollectionID: dHxqIpTYUYxlzVMNqNWHJHqvEQkRpe0h
+articleID: PtsbaVckwKd2uWX5j3L_dZxKgj88odCW
+languageCollectionID: 9ryHweEQNr3_k8C-tdvKRMWJod_IUhw4
 lastUpdated: 1634137392943
 tags: ["tools","communication"]
 ---

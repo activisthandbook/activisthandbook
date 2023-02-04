@@ -2,8 +2,8 @@
 title: >
   Trainingen voor activisten
 langCode: nl
-articleID: lbQsEokCcdFMvxz1jBmMQhREYjObcqBf
-languageCollectionID: qZO_mxedJ_-DhLZIvA3og1bcW7ycbvuy
+articleID: hmUp47pQ3DXCwFVLba02kuKrjiK5Oop2
+languageCollectionID: vijKrgNARghr6p534ZbiZ1HWioKFbDgl
 lastUpdated: 1587913206504
 tags: []
 ---

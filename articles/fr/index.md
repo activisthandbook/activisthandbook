@@ -4,8 +4,8 @@ title: >
 description: >
   Le manuel d'activiste
 langCode: fr
-articleID: VXYP0buYDlrkojltiBqy2aq5gqwZq1ka
-languageCollectionID: mdnnDhAiiHq8PieAy5_EZRqyLXx4sOjZ
+articleID: 8NLHUEE0BUJGt5ciQv0Paykk7G5o8dvC
+languageCollectionID: vbmW_zEU8ZBHe8iIxIEstlSfL78cABJe
 lastUpdated: 1595528021078
 tags: []
 ---

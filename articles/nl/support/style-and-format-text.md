@@ -4,8 +4,8 @@ title: >
 description: >
   Help pagina
 langCode: nl
-articleID: BNF3pWwa3CKErfjkiyzzpznoJMhxoT7z
-languageCollectionID: AgXOCcWTsk0f6HLxuEeCccr8iBQPMbq2
+articleID: mIBpW_iC0VUG296mlJTh2zG92MDHTVh-
+languageCollectionID: RqwjGHAxdlDlI3r7iFf-Y2BE7oKSPqw2
 lastUpdated: 1597952401162
 tags: []
 ---

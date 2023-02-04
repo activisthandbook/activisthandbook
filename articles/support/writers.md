@@ -2,8 +2,8 @@
 title: >
   Volunteer guides: Writers circle
 langCode: en
-articleID: qM4cYq5ynwoGsnlgorwnzVrk62Cg4Svl
-languageCollectionID: Y-M21jSMKGRZRiJl6MMygN2jRevEBJ4K
+articleID: 1klKzE-SRt1neRdmh8ZSlLmI7-9scxxN
+languageCollectionID: 1rusRm6zp4Z-ZLQrE1rJHkEnATM7Rafp
 lastUpdated: 1650719261892
 tags: []
 ---

@@ -4,8 +4,8 @@ title: >
 description: >
   Klimaatbeweging die burgerlijke ongehoorzaamheid als tactiek gebruikt
 langCode: nl
-articleID: _rA-lf2VxFB7mjCfAX6WFz9Un0zsa-Kb
-languageCollectionID: m8hK-bs-Ho0KyeBtsLQ3hOx3GM7SkmZ5
+articleID: JlC0WQOjEyxVZK_gdn7jUN_PCHpJH597
+languageCollectionID: 7EU-Y1Qi2gOp2OIkTfWkMh8M6BO9F-KH
 lastUpdated: 1648974308968
 tags: []
 ---

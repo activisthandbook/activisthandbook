@@ -4,8 +4,8 @@ title: >
 description: >
   A guide for Moderators - a content circle role
 langCode: en
-articleID: 4AzLlqmLBG_s6e8UwyQb0LznyRV9U4xi
-languageCollectionID: 4FM4cUICnsR5blXnqExDVhu6mSxuVOm6
+articleID: CUiHkaN1rQ8Nw8CrgiFI4lDjVklaJoff
+languageCollectionID: nOos4JkGNWbNYaovuIBvDcVUsWS9VZg-
 lastUpdated: 1637580293656
 tags: ["#internalguide"]
 ---

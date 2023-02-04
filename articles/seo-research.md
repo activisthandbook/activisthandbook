@@ -2,8 +2,8 @@
 title: >
   SEO Research
 langCode: en
-articleID: mrNqdHpX5VxPpOhjqRsY7Mwe-D5lwtYj
-languageCollectionID: 347WzatvtwVojK6m-IS7_4Oqx6C36Lpr
+articleID: pjjiKMus1lRmvXaAGAgiWZfLJTMItqiR
+languageCollectionID: vUtlGX3M784ZtmE5znArE9JVy6jkhqSq
 lastUpdated: 1657797054728
 tags: []
 ---

@@ -4,8 +4,8 @@ title: >
 description: >
   Training, organisational learning, and knowledge management
 langCode: en
-articleID: oEqUW9b7LPH2wUS6VQ8ELGporgAMZtyq
-languageCollectionID: KyRx9oJCXEzRa5BmdR87_bpRX6plieeu
+articleID: c7ah-rwp49U9ynUfO6Pyug2-3ZkfxGkU
+languageCollectionID: Q-BZ6CWsPIeEQIwtJvrwGW3gT6HyYqwI
 lastUpdated: 1598447166701
 tags: []
 ---

@@ -4,8 +4,8 @@ title: >
 description: >
   How to use hunger strike as protest tactic
 langCode: en
-articleID: -J_mRakkwViCwMNLttAiwkdHUeL02Yls
-languageCollectionID: trTkGvrtw6fXxAd5gsVAECnmEALWKXU7
+articleID: D3gQoh-kw9669a5HdKNVWerWKteEHcHv
+languageCollectionID: cu75IGf5yCpgPU9Wa1L6E0lsSlfRWSlQ
 lastUpdated: 1584719971249
 tags: ["tactics","stub"]
 ---

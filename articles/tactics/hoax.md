@@ -2,8 +2,8 @@
 title: >
   Hoax as activist tactic
 langCode: en
-articleID: 8wsthNhYa7ihBsXLf6KF-O7tJsQCFi3k
-languageCollectionID: uE32TeltTkU944qRyLJFF6-WqpHsTnKV
+articleID: xWasLOkiRs57OfpKVtFPiDXdvQntjBct
+languageCollectionID: 2RWPwc5uEPntYlwzV3ivDwXpG2Pk3ATy
 lastUpdated: 1647952972724
 tags: ["tactics","stub"]
 ---

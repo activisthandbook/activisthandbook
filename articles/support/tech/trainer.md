@@ -4,8 +4,8 @@ title: >
 description: >
   Member of the tech circle
 langCode: en
-articleID: N94yFUb6lfrs8LT3gbZnN3QnOFpyGWlR
-languageCollectionID: vJiPWUz71K7kymPyspdgNo9k_v3g5rQp
+articleID: g7prGLU2c-Aep477BWGYnbiDBj9GXm7R
+languageCollectionID: -hGRwMxHPnOK0L481eiPMMOYf_0nZOu4
 lastUpdated: 1639074157048
 tags: ["#internalguide"]
 ---

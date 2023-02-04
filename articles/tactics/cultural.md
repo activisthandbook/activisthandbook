@@ -2,8 +2,8 @@
 title: >
   Tactics for changing cultures
 langCode: en
-articleID: c3zhsuzakGml4oiaWeyTKoEwunBN9k8h
-languageCollectionID: SBkAZYXakJKJ0rA4rznEufL6pJ5cwcM_
+articleID: TwsA9kRxYpHPBm6uXHZVewT3SIUqWRty
+languageCollectionID: _mSA6QPh7DXOSq3jR6hW7kBw-XMoVqp6
 lastUpdated: 1643202629492
 tags: []
 ---

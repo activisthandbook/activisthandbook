@@ -2,8 +2,8 @@
 title: >
   Protest posters
 langCode: en
-articleID: tkv93HSrHmarjaO7UH-uAsn9lR1DbN5L
-languageCollectionID: mjwwYeBXiwDPeCulk0WgRGxfCQ3zMAnF
+articleID: _BkrgN4vj-hWQwG8hdxTAyh7VOdmlpit
+languageCollectionID: y1c3BeRtrJKAzAMbPBrz97U0b0u6-W13
 lastUpdated: 1643185003480
 tags: ["tactics","stub"]
 ---

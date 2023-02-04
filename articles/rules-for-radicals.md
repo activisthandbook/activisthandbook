@@ -4,8 +4,8 @@ title: >
 description: >
   A book by Saul Alinsky about how to successfully run a movement for change published in 1971.
 langCode: en
-articleID: SAbWKSEVBr9kVkXK2ERXo22DmOKAjE9Z
-languageCollectionID: K7pxEemKpuTO4dOdyctSFL_n2CziGXq5
+articleID: axgm6rAey4pVyJ_DzadbEhDJTpx31mAG
+languageCollectionID: zyqSAMyt2_Kfaano7YcPkDFferu7W8Rs
 lastUpdated: 1602152406293
 tags: ["resources","books"]
 ---

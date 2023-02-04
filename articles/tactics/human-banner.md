@@ -2,8 +2,8 @@
 title: >
   Human banner
 langCode: en
-articleID: CTWAFvL7FwPIoI5MFDaMcFP0Ze33ZKwk
-languageCollectionID: L3eYfZ70ed36VN2-W4ovnMtZY_J207iP
+articleID: 1NzxGEOWWQ2Ors6Nj-uTonsVF10s0VTT
+languageCollectionID: 0N-yqs2w8L1YyVMesUZxXryriK86LOjA
 lastUpdated: 1584720335022
 tags: ["tactics","stub"]
 ---

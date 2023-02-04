@@ -4,8 +4,8 @@ title: >
 description: >
   Tools for creating a safe space for LGBTQIA+ activists
 langCode: en
-articleID: LnGaVOmWN_SbRwZeRpm4WAz6rWQ0_-Oy
-languageCollectionID: yKQsrTKdL51WTg4TmlXji3erjoOovoRg
+articleID: SqKoPU6Fne5QV1928Yk4k3T9J72MAnbo
+languageCollectionID: T-1xOqiY86odLTIkRJ8hPZ0g3xRgm85t
 lastUpdated: 1639650413693
 tags: []
 ---

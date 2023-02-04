@@ -2,8 +2,8 @@
 title: >
   Event: Vertalen
 langCode: nl
-articleID: R2CLHyRXWx-ZbflF0RGJfFzmWi3cAj3z
-languageCollectionID: ABsuSu08OWN7MvNGVbW0iFowcFv0FlVl
+articleID: wWxNJDRAHUFX5kMO-fy2aFiP8e5y1tRx
+languageCollectionID: x4CYI2HikBHa1rgwJ0uNS7XsWEzEeoHc
 lastUpdated: 1595527264203
 tags: []
 ---

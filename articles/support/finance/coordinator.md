@@ -4,8 +4,8 @@ title: >
 description: >
   Member of the core circle
 langCode: en
-articleID: 8vumh_ShnF0LZiAcjS5IKqlm_qPn3Iop
-languageCollectionID: jRFnx3byVqnxOxBMdTeqnuhlTXpaqcGT
+articleID: nuywkSAgbaAS5q9IRQvViYMr-fkc0k7r
+languageCollectionID: vPMZfUYACzQlLug2hEWsD0uQPxr7XXVN
 lastUpdated: 1637926508393
 tags: []
 ---

@@ -4,8 +4,8 @@ title: >
 description: >
   La formation assurée par l'équipe de traduction
 langCode: fr
-articleID: -uZy08bqDv2fgox_IJvH-Kaqr3XAIxHb
-languageCollectionID: ABsuSu08OWN7MvNGVbW0iFowcFv0FlVl
+articleID: 0hXKNZejGJgdVmZtq_2syym5D5RobFR7
+languageCollectionID: x4CYI2HikBHa1rgwJ0uNS7XsWEzEeoHc
 lastUpdated: 1602604456865
 tags: []
 ---

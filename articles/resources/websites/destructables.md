@@ -4,8 +4,8 @@ title: >
 description: >
   A summary of the content available in the website Destructables (archived version only)
 langCode: en
-articleID: FO6-4TPq39tDp15a4IbC3NRsM32zyRbt
-languageCollectionID: sgkRiHnJPQtb7rIr8n9jvngT4QffO2eq
+articleID: GfOY5AFIHLoNlrAXV_z-ppe790zDffme
+languageCollectionID: 4eToKwgYWFEba5O8q7qZU50iimATM2EO
 lastUpdated: 1656256067698
 tags: ["resources","stub","websites"]
 ---

@@ -4,8 +4,8 @@ title: >
 description: >
   Guides about movement building
 langCode: en
-articleID: dIbBtaSH7_horhWGeN50Au6crqY97qsN
-languageCollectionID: Ic_NQ2AJFFyAXcvT4vNl8W1fyFkc5ZxW
+articleID: Jivvm_DITjwYHs0BtJuFs9SzsiRHfUlL
+languageCollectionID: 2iL5uLyfvLfLZc8ZAdnUzGAQX_cgwUc1
 lastUpdated: 1583581575544
 tags: ["chapters"]
 ---

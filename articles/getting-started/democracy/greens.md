@@ -4,8 +4,8 @@ title: >
 description: >
   The role of democracy in the green movement
 langCode: en
-articleID: 1Ea-XqmyTOX2Zw5VkVFkELtTxZl8CVnX
-languageCollectionID: 04Q7F14tfwVFpwYnQfoiKd5OkvCLtWj1
+articleID: pjyOVbELJpldHKKzOvpigV7lsqKNFF9k
+languageCollectionID: cAnyh897QT_znyEskHJ_ciiYiSWOBJ0y
 lastUpdated: 1639385182541
 tags: []
 ---

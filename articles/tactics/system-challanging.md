@@ -4,8 +4,8 @@ title: >
 description: >
   Tactics for protest movements
 langCode: en
-articleID: LNc9iG-uTd_vBv70CSBp6v8S6wRjHnw7
-languageCollectionID: c6ZM8Rht79gwHGArRJ9dz7x-hzRyWWn2
+articleID: uz7p-nlmEp_TY170bbeGvwWfJmBqlPtt
+languageCollectionID: fdtlbxN7gzHGThrSd72l6a9wB-wo3BsB
 lastUpdated: 1643202334575
 tags: []
 ---

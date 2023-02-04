@@ -4,8 +4,8 @@ title: >
 description: >
   Recognition and Prevention
 langCode: en
-articleID: XIzP4hycLzdxgLnPASixCdBdw_SXbmjr
-languageCollectionID: C6MR8OoJoW7KYsPjy52zsnvWEm9MJkae
+articleID: Y9757e8Ojxid-xLmd75VX3tPuUD6_wYj
+languageCollectionID: psUWmVU7LVCVTaPfjS2Cci5znJZeE9Ye
 lastUpdated: 1639650711020
 tags: []
 ---

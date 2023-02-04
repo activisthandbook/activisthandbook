@@ -4,8 +4,8 @@ title: >
 description: >
   Everything related to inclusivity, accessibility and diversity.
 langCode: en
-articleID: Zilr1A9-rMEmE2sgF63_5UVSt5gKdjcV
-languageCollectionID: wEAWYq8bWuAsflDVF6upXaOpINBv6hi7
+articleID: JtSFhpVrFe-abxXDXckXLEK6ZW2oABiT
+languageCollectionID: XMG01S8u1emdjY5flCBKcnVheCzPj0b9
 lastUpdated: 1598874008704
 tags: []
 ---

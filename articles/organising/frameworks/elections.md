@@ -4,8 +4,8 @@ title: >
 description: >
   How to hold successful elections
 langCode: en
-articleID: m-ppZzy_ZdXKPQXLRO9FQ1fESqrqczVe
-languageCollectionID: eyCK3XJvURmPrW7uoef3MIM-Hl6ia-Sk
+articleID: yZSXa1bSwdAn6VG4vGdytbmaimEuOeJI
+languageCollectionID: 33EC4L7aaejq3MstUS1vZg7Y6Z3CjKje
 lastUpdated: 1652035290336
 tags: ["organising","organisation","decision-making","shift","shift x activist handbook","decisions"]
 ---

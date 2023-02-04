@@ -2,8 +2,8 @@
 title: >
   Developer docs: How we built this platform
 langCode: en
-articleID: LLgI8wq4oVhp67-otG9ywY48lkWEupmC
-languageCollectionID: W37l-KACHQK3Ygne79alyeYS3L-1exU3
+articleID: mFvr8NY7392dMXoQ8AWrfDIO_krJQ3sc
+languageCollectionID: stl7YHj6a3Hs5oCpwIUBt9OEns2WGuau
 lastUpdated: 1615061523633
 tags: []
 ---

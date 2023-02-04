@@ -4,8 +4,8 @@ title: >
 description: >
   Working together remotely
 langCode: en
-articleID: PPOo1QEgl_wPNH5Fa-rCHjBh27Uao736
-languageCollectionID: FOBuhzvBE2Esgiu8UV5Z6fcLhPr1GoUz
+articleID: pN0nxxdraUAKP625oxZK0jMUkojwBJJ2
+languageCollectionID: IGvDzbTqOOuvqUZphwcN9OV37a5bpfqR
 lastUpdated: 1634986878797
 tags: []
 ---

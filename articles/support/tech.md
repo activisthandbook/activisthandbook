@@ -4,8 +4,8 @@ title: >
 description: >
   Things to know if you want to join the Tech circle
 langCode: en
-articleID: 2Jq2zvPu52jpyHKI9vIiGee5gComgAlJ
-languageCollectionID: n48gkMThciwkzwWX1BslsIE0vM0_Yt4C
+articleID: hUvgx9AnqH-NvVitiQB2NVvdT4i_VFs9
+languageCollectionID: IrPOGZqrd088v0-qbaQoYMV3UCQa6fg4
 lastUpdated: 1623334866729
 tags: ["#internalguide"]
 ---
