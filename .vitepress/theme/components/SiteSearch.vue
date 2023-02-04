@@ -10,8 +10,8 @@ import algoliasearch from "algoliasearch/lite";
 
 // Connect and authenticate with your Algolia app
 const client = algoliasearch(
-  "2CX4BG5VYL", // Application ID
-  "2a776c23ba964feb9504d1494da81fe7" // Public search-only api key
+  "7G6S9ZTMJU", // Application ID
+  "78fc4828e167a2e0b19a4b7d3295e1d7" // Public search-only api key
 );
 
 // Create a new index and add a record
