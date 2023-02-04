@@ -248,16 +248,17 @@ body:not(.hasHover) .title:hover{
   .VPButton{
     font-family: var(--vp-font-family-headings);
     font-size: calc(15px + 0.7vw) !important;
-    border-radius: 32px !important;
+    border-radius: 0 !important;
     padding: calc(0.6vw) calc(12px + 2vw) !important;
     transition: .1s transform;
 
     &.alt{
-      color:#333
+      color:var(--vp-c-brand) !important;
+      border-color:var(--vp-c-bg-alt) !important;
     }
 
     &:hover{
-      transform: scale(1.04);
+      transform: translateY(-2px);
     }
 
     &:active{
@@ -268,6 +269,9 @@ body:not(.hasHover) .title:hover{
 
 .VPFeatures{
   margin-bottom: calc(32px + 3vw);
+  .VPFeature {
+      border-radius: 0;
+    }
 
   @media (min-width: 640px) {
       padding: 0 24px !important;
@@ -276,6 +280,7 @@ body:not(.hasHover) .title:hover{
       font-size: 32px !important;
       width: 52px;
       height: 52px;
+      border-radius: 0;
     }
   .title {
     font-size: 22px;
