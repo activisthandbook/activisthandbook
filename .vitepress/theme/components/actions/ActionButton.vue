@@ -8,7 +8,12 @@ function act(){
  if(!props.buttonlink){
   focusID(props.buttonanchor)
  } else {
-  router.go(props.buttonlink)
+
+  if(props.buttonlink.startsWith("http")){
+    window.open(props.buttonlink, "_self");
+  } else {
+    router.go(props.buttonlink)
+  }
  }
 }
 
