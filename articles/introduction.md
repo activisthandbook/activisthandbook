@@ -1,12 +1,12 @@
 ---
 title: >
-  Introduction
+  Introduction 
 description: >
   Activist Handbook: The Wikipedia for activists
 langCode: en
 articleID: 7w7tygtXhS5UljIFB5e7
 languageCollectionID: oeU2LXIfqc9t2aFsgu7n
-createdTimestamp: 1675513307682
+createdTimestamp: 1675514053708
 wordCount: 331
 ---
 
