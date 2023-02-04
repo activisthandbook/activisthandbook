@@ -116,17 +116,17 @@ function focusID(anchor){
           </div>
           <div
             class="meta"
-            v-if="!$frontmatter.focusMode?.isOn && ($frontmatter.wordCount || $frontmatter.lastUpdated)"
+            v-if="!$frontmatter.focusMode?.isOn && ($frontmatter.wordCount || $frontmatter.updatedTimestamp)"
           >
             <div class="reading-time" v-if="$frontmatter.wordCount">
               {{ 1 + Math.round($frontmatter.wordCount / 300) }} min read
             </div>
-            <div class="last-updated" v-if="$frontmatter.lastUpdated">
+            <div class="last-updated" v-if="$frontmatter.updatedTimestamp">
               Last update:
               {{
                 new Intl.DateTimeFormat(undefined, {
                   dateStyle: "medium",
-                }).format(new Date($frontmatter.lastUpdated))
+                }).format(new Date($frontmatter.updatedTimestamp))
               }}
               {{}}
             </div>
