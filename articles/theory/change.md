@@ -6,7 +6,8 @@ description: >
 langCode: en
 articleID: 0_8fgBbBDhVXQN4N-_4exCgvBwdp6ujs
 languageCollectionID: IrfkwzTBM8FhrIau_Qn6ZGQ9kralDR2x
-lastUpdated: 1615218342317
+updatedTimestamp: 1671370901409
+createdTimestamp: 1615218342317
 tags: ["theory"]
 ---
 

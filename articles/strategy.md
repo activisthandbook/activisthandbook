@@ -6,7 +6,8 @@ description: >
 langCode: en
 articleID: v7ONnIEx3he17_I-JD0CgqlZRX-75Zuy
 languageCollectionID: GEBMCoST8DAOBDN-LZdnxBWpOlQD18V2
-lastUpdated: 1583509165087
+updatedTimestamp: 1673914743174
+createdTimestamp: 1583509165087
 tags: ["tactics","chapters"]
 ---
 

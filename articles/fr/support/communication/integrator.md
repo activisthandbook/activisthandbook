@@ -4,7 +4,8 @@ title: >
 langCode: fr
 articleID: qh7BvZh8nPWK6JnlXlzT0QgmO75JOsGe
 languageCollectionID: _ifh-Vn4aaCsrtYaBG4281YQQiglLbzX
-lastUpdated: 1644585650685
+updatedTimestamp: 1673692430064
+createdTimestamp: 1644585650685
 tags: []
 ---
 

@@ -4,7 +4,8 @@ title: >
 langCode: en
 articleID: zxiqBZ4RE4YzZ8eShn6ytoy6vBEesM-F
 languageCollectionID: nBvz3xQL8z0hCYPc0NRPi04bXOBQfLAH
-lastUpdated: 1584826194313
+updatedTimestamp: 1668049084355
+createdTimestamp: 1584826194313
 tags: ["tactics","stub"]
 ---
 

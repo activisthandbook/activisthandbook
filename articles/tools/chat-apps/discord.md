@@ -6,7 +6,8 @@ description: >
 langCode: en
 articleID: 0ardmsyE45PjjCu-r7_i4o2xHjideDqY
 languageCollectionID: Dhq1SoMOIt8Q4QKtgmF6tJGI5L_JX0LP
-lastUpdated: 1602562659033
+updatedTimestamp: 1654257914621
+createdTimestamp: 1602562659033
 tags: ["tools","chat apps","shift x activist handbook"]
 ---
 

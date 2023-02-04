@@ -6,7 +6,8 @@ description: >
 langCode: fr
 articleID: 6UtzElUpNT27nn76o_YEXglPLwFlPNvM
 languageCollectionID: RfeJdH-LyWwpcJhml2MrFY8hoejKzHvP
-lastUpdated: 1673082868942
+updatedTimestamp: 1673082873067
+createdTimestamp: 1673082868942
 tags: []
 ---
 

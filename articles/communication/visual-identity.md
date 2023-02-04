@@ -6,7 +6,8 @@ description: >
 langCode: en
 articleID: 7byLQFwGGaLqjSNgT7ew22jPpFjTLM3w
 languageCollectionID: oeGPpLi4wBBYmS7jmeV6ag7YNtXvlivW
-lastUpdated: 1637327470568
+updatedTimestamp: 1668059689922
+createdTimestamp: 1637327470568
 tags: ["stub","communication","shift x activist handbook","graphic design","brand"]
 ---
 

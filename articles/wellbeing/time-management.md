@@ -6,7 +6,8 @@ description: >
 langCode: en
 articleID: vE_SWUhOma4WkuyiR5sQYqBNMoiHFX5K
 languageCollectionID: QgNR28_GK6XY9AkxIEikECxwo6ASRHPn
-lastUpdated: 1652095542743
+updatedTimestamp: 1652095545243
+createdTimestamp: 1652095542743
 tags: ["wellbeing","shift","shift x activist handbook","burnout","management","life"]
 ---
 

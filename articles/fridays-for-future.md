@@ -6,7 +6,8 @@ description: >
 langCode: en
 articleID: 1GPnL8mO560heQAkCnR152bcLhMe31gM
 languageCollectionID: t86YTPjsvIm_IDA77I5hZ3oWxVTkw1Y4
-lastUpdated: 1648021684065
+updatedTimestamp: 1662035554288
+createdTimestamp: 1648021684065
 tags: ["climate","movement"]
 ---
 

@@ -4,7 +4,8 @@ title: >
 langCode: ru
 articleID: UoTRk68Uar13FfVEXW6QxX9NY2hVZyK1
 languageCollectionID: jxTRUFDQoowvuULU0S2RUOb52Ws8Z-ti
-lastUpdated: 1643194492137
+updatedTimestamp: 1643194494397
+createdTimestamp: 1643194492137
 tags: []
 ---
 

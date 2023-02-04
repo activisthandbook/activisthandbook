@@ -6,7 +6,8 @@ description: >
 langCode: en
 articleID: AmkmqogEmSCyL2CXBKSKHGzCQvUhYV2T
 languageCollectionID: gKmBvpTD93c3wA05cJJIXYlRz60UFAKI
-lastUpdated: 1652094713752
+updatedTimestamp: 1673914633477
+createdTimestamp: 1652094713752
 tags: ["communication","organising","organisation","community","meetings","connection","shift","shift x activist handbook"]
 ---
 

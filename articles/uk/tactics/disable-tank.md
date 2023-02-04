@@ -6,7 +6,8 @@ description: >
 langCode: uk
 articleID: cpFJHqGJBpEdYzHEJGCb7mkZNubl6mvR
 languageCollectionID: trQ8jVGBtt5ka40gv5oH_g06L9BUrwPo
-lastUpdated: 1645902993755
+updatedTimestamp: 1645903400893
+createdTimestamp: 1645902993755
 tags: []
 ---
 

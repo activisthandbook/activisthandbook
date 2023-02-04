@@ -6,7 +6,8 @@ description: >
 langCode: en
 articleID: SccC3SYaXM-jCwb3GsnS-QgZh4KRxprm
 languageCollectionID: 9AcrGdbueSSY5XY4pKjc3XdODG-wb494
-lastUpdated: 1648639658923
+updatedTimestamp: 1648643825215
+createdTimestamp: 1648639658923
 tags: ["dictionary"]
 ---
 

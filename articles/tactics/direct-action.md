@@ -6,7 +6,8 @@ description: >
 langCode: en
 articleID: lv6eNfm4WxrMsuTy66DCSWIBtH1MkMiA
 languageCollectionID: 7VdD1PlCE22nVnC-egvaEOFqQL5kTIMW
-lastUpdated: 1584723870082
+updatedTimestamp: 1668059172177
+createdTimestamp: 1584723870082
 tags: ["tactics","stub"]
 ---
 

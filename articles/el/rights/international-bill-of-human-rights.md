@@ -6,7 +6,8 @@ description: >
 langCode: el
 articleID: U6h8EESo3yHbYNdzJKeDcDYw6o6WPkZe
 languageCollectionID: Ii_23eNiOU0ZlKYppFffHDnwqIPq8VMw
-lastUpdated: 1605823621015
+updatedTimestamp: 1606935267345
+createdTimestamp: 1605823621015
 tags: ["terms"]
 ---
 

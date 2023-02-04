@@ -6,7 +6,8 @@ description: >
 langCode: en
 articleID: j7X3cZ2J7x8jahmOP1hYtmckJDixEq1f
 languageCollectionID: PzAbp3YXv5nDsKr78R1E-0Fpv6udtXQs
-lastUpdated: 1652018986829
+updatedTimestamp: 1655387963782
+createdTimestamp: 1652018986829
 tags: ["funding","organising","finance","sponsorship","shift x activist handbook"]
 ---
 

@@ -6,7 +6,8 @@ description: >
 langCode: de
 articleID: B1kyqpgro3gsMCM3Lg9aFkYE5aQkqogG
 languageCollectionID: lTIyKvJKf4X_mds9fYMYcliMpRd51jGs
-lastUpdated: 1587633617785
+updatedTimestamp: 1587834497926
+createdTimestamp: 1587633617785
 tags: []
 ---
 

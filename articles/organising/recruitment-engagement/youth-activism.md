@@ -6,7 +6,8 @@ description: >
 langCode: en
 articleID: vCB4nEXCm-PJhxriQOIOfol96rD3xSh3
 languageCollectionID: UXUQ9pLX_3QbP4v2p7syI4mvXNMiLUcX
-lastUpdated: 1652107950999
+updatedTimestamp: 1652107953478
+createdTimestamp: 1652107950999
 tags: ["training","shift","shift x activist handbook","youth","recruitment","engagement"]
 ---
 

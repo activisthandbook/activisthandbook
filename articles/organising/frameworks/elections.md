@@ -6,7 +6,8 @@ description: >
 langCode: en
 articleID: yZSXa1bSwdAn6VG4vGdytbmaimEuOeJI
 languageCollectionID: 33EC4L7aaejq3MstUS1vZg7Y6Z3CjKje
-lastUpdated: 1652035290336
+updatedTimestamp: 1652108408749
+createdTimestamp: 1652035290336
 tags: ["organising","organisation","decision-making","shift","shift x activist handbook","decisions"]
 ---
 

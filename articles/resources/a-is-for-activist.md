@@ -6,7 +6,8 @@ description: >
 langCode: en
 articleID: Eo8JGr_ARbCS2hf2iFSHukP49PDVLQpC
 languageCollectionID: -tHArFZX2F7awRjPvwLXE6AYojbHC4Q3
-lastUpdated: 1648636158068
+updatedTimestamp: 1671822118486
+createdTimestamp: 1648636158068
 tags: ["resources","books"]
 ---
 

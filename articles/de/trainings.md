@@ -6,7 +6,8 @@ description: >
 langCode: de
 articleID: goggLNMfD6zuIMy6iKE_s-3I78PZ6laB
 languageCollectionID: vijKrgNARghr6p534ZbiZ1HWioKFbDgl
-lastUpdated: 1665477867119
+updatedTimestamp: 1665477869994
+createdTimestamp: 1665477867119
 tags: []
 ---
 

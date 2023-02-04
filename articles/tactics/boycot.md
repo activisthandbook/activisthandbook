@@ -4,7 +4,8 @@ title: >
 langCode: en
 articleID: gegmdf_gRKABtNNUfvy7Q_9MgPmgu0mr
 languageCollectionID: esxjd9DVoxyTC7O8oA5p1pF00GSQ6-5S
-lastUpdated: 1584825687893
+updatedTimestamp: 1637332311674
+createdTimestamp: 1584825687893
 tags: ["tactics","stub"]
 ---
 

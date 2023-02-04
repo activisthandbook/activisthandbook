@@ -6,7 +6,8 @@ description: >
 langCode: ru
 articleID: PBHygJOleRlruJwBLluZ1XGcibX0LMpP
 languageCollectionID: vbmW_zEU8ZBHe8iIxIEstlSfL78cABJe
-lastUpdated: 1643232888798
+updatedTimestamp: 1645016043292
+createdTimestamp: 1643232888798
 tags: ["stub"]
 ---
 

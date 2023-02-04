@@ -6,7 +6,8 @@ description: >
 langCode: en
 articleID: l8K7Pu76Z6hIuiGKbFozWUZPMFYARfej
 languageCollectionID: 0lnPnmO0z3Z7eEg3eG8e7bFU8UIDK1af
-lastUpdated: 1648643690046
+updatedTimestamp: 1648643711188
+createdTimestamp: 1648643690046
 tags: ["dictionary"]
 ---
 

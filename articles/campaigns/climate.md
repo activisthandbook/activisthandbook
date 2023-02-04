@@ -6,7 +6,8 @@ description: >
 langCode: en
 articleID: IMpWBGgi-DB7e68av_nsoMrQknq0sVzD
 languageCollectionID: 0LiiGOKPXDtXadFAhHloJNbQCpMVuhqF
-lastUpdated: 1641915364078
+updatedTimestamp: 1669991488239
+createdTimestamp: 1641915364078
 tags: ["climate"]
 ---
 
