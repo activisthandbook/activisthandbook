@@ -50,7 +50,7 @@ Develop a [theory of change](/theory) for your activist organisation using our t
 
 Learn what [grassroots organising](/organising) means and get help starting your own grassroots movement.
 
-### 🔥 Impactful campaign strategies
+### 🎯 Impactful campaign strategies
 
 Plan your [campaign strategy](/strategy) with our template workshops and strategy ideas. And use our list of creative tactics to get inspiration for your actions.
 

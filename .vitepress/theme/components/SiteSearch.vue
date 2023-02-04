@@ -23,7 +23,7 @@ const state = reactive({
   showSearchDialog: false,
   typedSinceEnter: false,
   searchResults: null,
-  cashedSearchResults: {},
+  // cashedSearchResults: {},
   selectedResult: 0,
   noResults: false,
 });
@@ -45,23 +45,23 @@ function searchArticles() {
   // Search the index and print the results
   state.noResults = false;
 
-  if (state.cashedSearchResults[state.searchQuery]) {
-    state.searchResults = state.cashedSearchResults[state.searchQuery].hits;
-    state.noResults = state.cashedSearchResults[state.searchQuery].noResults;
-  } else {
-    articlesSearchIndex.search(state.searchQuery).then(({ hits }) => {
-      state.searchResults = hits;
-      state.cashedSearchResults[state.searchQuery] = {};
-      state.cashedSearchResults[state.searchQuery].hits = hits;
+  // if (state.cashedSearchResults[state.searchQuery]) {
+  //   state.searchResults = state.cashedSearchResults[state.searchQuery].hits;
+  //   state.noResults = state.cashedSearchResults[state.searchQuery].noResults;
+  // } else {
+  articlesSearchIndex.search(state.searchQuery).then(({ hits }) => {
+    state.searchResults = hits;
+    // state.cashedSearchResults[state.searchQuery] = {};
+    // state.cashedSearchResults[state.searchQuery].hits = hits;
 
-      if (!hits[0]) {
-        state.noResults = true;
-        state.cashedSearchResults[state.searchQuery].noResults = true;
-      } else {
-        state.cashedSearchResults[state.searchQuery].noResults = false;
-      }
-    });
-  }
+    if (!hits[0]) {
+      state.noResults = true;
+      // state.cashedSearchResults[state.searchQuery].noResults = true;
+    } else {
+      // state.cashedSearchResults[state.searchQuery].noResults = false;
+    }
+  });
+  // }
 }
 
 function handleEnter() {
