@@ -6,7 +6,7 @@ description: >
 langCode: en
 articleID: RfS6sXjxFwB6FA02vbXiw2SI3godONBT
 languageCollectionID: YxVcA8hFIuNOHStYi3InEFz5wGP7jcLu
-updatedTimestamp: 1675598354072
+updatedTimestamp: 1675598492602
 createdTimestamp: 1653550767310
 wordCount: 276
 tags: []
@@ -20,11 +20,11 @@ aside: false
 
 Activist Handbook trains change-makers around the globe. We are a non-profit that depends on donations to stay online and thriving. Donate today and help us make a positive impact for years to come.
 
+<action-button buttonanchor="primary-action" buttonlabel="👉 Make small donation"></action-button>
+
 > Every month, we train 4000 new activists. With your help, we can scale up our project and empower change-makers all over the world. Your donation can make the difference. **We appreciate any contribution, no matter how small.**
 > 
 > — Joppe Hoekstra, co-founder Activist Handbook
-
-<action-button buttonanchor="primary-action" buttonlabel="👉 Make small donation"></action-button>
 
 ## Support our project
 
