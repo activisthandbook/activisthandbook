@@ -125,12 +125,11 @@
     }
 
     blockquote {
-      border-left: 8px solid var(--vp-c-brand);
+      border-left: 12px solid var(--vp-c-brand);
       border-radius: 2px;
       background-color: var(--vp-c-bg-alt);
       margin: 8px 0 20px 0;
       padding: 8px 16px;
-      font-style: italic;
 
       p {
         margin: 8px 0;
