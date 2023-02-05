@@ -6,9 +6,9 @@ description: >
 langCode: en
 articleID: RfS6sXjxFwB6FA02vbXiw2SI3godONBT
 languageCollectionID: YxVcA8hFIuNOHStYi3InEFz5wGP7jcLu
-updatedTimestamp: 1675581408724
+updatedTimestamp: 1675581548691
 createdTimestamp: 1653550767310
-wordCount: 256
+wordCount: 276
 tags: []
 focusMode: 
   isOn: true
@@ -38,3 +38,5 @@ Activist Handbook is a highly efficient nonprofit organisation, making a maximum
     
 
 <action-donate><h2>Donate</h2></action-donate>
+
+_Your donation goes to the Activist Handbook Foundation, a registered nonprofit organisation in the Netherlands (Stichting Activist Handbook, KvK-number 86029045)._
