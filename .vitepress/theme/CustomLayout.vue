@@ -10,6 +10,7 @@ const data = useData();
 import AnalyticsComponent from "./components/AnalyticsComponent.vue";
 import ActionSmartLarge from "./components/actions/ActionSmartLarge.vue";
 import SiteSearch from "./components/SiteSearch.vue";
+import BreadCrumbs from "./components/BreadCrumbs.vue";
 
 const languageCollection = ref(null)
 
@@ -109,6 +110,9 @@ function focusID(anchor){
           We're looking for people to <a href="/join">join our team</a>!
         </div>
         <div class="hgroup">
+          <ClientOnly>
+            <BreadCrumbs/>
+          </ClientOnly>
           <h1>{{ $frontmatter.title }}</h1>
 
           <div class="description">

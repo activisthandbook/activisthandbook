@@ -18,7 +18,7 @@ export const nav = [
       { text: "💪 Get training", link: "/trainings" },
       { text: "📚 Resources", link: "/resources" },
       { text: "📢 Campaigns", link: "/campaigns" },
-      { text: "❤️ Contribute", link: "/contribute" },
+      { text: "📝 Contribute", link: "/contribute" },
     ],
   },
   {
