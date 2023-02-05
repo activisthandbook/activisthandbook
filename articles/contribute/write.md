@@ -2,11 +2,11 @@
 title: >
   Writing for Activist Handbook
 description: >
-  Guide for volun
+  Guide for volunteers
 langCode: en
 articleID: 1klKzE-SRt1neRdmh8ZSlLmI7-9scxxN
 languageCollectionID: 1rusRm6zp4Z-ZLQrE1rJHkEnATM7Rafp
-updatedTimestamp: 1675524416602
+updatedTimestamp: 1675586869320
 createdTimestamp: 1650719261892
 wordCount: 138
 tags: []
@@ -18,11 +18,11 @@ tags: []
 
 Want to start writing for Activist Handbook? We recommend you to start with these guides:
 
--   **📝** [**Improve existing content**](contribute/write/improve)**:** The easiest way to start writing.
+-   **📝** [**Improve existing content**](/contribute/write/improve)**:** The easiest way to start writing.
     
--   **🌏** [**Translate or localise articles**](contribute/write/translate)**:** Speak multiple languages? Make Activist Handbook accessible to more people.
+-   **🌏** [**Translate or localise articles**](/contribute/write/translate)**:** Speak multiple languages? Make Activist Handbook accessible to more people.
     
--   **🆕** [**Create new guide**](contribute/write/new)**:** Have an idea for content that does not exist yet? Pitch your idea.
+-   **🆕** [**Create new guide**](/contribute/write/new)**:** Have an idea for content that does not exist yet? Pitch your idea.
     
 
 ## Advanced guides
