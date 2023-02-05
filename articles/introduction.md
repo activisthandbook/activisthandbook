@@ -6,12 +6,18 @@ description: >
 langCode: en
 articleID: 7w7tygtXhS5UljIFB5e7
 languageCollectionID: oeU2LXIfqc9t2aFsgu7n
-updatedTimestamp: 1675515272251
+updatedTimestamp: 1675598265005
 createdTimestamp: 1675513049772
-wordCount: 331
+wordCount: 364
 ---
 
 Activist Handbook is the Wikipedia for activists. On this website, you will find over 450+ guides and 4.7K external resources. On this page, we explain how Activist Handbook is organised.
+
+## Everyone can edit
+
+Our guides are written by people like you. Everyone can edit Activist Handbook. Every month, we train more than 4000 activists. With your help, we can empower even more people:
+
+<action-button buttonlink="/contribute" buttonlabel="Start contributing"></action-button>
 
 ## **Chapters**
 
