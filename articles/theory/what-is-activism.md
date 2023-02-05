@@ -1,13 +1,14 @@
 ---
 title: >
-  What is activism 📢
+  What is activism?
 description: >
   Defining activism: what is an activist?
 langCode: en
 articleID: cVIZgL8OdSMxfah2ieoxYK1JQxemQkj1
 languageCollectionID: RfeJdH-LyWwpcJhml2MrFY8hoejKzHvP
-updatedTimestamp: 1673082948028
+updatedTimestamp: 1675606176870
 createdTimestamp: 1638949628585
+wordCount: 1540
 tags: []
 ---
 
@@ -51,7 +52,7 @@ In [this](http://libcom.org/library/give-up-activism) anonymous Libcom article, 
 
 ### Our understanding
 
-> For us, activism means _**collective**_ **efforts to create change from the grassroots**.
+> For us, activism means **_collective_ efforts to create change from the grassroots**.
 > 
 > \- Activist Handbook
 
@@ -78,7 +79,7 @@ Saffiyah Khan makes a similar argument in [this](https://www.youtube.com/watch?v
 > \- _Activist Handbook_
 
   
-At _Activist Handbook_, we agree with the motivation behind Khan’s argument; **everybody** _**should**_ **be active**, and we should intentionally avoid excluding people from being active. But we think ‘activist’ is a useful term for people who are trying to create change. We want to help redefine ‘activist’ to a term that can include anyone who wants to work collectively to create social change. You don’t have to be an expert, and you don’t have to spend every waking minute trying to do ‘activism’. You just have to be a person who wants to create change with other people.
+At _Activist Handbook_, we agree with the motivation behind Khan’s argument; **everybody _should_ be active**, and we should intentionally avoid excluding people from being active. But we think ‘activist’ is a useful term for people who are trying to create change. We want to help redefine ‘activist’ to a term that can include anyone who wants to work collectively to create social change. You don’t have to be an expert, and you don’t have to spend every waking minute trying to do ‘activism’. You just have to be a person who wants to create change with other people.
 
 ## Feeling like an Activist?
 
@@ -109,10 +110,17 @@ _\*_[_Potentially biased_](https://www.resilience.org/stories/2019-10-31/the-fla
 ## References
 
 -   [What is activism? Anjali Appadurai at TEDxYouth@Biddeford](https://www.youtube.com/watch?v=zDVA7r7r0d0) \[English, video\] by Anjali Appadurai (2013)
+    
 -   [Argument: Can shopping be a form of activism](https://newint.org/sections/argument/2013/06/01/shopping-activism-argument) \[English, article\] by Neal Lawson and Ruth Potts (2013)
+    
 -   [Activism, social and political](https://www.bmartin.cc/pubs/07Anderson.html) \[English, chapter of book\] by Brian Martin, in _Encyclopedia of Activism and Social Justice_ by Gary L. Anderson and Kathryn G. Herr (2007, p.19-27)
+    
 -   [Be active, not an activist | Saffiyah Khan | TEDxYouth@Brum](https://www.youtube.com/watch?v=lpAwj7B4Uqc) \[English, video\] by Saffiyah Khan (2017)
+    
 -   [Give up activism](https://libcom.org/library/give-up-activism) \[English, video\] by Anonymous (2005)
+    
 -   [The Personal Is Political](http://carolhanisch.org/CHwritings/PIP.html) \[English, article\] by Carol Hanisch (1969)
+    
 -   [Shifting the Power Paradigm with Carol Gilligan](https://www.youtube.com/watch?v=KvT9PnecAf8) \[English, video\] by Acumen (2019)
+    
 -   [The success of nonviolent civil resistance: Erica Chenoweth at TEDxBoulder](https://www.youtube.com/watch?v=YJSehRlU34w&t=1s) \[English, video\] by Erica Chenoweth (2013)
