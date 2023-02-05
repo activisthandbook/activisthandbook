@@ -50,12 +50,17 @@ function renderCrumbs(){
 <style scoped lang="scss">
   .breadcrumbs{
     font-size: 12px;
-    margin-bottom:  calc(10px + 0.5vw);
+    margin-bottom:  calc(4px + 0.5vw);
     text-transform: uppercase;
     letter-spacing: 2px;
 
     a{
-      border-bottom: 1px solid rgba(255,255,255,.5);
+      border-bottom: 1px solid rgba(#FFF8DB,.5);
+
+      &:hover{
+        border-bottom-color: #FFF8DB;
+        border-bottom-width: 2px;
+      }
     }
   }
 </style>
