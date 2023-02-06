@@ -6,7 +6,7 @@ description: >
 langCode: en
 articleID: dw3LUReexTkwNvZvhxWDi9yzjCADdFS9
 languageCollectionID: LHjeW2KJkqhujvzxEBTSu_lNe91LwD6R
-updatedTimestamp: 1675701541210
+updatedTimestamp: 1675702299420
 createdTimestamp: 1583579488069
 wordCount: 173
 tags: ["about"]
@@ -43,4 +43,4 @@ Everyone can contribute:
 
 You do not need to be an experienced activist. We will help you get started and give you training. Sign up to get started:
 
-<action-signup tags="newsletter,350-campaign" redirect="/next-steps/signup-350-campaign"><h2>Join our campaign</h2><p>There is no time for standing on the sidelines. We know 350 million is a large number. But we can do this together. Sign up and get involved:</p></action-signup>
+<action-signup tags="newsletter,350-campaign" redirect="/next-steps/signup-350-campaign" buttonlabel="Join the campaign"><h2>Join our campaign</h2><p>There is no time for standing on the sidelines. We know 350 million is a large number. But we can do this together. Sign up and get involved:</p></action-signup>
