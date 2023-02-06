@@ -6,9 +6,9 @@ description: >
 langCode: en
 articleID: mCd_m5-LlKfBaYVSz4yEnQVsOEt8giAY
 languageCollectionID: t7VuLTOGM86cswiZ6QK4a_Ku_sGcGQM8
-updatedTimestamp: 1675594690972
+updatedTimestamp: 1675670241492
 createdTimestamp: 1675594413090
-wordCount: 753
+wordCount: 807
 ---
 
 In this guide, we explain how you can add external resources to Activist Handbook.
@@ -73,3 +73,7 @@ This is why we ‘steal’ other people's work:
 -   **By merging it with other guides, we take the best from each.** Often, guides are written with the perspective and experience of one person. By combining various resources, we can create something better.
     
 -   **By putting it on Activist Handbook, it becomes part of a much larger collection of guides.** Often, it is not possible to go into much detail within a single guide. On Activist Handbook we can link to many other guides. This also means that each of our guides can be more focused: not everything has to be discussed in that one guide. We can simply link to other guides.
+    
+-   **The resources become accessible to people with poor internet connections.** Unlike most other websites, the Activist Handbook platform is optimised for speed and minimal data usage, which is essential for activists in the Global South.
+    
+-   **On mobile phone, web articles are much more accessible than PDFs.** Our website automatically adapts to all screen sizes.
