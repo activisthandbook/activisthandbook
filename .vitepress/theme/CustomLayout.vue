@@ -107,7 +107,7 @@ function focusID(anchor){
 
       <template #doc-before>
         <div class="action-top" v-if="!$frontmatter.focusMode?.isOn">
-          We're looking for people to <a href="/join">join our team</a>!
+          <a href="/join">Join our campaign</a> to train 350 million activists!
         </div>
         <div class="hgroup">
           <ClientOnly>
