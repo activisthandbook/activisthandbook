@@ -45,44 +45,49 @@ function searchArticles() {
   // Search the index and print the results
   state.noResults = false;
 
-  // if (state.cashedSearchResults[state.searchQuery]) {
-  //   state.searchResults = state.cashedSearchResults[state.searchQuery].hits;
-  //   state.noResults = state.cashedSearchResults[state.searchQuery].noResults;
-  // } else {
-  articlesSearchIndex.search(state.searchQuery).then(({ hits }) => {
-    state.searchResults = hits;
-    // state.cashedSearchResults[state.searchQuery] = {};
-    // state.cashedSearchResults[state.searchQuery].hits = hits;
+  if(state.searchQuery){
+    // if (state.cashedSearchResults[state.searchQuery]) {
+    //   state.searchResults = state.cashedSearchResults[state.searchQuery].hits;
+    //   state.noResults = state.cashedSearchResults[state.searchQuery].noResults;
+    // } else {
+    articlesSearchIndex.search(state.searchQuery).then(({ hits }) => {
+      state.searchResults = hits;
+      // state.cashedSearchResults[state.searchQuery] = {};
+      // state.cashedSearchResults[state.searchQuery].hits = hits;
 
-    if (!hits[0]) {
-      state.noResults = true;
-      // state.cashedSearchResults[state.searchQuery].noResults = true;
-    } else {
-      // state.cashedSearchResults[state.searchQuery].noResults = false;
-    }
-  });
-  // }
+      if (!hits[0]) {
+        state.noResults = true;
+        // state.cashedSearchResults[state.searchQuery].noResults = true;
+      } else {
+        // state.cashedSearchResults[state.searchQuery].noResults = false;
+      }
+    });
+    // }
+  }
+
+
 }
 
 function handleEnter() {
-  if (state.searchResults && state.typedSinceEnter) {
+  if (state.searchResults) {
     goToArticle(state.searchResults[0].publishedFullPath);
     closeSearchDialog();
   } else searchArticles();
 }
 
 function handleInput() {
-  state.typedSinceEnter = true
-  if (!state.searchQuery) {
-    state.searchResults = null;
-  }
+  // state.typedSinceEnter = true;
+  state.searchResults = null;
+  // if (!state.searchQuery) {
+  //   state.searchResults = null;
+  // }
 
-  if (state.cashedSearchResults[state.searchQuery]) {
-    searchArticles();
-  } else if (state.searchQuery.length > 2) {
-    // Uncomment the line below for immediate search results as you are typing (warning: potentially high costs!)
-    // throttledSearch();
-  }
+  // if (state.cashedSearchResults[state.searchQuery]) {
+  //   searchArticles();
+  // } else if (state.searchQuery.length > 2) {
+  //   // Uncomment the line below for immediate search results as you are typing (warning: potentially high costs!)
+  //   // throttledSearch();
+  // }
 }
 
 const throttledSearch = throttle(

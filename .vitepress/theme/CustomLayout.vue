@@ -232,7 +232,11 @@ function focusID(anchor){
                 />
               </svg>
             </a>
-            <div class="edit-hint">Improve this page!</div>
+            <a class="edit-hint" :href="
+                'https://edit.activisthandbook.org/article/' +
+                $frontmatter.articleID
+              "
+              target="_blank">Improve this page!</a>
           </div>
 
 
@@ -359,17 +363,19 @@ footer {
 }
 .edit-hint {
   opacity: 0;
+  transform: translateX(200%);
   font-family: var(--vp-font-family-headings);
   font-weight: 700;
   position: fixed;
-  animation: edit-hint 7s ease 6s forwards;
+  animation: edit-hint 7s ease 6s forwards ;
   z-index: 100;
-  bottom: 32px;
+  bottom: 30px;
   right: 90px;
-  padding: 4px 8px;
+  padding: 6px 10px;
   border-radius: 1px;
   background-color: var(--vp-c-secondary);
   color: var(--vp-c-white);
+  font-size: 22px;
 
   @media only screen and (max-width: 600px) {
     font-size: 12px;
@@ -382,6 +388,7 @@ footer {
 @keyframes edit-button-jump {
   0% {
     transform: scale(0.8);
+
   }
   70% {
     transform: scale(1.05);
@@ -397,6 +404,7 @@ footer {
   0% {
     opacity: 0;
     transform: translateX(16px);
+    visibility: show;
   }
   10% {
     opacity: 1;
@@ -406,9 +414,12 @@ footer {
     opacity: 1;
     transform: translateX(0);
   }
-  100% {
+  99% {
     opacity: 0;
     transform: translateX(12px);
+  }
+  100%{
+    transform: translateX(200%);
   }
 }
 // .Layout{

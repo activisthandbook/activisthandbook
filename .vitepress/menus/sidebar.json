@@ -3,11 +3,15 @@
     {
       "id": "YjBRR9hTmkhjhlIS01bH",
       "items": [
-        { "link": "/about", "id": "DK7pZHnDPYIzYAIArWta", "text": "About" },
         {
-          "id": "L5VdTtxDav9WHt-4ql-o",
-          "text": "Join us",
-          "link": "/join"
+          "link": "/introduction",
+          "id": "DK7pZHnDPYIzYAIArWta",
+          "text": "Intro"
+        },
+        {
+          "text": "Contribute",
+          "id": "uYd48RY2diQFgLW_10hJ",
+          "link": "/contribute"
         }
       ],
       "text": "Getting started"
@@ -45,7 +49,8 @@
           "text": "💬 Communication",
           "link": "/communication"
         },
-        { "text": "💻 Tools", "id": "VFs6IE1as3y4DXobsh7w", "link": "/tools" }
+        { "text": "💻 Tools", "id": "VFs6IE1as3y4DXobsh7w", "link": "/tools" },
+        { "text": "👮 Legal", "id": "adsf", "link": "/rights" }
       ],
       "id": "VQSq0exbf9aIZnEDmH0F"
     },
@@ -68,11 +73,6 @@
           "items": [],
           "text": "Campaigns",
           "link": "/campaigns"
-        },
-        {
-          "text": "Contribute",
-          "id": "uYd48RY2diQFgLW_10hJ",
-          "link": "/contribute"
         }
       ]
     }

@@ -9,6 +9,7 @@ export const nav = [
       { text: "❤️ Wellbeing", link: "/wellbeing" },
       { text: "💬 Communication", link: "/communication" },
       { text: "💻 Tools", link: "/tools" },
+      { text: "👮 Legal", link: "/rights" },
     ],
   },
   {
