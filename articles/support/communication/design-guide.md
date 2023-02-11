@@ -6,12 +6,24 @@ description: >
 langCode: en
 articleID: 3fgh95RVUFwtuTTOvEN01RbNm6INJMzH
 languageCollectionID: b0PlfWOIfH1gZ6HmZDk0LG0LQwiNIcwz
-updatedTimestamp: 1653651899226
+updatedTimestamp: 1675844413444
 createdTimestamp: 1591778325831
+wordCount: 209
 tags: []
 ---
 
-**This design guide is intended as a quick reference, for example when creating illustrations for our social media. Make sure to check out our** [**slideshow**](https://app.pitch.com/app/presentation/64eed5ef-284c-49ed-babe-a549a3247b38/d4eeacde-c563-4631-9b24-c04f84a331d9) **as well!**
+Want to design something for Activist Handbook? Or use our logo? This is the Activist Handbook design guide.
+
+This design guide contains:
+
+-   **Colours**
+    
+-   **Fonts** (free download)
+    
+-   **Logos** (free download)
+    
+
+For more information, check out out [slideshow](https://app.pitch.com/app/presentation/64eed5ef-284c-49ed-babe-a549a3247b38/d4eeacde-c563-4631-9b24-c04f84a331d9?utm_source=activisthandbook.org).
 
 ## Colours
 
@@ -20,28 +32,39 @@ We use a bright and bold color scheme to reflect our culture of change-making.
 > We want to make sure our design identity looks consistent across platforms. Take special care when printing or when publishing to online platforms where strong compression is applied to images.
 
 -   **Rebelious red:** #D70057
+    
 -   **Digital blue:** #0431EA
+    
 -   **Just black:** #000000
+    
 -   **Not quite white:** #FFF8DB
+    
 
 ## Fonts
 
-We chose to use Noto Sans as it fits well with our international orientation. Noto Sans was specifically designed to look consistent across different character sets. It is available for almost 100 different languages. The font is free to [**download**](https://www.google.com/get/noto/).
-
-> On our website we don't use our custom fonts in order to enhance page load speed. In our graphics on social media, however, we do use these fonts.
+We chose to use Noto Sans as it fits well with our international orientation. Noto Sans was specifically designed to look consistent across different character sets. It is available for almost 100 different languages.
 
 -   **Main text:** Noto Sans (Regular/Bold/Italics)
--   **Large headings** Noto Serif (Condensed Black)
+    
+-   **Large headings** Noto Mono (Bold)
+    
+
+<action-button buttonlink="https://www.google.com/get/noto/" buttonlabel="Download our fonts"></action-button>
 
 ## Logo
 
 When using our logo, please stick to the following guidelines:
 
 -   Do not alter the logo in any way. For example, do not rotate, change color or skew our logo.
+    
 -   Only use it to reference to Activist Handbook.
+    
 -   Always use vector files whenever possible.
+    
 
-You can download the vector files (PDF, SVG & EPS) for the logo [**here**](https://drive.google.com/drive/folders/1cwsAev-x6x5_2YTRb11kL4knRP19vIuu?usp=sharing).
+You can download the vector files (PDF, SVG & EPS) for the logo:
+
+<action-button buttonlink="https://drive.google.com/drive/folders/1cwsAev-x6x5_2YTRb11kL4knRP19vIuu?usp=sharing" buttonlabel="Download our logo"></action-button>
 
 ## Sizes images
 
