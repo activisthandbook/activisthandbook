@@ -34,9 +34,9 @@ let currentURL = ref("");
 
 onMounted(() => {
   currentURL.value = window.location.href;
-  if (router.route.path.startsWith("/en/")) {
-    router.go(router.route.path.replace("/en/", "/"));
-  }
+  // if (router.route.path.startsWith("/en/")) {
+  //   router.go(router.route.path.replace("/en/", "/"));
+  // }
 });
 </script>
 <style lang="scss" scoped>
