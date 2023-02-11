@@ -2,7 +2,6 @@ export const nav = [
   {
     text: "📖 Guides",
     items: [
-      { text: "📕 Theory", link: "/theory" },
       { text: "🔥 Organizing", link: "/organising" },
       { text: "🎯 Strategy", link: "/strategy" },
       { text: "📢 Tactics", link: "/tactics" },
@@ -10,6 +9,7 @@ export const nav = [
       { text: "💬 Communication", link: "/communication" },
       { text: "💻 Tools", link: "/tools" },
       { text: "👮 Legal", link: "/rights" },
+      { text: "📕 Theory", link: "/theory" },
     ],
   },
   {

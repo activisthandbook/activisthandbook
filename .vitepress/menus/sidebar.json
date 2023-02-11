@@ -20,11 +20,6 @@
       "text": "Chapters",
       "items": [
         {
-          "text": "📕 Theory",
-          "link": "/theory",
-          "id": "7zdudv6i_YVP1HjeYz5H"
-        },
-        {
           "link": "/organising",
           "text": "🔥 Organizing",
           "id": "l5KGNmOmg5cMRE8WE3vr"
@@ -50,7 +45,12 @@
           "link": "/communication"
         },
         { "text": "💻 Tools", "id": "VFs6IE1as3y4DXobsh7w", "link": "/tools" },
-        { "text": "👮 Legal", "id": "adsf", "link": "/rights" }
+        { "text": "👮 Legal", "id": "adsf", "link": "/rights" },
+        {
+          "text": "📕 Theory",
+          "link": "/theory",
+          "id": "7zdudv6i_YVP1HjeYz5H"
+        }
       ],
       "id": "VQSq0exbf9aIZnEDmH0F"
     },
