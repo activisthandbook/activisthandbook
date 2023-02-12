@@ -6,34 +6,32 @@ description: >
 langCode: en
 articleID: Jivvm_DITjwYHs0BtJuFs9SzsiRHfUlL
 languageCollectionID: 2iL5uLyfvLfLZc8ZAdnUzGAQX_cgwUc1
-updatedTimestamp: 1676205561268
+updatedTimestamp: 1676214377187
 createdTimestamp: 1583581575544
-wordCount: 775
+wordCount: 784
 tags: ["chapters"]
 ---
 
-**In this chapter, you will learn how to transform a group of individuals into a powerful movement. We will talk about how you can build capacity to make impact, how to facilitate a welcoming atmosphere for everyone, and how to set up an organisational structure for decision making.**
+**In this chapter, we explain how to get started with grassroots organizing. Our toolkit explains how to build a movement by looking at successful examples.**
 
 ## Start organising
 
-You want to achieve change. But where do you start? We recommend you find likeminded people and start organising yourselves together. No matter whether you just decided to take action, or would like to improve the organisational structure of an existing movement, these three guides should help you get started:
+To build an impactful grassroots movement, start small. Organise a protest action that helps you to grow your group. Next, plan a campaign: a series of actions to pressure decision makers. Then scale up by building a decentralised movement. Finally, improve your teamwork by learning from other movements.
 
 1.  ✊ [**Organise a protest**](/organising/protest) — Take action today
     
-2.  📢 [**Organise a campaign**](/organising/campaign) - Make plans for the upcoming year
+2.  📢 [**Organise a campaign**](/organising/campaign) - Make plans for the upcoming months
     
-3.  **🌊** [**Build a movement**](/organising/build-movement) — In it for the long run
+3.  **🌊** [**Build a movement**](/organising/build-movement) — Scale up your campaign
     
-4.  **📄** [**Organisation frameworks**](/organising/frameworks) — Organise better
+4.  **📄** [**Organisation frameworks**](/organising/frameworks) — Better teamwork
     
 
-A protest movement has come together to defend a forest - Generated using OpenAI
+<dynamic-image imageid="354b51f4-5e7e-4272-c227-c829b1244c00" alt="Ants are organising at the grassroots"><p>Ants are organising at the grassroots, by <a target="_blank" href="https://edit.activisthandbook.org/author/tzmE91SnnrbJJXuvQNBl9rt6HK63">Joppe</a> | Generated using Dall-e</p></dynamic-image>
 
 ## Capacity building
 
-You want to make a big impact. But you have a limited access to resources needed to get there. This section focusses on building capacity to bring about change.
-
-In this section, you will learn how to [grow your movement](/organising/outreach-mobilisation) and how to [keep members engaged](/organising/recruitment-engagement) within your community. Also make sure to check out our guide on [building coalitions](/organising/coalition-building).
+You want to make a big impact. But you have a limited access to resources needed to get there. This section focusses on building capacity to bring about change:
 
 -   **📢** [**Outreach & mobilisation**](/organising/outreach-mobilisation)
     
@@ -46,7 +44,7 @@ In this section, you will learn how to [grow your movement](/organising/outreach
 -   **🤑** [**Fundraising**](/organising/fundraising)
     
 
-People exchanging knowledge and experiences about activism - Generated using OpenAI
+<dynamic-image imageid="9d1a59a1-320d-4dcc-a80d-9a0a3330a600" alt="Hedgehogs organising a rebellion"><p>Hedgehogs organising a rebellion, by <a target="_blank" href="https://edit.activisthandbook.org/author/tzmE91SnnrbJJXuvQNBl9rt6HK63">Joppe</a> | Generated using Dall-e</p></dynamic-image>
 
 ## Facilitating a strong community
 
@@ -62,6 +60,14 @@ Learn about power structures (both visible and invisible), and how your organisa
     
 -   🔐 [**Security culture**](/organising/security-culture)
     
+
+<dynamic-image imageid="3dafe9a2-dc8b-4be6-b681-bfb3548f2700" alt="A strong activist raising her hand"><p>A strong activist raising her hand, by <a target="_blank" href="https://edit.activisthandbook.org/author/tzmE91SnnrbJJXuvQNBl9rt6HK63">Joppe</a> | Generated using Dall-e</p></dynamic-image>
+
+## Q&A
+
+### **What is grassroots organising?**
+
+Grassroots organizing is a way of working with communities to create change from the ground up. It involves building relationships with people, mobilizing resources and taking collective action to address the issues that affect them. It is a way of empowering people to take action and create positive change in their own lives.
 
 ## Improve this chapter
 
