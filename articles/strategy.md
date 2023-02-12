@@ -6,7 +6,7 @@ description: >
 langCode: en
 articleID: v7ONnIEx3he17_I-JD0CgqlZRX-75Zuy
 languageCollectionID: GEBMCoST8DAOBDN-LZdnxBWpOlQD18V2
-updatedTimestamp: 1675531148254
+updatedTimestamp: 1676209168243
 createdTimestamp: 1583509165087
 wordCount: 580
 tags: ["tactics","chapters"]
