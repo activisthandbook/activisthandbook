@@ -6,9 +6,9 @@ description: >
 langCode: en
 articleID: Jivvm_DITjwYHs0BtJuFs9SzsiRHfUlL
 languageCollectionID: 2iL5uLyfvLfLZc8ZAdnUzGAQX_cgwUc1
-updatedTimestamp: 1676214377187
+updatedTimestamp: 1676215449597
 createdTimestamp: 1583581575544
-wordCount: 784
+wordCount: 831
 tags: ["chapters"]
 ---
 
@@ -65,9 +65,13 @@ Learn about power structures (both visible and invisible), and how your organisa
 
 ## Q&A
 
-### **What is grassroots organising?**
+### **What is grassroots organizing?**
 
 Grassroots organizing is a way of working with communities to create change from the ground up. It involves building relationships with people, mobilizing resources and taking collective action to address the issues that affect them. It is a way of empowering people to take action and create positive change in their own lives.
+
+### How to start a grassroots movement?
+
+To start a grassroots movement, identify a cause that you are passionate about, gather a group of like-minded people, create a plan of action, and spread the word. Take a look at the many guides on Activist Handbook to get started.
 
 ## Improve this chapter
 
