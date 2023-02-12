@@ -258,8 +258,9 @@
   }
 
   .meta {
-    margin-top: calc(10px + 0.5vw);
+    margin-top: calc(5px + 0.5vw);
     display: flex;
+    flex-wrap: wrap;
 
     .reading-time,
     .last-updated,
@@ -267,16 +268,17 @@
       display: block;
       background: var(--vp-c-white);
       color: var(--vp-c-black);
-      padding: 6px 8px;
+      padding: calc(4px + 0.2vw) calc(6px + 0.2vw);
       font-size: 13px;
       line-height: 1em;
       margin: 0;
       letter-spacing: 0.5px;
       border-bottom: none;
+      margin-top:5px
     }
 
     .reading-time {
-      margin-right: calc(6px + 0.5vw);
+      margin-right: calc(3px + 0.5vw);
     }
 
     .last-updated {
