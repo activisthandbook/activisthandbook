@@ -6,9 +6,9 @@ description: >
 langCode: en
 articleID: J3gTgLgqTAzHrap5en3ePR2GBmNRAg__
 languageCollectionID: Hm6ZaeMf02oXtZN2LlCr1NkH7Cxu6Il_
-updatedTimestamp: 1676209415672
+updatedTimestamp: 1676210488543
 createdTimestamp: 1583509188074
-wordCount: 719
+wordCount: 727
 tags: []
 ---
 
@@ -183,6 +183,8 @@ medium
 -   [Narrative Initiative](https://narrativeinitiative.org/resources/)
     
 -   [Naming an Advocacy Campaign](https://commonslibrary.org/naming-an-advocacy-campaign/) by Tim Singleton North
+    
+-   [Collection: Communication for queer activists](https://hub.ilga-europe.org/communications/?utm_source=activisthandbook.org) by ILGA-Europe Hub
     
 
 ### Social marketing
