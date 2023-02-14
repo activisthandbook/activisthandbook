@@ -114,45 +114,7 @@ Oops, you've stumbled upon one of our more empty pages. But you can make it bett
 
 ### **Search keywords**
 
-Keywords
-
-Monthly global searches
-
-Relevancy
-
-organise campaign
-
-40
-
-High
-
-organise a campaign
-
-30
-
-High
-
-how to organise a campaign
-
-30
-
-objectives of advocacy campaigns
-
-30
-
-high
-
-awareness campaign
-
-7.2K
-
-low
-
-online advocacy campaign
-
-110
-
-medium
+<table><tbody><tr><th><p>Keywords</p></th><th><p>Monthly global searches</p></th><th><p>Relevancy</p></th></tr><tr><td><p>organise campaign</p></td><td><p>40</p></td><td><p>High</p></td></tr><tr><td><p>organise a campaign</p></td><td><p>30</p></td><td><p>High</p></td></tr><tr><td><p>how to organise a campaign</p></td><td><p>30</p></td><td><p></p></td></tr><tr><td><p>objectives of advocacy campaigns</p></td><td><p>30</p></td><td><p>high</p></td></tr><tr><td><p>awareness campaign</p></td><td><p>7.2K</p></td><td><p>low</p></td></tr><tr><td><p>online advocacy campaign</p></td><td><p>110</p></td><td><p>medium</p></td></tr></tbody></table>
 
 ## External resources
 

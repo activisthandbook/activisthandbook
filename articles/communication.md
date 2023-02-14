@@ -95,53 +95,7 @@ Answer these questions:
 
 We have not found many keywords yet that have a high search volume and are also very relevant to Activist Handbook. Generic searches such has ‘how to get more likes on instagram’ are hard to compete with, since there are already many articles about this topic. These are not necessarily of high quality, but they are all very much optimised for search engines (often promoting some sort of service or product).
 
-Keywords
-
-Monthly global searches
-
-Relevancy
-
-how to write press release
-
-5.1K
-
-low
-
-phonebanking
-
-6K
-
-medium
-
-how to get more likes
-
-620
-
-low
-
-how to get more likes on instagram
-
-13.2K
-
-low
-
-social media for nonprofits
-
-1.1K
-
-medium
-
-newsletters for nonprofits
-
-310
-
-medium
-
-spokesperson training
-
-550
-
-medium
+<table><tbody><tr><th><p>Keywords</p></th><th><p>Monthly global searches</p></th><th><p>Relevancy</p></th></tr><tr><td><p>how to write press release</p></td><td><p>5.1K</p></td><td><p>low</p></td></tr><tr><td><p>phonebanking</p></td><td><p>6K</p></td><td><p>medium</p></td></tr><tr><td><p>how to get more likes</p></td><td><p>620</p></td><td><p>low</p></td></tr><tr><td><p>how to get more likes on instagram</p></td><td><p>13.2K</p></td><td><p>low</p></td></tr><tr><td><p>social media for nonprofits</p></td><td><p>1.1K</p></td><td><p>medium</p></td></tr><tr><td><p>newsletters for nonprofits</p></td><td><p>310</p></td><td><p>medium</p></td></tr><tr><td><p>spokesperson training</p></td><td><p>550</p></td><td><p>medium</p></td></tr></tbody></table>
 
 \*According to Semrush
 
