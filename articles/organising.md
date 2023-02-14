@@ -6,9 +6,9 @@ description: >
 langCode: en
 articleID: Jivvm_DITjwYHs0BtJuFs9SzsiRHfUlL
 languageCollectionID: 2iL5uLyfvLfLZc8ZAdnUzGAQX_cgwUc1
-updatedTimestamp: 1676215449597
+updatedTimestamp: 1676357684234
 createdTimestamp: 1583581575544
-wordCount: 831
+wordCount: 871
 tags: ["chapters"]
 ---
 
@@ -46,9 +46,9 @@ You want to make a big impact. But you have a limited access to resources needed
 
 <dynamic-image imageid="9d1a59a1-320d-4dcc-a80d-9a0a3330a600" alt="Hedgehogs organising a rebellion"><p>Hedgehogs organising a rebellion, by <a target="_blank" href="https://edit.activisthandbook.org/author/tzmE91SnnrbJJXuvQNBl9rt6HK63">Joppe</a> | Generated using Dall-e</p></dynamic-image>
 
-## Facilitating a strong community
+## Community building
 
-Learn about power structures (both visible and invisible), and how your organisation can improve decision-making and empower its members. Explore how to tackle structural oppression and inaccessibility in your organisation. Learn how to facilitate meetings and brainstorms.
+Organizing is all about bringing people together and building strong communities. Learn how to transform a collective of individuals into an impactful group of activists:
 
 -   **🗳** [**Decision making, facilitation and power**](/organising/decisions-and-power)
     
@@ -68,6 +68,10 @@ Learn about power structures (both visible and invisible), and how your organisa
 ### **What is grassroots organizing?**
 
 Grassroots organizing is a way of working with communities to create change from the ground up. It involves building relationships with people, mobilizing resources and taking collective action to address the issues that affect them. It is a way of empowering people to take action and create positive change in their own lives.
+
+### What is community organizing?
+
+Community organizing is a form of activism and grassroots organizing that involves bringing people together to work on a shared goal or cause. It involves engaging people in their local community to identify common issues and goals, and then taking action together to address those issues and achieve those goals.
 
 ### How to start a grassroots movement?
 
