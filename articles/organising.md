@@ -6,7 +6,7 @@ description: >
 langCode: en
 articleID: Jivvm_DITjwYHs0BtJuFs9SzsiRHfUlL
 languageCollectionID: 2iL5uLyfvLfLZc8ZAdnUzGAQX_cgwUc1
-updatedTimestamp: 1676357684234
+updatedTimestamp: 1676359034621
 createdTimestamp: 1583581575544
 wordCount: 871
 tags: ["chapters"]
@@ -104,119 +104,7 @@ You can make this chapter about organising better. Here are some things you can 
 
 People want to learn more about the following topics. Focus on the most popular ones to help as many activists as possible.
 
-Keywords
-
-Monthly global searches
-
-Relevancy
-
-grassroots activism
-
-1.6K
-
-high
-
-movement building
-
-480
-
-high
-
-creating a movement
-
-320
-
-high
-
-creating a social movement
-
-20
-
-high
-
-creating a social movement for change
-
-20
-
-high
-
-creating a movement for change
-
-10
-
-high
-
-meeting facilitation training / workshop
-
-850
-
-medium
-
-icebreakers
-
-390
-
-medium
-
-minutes of a meeting sample pdf
-
-20
-
-medium
-
-The great wind blows
-
-390
-
-medium
-
-distributed organising
-
-0
-
-high
-
-organizing blueprints
-
-110
-
-high
-
-distributed organising
-
-0
-
-high
-
-change blueprint
-
-110
-
-medium
-
-relational organizing
-
-390
-
-high
-
-activist groups near me
-
-90
-
-medium
-
-popular activist groups
-
-20
-
-medium
-
-organizing while undocumented
-
-30
-
-high
+<table><tbody><tr><th><p>Keywords</p></th><th><p>Monthly global searches</p></th><th><p>Relevancy</p></th></tr><tr><td><p>grassroots activism</p></td><td><p>1.6K</p></td><td><p>high</p></td></tr><tr><td><p>movement building</p></td><td><p>480</p></td><td><p>high</p></td></tr><tr><td><p>creating a movement</p></td><td><p>320</p></td><td><p>high</p></td></tr><tr><td><p>creating a social movement</p></td><td><p>20</p></td><td><p>high</p></td></tr><tr><td><p>creating a social movement for change</p></td><td><p>20</p></td><td><p>high</p></td></tr><tr><td><p>creating a movement for change</p></td><td><p>10</p></td><td><p>high</p></td></tr><tr><td><p>meeting facilitation training / workshop</p></td><td><p>850</p></td><td><p>medium</p></td></tr><tr><td><p>icebreakers</p></td><td><p>390</p></td><td><p>medium</p></td></tr><tr><td><p>minutes of a meeting sample pdf</p></td><td><p>20</p></td><td><p>medium</p></td></tr><tr><td><p>The great wind blows</p></td><td><p>390</p></td><td><p>medium</p></td></tr><tr><td><p>distributed organising</p></td><td><p>0</p></td><td><p>high</p></td></tr><tr><td><p>organizing blueprints</p></td><td><p>110</p></td><td><p>high</p></td></tr><tr><td><p>distributed organising</p></td><td><p>0</p></td><td><p>high</p></td></tr><tr><td><p>change blueprint</p></td><td><p>110</p></td><td><p>medium</p></td></tr><tr><td><p>relational organizing</p></td><td><p>390</p></td><td><p>high</p></td></tr><tr><td><p>activist groups near me</p></td><td><p>90</p></td><td><p>medium</p></td></tr><tr><td><p>popular activist groups</p></td><td><p>20</p></td><td><p>medium</p></td></tr><tr><td><p>organizing while undocumented</p></td><td><p>30</p></td><td><p>high</p></td></tr></tbody></table>
 
 \*According to Semrush
 
