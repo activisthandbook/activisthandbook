@@ -6,9 +6,9 @@ description: >
 langCode: en
 articleID: v7ONnIEx3he17_I-JD0CgqlZRX-75Zuy
 languageCollectionID: GEBMCoST8DAOBDN-LZdnxBWpOlQD18V2
-updatedTimestamp: 1676209168243
+updatedTimestamp: 1676391714094
 createdTimestamp: 1583509165087
-wordCount: 580
+wordCount: 436
 tags: ["tactics","chapters"]
 ---
 
@@ -25,7 +25,7 @@ With a good campaign strategy, your movement or campaign makes more impact. In t
 
 Before you can start to define your strategy, you need to get a group of likeminded people together and [organise yourselves](/organising). After you have defined your strategy, we recommend you to browse through our [list of tactics](/tactics) to get inspiration.
 
-**Vancouver Town Hall** – From May 17th to the end of June, communities across Canada held over 150 town halls across the country to build a Green New Deal for Canada. A Green New Deal is an ambitious vision for tackling the climate crisis, seeing the full implementation of the UN Declaration on the Rights of Indigenous Peoples, the Right to Free Prior and Informed Consent and the TRC recommendations implemented, while creating millions of jobs and leaving no one behind in the process. It is a bold plan to retool our economy at the scale that science and justice demand. That means mass government investment to build a 100% renewable energy economy created safer, healthier communities for all of us.his kind of ambitious plan means a transformative policy platform that stretches across sectors and jurisdictions. And that is why we needed all hands on deck to design it. ([Rachel Tetrault and Jolan Bailey, 2019](https://www.flickr.com/photos/350org/48047820843/in/album-72157709036445817/))
+<dynamic-image imageid="58ca68ee-d1fe-40c7-aa14-5854b90c5900" alt="A dart hitting a dart board right in the center"><p>Stay focussed on your goal, by <a target="_blank" href="https://edit.activisthandbook.org/author/tzmE91SnnrbJJXuvQNBl9rt6HK63">Joppe</a> | Generated using Dall-e</p></dynamic-image>
 
 ## Other strategy guides
 

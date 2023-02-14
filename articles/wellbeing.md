@@ -2,25 +2,19 @@
 title: >
   Wellbeing ❤️
 description: >
-  Taking care of change-makers
+  Take care and prevent an activist burnout
 langCode: en
 articleID: ItlwwJfYopwgV4ZEnH653rUc1JbQ2GJj
 languageCollectionID: l8XZ2W25XNow2B1wFBSVg7-4T2S1LBn3
-updatedTimestamp: 1676210411778
+updatedTimestamp: 1676393120759
 createdTimestamp: 1583509148168
-wordCount: 910
+wordCount: 958
 tags: ["wellbeing","chapters"]
 ---
 
-**This chapter is meant as a guide on how to safeguard the wellbeing of activists. In the process of trying to make a change, you might forget about your own wellbeing. You will learn how why the wellbeing of you and your fellow change-makers is vital for the long term effectiveness of your movement.**
+In this chapter, we explain how prevent burning out by taking care of yourself and others. We discuss group wellbeing, action wellbeing and self-help.
 
-👉 Need help now? Check out [**Wellbeing Hotlines**](/wellbeing/hotlines) and XR's [**Don't Panic guide**](https://docs.google.com/document/d/10UbkxVAUVBJt0xtS_uE78LXCV8QeFwvW76BB6T_ZSok/edit)**.**
-
-## Introduction
-
-Many activists struggle with their mental and physical health, or see how the wellbeing of fellow change-makers is affected by activism. You might experience stress because you feel your contributions do not create any significant change. You might feel disappointed with yourself for not doing enough, or you feel helpless because others are not doing enough. You might fear being infiltrated by police or oppositional activists groups, and are not sure anymore who to trust.
-
-This chapter is about acknowledging those difficulties and providing help for those who need it. In addition, we will talk about how to prevent mental and physical health issues. As so well put by Håkan Geijer: “Be gentle with each other so we can be dangerous together.”
+> 🆘 Need help now? Check out [**Wellbeing Hotlines**](/wellbeing/hotlines)
 
 ## **Group wellbeing**
 
@@ -33,6 +27,8 @@ Articles about wellbeing practices that you can implement as a group:
 -   🏳️‍🌈 **Health marginalised activists** (not created yet, sub-article: [Wellbeing LGBTQIA+ activists](/wellbeing/lgbtqia_inclusion))
     
 
+<dynamic-image imageid="a014428f-d59c-4369-ca5e-d74bbf80d100" alt="Three goats taking care of each other"><p>Together, we are more resilient, by <a target="_blank" href="https://edit.activisthandbook.org/author/tzmE91SnnrbJJXuvQNBl9rt6HK63">Joppe</a> | Generated using Dall-e</p></dynamic-image>
+
 ## **Action wellbeing**
 
 Articles about wellbeing practices that you can implement during your actions:
@@ -43,6 +39,8 @@ Articles about wellbeing practices that you can implement during your actions:
     
 -   **☮️ De-escalation** (available soon!)
     
+
+<dynamic-image imageid="4e1cc461-cd1c-4365-6f21-b8a3c1ba7a00" alt="An elephant holding a first aid kit"><p>A caring elephant with a first aid kit, by <a target="_blank" href="https://edit.activisthandbook.org/author/tzmE91SnnrbJJXuvQNBl9rt6HK63">Joppe</a> | Generated using Dall-e</p></dynamic-image>
 
 ## **Self-help**
 
@@ -66,11 +64,21 @@ Articles that have been written to cover special issues that are currently relev
 -   **💚** [**Wellbeing climate activists**](/wellbeing/climate)
     
 
-> **You can contribute:** Whatever your experiences as activist are, they are valid and deserve to be heard. We want to provide the opportunity for people all over the world to share exchange their experiences. This way we can learn from each other and find comfort in our welcoming community.
-> 
-> Please make sure to treat each other with respect and dignity. You are free to share your experiences anonymously, if that makes you feel more comfortable. Find out more about [how to contribute](/join).
+## Q&A
+
+### Why is wellbeing important?
+
+This chapter is meant as a guide on how to safeguard the wellbeing of activists. In the process of trying to make a change, you might forget about your own wellbeing. You will learn how why the wellbeing of you and your fellow change-makers is vital for the long term effectiveness of your movement.
+
+Many activists struggle with their mental and physical health, or see how the wellbeing of fellow change-makers is affected by activism. You might experience stress because you feel your contributions do not create any significant change. You might feel disappointed with yourself for not doing enough, or you feel helpless because others are not doing enough. You might fear being infiltrated by police or oppositional activists groups, and are not sure anymore who to trust.
+
+This chapter is about acknowledging those difficulties and providing help for those who need it. In addition, we will talk about how to prevent mental and physical health issues. As so well put by Håkan Geijer: “Be gentle with each other so we can be dangerous together.”
 
 ## Improve this page
+
+**You can contribute:** Whatever your experiences as activist are, they are valid and deserve to be heard. We want to provide the opportunity for people all over the world to share exchange their experiences. This way we can learn from each other and find comfort in our welcoming community.
+
+Please make sure to treat each other with respect and dignity. You are free to share your experiences anonymously, if that makes you feel more comfortable. Find out more about [how to contribute](/join).
 
 ### Focus
 

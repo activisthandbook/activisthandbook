@@ -6,9 +6,9 @@ description: >
 langCode: en
 articleID: J3gTgLgqTAzHrap5en3ePR2GBmNRAg__
 languageCollectionID: Hm6ZaeMf02oXtZN2LlCr1NkH7Cxu6Il_
-updatedTimestamp: 1676210488543
+updatedTimestamp: 1676394451869
 createdTimestamp: 1583509188074
-wordCount: 727
+wordCount: 762
 tags: []
 ---
 
@@ -18,7 +18,7 @@ tags: []
 
 -   📣 [**Audiences**](/communication/audiences)
     
--   ✊ **Engagement flow**
+-   ✊ [**Engagement flow**](/communication/engagement-flow)
     
 -   💬 **Language** (include [Inclusive language](/communication/inclusive-language), and [Communicating science](/communication/science))
     
@@ -26,6 +26,8 @@ tags: []
     
 -   **🆘 Crisis communication**
     
+
+<dynamic-image imageid="b69e342f-d846-42c6-1139-52a5c4345200" alt="Illustration of someone holding a bullhorn, a chat bubble and emoji"><p>Make yourself loud and clear with a strong communication strategy, by <a target="_blank" href="https://edit.activisthandbook.org/author/tzmE91SnnrbJJXuvQNBl9rt6HK63">Joppe</a> | Generated using Dall-e</p></dynamic-image>
 
 ## Platforms
 
@@ -44,6 +46,8 @@ Where do you want to share your message?
 -   [**Public speaking**](/communication/public-speaking) (not yet created): Learn how to give a speech during a protest.
     
 
+<dynamic-image imageid="b062102a-f35c-4c7a-3ee5-d3a3a9ce7d00" alt="Public speaking is scary... But if a frog can do it?"><p>Public speaking is scary... But if a frog can do it?, by <a target="_blank" href="https://edit.activisthandbook.org/author/tzmE91SnnrbJJXuvQNBl9rt6HK63">Joppe</a> | Generated using Dall-e</p></dynamic-image>
+
 ## Content creation
 
 -   **🎥** [**Videos**](/communication/videos): Learn how to record videos of your actions.
@@ -54,6 +58,8 @@ Where do you want to share your message?
     
 -   **🏡** [**Action back-office**](/communication/action-back-office)**:** Every action needs people who stay at home or in the office to edit and share media online.
     
+
+<dynamic-image imageid="7c907af9-c22c-45e3-eaaa-0157dbb7c400" alt="A woman spray painting a monkey that is spray painting"><p>Spread your message everywhere, by <a target="_blank" href="https://edit.activisthandbook.org/author/tzmE91SnnrbJJXuvQNBl9rt6HK63">Joppe</a> | Generated using Dall-e</p></dynamic-image>
 
 ## Big-budget communication
 
@@ -123,8 +129,6 @@ We have not found many keywords yet that have a high search volume and are also 
 -   [Handling Crises in Communication](https://ctb.ku.edu/en/community-tool-box-toc/promoting-interest-and-participation-initiatives/chapter-6-promoting-inter-75) by Community Tool Box
     
 -   [Activist and Protest Media](https://actionskills.co/resources/activist-media/) by Action Skills
-    
--   [Video: Why privacy matters](https://www.facebook.com/activisthandbook/videos/212978856564312/), by Joppe Hoekstra (2020)
     
 -   [Dealing with disinformation](https://blueprintsfc.org/guide/dealing-with-disinformation/) by Blueprints for Change
     

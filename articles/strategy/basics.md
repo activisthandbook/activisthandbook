@@ -6,8 +6,9 @@ description: >
 langCode: en
 articleID: yAYzcCOTjAmVsSAXXnmcRarsWt2nUqqQ
 languageCollectionID: ys9pUV4JgNDl6xp3zmTV2bnD1Vj1TkBW
-updatedTimestamp: 1667967709490
+updatedTimestamp: 1676392110974
 createdTimestamp: 1647940094296
+wordCount: 637
 tags: []
 ---
 
@@ -17,23 +18,25 @@ The purpose of a strategy is to help you determine the best approach to achievin
 
 Ready to get your hands dirty? [**Develop your own strategy**](/strategy/develop)
 
+<dynamic-image imageid="8b50c103-bdbf-479a-8d16-99d3f6020d00" alt="Two activists walking a long road towards their goal"><p>Two activists walking a long road towards their goal, by <a target="_blank" href="https://edit.activisthandbook.org/author/tzmE91SnnrbJJXuvQNBl9rt6HK63">Joppe</a> | Generated using Dall-e</p></dynamic-image>
+
 ## **1\. Vision 💡**
 
 Your [**vision**](/strategy/vision) is your analysis of the root problem and your big ideas on how to make the world a better place.
 
-> _**Example**: You might argue that the climate crisis is caused by a political system that gives more power to people with lots of money. However, you still believe there is the possibility_ of _changing this unfair system, by getting together enough people. You want to build a new political system that gives a voice to everyone, especially those impacted most by the climate crisis._
+> **_Example_**_: You might argue that the climate crisis is caused by a political system that gives more power to people with lots of money. However, you still believe there is the possibility_ of _changing this unfair system, by getting together enough people. You want to build a new political system that gives a voice to everyone, especially those impacted most by the climate crisis._
 
 ## 2\. Stakeholders 🌐
 
 [**Stakeholders**](/strategy/stakeholders) are all the individuals, groups of people and organisations that are relevant to your movement.
 
-> _**Example:** You might want to analyse who are the stakeholders for your climate justice campaign. First of all, there are the people who are impacted by the climate crisis. Secondly, you have a list of allies, such as other environmental organisations. Thirdly, you have opponents because they profit from the current system, such as fossil fuel companies and politicians that get funded by them. Finally, you have targets, such as political parties that usually get a lot of votes from people who care about the climate._
+> **_Example:_** _You might want to analyse who are the stakeholders for your climate justice campaign. First of all, there are the people who are impacted by the climate crisis. Secondly, you have a list of allies, such as other environmental organisations. Thirdly, you have opponents because they profit from the current system, such as fossil fuel companies and politicians that get funded by them. Finally, you have targets, such as political parties that usually get a lot of votes from people who care about the climate._
 
 ## 3\. Goals 🎯
 
 Your [**goals**](/strategy/goals) are the concrete things that you want to achieve with your movement. Your goals define the scope of what your movement focuses on, within your broader vision.
 
-> _**Example:** Your movement has the goal of letting people decide about the future of our planet, instead of the lobbyists of fossil fuel companies._ _You want to do so by demanding from your politicians to organise a citizens assembly that has the power to implement new environmental policies._
+> **_Example:_** _Your movement has the goal of letting people decide about the future of our planet, instead of the lobbyists of fossil fuel companies._ _You want to do so by demanding from your politicians to organise a citizens assembly that has the power to implement new environmental policies._
 
 ## 4\. Objectives ✅
 
@@ -52,18 +55,27 @@ The [**evaluation**](/strategy/evaluation) is important to reflect on what you a
 You can make this article about campaign strategies better:
 
 -   Add examples for the objectives, tactics and evaluation
+    
 -   Add more external resources
+    
 
 ## Related articles
 
 -   [Campaign strategy types](/strategy/types)
+    
 -   [Write your own strategy](/strategy/develop)
+    
 
 ## External resources
 
 -   [Building a campaign strategy](http://www.stopclustermunitions.org/media/330831/Campaign-Toolkit-Chapter-3-Building-a-Campaign-Strategy-low-res-.pdf) by Stop Cluster Munitions \[PDF\]
+    
 -   [Campaign strategies](https://archive.informationactivism.org/basic1.html) by 10 Tactics
+    
 -   [Elements of Campaign Strategy](https://commonslibrary.org/elements-of-campaign-strategy/) by James Whelan
+    
 -   [Election Campaign Strategies](https://www.ecanvasser.com/blog/campaign-strategies) by Ecanvasser
+    
 -   [Campaigning for Social Change: Beyond Just Protesting For It](https://commonslibrary.org/campaigning-for-social-change-beyond-just-protesting-for-it/) by Daniel Hunter
+    
 -   [The Building Power Guide](https://commonslibrary.org/building-power/) by Original Power
