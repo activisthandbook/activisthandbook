@@ -137,6 +137,18 @@
       }
     }
 
+    table{
+      p{
+      margin:0
+      }
+      td, th {
+        padding: calc(4px + 0.6vw);
+        font-size: calc(10px + 0.6vw);
+        text-align: left;
+      }
+
+    }
+
 
     // IMAGE
     img,
