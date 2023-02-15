@@ -6,10 +6,13 @@ description: >
 langCode: en
 articleID: c4L2x0pWlUtcQ6RyikLG9sE4KPBUkgNE
 languageCollectionID: GsUEXf9xjOCPs2pSe9JLVp0JaWIGjZ09
-updatedTimestamp: 1673692386051
+updatedTimestamp: 1676481996076
 createdTimestamp: 1639823695813
+wordCount: 355
 tags: []
 ---
+
+What cause are you fighting for? Actri
 
 **Welcome to Campaigns, the chapter where we write about specific causes that Activist Handbook audience finds important. These articles are so called “Landing pages” where people get introduced to our regular chapters which have a more general application.**
 
@@ -18,15 +21,27 @@ tags: []
 ## List of campaigns
 
 -   **🌍** [**Climate activists**](/campaigns/climate): Building environmental movements to take collective action for climate justice
+    
 -   **💪** [**Labor unions**](/campaigns/labor-unions): Organising for workers' rights
+    
 -   **🎓** [**Student unions**](/campaigns/student-unions): Organising for students' rights
+    
 -   **🏡** [**Housing rights**](/campaigns/housing): Tenants protesting for affordable housing
+    
 -   **🐷** [**Animal rights**](/campaigns/animal-rights): Representing life which can not speak
+    
+-   🏳️‍🌈 [**Queer activists**](/campaigns/queer): Fighting for LGBTQIA+ rights
+    
 -   **💸** [**Post-capitalism**](/campaigns/post-capitalism): Alternative to mainstream economics
+    
 -   **🙌** [**Community activism**](/campaigns/community-activism): act for your community
+    
 -   ⚤ [**Women's rights activism**](/campaigns/womens-rights): Advocating for gender equity
--   🥼 [**Science activism**](/campaigns/science-activism)
--   ✊ [**Youth activism**](/campaigns/youth)
+    
+-   🥼 [**Science activism**](/campaigns/science-activism): Academics speaking out
+    
+-   ✊ [**Youth activism**](/campaigns/youth): Empowering your people
+    
 
 ## Improve this page
 
@@ -34,7 +49,7 @@ tags: []
 
 People are searching for:
 
-<div><table><thead><tr><th>Keywords</th><th>Monthly global searches</th><th>Relevancy</th></tr></thead><tbody><tr><td>Youth activism</td><td>2.5K</td><td>medium</td></tr><tr><td>Social justice activism</td><td>470</td><td>low</td></tr><tr><td>Social activism</td><td>9.8K</td><td>low</td></tr><tr><td>Activism ideas for students</td><td>110</td><td>medium</td></tr><tr><td>student activism</td><td>1.9K</td><td>medium</td></tr><tr><td>climate activism</td><td>6.3K</td><td>medium</td></tr><tr><td>Political <span>activism</span></td><td>5.5K</td><td>low</td></tr><tr><td>civic engagement</td><td>16.7K</td><td>medium</td></tr><tr><td>Civil rights movement</td><td>120.4K</td><td>low</td></tr><tr><td>Women's rights activism</td><td>720</td><td>high</td></tr><tr><td>LGBT activism</td><td>2.1K</td><td>high</td></tr><tr><td>Community activism</td><td>1.2K</td><td>medium</td></tr><tr><td>Anti-war protest</td><td>110</td><td>low</td></tr><tr><td>Black Lives Matter activism</td><td>10</td><td>low</td></tr><tr><td>Me Too activists</td><td>50</td><td>medium</td></tr><tr><td>Labor union</td><td>35.2K</td><td>Low</td></tr><tr><td>Workers union</td><td>9.5K</td><td>Low</td></tr><tr><td>Trade union</td><td>56K</td><td>Low</td></tr><tr><td>Anarchism</td><td>277K</td><td>low</td></tr><tr><td>Refugee activism</td><td>80</td><td>high</td></tr><tr><td>Indigenous activism</td><td>420</td><td>high</td></tr><tr><td>Human rights activism</td><td>3.1K</td><td>medium</td></tr><tr><td>reclaim the streets</td><td>5.6K</td><td>medium</td></tr><tr><td>how do I become an activist</td><td>130</td><td>high</td></tr><tr><td>how do you become an activist</td><td>170</td><td>high</td></tr><tr><td>how to be social activist</td><td>280</td><td>high</td></tr><tr><td>things to be an activist for</td><td>50</td><td>high</td></tr><tr><td>how to become a teen activist</td><td>100</td><td>high</td></tr><tr><td>nonprofit guides</td><td>300</td><td>low</td></tr><tr><td>activism wiki</td><td>30</td><td>high</td></tr><tr><td>public activist</td><td>110</td><td>high</td></tr><tr><td>mutual aid ideas</td><td>50</td><td>medium</td></tr></tbody></table></div>
+<table><tbody><tr><th><p>Keywords</p></th><th><p>Monthly global searches</p></th><th><p>Relevancy</p></th></tr><tr><td><p>Youth activism</p></td><td><p>2.5K</p></td><td><p>medium</p></td></tr><tr><td><p>Social justice activism</p></td><td><p>470</p></td><td><p>low</p></td></tr><tr><td><p>Social activism</p></td><td><p>9.8K</p></td><td><p>low</p></td></tr><tr><td><p>Activism ideas for students</p></td><td><p>110</p></td><td><p>medium</p></td></tr><tr><td><p>student activism</p></td><td><p>1.9K</p></td><td><p>medium</p></td></tr><tr><td><p>climate activism</p></td><td><p>6.3K</p></td><td><p>medium</p></td></tr><tr><td><p>Political activism</p></td><td><p>5.5K</p></td><td><p>low</p></td></tr><tr><td><p>civic engagement</p></td><td><p>16.7K</p></td><td><p>medium</p></td></tr><tr><td><p>Civil rights movement</p></td><td><p>120.4K</p></td><td><p>low</p></td></tr><tr><td><p>Women's rights activism</p></td><td><p>720</p></td><td><p>high</p></td></tr><tr><td><p>LGBT activism</p></td><td><p>2.1K</p></td><td><p>high</p></td></tr><tr><td><p>Community activism</p></td><td><p>1.2K</p></td><td><p>medium</p></td></tr><tr><td><p>Anti-war protest</p></td><td><p>110</p></td><td><p>low</p></td></tr><tr><td><p>Black Lives Matter activism</p></td><td><p>10</p></td><td><p>low</p></td></tr><tr><td><p>Me Too activists</p></td><td><p>50</p></td><td><p>medium</p></td></tr><tr><td><p>Labor union</p></td><td><p>35.2K</p></td><td><p>Low</p></td></tr><tr><td><p>Workers union</p></td><td><p>9.5K</p></td><td><p>Low</p></td></tr><tr><td><p>Trade union</p></td><td><p>56K</p></td><td><p>Low</p></td></tr><tr><td><p>Anarchism</p></td><td><p>277K</p></td><td><p>low</p></td></tr><tr><td><p>Refugee activism</p></td><td><p>80</p></td><td><p>high</p></td></tr><tr><td><p>Indigenous activism</p></td><td><p>420</p></td><td><p>high</p></td></tr><tr><td><p>Human rights activism</p></td><td><p>3.1K</p></td><td><p>medium</p></td></tr><tr><td><p>reclaim the streets</p></td><td><p>5.6K</p></td><td><p>medium</p></td></tr><tr><td><p>how do I become an activist</p></td><td><p>130</p></td><td><p>high</p></td></tr><tr><td><p>how do you become an activist</p></td><td><p>170</p></td><td><p>high</p></td></tr><tr><td><p>how to be social activist</p></td><td><p>280</p></td><td><p>high</p></td></tr><tr><td><p>things to be an activist for</p></td><td><p>50</p></td><td><p>high</p></td></tr><tr><td><p>how to become a teen activist</p></td><td><p>100</p></td><td><p>high</p></td></tr><tr><td><p>nonprofit guides</p></td><td><p>300</p></td><td><p>low</p></td></tr><tr><td><p>activism wiki</p></td><td><p>30</p></td><td><p>high</p></td></tr><tr><td><p>public activist</p></td><td><p>110</p></td><td><p>high</p></td></tr><tr><td><p>mutual aid ideas</p></td><td><p>50</p></td><td><p>medium</p></td></tr></tbody></table>
 
 ## External resources
 

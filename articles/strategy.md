@@ -6,7 +6,7 @@ description: >
 langCode: en
 articleID: v7ONnIEx3he17_I-JD0CgqlZRX-75Zuy
 languageCollectionID: GEBMCoST8DAOBDN-LZdnxBWpOlQD18V2
-updatedTimestamp: 1676391714094
+updatedTimestamp: 1676395323912
 createdTimestamp: 1583509165087
 wordCount: 436
 tags: ["tactics","chapters"]
@@ -25,7 +25,7 @@ With a good campaign strategy, your movement or campaign makes more impact. In t
 
 Before you can start to define your strategy, you need to get a group of likeminded people together and [organise yourselves](/organising). After you have defined your strategy, we recommend you to browse through our [list of tactics](/tactics) to get inspiration.
 
-<dynamic-image imageid="58ca68ee-d1fe-40c7-aa14-5854b90c5900" alt="A dart hitting a dart board right in the center"><p>Stay focussed on your goal, by <a target="_blank" href="https://edit.activisthandbook.org/author/tzmE91SnnrbJJXuvQNBl9rt6HK63">Joppe</a> | Generated using Dall-e</p></dynamic-image>
+<dynamic-image imageid="58ca68ee-d1fe-40c7-aa14-5854b90c5900" alt="A dart hitting a dart board right in the center"><p>Stay focused on your goal, by <a target="_blank" href="https://edit.activisthandbook.org/author/tzmE91SnnrbJJXuvQNBl9rt6HK63">Joppe</a> | Generated using Dall-e</p></dynamic-image>
 
 ## Other strategy guides
 

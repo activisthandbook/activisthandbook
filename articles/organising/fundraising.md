@@ -6,9 +6,9 @@ description: >
 langCode: en
 articleID: KpSE6GZzWtgmL1uqgz-MGDkI0p43Y3tw
 languageCollectionID: 0i_-Q9v7ZVA3wxBRMxfhy5eJ5GSoLBKU
-updatedTimestamp: 1676205133107
+updatedTimestamp: 1676481344073
 createdTimestamp: 1598872029744
-wordCount: 569
+wordCount: 564
 tags: []
 ---
 
@@ -73,7 +73,7 @@ You can make this guide about fundraising for nonprofits better! Here are some s
     
 -   [Academic: Sustaining the Work](https://ctb.ku.edu/en/best-change-processes/sustaining-the-work/overview) by Community Tool Box
     
--   [How to Create a Donation Form That Works](https://hub.ilga-europe.org/fundraising/how-to-create-a-donation-form-that-works/?utm_source=activisthandbook.org) by ILGA-Europe Hub
+-   [Collection: Fundraising](https://hub.ilga-europe.org/fundraising/?utm_source=activisthandbook.org) by ILGA Europe Hub
     
 
 ### Copyright resources

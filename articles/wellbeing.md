@@ -6,9 +6,9 @@ description: >
 langCode: en
 articleID: ItlwwJfYopwgV4ZEnH653rUc1JbQ2GJj
 languageCollectionID: l8XZ2W25XNow2B1wFBSVg7-4T2S1LBn3
-updatedTimestamp: 1676393120759
+updatedTimestamp: 1676481606702
 createdTimestamp: 1583509148168
-wordCount: 958
+wordCount: 974
 tags: ["wellbeing","chapters"]
 ---
 
@@ -150,6 +150,10 @@ Please make sure to treat each other with respect and dignity. You are free to s
 -   [Holding Our Groups Together in Hard Times](https://commonslibrary.org/holding-our-groups-together-in-hard-times/) by Holly Hammond
     
 -   [Collection: Wellbeing](https://hub.ilga-europe.org/wellbeing/?utm_source=activisthandbook.org) by ILGA-Europe Hub
+    
+-   [How to Give Psychological First Aid (PFA)](https://hub.ilga-europe.org/security/how-to-give-psychological-first-aid-pfa/?utm_source=activisthandbook.org) by ILGA-Europe Hub
+    
+-   [Wellbeing during COVID-19](https://hub.ilga-europe.org/security/taking-care-of-our-security-and-wellbeing-in-the-new-covid-19-reality/?utm_source=activisthandbook.org) by ILGA-Europe Hub
     
 
 ### Spirituality and Community Building

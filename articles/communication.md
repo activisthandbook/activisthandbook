@@ -6,9 +6,9 @@ description: >
 langCode: en
 articleID: J3gTgLgqTAzHrap5en3ePR2GBmNRAg__
 languageCollectionID: Hm6ZaeMf02oXtZN2LlCr1NkH7Cxu6Il_
-updatedTimestamp: 1676394451869
+updatedTimestamp: 1676481238552
 createdTimestamp: 1583509188074
-wordCount: 762
+wordCount: 788
 tags: []
 ---
 
@@ -116,6 +116,8 @@ We have not found many keywords yet that have a high search volume and are also 
 
 ## External resources
 
+### Creative Commons
+
 -   [Communications to Promote Interest](https://ctb.ku.edu/en/table-of-contents/participation/promoting-interest) by Community Tool Box
     
 -   [Developing a Plan for Communication](https://ctb.ku.edu/en/community-tool-box-toc/promoting-interest-and-participation-initiatives/chapter-6-promoting-intere-0) by Community Tool Box
@@ -128,6 +130,15 @@ We have not found many keywords yet that have a high search volume and are also 
     
 -   [Handling Crises in Communication](https://ctb.ku.edu/en/community-tool-box-toc/promoting-interest-and-participation-initiatives/chapter-6-promoting-inter-75) by Community Tool Box
     
+-   [Collection: Communication for queer activists](https://hub.ilga-europe.org/communications/?utm_source=activisthandbook.org) by ILGA-Europe Hub
+    
+-   [5 Questions to Ask Yourself When Planning a Communications Campaign](https://hub.ilga-europe.org/campaigning/5-questions-to-ask-yourself-when-planning-a-communications-campaign/?utm_source=activisthandbook.org) by ILGA-Europe Hub (2021)
+    
+-   [Framing for LGBTI activists](https://hub.ilga-europe.org/campaigning/do-it-yourself-framing-lgbti-activists/?utm_source=activisthandbook.org) by ILGA-Europe Hub (2020)
+    
+
+### Copyright resources
+
 -   [Activist and Protest Media](https://actionskills.co/resources/activist-media/) by Action Skills
     
 -   [Dealing with disinformation](https://blueprintsfc.org/guide/dealing-with-disinformation/) by Blueprints for Change
@@ -141,8 +152,6 @@ We have not found many keywords yet that have a high search volume and are also 
 -   [Narrative Initiative](https://narrativeinitiative.org/resources/)
     
 -   [Naming an Advocacy Campaign](https://commonslibrary.org/naming-an-advocacy-campaign/) by Tim Singleton North
-    
--   [Collection: Communication for queer activists](https://hub.ilga-europe.org/communications/?utm_source=activisthandbook.org) by ILGA-Europe Hub
     
 
 ### Social marketing

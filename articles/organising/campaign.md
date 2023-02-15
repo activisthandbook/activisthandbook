@@ -6,17 +6,15 @@ description: >
 langCode: en
 articleID: tvO08rRa9AhOz9-bQk2MnsJmo3IxrqGt
 languageCollectionID: 8Z7ZJiFcy-pvsGmAE6ZVgHrjZvu8r4pl
-updatedTimestamp: 1676209117264
+updatedTimestamp: 1676480952168
 createdTimestamp: 1653837592592
-wordCount: 701
+wordCount: 806
 tags: []
 ---
 
 In this guide, we explain how to organise a campaign. Learn how to advocate your cause with the right campaign planning. Go beyond raising awareness and make change happen.
 
 If you're an activist who wants to make a difference, you need to know how to organise a campaign. A well-organised campaign can be the key to success, and this guide will show you how to do it. From setting goals and targetting your audience, to choosing the right tactics and organising your team, we'll cover everything you need to know to make your campaign a success.
-
-Bee talking into bullhorn - Generated using OpenAI
 
 ## Steps to organise a campaign
 
@@ -26,7 +24,7 @@ Start by getting together two or three likeminded people. Having a few different
 
 Check out our organising chapter to learn more about how to mobilise more people, keep people involved, work together with other organisations, and more:
 
-<action-button buttonlink="/organising" buttonlabel="Guide: Grassroots organising"></action-button>
+<action-button buttonlink="/organising" buttonlabel="Grassroots organising"></action-button>
 
 ### 2\. Start strategising
 
@@ -43,7 +41,7 @@ Instead, make a strategy first. Think about the following:
 
 Learn how to write your own campaign strategy:
 
-<action-button buttonlink="/strategy" buttonlabel="Guide: Write a campaign strategy"></action-button>
+<action-button buttonlink="/strategy" buttonlabel="Write a campaign strategy"></action-button>
 
 ### 3\. Choose your action tactics
 
@@ -62,7 +60,7 @@ In our [tactics](/tactics) chapter, we help you answer questions like:
 
 For inspiration, check out our list with action tactics used by activists around the globe:
 
-<action-button buttonlink="/tactics" buttonlabel="Guide: Pick your action tactics"></action-button>
+<action-button buttonlink="/tactics" buttonlabel="Pick your action tactics"></action-button>
 
 ### 4\. Communicate your message
 
@@ -79,7 +77,7 @@ You want the right people to know about your campaign. So you need to develop a 
 
 Have a look at our communication chapter to learn more:
 
-<action-button buttonlink="/communication" buttonlabel="Guide: Communicate your message"></action-button>
+<action-button buttonlink="/communication" buttonlabel="Communicate your message"></action-button>
 
 ### 5\. Take care
 
@@ -92,21 +90,34 @@ Remember: you are in this for the long run. Do not work yourself and your fellow
 
 Learn all about group-, action- and self-care:
 
-<action-button buttonlink="/wellbeing" buttonlabel="Guide: Wellbeing in activism"></action-button>
+<action-button buttonlink="/wellbeing" buttonlabel="Wellbeing in activism"></action-button>
 
 ### 6\. Pick your digital toolset
 
 If you are not using the right digital tools, you will soon find yourself overwhelmed with boring administrative tasks. With a good digital toolset, you will be able to do more in less time.
 
+Check out our [tools chapter](/tools) to learn all about:
+
+-   **Project management:** Use tools to keep track of to-do's and stay on track with your team.
+    
+-   **Creating a website**: Allow people to sign up for events, add forms for registering as member, share guides for your volunteers, and write content so you can be found via search engines
+    
+-   **Automate administrative tasks:** Use tools like Zapier or n8n to make all of your digital tools work together seamlessly.
+    
+-   **Digital security:** You should protect yourself and fellow change-makers from hackers. As activist, you are in a high risk group.
+    
+-   **_And much more!_** _For example: learn how to livesteam actions, find free stock images or record podcasts._
+    
+
 Check out our tools chapter, to find campaigning tools that are easy to use and affordable for nonprofits:
 
-<action-button buttonlink="/tools" buttonlabel="Guide: Pick a digital toolset"></action-button>
+<action-button buttonlink="/tools" buttonlabel="Pick a digital toolset"></action-button>
 
 ### 7\. Know your rights
 
 Once you start making impact, you will find that your opponents start using the law to try and stop you. Don't let them. In many countries, the law provides certain protections to activists. Learn all about your legal rights:
 
-<action-button buttonlink="/rights" buttonlabel="Guide: Legal info for activists"></action-button>
+<action-button buttonlink="/rights" buttonlabel="Legal info for activists"></action-button>
 
 ## Improve this page
 
