@@ -6,44 +6,52 @@ description: >
 langCode: en
 articleID: c4L2x0pWlUtcQ6RyikLG9sE4KPBUkgNE
 languageCollectionID: GsUEXf9xjOCPs2pSe9JLVp0JaWIGjZ09
-updatedTimestamp: 1676481996076
+updatedTimestamp: 1676531204453
 createdTimestamp: 1639823695813
-wordCount: 355
+wordCount: 376
 tags: []
 ---
 
-What cause are you fighting for? Actri
+No matter what cause you are fighting for, we've got a handbook for you. Activist Handbook brings intersectionality into practice by writing guides for all social, progressive and green campaigners.
 
-**Welcome to Campaigns, the chapter where we write about specific causes that Activist Handbook audience finds important. These articles are so called “Landing pages” where people get introduced to our regular chapters which have a more general application.**
-
-> By organising our content based on causes, we make it easier for activists to find our handbook. People usually tend to look up cause-related search terms, so with these landing pages we make sure get to the high quality content, without having to know exactly what to search for.
+For each campaign, we have selected our most relevant resources. Select your cause and start learning!
 
 ## List of campaigns
 
--   **🌍** [**Climate activists**](/campaigns/climate): Building environmental movements to take collective action for climate justice
-    
--   **💪** [**Labor unions**](/campaigns/labor-unions): Organising for workers' rights
-    
--   **🎓** [**Student unions**](/campaigns/student-unions): Organising for students' rights
-    
--   **🏡** [**Housing rights**](/campaigns/housing): Tenants protesting for affordable housing
-    
+In alphabetic order:
+
 -   **🐷** [**Animal rights**](/campaigns/animal-rights): Representing life which can not speak
     
--   🏳️‍🌈 [**Queer activists**](/campaigns/queer): Fighting for LGBTQIA+ rights
-    
--   **💸** [**Post-capitalism**](/campaigns/post-capitalism): Alternative to mainstream economics
+-   **🌍** [**Climate activism**](/campaigns/climate-activism): Building environmental movements for climate justice
     
 -   **🙌** [**Community activism**](/campaigns/community-activism): act for your community
     
--   ⚤ [**Women's rights activism**](/campaigns/womens-rights): Advocating for gender equity
+-   **🏡** [**Housing rights**](/campaigns/housing): Tenants protesting for affordable housing
+    
+-   **⚖️** [**Human rights**](/campaigns/human-rights)**:** Basic rights for everyone
+    
+-   **💪** [**Labor unions**](/campaigns/labor-unions): Organising for workers' rights
+    
+-   🗳 [**Political activism**](/campaigns/political-activism): Win election campaigns
+    
+-   **💸** [**Post-capitalism**](/campaigns/post-capitalism): Alternative to mainstream economics
+    
+-   🏳️‍🌈 [**Queer activism**](/campaigns/queer-activism): Fighting for LGBTQIA+ rights
     
 -   🥼 [**Science activism**](/campaigns/science-activism): Academics speaking out
     
--   ✊ [**Youth activism**](/campaigns/youth): Empowering your people
+-   ❤️ [**Social activism**](/campaigns/social-activism): Standing up for social justice
+    
+-   **🎓** [**Student unions**](/campaigns/student-unions): Organising for students' rights
+    
+-   ⚤ [**Women's rights activism**](/campaigns/womens-rights): Advocating for gender equity
+    
+-   ✊ [**Youth activism**](/campaigns/youth-activism): Empowering your people
     
 
 ## Improve this page
+
+By organising our content based on causes, we make it easier for activists to find our handbook. People usually tend to look up cause-related search terms, so with these landing pages we make sure get to the high quality content, without having to know exactly what to search for.
 
 ### Search keywords
 
