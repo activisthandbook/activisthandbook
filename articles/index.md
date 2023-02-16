@@ -42,10 +42,6 @@ features:
 
 Activist Handbook consists of **450+ guides** and **4.7K external resources** to help you make more impact with your next campaign. Our guides are written by progressive, green and social activists from all over the world.
 
-### 📕 Theory of change for activists
-
-Develop a [theory of change](/theory) for your activist organisation using our templates and guides. Learn how we define activism and why we think it is the best way to make a positive impact.
-
 ### 🌊 Organise a grassroots movement
 
 Learn what [grassroots organising](/organising) means and get help starting your own grassroots movement.
@@ -65,6 +61,10 @@ Learn how to develop a [communication strategy](/communication), write a press r
 ### 🧑‍⚖️ Your right to protest
 
 The laws about the [right to protest](/rights), freedom of speech and assembly are different in every country. Know your rights and prepare yourself with resources from organisations around the world.
+
+### 📕 Theory of change for activists
+
+Develop a [theory of change](/theory) for your activist organisation using our templates and guides. Learn how we define activism and why we think it is the best way to make a positive impact.
 
 <action-smart-large/>
 
@@ -88,12 +88,12 @@ We don’t just write guides. Activist Handbook uses a **data-driven approach** 
 
 Activist Handbook is here for all progressive, green and social activists. We empower people around the globe to reclaim the streets and uproot the system. For each cause, we have written a guide to help you get started.
 
-- **❤️ [Social activism](campaigns/social)**: Learn how you can take action to put social challanges on the agenda and make a change. No matter whether you want to fight poverty or stand up for queer rights, we provide you with the tools and training to organise succesful campaigns.
-- **🌍 [Climate activism](/campaigns/climate)**: Stand up for climate justice by learning from environmental grassroots movements such as Fridays for Future, Greenpeace and Extinction Rebellion. Learn how why protesting is effective and find a climate group to join. Or start your own initiative!
-- **🗳 [Political activism](/campaigns/political)**: Learn everything about political activism. We have guides about door-to-door canvassing, preparing election campaign strategies, crowdfunding, running as a candidate, and many other forms of civic engagement.
+- **❤️ [Social activism](campaigns/social-activism)**: Learn how you can take action to put social challanges on the agenda and make a change. No matter whether you want to fight poverty or stand up for queer rights, we provide you with the tools and training to organise succesful campaigns.
+- **🌍 [Climate activism](/campaigns/climate-activism)**: Stand up for climate justice by learning from environmental grassroots movements such as Fridays for Future, Greenpeace and Extinction Rebellion. Learn how why protesting is effective and find a climate group to join. Or start your own initiative!
+- **🗳 [Political activism](/campaigns/political-activism)**: Learn everything about political activism. We have guides about door-to-door canvassing, preparing election campaign strategies, crowdfunding, running as a candidate, and many other forms of civic engagement.
 - **👩‍⚖️ [Human rights activism](/campaigns/human-rights)**: Find out how to defend human rights. Read our guides on how to stand up for justice by starting a campaign to fight for democracy, equality and freedom.
-- **📢 [Youth activism](/campaigns/youth)**: We help students around the world make their voices heard. Read our guides to become more effective as a young change-maker and learn from examples of other succesful youth movements.
-- **🙌 [Community activism](/campaigns/community)**: Make a difference in your community by organising locally. We explain what a community activist is and how to become involved.
+- **📢 [Youth activism](/campaigns/youth-activism)**: We help students around the world make their voices heard. Read our guides to become more effective as a young change-maker and learn from examples of other succesful youth movements.
+- **🙌 [Community activism](/campaigns/community-activism)**: Make a difference in your community by organising locally. We explain what a community activist is and how to become involved.
 
 _Also make sure to check out the rest of our [campaigns](/campaigns)._
 
