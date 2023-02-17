@@ -6,7 +6,7 @@ description: >
 langCode: en
 articleID: XIgAxsDXgYVhs5ns90TUqOpCRJudip4A
 languageCollectionID: M4oQzM4kkLmmPBClRgocK1sL2BS2jXE2
-updatedTimestamp: 1676634994668
+updatedTimestamp: 1676635758917
 createdTimestamp: 1676567899135
 wordCount: 1876
 tags: []
@@ -45,9 +45,9 @@ Want to become a facilitating pro? Read the guides below. Just want the key info
     
 -   **🐳** [**Large group meetings**](/organising/facilitating/large-group)
     
--   **🛠** [**Facilitation techniques 101**](/organising/facilitating/tools)
+-   **🛠** [**Facilitation techniques 101**](/organising/facilitating/techniques)
     
--   **🆘** [**Common challenges**](/organising/facilitating/troubleshooting)
+-   **🆘** [**Common challenges**](/organising/facilitating/challenges)
     
 
 ### Facilitation techniques
