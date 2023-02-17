@@ -1,12 +1,12 @@
 ---
 title: >
-  Key facilitator skills
+  Meeting facilitator skills
 description: >
   Guide: Skills to train yourself in
 langCode: en
 articleID: Afz6Q7HqEy6hDEgWD_ajp5an1RPQubbx
 languageCollectionID: rc_OXF42JjapLnoTMj8ISX7VH00G9HJo
-updatedTimestamp: 1676635653494
+updatedTimestamp: 1676638272087
 createdTimestamp: 1676631824864
 wordCount: 1530
 ---
