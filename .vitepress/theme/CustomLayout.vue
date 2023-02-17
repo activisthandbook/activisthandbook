@@ -192,7 +192,7 @@ function focusID(anchor){
           </div>
           <div class="actions">
             <a :href="'https://edit.activisthandbook.org/article/' +
-                $frontmatter.articleID" target="_blank">📝 Edit</a>
+                $frontmatter.articleID">📝 Edit</a>
             <a :href="
               'https://edit.activisthandbook.org/translate/' +
               $frontmatter.languageCollectionID" target="_blank">🌐 Add translation</a>
@@ -213,7 +213,6 @@ function focusID(anchor){
                 'https://edit.activisthandbook.org/article/' +
                 $frontmatter.articleID
               "
-              target="_blank"
               class="edit-button"
               aria-label="Edit article"
             >
@@ -236,7 +235,7 @@ function focusID(anchor){
                 'https://edit.activisthandbook.org/article/' +
                 $frontmatter.articleID
               "
-              target="_blank">Improve this page!</a>
+              >Improve this page!</a>
           </div>
 
 
