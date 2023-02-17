@@ -6,9 +6,9 @@ description: >
 langCode: en
 articleID: KuHDKdCZWWd381Yp6YeeNpVNt-FqQjFx
 languageCollectionID: JV6ejjHODS-3aljFYxv2-Fitit6Rcva9
-updatedTimestamp: 1676631035180
+updatedTimestamp: 1676641817534
 createdTimestamp: 1676630262580
-wordCount: 1944
+wordCount: 1959
 ---
 
 In this article, we explain the basics of facilitating. We discuss what facilitating is and how it differs from chairing. And we stress the importance of learning how to become a good facilitator.
@@ -132,4 +132,10 @@ In addition, you can create a host of additional roles to ease the pressure on t
 
 **A doorkeeper** is useful in public meetings or when some people may be late. The door­keeper welcomes newcomers or late­comers and brings them up to speed on the meeting – aims, what's been covered so far in the agenda, how decisions are being made, as well as the practical 'housekeeping' information such as tea and toilets. A doorkeeper can prevent the flow of a meeting being interrupted to recap every time someone enters the room.
 
-In very large meetings it is advisable to have a **practical co-ordinator** responsible for the venue, equipment, refreshments and notices. The co-ordin­ator can also gather people together to start on time.
+In very large meetings it is advisable to have a **practical coordinator** responsible for the venue, equipment, refreshments and notices. The co-ordin­ator can also gather people together to start on time.
+
+## Attribution
+
+Work from the following sources was reused:
+
+-   [Facilitating Meetings](https://www.seedsforchange.org.uk/facilitationmeeting?utm_source=activisthandbook.org) by Seeds for Change (2019)

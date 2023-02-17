@@ -6,7 +6,7 @@ description: >
 langCode: en
 articleID: XIgAxsDXgYVhs5ns90TUqOpCRJudip4A
 languageCollectionID: M4oQzM4kkLmmPBClRgocK1sL2BS2jXE2
-updatedTimestamp: 1676637817734
+updatedTimestamp: 1676641503201
 createdTimestamp: 1676567899135
 wordCount: 1876
 tags: []
@@ -41,7 +41,7 @@ Want to become a facilitating pro? Read the guides below. Just want the key info
     
 -   📄 [**Facilitating script: beginning to end**](/organising/facilitating/script)
     
--   👑 [**Key facilitating skills**](/organising/faciliating/skills)
+-   👑 [**Key facilitating skills**](/organising/facilitating/skills)
     
 -   **🐳** [**Large group meetings**](/organising/facilitating/large-group)
     

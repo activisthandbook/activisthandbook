@@ -6,9 +6,9 @@ description: >
 langCode: en
 articleID: Afz6Q7HqEy6hDEgWD_ajp5an1RPQubbx
 languageCollectionID: rc_OXF42JjapLnoTMj8ISX7VH00G9HJo
-updatedTimestamp: 1676641319791
+updatedTimestamp: 1676641871694
 createdTimestamp: 1676631824864
-wordCount: 1530
+wordCount: 1545
 ---
 
 In this guide, we provide an overview of the skills you need as a meeting facilitator. We discuss active listening, questioning, summarising and synthesis.
@@ -95,3 +95,9 @@ People often argue over small details and overlook the fact that they agree on t
 Even when there is strong disagreement within the group, synthesis can help move the discussion on. Always try and find some common ground, no matter how small: “So we're all agreed that climate change demands urgent action, even if we disagree on whether the solution lies in developing new technologies, or reducing consumption”. This can reinforce that we're all on the same side, and remind a group of their overall shared aims – a necessary condition for consensus.
 
 Also synthesising a solution doesn't necessarily mean uniformity or unanimity. Sometimes a solution is staring us in the face, but our desire to get full agreement becomes an obstacle: “So we're all agreed we'd like to go ahead with the protest. However some feel strongly that the target of our protest should be government, and others feel it ought to be corporations – is there any reason why we have to choose between the two? Could we not agree that both can happen?”
+
+## Attribution
+
+Work from the following sources was reused:
+
+-   [Facilitating Meetings](https://www.seedsforchange.org.uk/facilitationmeeting?utm_source=activisthandbook.org) by Seeds for Change (2019)

@@ -6,9 +6,9 @@ description: >
 langCode: en
 articleID: ljrejf3Mj7btSNX2FnjYJXK9LalhkTpZ
 languageCollectionID: Bh0dodfpKAakOs8eC0-gIZKyo0BiB96J
-updatedTimestamp: 1676636741216
+updatedTimestamp: 1676641837813
 createdTimestamp: 1676631255915
-wordCount: 477
+wordCount: 492
 ---
 
 In this guide, you will learn how to prepare a meeting agenda. We have included some steps for creating an agenda, as well as a template meeting agenda.
@@ -70,3 +70,9 @@ Stop Newton Bypass Campaign
     
 
 **End 9.30pm**
+
+## Attribution
+
+Work from the following sources was reused:
+
+-   [Facilitating Meetings](https://www.seedsforchange.org.uk/facilitationmeeting?utm_source=activisthandbook.org) by Seeds for Change (2019)

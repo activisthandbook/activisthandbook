@@ -6,14 +6,14 @@ description: >
 langCode: en
 articleID: vmdPVEYsMaXfS7A3COdKbe6lsIt0ue6m
 languageCollectionID: zRnTbJtHPUSgbld0SDVcYXVBrx4DYgSr
-updatedTimestamp: 1676641281469
+updatedTimestamp: 1676641971033
 createdTimestamp: 1676632433104
-wordCount: 738
+wordCount: 758
 ---
 
 In this guide, we provide an overview of the best facilitating tools and techniques.
 
-This is a short intro to a few common techniques. For more see our guide [**Facilitation Tools for Meetings and Workshops.**](https://www.seedsforchange.org.uk/tools)
+> 📚 This guide is part of a series on [**how to facilitate meetings**](/organising/facilitating/large-groups).
 
 **Go-rounds:** everyone takes a turn to speak without interrupt­ion or comment from other people. Go-rounds help to gather opinions, feelings and ideas as well as slowing down the discussion and improving listening. Make sure that everyone gets a chance to speak.
 
@@ -34,3 +34,14 @@ This is a short intro to a few common techniques. For more see our guide [**Faci
 **Temperature check:** a non-verbal quick way to gauge different levels of enthusiasm for a topic. For example, "How keen are you on this idea? If you think it is fantastic, raise your hands high. If you feel middling about it, hold your hands in the middle. And hands down low means you're not keen at all." This has the benefit of getting quick and basic input from everyone in the room - including people who don't often speak. A temperature check isn't the same thing as a majority vote. For example, even if only one person really needs a break, it could still be a good time to stop!
 
 **Parking space:** when something comes up that's not relevant to the discussion at hand 'park' it in the parking space (a large sheet of paper on the wall) and deal with it at an appropriate time later. This allows you to stay focused but reassures participants they will be heard.
+
+## External resources
+
+-   [Facilitation Tools for Meetings and Workshops](https://www.seedsforchange.org.uk/tools) by Seeds for Change (2019)
+    
+
+## Attribution
+
+Work from the following sources was reused:
+
+-   [Facilitating Meetings](https://www.seedsforchange.org.uk/facilitationmeeting?utm_source=activisthandbook.org) by Seeds for Change (2019)

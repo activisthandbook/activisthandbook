@@ -6,12 +6,14 @@ description: >
 langCode: en
 articleID: i_DzFLGcVTg_OnGJEH8RD1SHAGct9QL1
 languageCollectionID: _aijcQxgcIu6BjlklzXiY2yMTqj8GF2V
-updatedTimestamp: 1676634679722
+updatedTimestamp: 1676642011070
 createdTimestamp: 1676634204264
-wordCount: 2787
+wordCount: 2815
 ---
 
 In this guide, we discuss common challenges people face during meetings. We explain how to keep meetings short, effective and inclusive.
+
+> 📚 This guide is part of a series on [**how to facilitate meetings**](/organising/facilitating/large-groups).
 
 Meetings don't always go the way you expect! And what is going well for one person will be difficult for someone else. As a facilitator, you will never get things perfectly 'right' for everyone. However, it can help to develop your ability to problem solve. Try different things out, and notice the impacts.
 
@@ -157,3 +159,9 @@ Try using facilitation tools to help **equalise participation**. Or try starting
 **Share out information** so everyone has the knowledge they need to contribute. For example, start each agenda item with relevant context.
 
 **Evaluate**. Ask everyone to share their experience of your meetings and make suggestions about what could improve them. This might include changes that are not just about what you do in meetings - e.g. having more regular group socials.
+
+## Attribution
+
+Work from the following sources was reused:
+
+-   [Facilitating Meetings](https://www.seedsforchange.org.uk/facilitationmeeting?utm_source=activisthandbook.org) by Seeds for Change (2019)

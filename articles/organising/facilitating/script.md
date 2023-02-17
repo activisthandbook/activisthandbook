@@ -6,9 +6,9 @@ description: >
 langCode: en
 articleID: Jp76OYd8LlOadfyUQAv9ZWsbjRNG9O5I
 languageCollectionID: gLHFHtuEhphpupHA0cNhvWMWwsYleAhZ
-updatedTimestamp: 1676631790187
+updatedTimestamp: 1676641856190
 createdTimestamp: 1676631515844
-wordCount: 2201
+wordCount: 2216
 ---
 
 In this guide, we provide you with a script for facilitating a meeting from beginning to end.
@@ -104,3 +104,9 @@ Many groups start with a 'pronoun round' where people say whether they'd like ot
 **Evaluating your meetings** can help to constantly improve them. It’s a good idea to leave a few minutes at the end of every agenda and ask the group what went well and what needs to be improved. You could also get together afterwards with the other organisers to evaluate the meeting. Remember to celebrate what you have achieved!
 
 **It can be nice to follow the meeting with an informal social activity** like sharing a meal or going to a café. Think about any special needs – not everyone drinks alcohol, you might have vegetarians or vegans in your group and so on, so try to choose an inclusive venue or activity.
+
+## Attribution
+
+Work from the following sources was reused:
+
+-   [Facilitating Meetings](https://www.seedsforchange.org.uk/facilitationmeeting?utm_source=activisthandbook.org) by Seeds for Change (2019)

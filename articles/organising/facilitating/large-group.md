@@ -6,9 +6,9 @@ description: >
 langCode: en
 articleID: MYeGV4HJdkmkrNcRInlWe29YSv3AyzCy
 languageCollectionID: 3oNI3UJ-vqusIDeG-9C_8jKsKXaMJfSx
-updatedTimestamp: 1676638295238
+updatedTimestamp: 1676641884227
 createdTimestamp: 1676632162450
-wordCount: 792
+wordCount: 807
 ---
 
 In this guide, we teach you how to facilitate meetings with large groups. We discuss how to prepare the meeting and explain how dividing into smaller groups might help.
@@ -53,3 +53,9 @@ There will be some people who would prefer to spend their whole time in a large 
 As the facilitator, you need to be sensitive to these concerns. Explain your reasons for using small groups, and point out that some of the time will also be used in plenary.
 
 Explain how feedback will happen. One pitfall to avoid is a situation where people in the small group feel misrepresented by the person feeding. You could ask them to agree a summary at the end of their discussion. Alternatively, people could contribute key points to the plenary as themselves, without an attempt to speak for the rest of their group.
+
+## Attribution
+
+Work from the following sources was reused:
+
+-   [Facilitating Meetings](https://www.seedsforchange.org.uk/facilitationmeeting?utm_source=activisthandbook.org) by Seeds for Change (2019)
