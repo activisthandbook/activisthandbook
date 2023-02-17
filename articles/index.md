@@ -82,7 +82,7 @@ We don’t just write guides. Activist Handbook uses a **data-driven approach** 
 
 - **🧑‍💻 We develop our own digital tools:** If we need it, we build it. We bring together our experience with web development and campaigning.
 - **💡 We empower activists with AI:** Our writers never have to start with an empty page. Using artifical intelligence, we generate a first draft, as well as illustrations to accompany the guide. Whatever tech the capitalist elite can get their hands on to protect their interests, we use it too and fight back.
-- **⚡️ We prioritise speed & accessibility:** Everyone should be able to use Activist Handbook, no matter if you are on a slow or expensive data plan. So we put in the work to make that possible. And it shows. For example, [our platform](https://gtmetrix.com/reports/new.activisthandbook.org/14N3WvPa/) loads 8x faster and uses 87% less data than the [Beautiful Trouble](https://gtmetrix.com/reports/beautifultrouble.org/AR67fKWP/) website (tested 25 dec 2022).
+- **⚡️ We prioritise speed & accessibility:** Everyone should be able to use Activist Handbook, no matter if you are on a slow or expensive data plan. So we put in the work to make that possible. And it shows. For example, our platform loads 8x faster and uses 87% less data than the Beautiful Trouble website (tested 25 dec 2022).
 
 ## We start the activist movements of tomorrow
 
