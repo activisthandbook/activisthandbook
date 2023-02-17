@@ -6,9 +6,9 @@ description: >
 langCode: en
 articleID: Jivvm_DITjwYHs0BtJuFs9SzsiRHfUlL
 languageCollectionID: 2iL5uLyfvLfLZc8ZAdnUzGAQX_cgwUc1
-updatedTimestamp: 1676359034621
+updatedTimestamp: 1676567823392
 createdTimestamp: 1583581575544
-wordCount: 871
+wordCount: 875
 tags: ["chapters"]
 ---
 
@@ -46,11 +46,15 @@ You want to make a big impact. But you have a limited access to resources needed
 
 <dynamic-image imageid="9d1a59a1-320d-4dcc-a80d-9a0a3330a600" alt="Hedgehogs organising a rebellion"><p>Hedgehogs organising a rebellion, by <a target="_blank" href="https://edit.activisthandbook.org/author/tzmE91SnnrbJJXuvQNBl9rt6HK63">Joppe</a> | Generated using Dall-e</p></dynamic-image>
 
-## Community building
+## Team building
 
-Organizing is all about bringing people together and building strong communities. Learn how to transform a collective of individuals into an impactful group of activists:
+Organizing is all about bringing people together and building strong teams. Learn how to transform a collective of individuals into an impactful group of activists:
 
--   **🗳** [**Decision making, facilitation and power**](/organising/decisions-and-power)
+-   🙌 [**Roles and teams**](/organising/roles-teams)
+    
+-   **🗳** [**Decision making**](/organising/decisions-and-power)
+    
+-   🎤 [**Facilitating meetings**](/organising/facilitating-meetings)
     
 -   **❤️** [**Diversity and intersectionality**](/organising/diversity)
     
