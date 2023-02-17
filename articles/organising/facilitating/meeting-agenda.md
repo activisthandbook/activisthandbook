@@ -6,12 +6,14 @@ description: >
 langCode: en
 articleID: ljrejf3Mj7btSNX2FnjYJXK9LalhkTpZ
 languageCollectionID: Bh0dodfpKAakOs8eC0-gIZKyo0BiB96J
-updatedTimestamp: 1676631420819
+updatedTimestamp: 1676636741216
 createdTimestamp: 1676631255915
-wordCount: 464
+wordCount: 477
 ---
 
 In this guide, you will learn how to prepare a meeting agenda. We have included some steps for creating an agenda, as well as a template meeting agenda.
+
+> 📚 This guide is part of a series on [how to facilitate meetings](/organising/facilitating).
 
 A well structured agenda is vital for a good meeting. The facilitators can help the group draw up agendas that are focussed on the aims of the meeting and are realistic. Remember: if the meeting is only an hour long, there should only be an hour's worth of items on the agenda!
 
