@@ -12,7 +12,7 @@ wordCount: 218
 tags: ["about"]
 focusMode: 
   isOn: true
-  buttonLabel: Join us
+  buttonLabel: "❤️ Join us"
   buttonAnchor: primary-action
 sidebar: false
 aside: false
