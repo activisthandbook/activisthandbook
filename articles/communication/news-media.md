@@ -1,14 +1,14 @@
 ---
 title: >
-  How to write a press release
+  Get media attention
 description: >
   Learn how to get covered by news media
 langCode: en
 articleID: QYNawon-AjklCbxGb81-gHUwL1XRd2-t
 languageCollectionID: MRMwO2j7BNRQKw8sfodmmrZld4vemHZu
-updatedTimestamp: 1676730127509
+updatedTimestamp: 1676731090933
 createdTimestamp: 1629625461157
-wordCount: 337
+wordCount: 365
 tags: ["stub","communication","easy to improve"]
 ---
 
@@ -33,11 +33,16 @@ A press release is a short, news-style article that tells the media what you are
 
 ## Improve this page
 
-**This page is easy to improve.** There are Creative Commons resources that we can integrate with this article. Use the Creative Commons resources in the _External resources_ section below to improve this page.
+You can make this guide better:
+
+-   There are Creative Commons resources that we can integrate with this article. Use the Creative Commons resources in the _External resources_ section below to improve this page.
+    
+-   Organise this guide into sub-articles: develop a media plan, writing a press release, press conference, interviews, unwelcome media attention
+    
 
 ## External resources
 
-Creative Commons resources:
+### Creative Commons resources
 
 -   [Preparing Press Releases](https://ctb.ku.edu/en/table-of-contents/participation/promoting-interest/press-releases/main) by Community Tool Box
     
@@ -52,3 +57,5 @@ Creative Commons resources:
 -   [Activist and Protest Media](https://actionskills.co/resources/activist-media/) by Action Skills
     
 -   [The NEON Guide to Progressive Media Work](https://commonslibrary.org/the-neon-guide-to-progressive-media-work/) by Matthew Edwards and Polly Edwards
+    
+-   [Dealing with the Mainstream Media](https://www.seedsforchange.org.uk/media?utm_source=activisthandbook.org) by Seeds for Change

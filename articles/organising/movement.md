@@ -6,22 +6,13 @@ description: >
 langCode: en
 articleID: zcObjuif3fqmql1flUYTamZghpPgD1yY
 languageCollectionID: dHWPTkxr2P1ECXwrKT31KbAeaG5hQkkt
-updatedTimestamp: 1676654150570
+updatedTimestamp: 1676731561624
 createdTimestamp: 1583583586992
-wordCount: 826
+wordCount: 740
 tags: []
 ---
 
 In this guide, we explain how to start a social movement. From big organizing to distributed organizing, this guide will help you change the world.
-
-## Ways of organizing
-
-The most successful movements learn from movements before them. Not every movement is the same. Choose a way of organizing that fits your group:
-
--   **🗺 Distributed organizing:** A decentralized approach that emphasizes empowering individuals and small groups to take initiative and create change. It is more grassroots in nature and relies on self-organization and communication.
-    
--   **🐳 Big organizing:** Big organizing involves a centralized team that works together in a coordinated effort to achieve a goal. Often used by political parties and larger nonprofits.
-    
 
 ## Steps to build a movement
 

@@ -6,9 +6,9 @@ description: >
 langCode: en
 articleID: XIgAxsDXgYVhs5ns90TUqOpCRJudip4A
 languageCollectionID: M4oQzM4kkLmmPBClRgocK1sL2BS2jXE2
-updatedTimestamp: 1676727162452
+updatedTimestamp: 1676731201434
 createdTimestamp: 1676567899135
-wordCount: 1900
+wordCount: 1903
 tags: []
 ---
 
@@ -83,7 +83,7 @@ Experienced facilitators use these techniques and solutions to address common ch
 
 -   **🐳** [**Large group meetings**](/organising/facilitating/large-group)
     
--   💻 **Online meetings**
+-   💻 **Online meetings (not yet created)**
     
 
 ### Decision making

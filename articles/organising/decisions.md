@@ -6,7 +6,7 @@ description: >
 langCode: en
 articleID: YiiTQlzi-T8BFUv2BqJ99rSu18GiFP_3
 languageCollectionID: vHUsW2i8Hqct2_HcwPc1ytcQtYLObWig
-updatedTimestamp: 1676709446105
+updatedTimestamp: 1676731762322
 createdTimestamp: 1598871273074
 wordCount: 297
 tags: []
@@ -16,7 +16,7 @@ tags: []
 
 ## Decision-making models
 
--   [Elections](/organising/frameworks/elections)
+-   [Elections](/organising/decisions/elections)
     
 -   Consensus (page needs to be created)
     
