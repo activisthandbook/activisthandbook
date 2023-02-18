@@ -6,7 +6,7 @@ description: >
 langCode: en
 articleID: Jivvm_DITjwYHs0BtJuFs9SzsiRHfUlL
 languageCollectionID: 2iL5uLyfvLfLZc8ZAdnUzGAQX_cgwUc1
-updatedTimestamp: 1676644943867
+updatedTimestamp: 1676706000257
 createdTimestamp: 1583581575544
 wordCount: 878
 tags: ["chapters"]
@@ -22,7 +22,7 @@ To build an impactful grassroots movement, start small. Organise a protest actio
     
 2.  📢 [**Organise a campaign**](/organising/campaign) - Make plans for the upcoming months
     
-3.  **🌊** [**Build a movement**](/organising/build-movement) — Scale up your campaign
+3.  **🌊** [**Build a movement**](/organising/movement) — Scale up your campaign
     
 4.  **📄** [**Organisation frameworks**](/organising/frameworks) — Better teamwork
     

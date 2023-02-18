@@ -6,9 +6,9 @@ description: >
 langCode: en
 articleID: XIgAxsDXgYVhs5ns90TUqOpCRJudip4A
 languageCollectionID: M4oQzM4kkLmmPBClRgocK1sL2BS2jXE2
-updatedTimestamp: 1676641503201
+updatedTimestamp: 1676705967737
 createdTimestamp: 1676567899135
-wordCount: 1876
+wordCount: 1847
 tags: []
 ---
 
@@ -31,7 +31,9 @@ Facilitation is a way of taking responsibility for making meetings as inclusive,
 
 ## In-depth guides
 
-Want to become a facilitating pro? Read the guides below. Just want the key info? Skip to the [**short guide**](#introduction).
+Want to become a facilitating pro? Read the guides below.
+
+> Just want the key info? Skip to the [**short guide**](#introduction).
 
 ### Facilitation basics
 
@@ -96,10 +98,10 @@ Facilitation can involve different tasks depending on the situation. They can be
     
 -   Keeping the meeting focussed on one item at a time until the issue is resolved. This can be helped by clarifying and summarising points, and checking for agreement in order to make clear decisions.
     
--   Introducing facilitation tools where appropriate, e.g. ideastorms to help people come up with creative ideas, or small group conversations to increase participation. See [**Meeting Tools**](https://www.seedsforchange.org.uk/meeting-tools) below.
+-   Introducing facilitation tools where appropriate, e.g. ideastorms to help people come up with creative ideas, or small group conversations to increase participation.
     
 
-Sometimes facilitation will involve helping the group address conflict, or reach agreement on a difficult decision. See our [**Consensus Decision Making resources**](https://www.seedsforchange.org.uk/resources#consensus) for a suggested process.
+Sometimes facilitation will involve helping the group address conflict, or reach agreement on a difficult decision.
 
 ## **Facilitation skills**
 
@@ -140,8 +142,6 @@ Another important role for a facilitator is making sure that the meeting works f
 **Small groups or pairs:** Splitting into small groups can help more people participate actively in the meeting. It gives people a chance to work out their thoughts before coming back to a whole group discussion. Explain clearly what you want people to discuss in their small groups, how much time they have and what they will need to feed back afterwards. Nominating a facilitator in each small group can help them stay on track.
 
 **Breaks and energisers:** Breaks give people time to move around, process information or work out their thoughts. Build in regular breaks, or offer a quick group game.
-
-For more facilitation ideas, and tips for troubleshooting meetings, see our longer [**Facilitating Meetings**](https://www.seedsforchange.org.uk/facilitationmeeting) guide.
 
 ## External resources
 
