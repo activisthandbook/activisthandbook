@@ -6,9 +6,9 @@ description: >
 langCode: en
 articleID: XIgAxsDXgYVhs5ns90TUqOpCRJudip4A
 languageCollectionID: M4oQzM4kkLmmPBClRgocK1sL2BS2jXE2
-updatedTimestamp: 1676710599624
+updatedTimestamp: 1676715686252
 createdTimestamp: 1676567899135
-wordCount: 1907
+wordCount: 1905
 tags: []
 ---
 
@@ -20,7 +20,7 @@ We've got 3 versions of this article:
     
 2.  [**Short guide**](#introduction)**:** 10 minute reading time
     
-3.  [**In-depth guides**](#in-depth-guides)**:** 1 hour total reading time
+3.  [**In-depth guides**](#in-depth-guides)**:** 2 hours total reading time
     
 
 At the bottom of this article, you will find external resources if you would like to learn even more!
@@ -56,29 +56,29 @@ Want to become a facilitating pro? Read the guides below:
 
 Experienced facilitators use these techniques and solutions to address common challenges. Just want a quick overview? Check out our [**facilitation techniques 101**](/organising/facilitating/techniques) guide.
 
--   ☀️ Starting
+-   **☀️** [**Starting**](/organising/facilitating/start-meeting)
     
--   👋 Hand signals
+-   **👋** [**Hand signals**](/organising/facilitating/hand-signals)
     
--   🙉 Active listening
+-   **🙉** [**Active listening**](/organising/facilitating/active-listening)
     
--   ✅ Group agreements
+-   **✅** [**Group agreements**](/organising/facilitating/group-agreements)
     
--   💤 Increasing participation
+-   **💤 Increasing participation**
     
--   🔍 Quick and easy prioritisation
+-   **🔍 Quick prioritisation**
     
--   💡 Evaluating ideas
+-   **💡 Evaluating ideas**
     
--   🧠 Exploring complex issues
+-   **🧠 Exploring complex issues**
     
--   ❤️ Trust building exercises
+-   **❤️ Trust building exercises**
     
--   ⚡️ Games and energisers
+-   **⚡️ Games and energisers**
     
--   🌒 Ending
+-   **🌒 Ending**
     
--   💯 Evaluating
+-   **💯 Evaluating**
     
 
 ### Specific contexts

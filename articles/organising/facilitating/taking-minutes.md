@@ -1,12 +1,12 @@
 ---
 title: >
-  Writing minutes
+  Taking minutes
 description: >
-  How to take minutes at meetings
+  How to write minutes at meetings
 langCode: en
 articleID: zW5GvMo38R2E87fNdrHYqXhHWEgvZ6zH
 languageCollectionID: -C0wdVq1q-yppWeR6h1OKmiD7DrrP4HF
-updatedTimestamp: 1676710524361
+updatedTimestamp: 1676712989179
 createdTimestamp: 1676710418727
 wordCount: 1863
 ---
