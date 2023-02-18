@@ -6,9 +6,9 @@ description: >
 langCode: en
 articleID: XIgAxsDXgYVhs5ns90TUqOpCRJudip4A
 languageCollectionID: M4oQzM4kkLmmPBClRgocK1sL2BS2jXE2
-updatedTimestamp: 1676715686252
+updatedTimestamp: 1676727162452
 createdTimestamp: 1676567899135
-wordCount: 1905
+wordCount: 1900
 tags: []
 ---
 
@@ -56,7 +56,7 @@ Want to become a facilitating pro? Read the guides below:
 
 Experienced facilitators use these techniques and solutions to address common challenges. Just want a quick overview? Check out our [**facilitation techniques 101**](/organising/facilitating/techniques) guide.
 
--   **☀️** [**Starting**](/organising/facilitating/start-meeting)
+-   **☀️** [**Check-in**](/organising/facilitating/check-in)
     
 -   **👋** [**Hand signals**](/organising/facilitating/hand-signals)
     
@@ -64,21 +64,19 @@ Experienced facilitators use these techniques and solutions to address common ch
     
 -   **✅** [**Group agreements**](/organising/facilitating/group-agreements)
     
--   **💤 Increasing participation**
+-   **💤** [**Increasing participation**](/organising/facilitation/meeting-participation)
     
--   **🔍 Quick prioritisation**
+-   **💡** [**Evaluating ideas**](/organising/facilitation/evaluating-ideas)
     
--   **💡 Evaluating ideas**
+-   **🧠** [**Discussing complex issues**](/organising/facilitating/complex-issues)
     
--   **🧠 Exploring complex issues**
+-   **❤️** [**Trust building activities**](/organising/facilitating/trust-building)
     
--   **❤️ Trust building exercises**
+-   **⚡️** [**Energizers**](/organising/facilitating/energisers)
     
--   **⚡️ Games and energisers**
+-   **🌒** [**Check-out**](/organising/facilitating/check-out)
     
--   **🌒 Ending**
-    
--   **💯 Evaluating**
+-   **💯** [**Evaluation**](/organising/facilitating/evaluation)
     
 
 ### Specific contexts

@@ -2,16 +2,16 @@
 title: >
   Starting a meeting
 description: >
-  How to facilitate the start of a meeting
+  Icebreakers to kickstart your meeting
 langCode: en
 articleID: 1kolKtyjVascGW60Jz-GqK_lgNk_9HKi
 languageCollectionID: HyOKxVJp4qC6L-d59sZM5i8dTcFd151J
-updatedTimestamp: 1676714216782
+updatedTimestamp: 1676725797031
 createdTimestamp: 1676713791647
-wordCount: 3191
+wordCount: 3190
 ---
 
-In this guide, you will learn how to start a meeting as facilitator. We recommend some group exercises to warm up. And we discuss practical things, such as outlining the agenda.
+In this guide, you will learn how to start a meeting as facilitator. We recommend some icebreakers to warm up. And we discuss practical things, such as outlining the agenda.
 
 > 📚 This guide is part of a series on [how to facilitate meetings](/organising/facilitating).
 
