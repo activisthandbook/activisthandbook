@@ -2,13 +2,13 @@
 title: >
   Facilitating meetings
 description: >
-  Guide: How to facilitate a meeting
+  Guide: How to facilitate a successful meeting
 langCode: en
 articleID: XIgAxsDXgYVhs5ns90TUqOpCRJudip4A
 languageCollectionID: M4oQzM4kkLmmPBClRgocK1sL2BS2jXE2
-updatedTimestamp: 1676705967737
+updatedTimestamp: 1676710599624
 createdTimestamp: 1676567899135
-wordCount: 1847
+wordCount: 1907
 tags: []
 ---
 
@@ -31,47 +31,66 @@ Facilitation is a way of taking responsibility for making meetings as inclusive,
 
 ## In-depth guides
 
-Want to become a facilitating pro? Read the guides below.
+Want to become a facilitating pro? Read the guides below:
 
-> Just want the key info? Skip to the [**short guide**](#introduction).
-
-### Facilitation basics
+### Facilitating basics
 
 -   **🔤** [**What is facilitating?**](/organising/facilitating/what-is-facilitating)
     
--   **📝** [**Meeting agenda**](/organising/facilitating/meeting-agenda)
+-   💬 [**Succesful meetings**](/organising/facilitating/meeting)
     
--   📄 [**Facilitating script: beginning to end**](/organising/facilitating/script)
+-   📄 [**Script for meetings**](/organising/facilitating/script)
     
--   👑 [**Key facilitating skills**](/organising/facilitating/skills)
+-   **🏡** [**Accessible space**](/organising/facilitating/accessible-space)
     
--   **🐳** [**Large group meetings**](/organising/facilitating/large-group)
+-   **⏱** [**Writing an agenda**](/organising/facilitating/meeting-agenda)
     
--   **🛠** [**Facilitation techniques 101**](/organising/facilitating/techniques)
+-   📝 [**Taking minutes**](/organising/facilitating/taking-minutes)
+    
+-   🏆 [**Skills facilitators need**](/organising/facilitating/skills)
     
 -   **🆘** [**Common challenges**](/organising/facilitating/challenges)
     
 
 ### Facilitation techniques
 
--   Starting
+Experienced facilitators use these techniques and solutions to address common challenges. Just want a quick overview? Check out our [**facilitation techniques 101**](/organising/facilitating/techniques) guide.
+
+-   ☀️ Starting
     
--   Increasing participation
+-   👋 Hand signals
     
--   Quick and easy prioritisation
+-   🙉 Active listening
     
--   Evaluating ideas
+-   ✅ Group agreements
     
--   Exploring complex issues
+-   💤 Increasing participation
     
--   Trust building exercises
+-   🔍 Quick and easy prioritisation
     
--   Games and energisers
+-   💡 Evaluating ideas
     
--   Ending
+-   🧠 Exploring complex issues
     
--   Evaluating
+-   ❤️ Trust building exercises
     
+-   ⚡️ Games and energisers
+    
+-   🌒 Ending
+    
+-   💯 Evaluating
+    
+
+### Specific contexts
+
+-   **🐳** [**Large group meetings**](/organising/facilitating/large-group)
+    
+-   💻 **Online meetings**
+    
+
+### Decision making
+
+This is a whole topic on its own, so we wrote a series of guides about [decision making](/organising/decisions ).
 
 ## Introduction
 
@@ -194,4 +213,4 @@ Another important role for a facilitator is making sure that the meeting works f
 
 Work from the following sources was reused:
 
--   Seeds for Change: [short guide](https://www.seedsforchange.org.uk/shortfacilitation?utm_source=activisthandbook.org), [long guide](https://www.seedsforchange.org.uk/facilitationmeetin?utm_source=activisthandbook.org)
+-   Seeds for Change: [short guide](https://www.seedsforchange.org.uk/shortfacilitation?utm_source=activisthandbook.org), [long guide](https://www.seedsforchange.org.uk/facilitationmeeting?utm_source=activisthandbook.org)

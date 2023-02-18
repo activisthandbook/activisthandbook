@@ -6,7 +6,7 @@ description: >
 langCode: en
 articleID: Jivvm_DITjwYHs0BtJuFs9SzsiRHfUlL
 languageCollectionID: 2iL5uLyfvLfLZc8ZAdnUzGAQX_cgwUc1
-updatedTimestamp: 1676706000257
+updatedTimestamp: 1676709466494
 createdTimestamp: 1583581575544
 wordCount: 878
 tags: ["chapters"]
@@ -54,7 +54,7 @@ Organizing is all about bringing people together and building strong teams. Lear
     
 -   🙋 [**Facilitating meetings**](/organising/facilitating)
     
--   **🗳** [**Decision making**](/organising/decisions-and-power)
+-   **🗳** [**Decision making**](/organising/decisions)
     
 -   **❤️** [**Community building**](/organising/community-building)
     
