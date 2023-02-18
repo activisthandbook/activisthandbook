@@ -1,17 +1,17 @@
 ---
 title: >
-  Starting a meeting
+  Meeting check-in
 description: >
-  Icebreakers to kickstart your meeting
+  Check-in and icebreakers to kickstart your meeting
 langCode: en
 articleID: 1kolKtyjVascGW60Jz-GqK_lgNk_9HKi
 languageCollectionID: HyOKxVJp4qC6L-d59sZM5i8dTcFd151J
-updatedTimestamp: 1676725797031
+updatedTimestamp: 1676727398276
 createdTimestamp: 1676713791647
-wordCount: 3190
+wordCount: 3191
 ---
 
-In this guide, you will learn how to start a meeting as facilitator. We recommend some icebreakers to warm up. And we discuss practical things, such as outlining the agenda.
+In this guide, you will learn how to start a meeting with a check-in. We recommend some icebreakers to warm up. And we discuss practical things, such as outlining the agenda.
 
 > 📚 This guide is part of a series on [how to facilitate meetings](/organising/facilitating).
 
