@@ -6,14 +6,14 @@ description: >
 langCode: en
 articleID: vmdPVEYsMaXfS7A3COdKbe6lsIt0ue6m
 languageCollectionID: zRnTbJtHPUSgbld0SDVcYXVBrx4DYgSr
-updatedTimestamp: 1676641971033
+updatedTimestamp: 1676654374638
 createdTimestamp: 1676632433104
 wordCount: 758
 ---
 
 In this guide, we provide an overview of the best facilitating tools and techniques.
 
-> 📚 This guide is part of a series on [**how to facilitate meetings**](/organising/facilitating/large-groups).
+> 📚 This guide is part of a series on [**how to facilitate meetings**](/organising/facilitating).
 
 **Go-rounds:** everyone takes a turn to speak without interrupt­ion or comment from other people. Go-rounds help to gather opinions, feelings and ideas as well as slowing down the discussion and improving listening. Make sure that everyone gets a chance to speak.
 
