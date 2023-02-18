@@ -6,20 +6,24 @@ description: >
 langCode: en
 articleID: KuHDKdCZWWd381Yp6YeeNpVNt-FqQjFx
 languageCollectionID: JV6ejjHODS-3aljFYxv2-Fitit6Rcva9
-updatedTimestamp: 1676641817534
+updatedTimestamp: 1676736884589
 createdTimestamp: 1676630262580
-wordCount: 1959
+wordCount: 2023
 ---
 
 In this article, we explain the basics of facilitating. We discuss what facilitating is and how it differs from chairing. And we stress the importance of learning how to become a good facilitator.
 
 > 📚 This guide is part of a series on [how to facilitate meetings](/organising/facilitating).
 
+## Introduction
+
 Meeting facilitation combines a series of roles and tasks. For example: keeping people on topic; listening carefully to what everyone is saying so no-one's points get lost; suggesting techniques for creative problem-solving; and supporting the group to address a conflict if it arises.
 
 Sometimes facilitation is mainly done by one person (the facilitator) who guides the discussion to help the group meet its goals. It's also useful to think in terms of shared facilitation, with everyone sharing the responsibility for ensuring a meeting is productive and participatory.
 
 A facilitator needs to be aware of both the content of the meeting (what people are talking about) and the process (_how_ the conversations are happening). This awareness helps a facilitator come up with effective ideas for how to help the discussion move forward.
+
+<dynamic-image imageid="9071bcec-7244-448b-27e1-12e9f10a0d00" alt="People having a meeting underneath a tree"><p>Activists brainstorming underneath a tree, by <a target="_blank" href="https://edit.activisthandbook.org/author/tzmE91SnnrbJJXuvQNBl9rt6HK63">Joppe</a> | Generated using Dall-e</p></dynamic-image>
 
 ## **Was the meeting successful?**
 
@@ -30,6 +34,8 @@ It is common for groups to over-focus on tasks, at the expense of maintaining th
 ### **Some questions to ask yourselves**
 
 **Tasks** – What got done? What will change as a result of the meeting (e.g. what action points were taken on, what decisions were made, what problems were solved?) **Maintenance** – _How_ did it get done? How did people feel and how will this affect how they feel about the group? (E.g.: Did the meeting make good use of the pooled talents? Did everyone feel able to share their views? Was it enjoyable? Were conflicts addressed?)
+
+<dynamic-image imageid="c1e7ec59-1aa4-4d1c-57b7-8fbf39e77000" alt="People sitting in a circle"><p>People sitting in a circle, by <a target="_blank" href="https://edit.activisthandbook.org/author/tzmE91SnnrbJJXuvQNBl9rt6HK63">Joppe</a> | Generated using Dall-e</p></dynamic-image>
 
 ## Core facilitation tasks
 
@@ -52,6 +58,8 @@ Facilitation can involve a long list of possible tasks, depending on the situati
 -   Ensuring that a written record is made of any action points and decisions agreed at the meeting.
     
 
+<dynamic-image imageid="fbebe829-b3af-49ea-7150-dd656d8b9a00" alt="Someone dominating the conversation"><p>Are you chairing or facilitating?, by <a target="_blank" href="https://edit.activisthandbook.org/author/tzmE91SnnrbJJXuvQNBl9rt6HK63">Joppe</a> | Generated using Dall-e</p></dynamic-image>
+
 ## Facilitating or chairing?
 
 Superficially a facilitator fills a role similar to that of the traditional chairperson. There are, however, important differences:
@@ -63,13 +71,17 @@ Superficially a facilitator fills a role similar to that of the traditional chai
 -   A good facilitator stays neutral and helps the members of the meeting be aware that it is their business that is being conducted. The success of the meeting is the shared responsibility of the whole group. The facilitator needs to be aware of this and always get the group’s agreement before using facilitation techniques or activities.
     
 
-## **Learning to facilitate?**
+<dynamic-image imageid="47d4b791-440e-49e1-63cb-e98016f34c00" alt="People sitting at a table having a meeting"><p>People having a dialog, by <a target="_blank" href="https://edit.activisthandbook.org/author/tzmE91SnnrbJJXuvQNBl9rt6HK63">Joppe</a> | Generated using Dall-e</p></dynamic-image>
+
+## **Learning to facilitate**
 
 Facilitation doesn't have to be done by experts! It is a skill that can be learnt by reflecting on your own experience of meetings and observing other facilitators. Learn from mistakes, from bad meetings as well as good ones. If the role of facilit­ator is rotated amongst group members, several people can develop these skills. It is well worth running some training, aside from normal meeting times, to prac­tice facilitation skills. These skills are not only useful in group meetings but also in informal settings, at work and at home.
 
 You can learn a lot by reflecting on what happens in different meetings. You'll get the most accurate information on this if you evaluate together regularly. Noticing people's behaviour also gives you some clues. When do people look animated and engaged? When do lots of people participate, and when do you hear the same voices a lot? If a lot of comments are not related to the agenda item, why might that be?
 
 Reflection should give you a great starting point for understanding how facilitation can help your meetings . It is also important to just try things out! Start by facilitating smaller meetings with less challenging topics. Be ready to ask for feedback about different people's experience.
+
+<dynamic-image imageid="7fc3e7ab-0408-4a9c-ea21-cdd34e344f00" alt="Two people actively listening to each other"><p>A person listening closely, by <a target="_blank" href="https://edit.activisthandbook.org/author/tzmE91SnnrbJJXuvQNBl9rt6HK63">Joppe</a> | Generated using Dall-e</p></dynamic-image>
 
 ## **Skills and qualities**
 
@@ -113,6 +125,8 @@ In addition, we all have preferences about how to participate in meetings. Do we
 Ideally, everyone has a fair say in decisions which fundamentally affect them. However, differences in power mean that, in reality, certain individuals and perspectives get heard more than others. This may be about someone's confidence to voice their opinions in a particular space. It is important to be aware that it is also about how different people and perspectives are _received_ by others.
 
 As a facilitator, you can take some steps towards addressing power dynamics by using exercises that help equalise participation, e.g. reflection time in small groups, go-rounds. Your job does not end here, however! Notice differences in who contributes, and what response different people get. Make extra space for messages that aren't getting through and be assertive if necessary to help people listen.
+
+<dynamic-image imageid="288f9347-3aa5-4d74-bc29-3ded9d57d300" alt="Someone sitting behind their laptop taking minutes"><p>A person taking minutes, by <a target="_blank" href="https://edit.activisthandbook.org/author/tzmE91SnnrbJJXuvQNBl9rt6HK63">Joppe</a> | Generated using Dall-e</p></dynamic-image>
 
 ## **Meeting roles**
 

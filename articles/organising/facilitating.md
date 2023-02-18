@@ -6,9 +6,9 @@ description: >
 langCode: en
 articleID: XIgAxsDXgYVhs5ns90TUqOpCRJudip4A
 languageCollectionID: M4oQzM4kkLmmPBClRgocK1sL2BS2jXE2
-updatedTimestamp: 1676731201434
+updatedTimestamp: 1676736414481
 createdTimestamp: 1676567899135
-wordCount: 1903
+wordCount: 1970
 tags: []
 ---
 
@@ -28,6 +28,8 @@ At the bottom of this article, you will find external resources if you would lik
 ## Summary
 
 Facilitation is a way of taking responsibility for making meetings as inclusive, effective and enjoyable as possible. It involves creating a space where everyone can be heard and respected, helping the group work efficiently and introducing facilitation tools where appropriate. Facilitation skills include active listening, questioning and summarising. The facilitator should also take steps to meet access requirements and balance out power dynamics in the group.
+
+<dynamic-image imageid="c1e7ec59-1aa4-4d1c-57b7-8fbf39e77000" alt="People sitting in a circle"><p>People having a meeting, by <a target="_blank" href="https://edit.activisthandbook.org/author/tzmE91SnnrbJJXuvQNBl9rt6HK63">Joppe</a> | Generated using Dall-e</p></dynamic-image>
 
 ## In-depth guides
 
@@ -51,6 +53,8 @@ Want to become a facilitating pro? Read the guides below:
     
 -   **🆘** [**Common challenges**](/organising/facilitating/challenges)
     
+
+<dynamic-image imageid="9071bcec-7244-448b-27e1-12e9f10a0d00" alt="People having a meeting underneath a tree"><p>Activists making plans, by <a target="_blank" href="https://edit.activisthandbook.org/author/tzmE91SnnrbJJXuvQNBl9rt6HK63">Joppe</a> | Generated using Dall-e</p></dynamic-image>
 
 ### Facilitation techniques
 
@@ -90,6 +94,8 @@ Experienced facilitators use these techniques and solutions to address common ch
 
 This is a whole topic on its own, so we wrote a series of guides about [decision making](/organising/decisions ).
 
+<dynamic-image imageid="47d4b791-440e-49e1-63cb-e98016f34c00" alt="People sitting at a table having a meeting"><p>Four activists making decisions, by <a target="_blank" href="https://edit.activisthandbook.org/author/tzmE91SnnrbJJXuvQNBl9rt6HK63">Joppe</a> | Generated using Dall-e</p></dynamic-image>
+
 ## Introduction
 
 Facilitation is about taking responsibility for making meetings as **easy**, **inclusive** and **effective** as possible. It is rooted in the values of shared power, equality and the belief that everyone’s needs matter and all voices should be heard.
@@ -102,6 +108,8 @@ There are two main areas to keep in mind when facilitating:
     
 
 Facilitation is a proactive role, but not a ‘power-over’ role. The facilitator doesn’t have more power than anyone else, or makes decisions for the group. They should stay neutral in discussions, or make it clear when they are stepping out of the facilitator role to give their own opinion.
+
+<dynamic-image imageid="288f9347-3aa5-4d74-bc29-3ded9d57d300" alt="Someone sitting behind their laptop taking minutes"><p>Someone taking minutes, by <a target="_blank" href="https://edit.activisthandbook.org/author/tzmE91SnnrbJJXuvQNBl9rt6HK63">Joppe</a> | Generated using Dall-e</p></dynamic-image>
 
 ## **Facilitation tasks**
 
@@ -120,6 +128,8 @@ Facilitation can involve different tasks depending on the situation. They can be
 
 Sometimes facilitation will involve helping the group address conflict, or reach agreement on a difficult decision.
 
+<dynamic-image imageid="7fc3e7ab-0408-4a9c-ea21-cdd34e344f00" alt="Two people actively listening to each other"><p>Two people listening attentively to each other, by <a target="_blank" href="https://edit.activisthandbook.org/author/tzmE91SnnrbJJXuvQNBl9rt6HK63">Joppe</a> | Generated using Dall-e</p></dynamic-image>
+
 ## **Facilitation skills**
 
 **Active listening:** The conscious effort to get an accurate understanding of where someone is coming from. In active listening you set aside your own response to what someone is saying and instead focus on really listening and helping them feel heard.
@@ -137,6 +147,8 @@ In order to come up with decisions that people are as happy with as possible, it
 Another key point is to be as clear and explicit as possible at the point at which you are making a decision. Otherwise it is very easy for everyone to come away from the meeting with a different idea about what has been decided.
 
 Read out the proposal and check who agrees with it. Take time to check everyone has a shared understanding of what they are agreeing to. In a simple majority vote you would be looking for over 50% of people to support the proposal, in consensus you would need everyone to at least give their consent for the proposal to pass, even if it wasn’t everyone’s preference. If you don’t get enough agreement go back to the discussion stage and look for a new proposal.
+
+<dynamic-image imageid="6e66ddee-1243-40bb-719a-79be96bdd700" alt="A rabbit taking minutes of what the frog is saying"><p>Taking minutes can be challenging if people talk too fast, by <a target="_blank" href="https://edit.activisthandbook.org/author/tzmE91SnnrbJJXuvQNBl9rt6HK63">Joppe</a> | Generated using Dall-e</p></dynamic-image>
 
 ## **Power and accessibility**
 
