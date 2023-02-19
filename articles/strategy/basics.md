@@ -6,9 +6,9 @@ description: >
 langCode: en
 articleID: yAYzcCOTjAmVsSAXXnmcRarsWt2nUqqQ
 languageCollectionID: ys9pUV4JgNDl6xp3zmTV2bnD1Vj1TkBW
-updatedTimestamp: 1676392110974
+updatedTimestamp: 1676800265713
 createdTimestamp: 1647940094296
-wordCount: 637
+wordCount: 643
 tags: []
 ---
 
@@ -16,7 +16,7 @@ tags: []
 
 The purpose of a strategy is to help you determine the best approach to achieving your goals based on the situation you’re in, your values, as well as your strengths and weaknesses.
 
-Ready to get your hands dirty? [**Develop your own strategy**](/strategy/develop)
+> Ready to get your hands dirty? [**Develop your own strategy**](/strategy/develop)
 
 <dynamic-image imageid="8b50c103-bdbf-479a-8d16-99d3f6020d00" alt="Two activists walking a long road towards their goal"><p>Two activists walking a long road towards their goal, by <a target="_blank" href="https://edit.activisthandbook.org/author/tzmE91SnnrbJJXuvQNBl9rt6HK63">Joppe</a> | Generated using Dall-e</p></dynamic-image>
 
@@ -72,10 +72,15 @@ You can make this article about campaign strategies better:
     
 -   [Campaign strategies](https://archive.informationactivism.org/basic1.html) by 10 Tactics
     
--   [Elements of Campaign Strategy](https://commonslibrary.org/elements-of-campaign-strategy/) by James Whelan
-    
 -   [Election Campaign Strategies](https://www.ecanvasser.com/blog/campaign-strategies) by Ecanvasser
     
 -   [Campaigning for Social Change: Beyond Just Protesting For It](https://commonslibrary.org/campaigning-for-social-change-beyond-just-protesting-for-it/) by Daniel Hunter
     
 -   [The Building Power Guide](https://commonslibrary.org/building-power/) by Original Power
+    
+
+## Attribution
+
+The following sources were reused:
+
+-   [Elements of Campaign Strategy](https://commonslibrary.org/elements-of-campaign-strategy/?utm_source=activisthandbook.org) by James Whelan
