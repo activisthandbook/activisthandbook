@@ -1,14 +1,14 @@
 ---
 title: >
-  Activist tactics 📣
+  Protest tactics 📣
 description: >
   A list of tactics for activists and tactical action planning
 langCode: en
 articleID: dqIEdknV4hO7Eqa1OZNQWeeF1D-KptVM
 languageCollectionID: WeIM7eSP9ovc2D_rh7HpCq26GW7AQRV-
-updatedTimestamp: 1676905280010
+updatedTimestamp: 1676912205933
 createdTimestamp: 1594650737037
-wordCount: 967
+wordCount: 1215
 tags: []
 ---
 
@@ -73,7 +73,7 @@ By joining existing institutions one can make change happen from within. Institu
 > 
 > Saul Alinsky (Rules for Radicals, p.94)
 
-## Action workshops
+## Action toolbox
 
 -   🚔 Resisting arrest ([Going floppy](/tactics/going-floppy))
     
@@ -82,8 +82,6 @@ By joining existing institutions one can make change happen from within. Institu
 -   🏳 Creating flags
     
 -   ☮️ [Disabling a tank](/tactics/disable-tank)
-    
--   👋 [Hand signals](/tactics/hand-signals)
     
 
 One-person protest, blocking a road - Generated using OpenAI
@@ -108,19 +106,44 @@ Goals of the chapter:
 -   Encourage creativity and diversity in tactics (if activism is boring, it's not newsworthy)
     
 
-Filter our recommended tactics based on the way you would like to achieve change (using a combination is recommended!):
+Filter our recommended tactics based on the way you would like to achieve change (using a combination is recommended! Tactics may fall into multiple categories):
 
 -   🎨 I want to use **creativity** (**cultural disruption)** to get attention: _useful to be visible and put things on the agenda_
     
--   ✊ I want to use **civil disobedience (legal disruption)** to create pressure: _useful if you want to force decision makers to listen to you, to challenge those in power_
+    -   _Suggested SEO title: not sure (possibly: "Creative protest ideas", we might also want to change the title of the chapter to "protest ideas" which is much more popular than "protest tactics")_
+        
+-   ✊ I want to use **civil disobedience (legal disruption)** to create pressure: _useful if you want to force decision makers to listen to you, to challenge those in power -_
     
+    -   _Suggested SEO title: 'Civil disobedience' would be a perfect title, lots of monthly searches, 'direct action' is a good second choice, but it's searched less and there's some clothing company that would be competing with us and would probably win._
+        
+-   🛠 I want to **build alternatives** to show a different world is possible: _useful if people cannot envision what a better world might look like, not to accept the status quo_
+    
+    -   _Suggested SEO title: not sure, 'alternative building' has an acceptable number of monthly searches, but we might want to look a bit further to see if there are any other terms more frequently used to describe this type of activism_
+        
 -   💬 I want to **encourage conversations** with bystanders: _useful if you want to grow and broaden your movement, if you want to change minds_
     
+    -   _Suggested SEO title: no idea_
+        
 -   🗳 I want to work within **governmental institutions** to create change: _useful if you want to convert public support into policy_
     
+    -   _Suggested SEO title: not sure, 'political activism' has an acceptable number of monthly searches (downside of course is that all activism is political. On the other hand, 'politics' is commonly understood as 'governmental institutions'. We might want to look a bit further to see if there are any other terms more frequently used to describe this type of activism._
+        
 -   ⚖️ I want to work within **legal institutions** to create change: _useful if you see an opportunity to create change by applying existing legislation_
     
+    -   _Suggested SEO title: legal activism?_
+        
 -   🤑 I want to work within **financial institutions** to create change: _useful if you see an opportunity to make decision makers listen to you through monetary incentives_
+    
+    -   _Suggested SEO title: financial activism?_
+        
+
+And a section called 'action toolbox', that covers tools you can use with many different tactics. For example:
+
+-   Artist tools: Painting banners, paper mache,
+    
+-   Digital tools: Hacktivism
+    
+-   Etc.
     
 
 ### Questions activist may have
