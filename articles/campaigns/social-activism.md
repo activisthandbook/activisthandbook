@@ -6,7 +6,7 @@ description: >
 langCode: en
 articleID: R-3YHcHw9TOpdn2rATLVK6FOpCR0-Mzb
 languageCollectionID: BAtApFS8t1UtSv142rfoMjGO3YVXtvxM
-updatedTimestamp: 1676530728287
+updatedTimestamp: 1676802971402
 createdTimestamp: 1676530544718
 wordCount: 110
 tags: ["stub"]

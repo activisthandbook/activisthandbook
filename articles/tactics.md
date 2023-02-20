@@ -6,8 +6,9 @@ description: >
 langCode: en
 articleID: dqIEdknV4hO7Eqa1OZNQWeeF1D-KptVM
 languageCollectionID: WeIM7eSP9ovc2D_rh7HpCq26GW7AQRV-
-updatedTimestamp: 1668060084183
+updatedTimestamp: 1676905280010
 createdTimestamp: 1594650737037
+wordCount: 967
 tags: []
 ---
 
@@ -22,11 +23,15 @@ You should pick your tactics based on your [strategy](/strategy). To help you ge
 I want to…
 
 -   **📢** [**Challenge the system**](/tactics/system-challanging), through disruption and disobedience
+    
 -   **🛠** [**Build alternatives**](/tactics/alternative-building), through creation of new spaces for communities
+    
 -   **📚** [**Change our culture**](/tactics/cultural), through education, art and awareness campaigns
+    
 -   **🏛** [**Work within institutions**](/tactics/institutional), through election campaigns, lobbying, legal action and financial pressure
+    
 
-<div><figcaption>People marching - Generated using OpenAI</figcaption></div>
+People marching - Generated using OpenAI
 
 ## List of tactics
 
@@ -71,12 +76,17 @@ By joining existing institutions one can make change happen from within. Institu
 ## Action workshops
 
 -   🚔 Resisting arrest ([Going floppy](/tactics/going-floppy))
+    
 -   🎨 Painting banners
+    
 -   🏳 Creating flags
+    
 -   ☮️ [Disabling a tank](/tactics/disable-tank)
+    
 -   👋 [Hand signals](/tactics/hand-signals)
+    
 
-<div><figcaption>One-person protest, blocking a road - Generated using OpenAI</figcaption></div>
+One-person protest, blocking a road - Generated using OpenAI
 
 ## Improve this page
 
@@ -85,44 +95,94 @@ By joining existing institutions one can make change happen from within. Institu
 When improving this chapter, focus on the following:
 
 -   Find a better way to organise this list of tactics
+    
 -   Make a default article template for how to discuss a tactic, so that every article has the same structure setup (e.g. examples, materials needed, steps to organise)
+    
+
+### Suggested new chapter organization
+
+Goals of the chapter:
+
+-   Helping people connect the dots between their strategy and the tactics they use (the actions you organise should
+    
+-   Encourage creativity and diversity in tactics (if activism is boring, it's not newsworthy)
+    
+
+Filter our recommended tactics based on the way you would like to achieve change (using a combination is recommended!):
+
+-   🎨 I want to use **creativity** (**cultural disruption)** to get attention: _useful to be visible and put things on the agenda_
+    
+-   ✊ I want to use **civil disobedience (legal disruption)** to create pressure: _useful if you want to force decision makers to listen to you, to challenge those in power_
+    
+-   💬 I want to **encourage conversations** with bystanders: _useful if you want to grow and broaden your movement, if you want to change minds_
+    
+-   🗳 I want to work within **governmental institutions** to create change: _useful if you want to convert public support into policy_
+    
+-   ⚖️ I want to work within **legal institutions** to create change: _useful if you see an opportunity to create change by applying existing legislation_
+    
+-   🤑 I want to work within **financial institutions** to create change: _useful if you see an opportunity to make decision makers listen to you through monetary incentives_
+    
 
 ### Questions activist may have
 
 -   What tactic should I use?
+    
 -   What tactics are most effective?
+    
 -   How to I use this tactic?
+    
 -   Step-by-step, how do I organise this tactic?
+    
 -   Give me some inspiration for creative activist tactics
+    
 
 ### Search keywords
 
-<div><table><thead><tr><th>Search keywords</th><th>Monthly global searches</th><th>Relevancy</th></tr></thead><tbody><tr><td>activism types</td><td>510</td><td>high</td></tr><tr><td>protest tactics</td><td>190</td><td>high</td></tr><tr><td>creative <span>protest </span>tactics</td><td>120</td><td>high</td></tr><tr><td>blockading</td><td>24.9K</td><td>low</td></tr><tr><td>banner making</td><td>34.8K</td><td>low</td></tr><tr><td>hand signals</td><td>59.7K</td><td>low</td></tr><tr><td>hand signals protest</td><td>0</td><td>high</td></tr><tr><td>hand signals activism</td><td>0</td><td>high</td></tr><tr><td>action tactics</td><td>10</td><td>high</td></tr><tr><td>activist tactics</td><td>80</td><td>high</td></tr><tr><td>tactical action</td><td>310</td><td>low</td></tr><tr><td>activism workshop</td><td>70</td><td>high</td></tr><tr><td>action workshop</td><td>90</td><td>medium</td></tr><tr><td>activist actions</td><td></td><td></td></tr></tbody></table></div>
+<table><tbody><tr><th><p>Search keywords</p></th><th><p>Monthly global searches</p></th><th><p>Relevancy</p></th></tr><tr><td><p>activism types</p></td><td><p>510</p></td><td><p>high</p></td></tr><tr><td><p>protest tactics</p></td><td><p>190</p></td><td><p>high</p></td></tr><tr><td><p>creative protest tactics</p></td><td><p>120</p></td><td><p>high</p></td></tr><tr><td><p>blockading</p></td><td><p>24.9K</p></td><td><p>low</p></td></tr><tr><td><p>banner making</p></td><td><p>34.8K</p></td><td><p>low</p></td></tr><tr><td><p>hand signals</p></td><td><p>59.7K</p></td><td><p>low</p></td></tr><tr><td><p>hand signals protest</p></td><td><p>0</p></td><td><p>high</p></td></tr><tr><td><p>hand signals activism</p></td><td><p>0</p></td><td><p>high</p></td></tr><tr><td><p>action tactics</p></td><td><p>10</p></td><td><p>high</p></td></tr><tr><td><p>activist tactics</p></td><td><p>80</p></td><td><p>high</p></td></tr><tr><td><p>tactical action</p></td><td><p>310</p></td><td><p>low</p></td></tr><tr><td><p>activism workshop</p></td><td><p>70</p></td><td><p>high</p></td></tr><tr><td><p>action workshop</p></td><td><p>90</p></td><td><p>medium</p></td></tr><tr><td><p>activist actions</p></td><td><p></p></td><td><p></p></td></tr></tbody></table>
 
 _\*According to Semrush_
 
 ## External resources
 
 -   [Create Tactics to Stop Gas](https://drive.google.com/file/d/1zcxZ0vtMA1dCixmHevv2IO7jKC3L_HNm/view?usp=sharing) by [Gastivists](http://gastivists.org)
+    
 -   [Brandalism](http://brandalism.ch)
+    
 -   being climate activist as scientist https://twitter.com/thierryaaron/status/1399327351918432256
+    
 -   Radical gardening: https://youtu.be/\_g2CaF12xxw
+    
 -   [198 Methods of nonviolent action](https://www.aeinstein.org/nonviolentaction/198-methods-of-nonviolent-action/)
+    
 -   [Global Nonviolent Action Database](https://nvdatabase.swarthmore.edu/), published under creative commons
+    
 -   [Global Protest Tracker](https://carnegieendowment.org/publications/interactive/protest-tracker) by Carnegie Endowment for International Peace
+    
 -   [https://www.humanrightscareers.com/issues/types-of-activism/](https://www.humanrightscareers.com/issues/types-of-activism/)
+    
 -   [https://en.wikipedia.org/wiki/Category:Activism\_by\_type](https://en.wikipedia.org/wiki/Category:Activism_by_type)
+    
 -   [https://therevolutionmovie.com/index.php/change-the-world/become-an-activist/types-of-activism/](https://therevolutionmovie.com/index.php/change-the-world/become-an-activist/types-of-activism/)
+    
 -   [New Tactics in Human Rights](/tactics/ https://www.newtactics.org/tactics) by Center for Victims of Torture
+    
 
 ### Creative
 
 -   [Slideshow: Climate Artivist Guide](https://issuu.com/350.org/docs/artivist-guide-formatted?backgroundColor=%25252523222222) by 350.org
+    
 -   [Slideshow: Climate Art Literacy](https://issuu.com/350.org/docs/climate-art-literacy) by 350.org
+    
 -   [Article: Six Tools for Climate Change Art](http://www.frankejames.com/6-tools-to-make-world-leaders-see-the-big-picture/) by Franke James (2010)
+    
 -   [Video: Inflatable carbon bubble](https://vimeo.com/89080176) by Tools for Action (2014)
+    
 -   [Video: How to make banners](https://youtu.be/HRddjf9yvtg) by Peaceful Uprising (2012)
+    
 -   [Video: Reverse graffiti](https://www.youtube.com/watch?v=qmZVoQynqp0) by 350.org (2009)
+    
 -   [Climate stencil icons](https://issuu.com/rvltn/docs/gps1)
+    
 -   [Creative Activism: Start Here](https://commonslibrary.org/creative-activism-start-here/) by Commons Library
+    
 -   [Creative Activism 101: An Antidote to Despair](https://commonslibrary.org/creative-activism-101-an-antidote-for-despair/) by Iain McIntyre
