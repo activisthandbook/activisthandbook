@@ -6,9 +6,9 @@ description: >
 langCode: en
 articleID: tvO08rRa9AhOz9-bQk2MnsJmo3IxrqGt
 languageCollectionID: 8Z7ZJiFcy-pvsGmAE6ZVgHrjZvu8r4pl
-updatedTimestamp: 1676480952168
+updatedTimestamp: 1676963076986
 createdTimestamp: 1653837592592
-wordCount: 806
+wordCount: 917
 tags: []
 ---
 
@@ -118,6 +118,16 @@ Check out our tools chapter, to find campaigning tools that are easy to use and 
 Once you start making impact, you will find that your opponents start using the law to try and stop you. Don't let them. In many countries, the law provides certain protections to activists. Learn all about your legal rights:
 
 <action-button buttonlink="/rights" buttonlabel="Legal info for activists"></action-button>
+
+## Q&A
+
+### What is the difference between a protest action and a campaign?
+
+A [protest action](/organising/protest) is a one-off event. A campaign consists of a series of actions over a longer period of time.
+
+Often, inexperienced activists will start by organising a single protest, after which they discover that it has not led to the desired result. Then, they continue to organise more protests, without strategically thinking about how all their actions are connected.
+
+This causes participants to be disappointed by the impact they are making with the first few protests, because they do not see how these are contributing towards the bigger picture. Effective campaigns strategically build up towards a goal.
 
 ## Improve this page
 

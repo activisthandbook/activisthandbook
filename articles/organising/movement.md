@@ -6,9 +6,9 @@ description: >
 langCode: en
 articleID: zcObjuif3fqmql1flUYTamZghpPgD1yY
 languageCollectionID: dHWPTkxr2P1ECXwrKT31KbAeaG5hQkkt
-updatedTimestamp: 1676731561624
+updatedTimestamp: 1676963971504
 createdTimestamp: 1583583586992
-wordCount: 740
+wordCount: 913
 tags: []
 ---
 
@@ -79,3 +79,13 @@ Check out our [**tools chapter**](https://activisthandbook.org/tools) to learn a
 ### **7\. Know your rights**
 
 Once you start making impact, you will find that your opponents start using the law to try and stop you. Don't let them. In many countries, the law provides certain protections to activists. Learn all about your [legal rights and common police practices in your country](/rights).
+
+## Q&A
+
+### What is the difference between a campaign and a movement?
+
+A campaign usually consists of a series of actions over the span of a few months to a year, and focusses on a single issue. A movement exists for a longer period of time, and targets multiple issues within a bigger story.
+
+Often, the injustices we are fighting are complex. A campaign focusses on changing a single issue within that complex system. In many cases, when activists win their campaign, their group falls apart because the thing that bound them together is no longer there.
+
+This does not mean, however, that all injustices are gone. It would be a shame to let the change-making capacity you have built up with your group fall apart. This is where movements come into play. A movement communicates a message that helps people understand how various issues are connected. In addition, a movement invests more resources into community building. People join your movement because they care about your cause. They stay because they feel at home.
