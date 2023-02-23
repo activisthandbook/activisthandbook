@@ -6,9 +6,9 @@ description: >
 langCode: en
 articleID: Jivvm_DITjwYHs0BtJuFs9SzsiRHfUlL
 languageCollectionID: 2iL5uLyfvLfLZc8ZAdnUzGAQX_cgwUc1
-updatedTimestamp: 1676709466494
+updatedTimestamp: 1677136501251
 createdTimestamp: 1583581575544
-wordCount: 878
+wordCount: 877
 tags: ["chapters"]
 ---
 
@@ -33,9 +33,9 @@ To build an impactful grassroots movement, start small. Organise a protest actio
 
 You want to make a big impact. But you have a limited access to resources needed to get there. This section focusses on building capacity to bring about change:
 
--   **📢** [**Outreach & mobilisation**](/organising/outreach-mobilisation)
+-   **📢** [**Outreach & mobilisation**](/organising/mobilising)
     
--   **💪** [**Recruitment & engagement**](/organising/recruitment-engagement)
+-   **💪** [**Membership engagement**](/organising/engagement)
     
 -   🙌 [**Coalition building**](/organising/coalition-building)
     

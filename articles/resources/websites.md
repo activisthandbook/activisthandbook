@@ -6,7 +6,7 @@ description: >
 langCode: en
 articleID: Z6uJY_SPlb4KGAjna9PThNsgiE0J98Ty
 languageCollectionID: fVhmN9s7AQ-loB2iM9of0SYyO7H3_eg2
-updatedTimestamp: 1676211163942
+updatedTimestamp: 1677134906481
 createdTimestamp: 1602591877175
 wordCount: 908
 tags: []
@@ -56,7 +56,7 @@ This means we can copy their articles to Activist Handbook as long as the approp
     
 -   [**The Direct Action Movement**](https://www.thedirectactionmovement.com/activate) (DAM): Australia-based organisation that supports actions and campaigns.
     
--   [**Rhizome Network**](/resources/websites/Rhyzome-Network): Seem to be inactive since 2020, but their website still contains valuable Creative Commons resources
+-   [**Rhizome Network**](/resources/rhizome-network): Seem to be inactive since 2020, but their website still contains valuable Creative Commons resources
     
 
 ## Non-commons websites

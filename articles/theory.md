@@ -6,8 +6,9 @@ description: >
 langCode: en
 articleID: YDhDPuRtRiSVyvpIQFEshkjwntMOHg2j
 languageCollectionID: J2Ob8I-vLt6F7hsqCHl_RhDVkGC1ybLs
-updatedTimestamp: 1671651314245
+updatedTimestamp: 1677085370063
 createdTimestamp: 1593095391290
+wordCount: 452
 tags: []
 ---
 
@@ -16,7 +17,9 @@ tags: []
 > **🧠 This is a background chapter:** At Activist Handbook, we focus on writing a practical guides for activists. Sometimes, theory is useful in explaining the emergence of the practices we write about in further chapters.
 > 
 > -   Want to take action now? Skip this chapter. We encourage you to explore our various other chapters, which can be found in the left sidebar.
+>     
 > -   Want to improve your understanding of activism? This is the right place to start.
+>     
 
 ## What is a ‘theory of change’?
 
@@ -24,7 +27,7 @@ _This section has not been written yet._
 
 [**Theory of Change**](/theory/change)
 
-<div><figcaption>Nature is defending itself: a frog reads Activist Handbook - Generated using OpenAI</figcaption></div>
+Nature is defending itself: a frog reads Activist Handbook - Generated using OpenAI
 
 ## The Activist Handbook theory
 
@@ -33,13 +36,18 @@ _This section has not been written yet._
 To understand better what we mean with activism and why we are interested in it, we recommend you to read the following articles:
 
 -   [What is activism](/theory/what-is-activism)
+    
 -   [Does activism work](/theory/does-activism-work)
+    
 -   [Why we do activism](/theory/why-do-activism)
+    
 
 ### About demonstrations
 
 -   [What is a demonstration](/theory/demonstration)
+    
 -   [Are protests effective](/theory/are-protests-effective)
+    
 
 ### Theoretical concepts
 
@@ -47,17 +55,26 @@ As an activist, there are probably lots of things that you would like to change.
 
 We discuss terms that are frequently used in the context of change-making and investigate their meaning:
 
--   [Dignity of life](/theory/dignity-of-life)
+-   Dignity of life
+    
 -   [Democracy](/theory/democracy)
+    
 -   [Ecology](/theory/ecology)
--   [Justice](/theory/justice)
--   [Power](/theory/power)
+    
+-   Justice
+    
+-   Power
+    
 -   [Intersectionality](/theory/intersectionality)
+    
 -   [Environmental activism and religions](/theory/activism_and_religions)
+    
 -   [Overton window](/theory/overton-window)
+    
 -   [Performative activism](/theory/performative-activism)
+    
 
-<div><figcaption>People theorising what a better world could look like - Generated using OpenAI</figcaption></div>
+People theorising what a better world could look like - Generated using OpenAI
 
 ## Improve this page
 
@@ -66,19 +83,25 @@ We discuss terms that are frequently used in the context of change-making and in
 When improving this page, focus on the following:
 
 -   Find a way to structure this chapter
+    
 -   Discuss ‘theory of change' in general, and our perspective on it. We already have an article on [theory of change](/theory/change), which should be integrated with this chapter.
+    
 
 ### Questions activist may have
 
 -   What is activism?
+    
 -   What do theoretical concepts such as participatory democracy, peer to peer education etc mean?
+    
 -   How do activists understand justice and equality?
+    
 -   What are ethics?
+    
 
 ### Search keywords
 
 People look up the following topics on Google:
 
-<div><table><thead><tr><th>Keywords</th><th>Monthly global searches*</th><th>Relevancy</th></tr></thead><tbody><tr><td>activist theory</td><td>210</td><td>high</td></tr><tr><td>theory of change</td><td>30K</td><td>medium</td></tr><tr><td>change theories</td><td>20.5K</td><td>low</td></tr><tr><td>overton window</td><td>47.8K</td><td>low</td></tr><tr><td><span>activism </span>definition</td><td>8.3K</td><td>medium</td></tr><tr><td>examples of <span>activism</span></td><td><span>1K</span></td><td>high</td></tr><tr><td>why is <span>activism </span>important</td><td>950</td><td>high</td></tr><tr><td>performative <span>activism</span></td><td>9.7K</td><td>medium</td></tr><tr><td>effective protests in history</td><td>140</td><td>high</td></tr><tr><td>successful <span>activism </span>examples</td><td>10</td><td>high</td></tr><tr><td>are protests effective in promoting social change</td><td>20</td><td>high</td></tr><tr><td>what motivates people to struggle for change</td><td>620</td><td>high</td></tr><tr><td>what does it take to be an activist</td><td>90</td><td>high</td></tr><tr><td>how to be an activist from home</td><td></td><td></td></tr><tr><td>what is a human rights activist</td><td></td><td></td></tr><tr><td>how to be a civil rights activist</td><td></td><td></td></tr><tr><td>how to be an activist on social media</td><td></td><td></td></tr></tbody></table></div>
+<table><tbody><tr><th><p>Keywords</p></th><th><p>Monthly global searches*</p></th><th><p>Relevancy</p></th></tr><tr><td><p>activist theory</p></td><td><p>210</p></td><td><p>high</p></td></tr><tr><td><p>theory of change</p></td><td><p>30K</p></td><td><p>medium</p></td></tr><tr><td><p>change theories</p></td><td><p>20.5K</p></td><td><p>low</p></td></tr><tr><td><p>overton window</p></td><td><p>47.8K</p></td><td><p>low</p></td></tr><tr><td><p>activism definition</p></td><td><p>8.3K</p></td><td><p>medium</p></td></tr><tr><td><p>examples of activism</p></td><td><p>1K</p></td><td><p>high</p></td></tr><tr><td><p>why is activism important</p></td><td><p>950</p></td><td><p>high</p></td></tr><tr><td><p>performative activism</p></td><td><p>9.7K</p></td><td><p>medium</p></td></tr><tr><td><p>effective protests in history</p></td><td><p>140</p></td><td><p>high</p></td></tr><tr><td><p>successful activism examples</p></td><td><p>10</p></td><td><p>high</p></td></tr><tr><td><p>are protests effective in promoting social change</p></td><td><p>20</p></td><td><p>high</p></td></tr><tr><td><p>what motivates people to struggle for change</p></td><td><p>620</p></td><td><p>high</p></td></tr><tr><td><p>what does it take to be an activist</p></td><td><p>90</p></td><td><p>high</p></td></tr><tr><td><p>how to be an activist from home</p></td><td><p></p></td><td><p></p></td></tr><tr><td><p>what is a human rights activist</p></td><td><p></p></td><td><p></p></td></tr><tr><td><p>how to be a civil rights activist</p></td><td><p></p></td><td><p></p></td></tr><tr><td><p>how to be an activist on social media</p></td><td><p></p></td><td><p></p></td></tr></tbody></table>
 
 _\*According to Semrush_

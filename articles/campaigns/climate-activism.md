@@ -6,7 +6,7 @@ description: >
 langCode: en
 articleID: IMpWBGgi-DB7e68av_nsoMrQknq0sVzD
 languageCollectionID: 0LiiGOKPXDtXadFAhHloJNbQCpMVuhqF
-updatedTimestamp: 1676531574700
+updatedTimestamp: 1677085460878
 createdTimestamp: 1641915364078
 wordCount: 1336
 tags: ["climate"]
@@ -94,7 +94,7 @@ Here are three examples of climate movements, but there are many more:
 
 [Extinction Rebellion](/extinction-rebellion) is a global climate movement that uses nonviolent civil disobedience to demand action on the climate crisis. The movement was founded in the UK in May 2018 by academics Roger Hallam and Gail Bradbrook, and has since grown to include tens of thousands of people in over 80 countries.
 
-[Youth for Climate](/youth-for-climate) is a youth-led climate movement that was started in the Netherlands in 2019. The movement has since spread to other countries, with youth taking to the streets to demand climate action from their governments.
+Youth for Climate is a youth-led climate movement that was started in the Netherlands in 2019. The movement has since spread to other countries, with youth taking to the streets to demand climate action from their governments.
 
 People cleaning up a dirty lake - Generated using open AI
 

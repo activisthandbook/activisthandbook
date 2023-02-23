@@ -6,8 +6,9 @@ description: >
 langCode: en
 articleID: GvaQci134VMW01x8fzBwm8dp37QUp3Hf
 languageCollectionID: NQYNttuJkw8OqeRAcgafPE_l_g2toIq3
-updatedTimestamp: 1654091699037
+updatedTimestamp: 1677085519677
 createdTimestamp: 1648637365736
+wordCount: 499
 tags: ["campaign"]
 ---
 
@@ -31,7 +32,7 @@ Activist Handbook has many guides for community activists. For example, check ou
 
 Examples of community activism include fighting for better schools, working to get more stop signs or crossing guards in a neighborhood, or working to clean up a local park.
 
-Community activists fight for a variety of issues, including social justice, [environmental protection](/campaigns/climate), and civil rights.
+Community activists fight for a variety of issues, including social justice, [environmental protection](/campaigns/climate-activism), and civil rights.
 
 ### How can I get involved in community activism?
 
@@ -51,11 +52,14 @@ Nobody is born an activist, so we recommend you [train yourself](/trainings). Al
 
 People look up the following search keywords related to community activism:
 
-<div><table><thead><tr><th>Keywords</th><th>Monthly global searches</th><th>Relevancy</th></tr></thead><tbody><tr><td>community activist</td><td>1.9K</td><td>High</td></tr><tr><td>community activism</td><td>1.3K</td><td>High</td></tr><tr><td>what is a community activist</td><td>210</td><td>High</td></tr><tr><td>how to become an activist in your community</td><td>60</td><td>High</td></tr></tbody></table></div>
+<table><tbody><tr><th><p>Keywords</p></th><th><p>Monthly global searches</p></th><th><p>Relevancy</p></th></tr><tr><td><p>community activist</p></td><td><p>1.9K</p></td><td><p>High</p></td></tr><tr><td><p>community activism</p></td><td><p>1.3K</p></td><td><p>High</p></td></tr><tr><td><p>what is a community activist</p></td><td><p>210</p></td><td><p>High</p></td></tr><tr><td><p>how to become an activist in your community</p></td><td><p>60</p></td><td><p>High</p></td></tr></tbody></table>
 
 ## External resources
 
 -   [What is community work](https://infed.org/what-is-community-work/) by Infed
+    
 -   [What is a community activist?](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&ved=2ahUKEwiR4OGWsIz4AhUzwAIHHWk3CHsQFnoECBcQAQ&url=https%3A%2F%2Fwww.i-develop-cld.org.uk%2Fpluginfile.php%2F4419%2Fmod_folder%2Fcontent%2F0%2FUnit%25201%2FSession%25201%2FHandouts%2520%2520worksheets%2FWhat%2520is%2520a%2520community%2520activist%2520handout.pdf%3Fforcedownload%3D1&usg=AOvVaw1KY3jLD-OP1-kYoJI8JRrQ) by IDevelop
+    
 -   [Who Are the Activists in My Community?](https://www.learningforjustice.org/classroom-resources/lessons/who-are-the-activists-in-my-community) by Learning for Justice
+    
 -   [Encouraging Involvement in Community Work](https://ctb.ku.edu/en/table-of-contents/participation/encouraging-involvement) by Community Tool Box

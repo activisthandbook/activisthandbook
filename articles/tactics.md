@@ -6,7 +6,7 @@ description: >
 langCode: en
 articleID: dqIEdknV4hO7Eqa1OZNQWeeF1D-KptVM
 languageCollectionID: WeIM7eSP9ovc2D_rh7HpCq26GW7AQRV-
-updatedTimestamp: 1676912205933
+updatedTimestamp: 1677085222606
 createdTimestamp: 1594650737037
 wordCount: 1215
 tags: []
@@ -57,13 +57,13 @@ There are many ways of digital activism. Some of them include sharing pictures a
 
 Sometimes having a conversation is better than shouting slogans. Informational tactics are there to start a public debate about certain topics, in the hope that the outcome of the debate will lead to societal change.
 
-**Topics:** [Education](/tactics/education) | [Door-to-door canvassing](/tactics/canvassing) | [Leafletting](/tactics/leafletting) | [Hosting a talk or debate](/tactics/talk-debate) | [Journalism](/tactics/journalism) | [Whistleblowing](/tactics/whistleblowing) | [Blogging](/tactics/blogging) | [Novels](/tactics/novels)
+**Topics:** [Education](/tactics/education) | [Door-to-door canvassing](/tactics/canvassing) | [Leafletting](/tactics/leafletting) | [Hosting a talk or debate](/tactics/talk-debate) | Journalism | [Whistleblowing](/tactics/whistleblowing) | Blogging | Novels
 
 ### Institutional 🏛
 
 By joining existing institutions one can make change happen from within. Institutional tactics create societal change while following the rules of the existing system.
 
-**Topics:** [Voting](/organising/frameworks/elections) | [Running for office](/tactics/running-for-office) | [Judicial](/tactics/judicial) | [Corporate](/tactics/corporate)
+**Topics:** Voting | [Running for office](/tactics/running-for-office) | [Judicial](/tactics/judicial) | Corporate
 
 ### Financial 🤑
 

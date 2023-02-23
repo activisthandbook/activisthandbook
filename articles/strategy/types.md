@@ -6,8 +6,9 @@ description: >
 langCode: en
 articleID: 0pyvmXBsK0CD53__pRHbdEpdldPTsXhw
 languageCollectionID: DzETy-5-H4GwWfZz0_ttl3fAPEBsSLBS
-updatedTimestamp: 1668048290647
+updatedTimestamp: 1677135204305
 createdTimestamp: 1647940783212
+wordCount: 914
 tags: []
 ---
 
@@ -17,16 +18,20 @@ There is a wide variety of strategies and choosing a strategy is not an easy tas
 
 There are many ways to differentiate between types of campaign strategies. We decided to use two factors: focus on the system (institutions) or communities (people) and whether strategies are more on the radical (disruptive) or lenient (reformative) side of things. You can find a visual representation of this typology below.
 
-<div><figcaption>Types of strategies, by Activist Handbook (2021)</figcaption></div>
+Types of strategies, by Activist Handbook (2021)
 
 The reason we didn’t like any of the existing ways to distinguish between strategies is that they heavily focus on political activism and institutional strategies. People building community workshops and giving free classes in sign language are rarely seen or identify themselves as activists.
 
 Learn more about the tactics that you can use for each of these strategies:
 
 -   **📢** [**Challenge the system**](/tactics/system-challanging), through disruption and disobedience
+    
 -   **📚** [**Change our culture**](/tactics/cultural), through education, art and awareness campaigns
+    
 -   **🛠** [**Build alternatives**](/tactics/alternative-building), through creation of new spaces for communities
+    
 -   **🏛** [**Work within institutions**](/tactics/institutional), through election campaigns, lobbying, legal action and financial pressure
+    
 
 You don’t necessarily have to stay within just one of the categories, but make sure that the strategies and tactics you chose don’t clash with each other. If you’re trying to build relationships with the people in your social environment, being seen as “radical” is not a good move. On the other hand, if you really want to make big and fast changes by building alternatives, you are wasting time if you focus primarily on policy making and lobbying, and expecting the government to introduce these alternatives.
 
@@ -42,7 +47,7 @@ You don’t necessarily have to stay within just one of the categories, but make
 
 ### **2\. Nonviolent direct action (NVDA) & mass civil disobedience**
 
-(required for global systems change\[s\] -see evidence base. **Examples:** Extinction Rebellion / MLK) See also [Levels and types of non-violent civil disobedience](/strategy/civil-disobedience)
+(required for global systems change\[s\] -see evidence base. **Examples:** Extinction Rebellion / MLK) See also [Levels and types of non-violent civil disobedience](/tactics/civil-disobedience)
 
 ### **3\. Sabotage (infrastructural) / property damage with no direct harm to life**
 
@@ -52,7 +57,7 @@ You don’t necessarily have to stay within just one of the categories, but make
 
 (may have occasional uses -see evidence base. **Examples:** Black Panthers / EZLN)
 
-_**Please note**, there is an ongoing discussion on Activist Handbook of whether violence as a strategic activist approach or tactic should be considered at all, or even acknowledged / discussed as a historic reality. To contribute to this discussion please use the comments section on_ [_this page._](/discussion/violence)
+**_Please note_**_, there is an ongoing discussion on Activist Handbook of whether violence as a strategic activist approach or tactic should be considered at all, or even acknowledged / discussed as a historic reality. To contribute to this discussion please use the comments section on_ [_this page._](/discussion/violence)
 
 ### **5\. Violence -offensive**
 
@@ -85,33 +90,57 @@ Here is one perspective: [the Shambala Warrior prophesy.](https://www.youtube.co
 ## External resources
 
 -   Gene Sharp, [_‘From Dictatorship to Democracy’_](http://www.cfic.org.uk/media/From%20dictatorship%20to%20democracy.pdf)
+    
 -   [Frameworks for Winning Change](https://commonslibrary.org/frameworks-for-winning-change/) by Holly Hammond
+    
 -   [Networked Change: How Progressive Campaigns are Won in the 21st Century](https://commonslibrary.org/networked-change/) by NetChange
+    
 -   [The Eight Fold Path: 8 Operating Principles for Building a Progressive People's Movement](https://commonslibrary.org/the-eight-fold-path/) by OPEN Network
+    
 -   [Engaging in Elections and Building Community Power](https://commonslibrary.org/engaging-in-elections-and-building-community-power/) by Community Organising Fellowship
+    
 -   [Deciding Whether to do Electoral Organizing](https://commonslibrary.org/deciding-whether-to-do-electoral-organizing/) by Joan Minieri and Paul Getsos
+    
 
 ### Interventions
 
 -   [Developing an Intervention](https://ctb.ku.edu/en/developing-intervention)
+    
 -   [Providing Information and Enhancing Skills](https://ctb.ku.edu/en/table-of-contents/implement/provide-information-enhance-skills)
+    
 -   [Enhancing Support, Incentives, and Resources](https://ctb.ku.edu/en/table-of-contents/implement/enhancing-support)
+    
 -   [Youth Mentoring Programs](https://ctb.ku.edu/en/table-of-contents/implement/youth-mentoring)
+    
 -   [Modifying Access, Barriers, and Opportunities](https://ctb.ku.edu/en/table-of-contents/implement/access-barriers-opportunities)
+    
 -   [Improving Services](https://ctb.ku.edu/en/table-of-contents/implement/improving-services)
+    
 -   [Changing Policies](https://ctb.ku.edu/en/table-of-contents/implement/changing-policies) and [Influencing Policy Development](https://ctb.ku.edu/en/influencing-policy-development)
+    
 -   [Changing the Physical and Social Environment](https://ctb.ku.edu/en/table-of-contents/implement/physical-social-environment)
+    
 -   [Academic: Implementing Effective Interventions](https://ctb.ku.edu/en/best-change-processes/implementing-effective-interventions/overview)
+    
 
 ### Advocacy
 
 -   [Advocating for Change](https://ctb.ku.edu/en/advocating-change)
+    
 -   [Principles of Advocacy](https://ctb.ku.edu/en/table-of-contents/advocacy/advocacy-principles)
+    
 -   [Conducting Advocacy Research](https://ctb.ku.edu/en/table-of-contents/advocacy/advocacy-research)
+    
 -   [Providing Encouragement and Education](https://ctb.ku.edu/en/table-of-contents/advocacy/encouragement-education)
+    
 -   [Conducting a Direct Action Campaign](https://ctb.ku.edu/en/table-of-contents/advocacy/direct-action)
+    
 -   [Media Advocacy](https://ctb.ku.edu/en/table-of-contents/advocacy/media-advocacy)
+    
 -   [Responding to Counterattacks](https://ctb.ku.edu/en/table-of-contents/advocacy/respond-to-counterattacks)
+    
 -   [Lobbying and Advocacy: Start Here](https://commonslibrary.org/lobbying-and-advocacy-start-here/) by Commons Library
+    
 -   [What Makes a Brilliant Advocacy Strategy](https://commonslibrary.org/what-makes-a-brilliant-advocacy-strategy/) by Mobilization Lab
+    
 -   [Naming an Advocacy Campaign](https://commonslibrary.org/naming-an-advocacy-campaign/) by Tim Norton

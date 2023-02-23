@@ -6,8 +6,9 @@ description: >
 langCode: nl
 articleID: fKmFu-JZItd1YnD9S1AJYWOlgz04w1dN
 languageCollectionID: I-YpwczEWStif-VOD4LPxMApnw3oe250
-updatedTimestamp: 1671465348521
+updatedTimestamp: 1677135020252
 createdTimestamp: 1629198632960
+wordCount: 1319
 tags: []
 ---
 
@@ -26,15 +27,25 @@ Zorg ervoor dat de autoriteiten niet op basis van deze redenen je demonstratie k
 Volgens het Europese hof hoef je demonstraties niet aan te kondigen, maar volgens Nederlandse regels moet dit wel. De Nederlandse wet houdt zich dus niet aan Europese regelgeving. De politie en de Gemeente willen graag weten wat je van plan bent, naar eigen zeggen zodat ze het protest beter kunnen faciliteren en veilig kunnen laten verlopen. De meeste gemeentes hebben in hun Algemene Plaatselijke Verordening (APV) vastgelegd hoe en of je betogingen moet aanmelden. Voldoe je hier niet aan, dan kan de burgemeester in uitzonderlijke omstandigheden de betoging verbieden. In praktijk betekent het niet melden van je betoging helaas vaak dat de driehoek (burgemeester, politie en justitie) eerder geneigd is de betoging te beëindigen met als reden gevaar voor de Openbare Veiligheid of vanwege het niet aanmelden. In verschillende gemeentes, waaronder Den Haag, kan je zelfs een boete krijgen voor het niet melden van een betoging.
 
 -   [Amsterdam](/rights/amsterdam)
+    
 -   [Rotterdam](/rights/rotterdam)
--   [Den Haag](/rights/den-haag) (voeg pagina toe)
--   [Utrecht](/rights/utrecht) (voeg pagina toe)
--   [Eindhoven](/rights/eindhoven) (voeg pagina toe)
--   [Groningen](/rights/groningen) (voeg pagina toe)
--   [Tilburg](/rights/tilburg) (voeg pagina toe)
--   [Almere](/rights/almere) (voeg pagina toe)
--   [Breda](/rights/breda) (voeg pagina toe)
--   [Nijmegen](/rights/nijmegen) (voeg pagina toe)
+    
+-   Den Haag (voeg pagina toe)
+    
+-   Utrecht (voeg pagina toe)
+    
+-   Eindhoven (voeg pagina toe)
+    
+-   Groningen (voeg pagina toe)
+    
+-   Tilburg (voeg pagina toe)
+    
+-   Almere (voeg pagina toe)
+    
+-   Breda (voeg pagina toe)
+    
+-   Nijmegen (voeg pagina toe)
+    
 
 ### Legitimatie
 
@@ -48,7 +59,7 @@ Het kan altijd zijn dat je, of iemand in jouw groep, bij een actie gearresteerd 
 
 > Oeps… Hier hebben we nog geen info over. Voel je vrij om het artikel te verbeteren!
 
-## _**Tips en tricks voor politiewoordvoerders**_
+## **_Tips en tricks voor politiewoordvoerders_**
 
 Bedenk van tevoren: welk doel heeft de politiewoordvoering bij deze actie? Wat hebben we te winnen? En te verliezen? Realiseer je dat je tegenover de politie altijd in de zwakkere positie bent!
 
@@ -59,12 +70,19 @@ Is er geen politie of beveiliging op locatie aan het begin van de actie en heb j
 Vertel de politie en beveiliging (kort en krachtig):
 
 -   je naam en namens welke organisatie je spreekt
+    
 -   dat het gaat om een demonstratie/protest
+    
 -   dat je aanspreekpunt bent voor het verloop van de actie
+    
 -   met hoeveel mensen je bent
+    
 -   wat je doet en waarom (korte inhoudelijke aanleiding)
+    
 -   eventueel: hoe lang jullie van plan zijn te blijven
+    
 -   dat jullie actie niet het doel heeft vernielingen aan te richten
+    
 
 Soms is het mogelijk te onderhandelen met de politie. De onderhandelingen verlopen dan via jou als politiewoordvoerder. Denk er van tevoren over na of je dit wilt en hoe ver je hierin wilt gaan en bespreek ook de mogelijke scenario’s van te voren met de deelnemers van de actie.
 
@@ -79,9 +97,11 @@ Niet iedereen heeft dezelfde ervaring met (politie)geweld. Sommige mensen kunnen
 Meer info over politiegeweld:
 
 -   Over politiegeweld en etnisch profileren: [https://controlealtdelete.nl](https://controlealtdelete.nl)
+    
 -   Over de invoering van het stroomstootwapen (taser) in Nederland en de politielobby en het verdraaien van cijfers dat daarmee gepaard gaat: [https://www.npostart.nl/medialogica/09-06-2020/VPWON\_1310567](https://www.npostart.nl/medialogica/09-06-2020/VPWON_1310567)
+    
 
-<div><figcaption><strong>Code Rood action near Groningen – </strong>Farmsum. Peaceful activists raise their hands after being attacked by police forces with dogs, battons and pepper spray as hundreds of climate activist block the tanker park (<a href="https://www.flickr.com/photos/350org/44467349931/in/photolist-LZqKF2-2aKqMV6-MGe8nr-2aKqLPt-28G12nj-PjdMfj-2a4vVwn-MGe9eM-rhiD5z-sdXKCd-dsH18o-se4pxR-apQC8J-79XeNv-se7jDa-se4pG8-se7jAz-rWw1uw-7a4CAY-M8Xf6F-79Xezt-8Jb5is-7a2627-79ZMLP-79XeBV-rWxb3j-7aZBM5-79XeJM-rWxaDU-7cnM9C-rh79uS-rWw1Km-8J7HdD-EEjU1e-rWxaFC-7a4Cu5-79ZMPg-7a4CXy-7a4Cnq-79ZMtP-79ZN4n-7a4D1w-7a4Cwo-79ZN3c-se4pB8-79ZMRB-79ZMf4-8JpQx6-Td8moA-sm8Ye5/">Pierre Crom, 2018</a>)</figcaption></div>
+**Code Rood action near Groningen –** Farmsum. Peaceful activists raise their hands after being attacked by police forces with dogs, battons and pepper spray as hundreds of climate activist block the tanker park ([Pierre Crom, 2018](https://www.flickr.com/photos/350org/44467349931/in/photolist-LZqKF2-2aKqMV6-MGe8nr-2aKqLPt-28G12nj-PjdMfj-2a4vVwn-MGe9eM-rhiD5z-sdXKCd-dsH18o-se4pxR-apQC8J-79XeNv-se7jDa-se4pG8-se7jAz-rWw1uw-7a4CAY-M8Xf6F-79Xezt-8Jb5is-7a2627-79ZMLP-79XeBV-rWxb3j-7aZBM5-79XeJM-rWxaDU-7cnM9C-rh79uS-rWw1Km-8J7HdD-EEjU1e-rWxaFC-7a4Cu5-79ZMPg-7a4CXy-7a4Cnq-79ZMtP-79ZN4n-7a4D1w-7a4Cwo-79ZN3c-se4pB8-79ZMRB-79ZMf4-8JpQx6-Td8moA-sm8Ye5/))
 
 ## Verbeter dit artikel
 
@@ -92,21 +112,36 @@ Dit artikel mist nog informatie over de Belgische demonstratiewetten en politiep
 En beantwoord deze vragen:
 
 1.  Wat zijn mijn rechten als ik deelnem aan een protest in Nederland?
+    
 2.  Kan de politie mijn protest bijwonen of beperken?
+    
 3.  Mag de politie mijn foto's of video's maken tijdens het protest?
+    
 4.  Wat zijn de regels voor het gebruik van politiegeweld tijdens een protest?
+    
 5.  Kan ik worden gearresteerd of opgepakt tijdens een protest?
+    
 6.  Wat gebeurt er als ik tijdens een protest word gearresteerd of opgepakt?
+    
 7.  Wat zijn mijn rechten als ik word gearresteerd of opgepakt tijdens een protest?
+    
 8.  Kan ik een advocaat vragen als ik tijdens een protest word gearresteerd of opgepakt?
+    
 9.  Wat gebeurt er als ik tijdens een protest een overtreding bega?
+    
 10.  Wat als ik het niet eens ben met de beslissing van de politie of de rechter na een protest?
+    
 
 ## Bronnen
 
 -   [Over het recht op demonstratie en over je rechten als demonstrant](https://www.stroomversnellers.org/over-demonstreren-over-het-recht-op-demonstratie-verdedigen-en-over-je-rechten-als-demonstrant/)
+    
 -   [Shell Must Fall Toolkit](https://code-rood.org/wp-content/uploads/2021/04/Deel-2-praktisch_FINAL-2.pdf)
+    
 -   [Arrestantenhandleiding](https://burojansen.nl/pdf/arrestantenhandleiding.pdf) door Buro Jansen & Janssen \[[Archived version](https://web.archive.org/web/*/https://burojansen.nl/pdf/arrestantenhandleiding.pdf)\]
+    
 -   [Buro Jansen & Janssen](https://www.burojansen.nl)
+    
 -   [Politiegeweld in Nederland](https://www.amnesty.nl/politiegeweld-in-nederland) door Amnesty International
+    
 -   [Legal training materiaal](https://cloud.extinctionrebellion.nl/index.php/f/1456036) door Extinction Rebellion Nederland \[Login required\]

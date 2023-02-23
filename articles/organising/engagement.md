@@ -6,8 +6,9 @@ description: >
 langCode: en
 articleID: lwXuStFPLIQwUu_yg2hsZwnl_MLJaQ6X
 languageCollectionID: KJDBDugCUogRlOSqDrfCc5k89fd-lkA5
-updatedTimestamp: 1663660915472
+updatedTimestamp: 1677136258918
 createdTimestamp: 1583671492658
+wordCount: 2077
 tags: []
 ---
 
@@ -17,7 +18,7 @@ Successful movements don’t overpower their opponents; they gradually undermine
 > 
 > Saul Alinksy ([Rules for Radicals](/rules-for-radicals), p.93)
 
-<div><figcaption><strong>Climate Strike in Jakarta, Indonesia</strong> – Climate strikers in Jakarta, Indonesia, take to the streets, broadcasting the realities of the climate crisis on some colourful rain gear (<a href="https://www.flickr.com/photos/350org/50751471262/">Andrew Daniel, 2020</a>)</figcaption></div>
+**Climate Strike in Jakarta, Indonesia** – Climate strikers in Jakarta, Indonesia, take to the streets, broadcasting the realities of the climate crisis on some colourful rain gear ([Andrew Daniel, 2020](https://www.flickr.com/photos/350org/50751471262/))
 
 ## Engagement flow
 
@@ -69,6 +70,7 @@ Be gentle on your activists, they have a life outside of your movement. So try t
 In order to keep members extra motivated there are a few tricks you should keep in mind:
 
 -   prevent confusion and make especially new members feel welcome, do an introductor/ induction workshop for all new members so that they understand the organisation and its work, Welcome and introduce all new members at the beginning of each meeting
+    
 -   encourage your activists for higher tasks so that they don’t feel underestimated(like trainings, projects, campaigns) and keep their interest, give people responsibilities and tasks and team them up with experienced members - they will feel useful and valued  
     
 
@@ -98,22 +100,36 @@ Sometimes mobilization seems easier (and funnier!) than organization. Though, or
 One of the main risks that a brand-new movement usually faces is the dropping out of activists. There are many ways to avoid it, especially if you will focus on creating a joyful human environment and a structure able to be both clear and flexible.
 
 -   Adopt a buddy system to facilitate 1-1 human sharings.
+    
 -   Design a participative internal structure to make your work more efficient and distribute the workload better.
+    
 -   Favor horizontality over verticality, imagine circles rather than pyramids.
+    
 
-<div><figcaption>“<a href="https://www.researchgate.net/figure/Hierarchical-versus-Agile-organisational-structure_fig1_342876851">Figure 2</a>” by Jan Jost (2018)</figcaption></div>
+“[Figure 2](https://www.researchgate.net/figure/Hierarchical-versus-Agile-organisational-structure_fig1_342876851)” by Jan Jost (2018)
 
 -   Celebrate progress and express gratitude to your teammates/comrades.
+    
 -   Collectivize facilitation tools and methods: they are not only very useful transferable skills, but also important as an internal good practice among the team to manage conflicts.
+    
 -   Implement the culture of feedback.
+    
 -   Implement a system of mandates.
+    
 -   Make room for rest & recharging.
+    
 -   Every teammate/comrade writes his/her/their own personal-_why_ right after joining the organization or movement. (the onboarding.)
+    
 -   Every teammate/comrade writes his/her/their own personal development vision right after joining the organization or movement (the onboarding): how and to what extent he/she/they imagine contributing to the movement, what are the values which drive him/her/them.
+    
 -   Remind that being an activist can be emotionally demanding: embrace personal and collective limits, do not be afraid of temporality: activism is a relay race, not a solo-competition full of burnouts.
+    
 -   Everyone has a talent that is absolutely essential for the group: valorize the diversity of aptitudes, as the learning process starts there.
+    
 -   Agree on short, medium and long term movements’ objectives. Review it periodically (especially if the members are changing).
+    
 -   Keep the community alive: involve past and present activists to social events, let them feel engaged.
+    
 
 ### **Why is it important to build strong relationships within your movement?**
 
@@ -138,30 +154,48 @@ Read full article: [Train Youth Activism](/organising/recruitment-engagement/you
 This article contains lots of information, but it's a bit messy. Suggest better ways to organise our content!
 
 -   Add a section on welcoming new members
+    
 -   Integrate the Creative Commons resources below.
+    
 
 ## External resources
 
 -   [Mobilising vs. organising](https://docs.google.com/document/d/1QxPFuXrsGSnHtkn-3_C_XVzTVzH3L9EiU4xH3B7ed_c/edit#) by FYEG (2021)
+    
 -   [Increasing Participation and Membership](https://ctb.ku.edu/en/increasing-participation-and-membership) by Community Tool Kit
+    
 
 ### Recruitment
 
 -   Downton, James, Jr. and Paul Wehr. 1998. “Persistent Pacifism: How Activist Commitment is Developed and Sustained.” Journal of Peace Research 35(5):531-550.
+    
 -   [How to Recruit Activists — and Keep Them](https://gla.americansforprosperityfoundation.org/how-to-recruit-activists-and-keep-them/) \[English, article\] by Grassroots Leadership Academy (2018)
+    
 -   [Recruiting Activists and Volunteers](http://effectiveactivist.com/movements/recruitment/) \[English, article\] by Effective Activist
+    
 -   [Recruiting Members and Keeping them Active](https://www.etu.org.za/toolbox/docs/building/recruiting.html) \[English, article\] by Education & Training Unit (ETU)
+    
 -   Schussman, Alan and Sarah A. Soule. 2005. “Process and Protest: Accounting for Individual Protest Participation.” _Social Forces_ 84(2):1083-1108.
+    
 -   [The Attraction to Activism: Recruitment and Retention in Progressive Student Organizations](https://surface.syr.edu/cgi/viewcontent.cgi?article=1700&context=honors_capstone) \[English, thesis\] by Waverley de Bruijn, Syracuse University Honors Program Capstone Projects (2005)
+    
 
 ### Engagement
 
 -   [Increase Your Volunteers’ Involvement: Using the Ladder of Engagement](https://trainings.350.org/resource/increase-your-volunteers-involvement/) by 350.org
+    
 -   [How to Get Others Involved](https://trainings.350.org/resource/how-to-get-others-involved/) by 350.org
+    
 -   [How to Build a Base: Using One-On-Ones](https://trainings.350.org/resource/how-to-build-a-base-using-one-on-ones/) by 350.org
+    
 -   [11 Elements of a Winning Member Engagement Strategy](https://blog.higherlogic.com/2014/08/28/10-elements-of-a-winning-member-engagement-strategy) by Elizabeth Bell (2019)
+    
 -   [3 Expert Tips for Building Member Engagement](https://www.wildapricot.com/articles/tips-for-building-member-engagement) by Wild Apricot
+    
 -   The Correspondent, a news organisation of Dutch origin, has created an open platform on engaging people with journalism. Although the site focuses on news organisations and not on activist movements, there might still be some useful information: [https://membershippuzzle.org](https://membershippuzzle.org/)
+    
 -   [Relationships are the Glue of Organizing](https://commonslibrary.org/relationships-are-the-glue-of-organising/) by Joel Dignam
+    
 -   [Levels of Commitment from Community to Core](https://commonslibrary.org/levels-of-commitment-from-community-to-core/) by Nick Moraitis
+    
 -   [Retain Members with Intrinsically Motivating Work](https://commonslibrary.org/retain-volunteers-with-intrinsically-motivating-work/) by Joel Dignam

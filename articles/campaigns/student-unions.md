@@ -6,8 +6,9 @@ description: >
 langCode: en
 articleID: 2UvO8gy97CGHRPn3Nq74FDvnGmabDWUm
 languageCollectionID: suvyHeQvUdgyIfazdfxMjiWY-ODvcyrW
-updatedTimestamp: 1669986676779
+updatedTimestamp: 1677135130729
 createdTimestamp: 1647787009695
+wordCount: 712
 tags: []
 ---
 
@@ -43,7 +44,7 @@ Student unions can help to campaign for better [housing for students](/campaigns
 
 They can work to raise awareness of the issue of student debt and the options available to help students manage their debt. This can include providing information on scholarships and bursaries, as well as working with the university to negotiate better terms for student loans.
 
-Finally, student unions can provide a vital role in representing the interests of students to the university, government and other external bodies. This can help to ensure that students have a strong voice in decision-making that affects them, and that their rights and needs are taken into account. For example, the student union can try to force the school administration to [divest from fossil fuel companies](/campaigns/climate), as young people are most impacted by the climate crisis.
+Finally, student unions can provide a vital role in representing the interests of students to the university, government and other external bodies. This can help to ensure that students have a strong voice in decision-making that affects them, and that their rights and needs are taken into account. For example, the student union can try to force the school administration to [divest from fossil fuel companies](/campaigns/climate-activism), as young people are most impacted by the climate crisis.
 
 ### How do I join a student union?
 
@@ -52,6 +53,7 @@ Most student unions have an easy process for joining. The first step is usually 
 ## External resources
 
 -   [A Chronology of A People’s History of Washington University](/campaigns/WashingtonUniversity)
+    
 
 ## Attribution
 

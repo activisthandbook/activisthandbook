@@ -6,9 +6,9 @@ description: >
 langCode: en
 articleID: KpSE6GZzWtgmL1uqgz-MGDkI0p43Y3tw
 languageCollectionID: 0i_-Q9v7ZVA3wxBRMxfhy5eJ5GSoLBKU
-updatedTimestamp: 1676481344073
+updatedTimestamp: 1677135153684
 createdTimestamp: 1598872029744
-wordCount: 564
+wordCount: 571
 tags: []
 ---
 
@@ -20,7 +20,7 @@ There are a lot of ways for activists to raise funds. Whether it's through onlin
     
 -   🙌 [**Crowdfunding**](/organising/fundraising/crowdfunding)
     
--   **❤️** [**Donations**](/organising/fundraising/donations)
+-   **❤️ Donations**
     
 -   **💶** [**Sponsorship**](/organising/fundraising/sponsors)
     
@@ -74,6 +74,8 @@ You can make this guide about fundraising for nonprofits better! Here are some s
 -   [Academic: Sustaining the Work](https://ctb.ku.edu/en/best-change-processes/sustaining-the-work/overview) by Community Tool Box
     
 -   [Collection: Fundraising](https://hub.ilga-europe.org/fundraising/?utm_source=activisthandbook.org) by ILGA Europe Hub
+    
+-   [Collection: Financial management](https://hub.ilga-europe.org/management/?utm_source=activisthandbook.org) by ILGA Europe Hub
     
 
 ### Copyright resources

@@ -6,8 +6,9 @@ description: >
 langCode: en
 articleID: EpOGhhfzbufIlbXKBLZW02ZkuXWvSRo0
 languageCollectionID: aUm7wuakSuR04i-IDcILEnsF4CWTcMPq
-updatedTimestamp: 1663872850363
+updatedTimestamp: 1677135633263
 createdTimestamp: 1663872847035
+wordCount: 6657
 tags: []
 ---
 
@@ -16,7 +17,7 @@ tags: []
 
 > This article was written by Activist Scientist Hub during “[The International Rebel Assembly](/rebelassembly/hub)”.
 
-## How to play to your strengths as scientists - focusing an action
+## Play to strengths as scientists - focusing an action
 
 If you’re part of a bigger movement, think about what you bring to the party that’s different.
 
@@ -24,46 +25,42 @@ If you’re part of a bigger movement, think about what you bring to the party t
 
 Targets may or may not be science-specific; be clear about why you are challenging them as scientists_._ For example, targeting policy makers because they are failing to implement policies that are inline with scientific consensus.
 
-#### _**Action content**_
+#### **_Action content_**
 
 While you’re designing your action, try to use your scientific understanding, but also your status as objective scientists who’ve committed to active resistance. Make sure both these aspects are clear to immediate witnesses in real time, and in any media coverage.
 
 It helps to have some facts or scientific basis to back up your specific action - something to both display visually for media photos and as a talking point if interviewed. For example, protesting outside a government building responsible for licensing a new oil field because a recent environmental report confirmed that new oil extraction is not inline with net zero initiatives. A few shocking stats are very handy, but you only need one or two at most - too many numbers or ‘jargon’ can cause the message to be lost!
 
-#### _**As one element in an larger action**_
+#### **_As one element in an larger action_**
 
 Consider what you can offer as scientists, as well as being ‘boots on the ground’. Make sure others in the action understand this; not to plead special status, but to take advantage of opportunities you might not have thought about yourselves, and to deal with how others in an action view and interact with you as a scientist and “expert”
 
-## How to present yourself as a Scientist during Actions
+## Present yourself as a Scientist during Actions
 
 ### **Importance of wearing a white lab coat**
 
 When you participate in an action, it is important that you are visually identified as a scientist for several reasons:
 
 -   For members of the public to easily identify you as a professional they can ask questions to
+    
 -   For creating a visual impact on photographs
+    
 
 You might have never worn a lab coat or have not worn a lab coat for years and therefore you might be reluctant to wear one or might even feel like a fraud. Don’t. White lab coats are the symbol representing scientists. Think of it like holding a banner.
 
 Think also of supplementing the lab coat with a patch saying “I am a scientist” and/or your specific field or job. \[Add example, Doctors using ‘GP’ and ‘Physio’\]
 
-<div></div>
-
 Photo credit: Crispin Hughes
 
 If you get arrested, there is no ambiguity about the fact that the authorities have decided to arrest scientists
-
-<div></div>
 
 ### **Messaging**
 
 “A picture is worth a thousand words”. Think all the time about the visual of your action. You might want to hold a placard explaining clearly why you are taking action or to have a short slogan attached to your lab coat (back and front). So every photo of the action is self explanatory.
 
-<div><table><tbody><tr><td><div></div><p>Photo Credit: Garreth Morris</p></td><td><div></div><p>Photo Credit: Andrea Domeniconi</p></td></tr></tbody></table></div>
+<table><tbody><tr><td><p>Photo Credit: Garreth Morris</p></td><td><p>Photo Credit: Andrea Domeniconi</p></td></tr></tbody></table>
 
 Think also of having a unified “look and feel” for all your banners that amplifies the professional look. In practical terms this can be in using the same typeface and colour scheme.
-
-<div></div>
 
 Photo credit: Crispin Hughes
 
@@ -77,9 +74,7 @@ In your group of scientists, you may want to develop agreed positions on a parti
 
 To help with the next step of communicating science, you could consider making briefing documents, written by members who are experts in the relevant fields. This can feature a few key facts and talking points you can use, particularly if the focus is outside of your expertise. An example of this, from Extinction Rebellion, is the report, [Emergency on Planet Earth](https://extinctionrebellion.uk/the-truth/the-emergency/), which summarizes and evaluates the scientific evidence for climate change and its physical and social consequences.
 
-## Preparing and making presentations
-
-  
+## Preparing and making presentations  
 Some scientists do this as part of their job anyway; but activism is different.
 
 And many of us are in bubbles that have their own priorities and assumptions. Think about who you’re addressing, and what theirs might be.
@@ -98,27 +93,27 @@ As scientists, we are trained to deliver data very effectively to other scientis
 
 Here are 6 key things to consider when writing a speech:
 
-#### _**Choose one message**_
+#### **_Choose one message_**
 
 You will never be able to communicate all aspects of the issue you’re talking about in one speech and, if you attempt to, you will certainly overwhelm your listeners. Choose a key message that has personal meaning to you; your passion will come across if your message is close to you. Your aim is to convince your listeners that your key message is important, so that key message should be simple with compelling arguments. You want to maximise the digestibility of your talk, so resist the urge to over-complicate.
 
-#### _**Tell a story**_
+#### **_Tell a story_**
 
 Any good speech has a narrative flow; the conclusion to the story is the key message you want your listeners to take away from your talk. Start by thinking what your key message is and try to make it as simple as possible (see point 1). The introductory section of your talk should introduce that key message and then the bulk of the talk should lay out information and arguments supporting your key message (you can be indirectly referring to your key message here). The conclusion then allows you to recall your key message in light of the arguments you have made. People process information best in a “story-form”. Think of how a classic fairy tale is structured: the framing of the problem (“What is my key message?”), attempts to approach the problem (“Why is my key message important?”), the resolution of the problem (“This is why I chose my key message and why it’s important”). As in fairy tales, the conclusion of a speech should call back to the beginning (children’s stories often begin with a transgression of a moral behaviour, which at the end is revealed as the key message of the story). This simple form makes complex messages easily digestible as it’s a format our brains are tuned to understand.
 
-#### _**This happened and this is how it felt**_
+#### **_This happened and this is how it felt_**
 
 Any scientist is told throughout their career that they should be a dispassionate dispenser of unbiased facts. Emotion and our personal experiences are not things we would naturally discuss in a speech, which is exactly why it has so much power. Personal and emotional stories from scientists tend to stun listeners, who also buy into the dispassionate scientist archetype. The implication is that your message is so important, that you have dropped your socially prescribed role of being unemotional. It is an excellent way of grabbing attention and emphasising the importance of your message.
 
-#### _**Pause for thought**_
+#### **_Pause for thought_**
 
 This is important in both the writing and delivery of any speech. Again, where we choose to pause in a speech is very different to those you might plan in a lecture. Pauses in a lecture usually allow people to analyse figures or key data. However, pauses in a speech can be a powerful tool to convey emotion, conviction and can be used to regain lost attention. Pausing can be particularly impactful when following an emotional statement. Counting to 5 in your head after saying something with emotional impact not only allows listeners time to process, it also gives the impression that what you just said affects you emotionally, which relates to point 2. An uncomfortably long pause is also an excellent tactic for getting people to pay attention to you; people instinctively give their attention to unusual situations! Pausing can also be usual after you have delivered a key fact or argument. It gives the listeners time to process and emphasises that what you have just said is important, making them more likely to remember it.
 
-#### _**Easy on the numbers**_
+#### **_Easy on the numbers_**
 
 A common trap for scientists is to think that throwing more data at an argument is always beneficial. While having a handful of strong facts is definitely useful, endlessly listing them will only ensure that your listeners remember none of them. Make the most of the key facts that you want to use; pause after them (see point 4) and maybe even repeat them (not endlessly!).
 
-#### _**My sacrifice**_
+#### **_My sacrifice_**
 
 While related to point 3, personal sacrifice can be an excellent way to convey your emotions around your message. These can include your sacrifice to join a movement, risking your standing with your peers or sacrifices you’ve made in your life to support your cause. This is also important as humans are very sensitive to the concept of unequal losses, so if you are communicating something that involves your listeners giving something up or changing their behaviour, showing that you have made sacrifices can make them more amenable to your message.
 
@@ -128,27 +123,27 @@ Finally, invite questions and be prepared for difficult ones. A common public pe
 
 ### **Using facts and figures effectively**
 
-##### You will want to use facts and illustration, in your presentations but also in other actions, where you will be creating signs, handing out printouts or giving interviews. For all of these, here are some tips:
+You will want to use facts and illustration, in your presentations but also in other actions, where you will be creating signs, handing out printouts or giving interviews. For all of these, here are some tips:
 
-#### _**Make sure they’re easy to see and/or hear. Be sparing.**_
+#### **_Make sure they’re easy to see and/or hear. Be sparing._**
 
-##### Your audience’s ‘attention economy’ is probably already stretched quite tight. If you’re speaking and the data are important, give them a text-based visual backup, too. Label axes clearly, specify what units you’re using. (Creative visualisation has its own sections, here and elsewhere.)
+Your audience’s ‘attention economy’ is probably already stretched quite tight. If you’re speaking and the data are important, give them a text-based visual backup, too. Label axes clearly, specify what units you’re using. (Creative visualisation has its own sections, here and elsewhere.)
 
-#### _**Make sure they’re relevant**_
+#### **_Make sure they’re relevant_**
 
 Some facts & figures can stand alone. For example, the concentration of carbon dioxide in Earth’s atmosphere in 2022, as compared with the last few million years.
 
 But that’s rare; resist the temptation to use data for their own sake. Make sure they’re part of a wider argument, or narrative thread.
 
-#### _**Make them relatable**_
+#### **_Make them relatable_**
 
 Comparisons can run away with themselves, with units like swimming-pools for volume, or elephants for weight; but some accommodation for non-scientists is often helpful.
 
-#### _**Make people want to know more**_
+#### **_Make people want to know more_**
 
 Exhaustive datasets are exhausting, full stop. But your campaign will likely benefit from heightened curiosity, not indigestion.
 
-#### _**Give yourself some choices**_
+#### **_Give yourself some choices_**
 
 Do this especially with printouts and signs. Unless you can predict and know your ‘audience’ really well, take the time to have more than one avenue to pursue – especially if you’re doing outreach in person. Then members of the public can feel listened to, if you genuinely respond to what they show more interest in.
 
@@ -158,27 +153,27 @@ A fantastic way to both learn about and communicate scientific concepts is throu
 
 How do you go about condensing the key messages you want to convey in an experiment? A lot of it is down to your unique style and imagination, but here are some tips to get you thinking:
 
-#### _**Your audience**_
+#### **_Your audience_**
 
-**B**oth the age demographic and the size of your audience are important factors to consider. A younger audience of mostly children will respond best to quick-form and exciting experiments, whereas an older audience might be prepared to stick around for a bit longer. If you are presenting to a large group, you will have to consider the visibility of your setup and whether the impact can be seen/heard by everyone watching.
+Both the age demographic and the size of your audience are important factors to consider. A younger audience of mostly children will respond best to quick-form and exciting experiments, whereas an older audience might be prepared to stick around for a bit longer. If you are presenting to a large group, you will have to consider the visibility of your setup and whether the impact can be seen/heard by everyone watching.
 
-#### _**What are you trying to say?**_
+#### **_What are you trying to say?_**
 
 **C**onsider the message you are trying to put across; there are any number of experiments you could do, but keep your key messages at the front of your mind. Just because you can do an experiment, doesn’t mean you should; you don’t want your message to be lost in a deluge of experiments!
 
-#### _**Gamification**_
+#### **_Gamification_**
 
 **A** fantastic way to capture the public’s attention (at any age!) is to create a competitive element to your experiments. That can be as simple as asking audience members to guess the outcome of an experiment or involve more direct participation (e.g. not all experiments have to involve test tubes, you could try making a board game for audience members that demonstrates your message).
 
-#### _**You can try this at home!**_
+#### **_You can try this at home!_**
 
 Creating experiments is a great way to engage with educators, who are often looking for new ways to explain complex issues. Creating an “Experiment Pack” for people to take away gets your message to an even wider audience.
 
-#### _**It all comes back to you**_
+#### **_It all comes back to you_**
 
 **C**ondensing a complex and unfamiliar topic into simple experiments also gives you a way to link the science back to your area of expertise (e.g. an experiment might involve a process that you also see in your area of research). Not only does that help you to build your understanding from a familiar starting point, but an audience will also pick up the little confidence boost you get from talking about what you know!
 
-#### _**Bonus tips**_
+#### **_Bonus tips_**
 
 Avoid breakable apparatus like glass beakers, it usually ends badly. Also, in general, avoid bringing anything to an experiment-based action that you wouldn’t mind losing.
 
@@ -202,8 +197,7 @@ Facebook is also useful for livestreaming, and the event link can be shared else
 
 ### **Instagram:**
 
-Slightly younger audience mainly than Facebook, but the same parent company (Zuckerberg’s Meta). There are two types of posts: “Grid” posts, which add to your profile, and “story” posts, which disappear after 24 hours. Your grid is what people will see when they click on your profile, so make this look like it’s clear as to who you are and what you are about. Some consistent branding of your posts can make your grid look professional. Note that you cannot edit your grid posts after posting them and they cannot include clickable links.  
-  
+Slightly younger audience mainly than Facebook, but the same parent company (Zuckerberg’s Meta). There are two types of posts: “Grid” posts, which add to your profile, and “story” posts, which disappear after 24 hours. Your grid is what people will see when they click on your profile, so make this look like it’s clear as to who you are and what you are about. Some consistent branding of your posts can make your grid look professional. Note that you cannot edit your grid posts after posting them and they cannot include clickable links.
 
 ### **Twitter:**
 
@@ -224,25 +218,24 @@ Below you’ll find an entry on organisations of activist scientists, on differe
 
 ### **Organizations of activist scientists**
 
-[_**Astronomers for Planet Earth**_](https://astronomersforplanet.earth/)
-
-#### [_**Committee of Concerned Scientists**_](https://concernedscientists.org/)
-
-#### [_**PUGWASH**_](https://pugwash.org/)
-
-#### [_**Scientist Rebellion**_](https://scientistrebellion.com/)
-
-#### [_**Scientists’ Warning**_](https://www.scientistswarning.org/) _**(UK/US)**_
-
-#### [_**Scientists for Extinction Rebellion**_](https://www.scientistsforxr.earth/)
-
-#### [_**Scientists for Global Responsibility**_](https://www.sgr.org.uk/)
-
-#### [_**Union of Concerned Scientists**_](https://www.ucsusa.org/)
-
-#### _**Is there an organization that ought to be listed here?**_
-
-Do add it
+-   [Astronomers for Planet Earth](https://astronomersforplanet.earth/)
+    
+-   [Committee of Concerned Scientists](https://concernedscientists.org/)
+    
+-   [PUGWASH](https://pugwash.org/)
+    
+-   [Scientist Rebellion](https://scientistrebellion.com/)
+    
+-   [Scientists’ Warning](https://www.scientistswarning.org/) (UK/US)
+    
+-   [Scientists for Extinction Rebellion](https://www.scientistsforxr.earth/)
+    
+-   [Scientists for Global Responsibility](https://www.sgr.org.uk/)
+    
+-   [Union of Concerned Scientists](https://www.ucsusa.org/)
+    
+-   _Is there an organization that ought to be listed here? Do add it!_
+    
 
 ## How to recruit other scientists
 
@@ -273,7 +266,7 @@ You can also offer to do things and see who agrees and joins you - for example, 
 
 ### **The value basis of activism**
 
-#### Facts and evidence are the foundation on which we know action is needed, but it is our shared values that bring us together to work for change. It’s worth asking people what concerns they have and being open about why you are involved in activism. It might be frustration at the lack of government policy, anxiety about the future, or hope that things can be turned around. Either way, the human and personal side of activism is as important as the data.
+Facts and evidence are the foundation on which we know action is needed, but it is our shared values that bring us together to work for change. It’s worth asking people what concerns they have and being open about why you are involved in activism. It might be frustration at the lack of government policy, anxiety about the future, or hope that things can be turned around. Either way, the human and personal side of activism is as important as the data.
 
 ## Getting scientific institutions to take on an issue
 
@@ -289,7 +282,7 @@ Show how your campaign can help them fulfil their obligations.
 
 Many scientists may find themselves working for or affiliated with academic institutes like Universities and Research Centres. These are fertile ground for recruitment and places where you may want to influence change in regards to policy and internal cultures. They are places of research and learning, so often cultivate individuals with open minds and progressive ideas. Institutes themselves often claim to be progressive and forward-thinking, meaning that they should be more receptive to progressive change. Students are also a demographic that are historically engaged in activism, are generally very receptive to activist causes and learning new things - especially coming from a scientist or expert in an academic field.
 
-#### _**How to form a University action group**_
+#### **_How to form a University action group_**
 
 #### **Do your research**
 
@@ -309,13 +302,13 @@ Once you have interest, arrange a first meeting and get talking about what you s
 
 [The ExPlane toolkit](https://stay-grounded.org/wp-content/uploads/2020/12/Explane-campaign-toolkit-1.pdf) is a guide to changing travel policy at universities, but the basic principles can be applied to any university-based cause or campaign.
 
-#### _**How to influence policy at an academic institution**_
+#### **_How to influence policy at an academic institution_**
 
 This is extremely tricky to do as an individual - and much more likely to succeed if you are able to do this as a member of a group or board. Like with any campaign, you also need to determine who precisely has the power to implement the changes to policy you wish to see. \[Insert reference to power mapping or reference to another page on the Activist Wiki which no doubt covers this\]
 
 Determine if a board or society is already set up to address issues in the vein of your cause - like a Diversity or Sustainability group or board - and see if you can join or bring your issue to these individuals. Otherwise, you can form your own group - see ‘How to form a University action group’.
 
-#### _**How to engage students and faculty at an academic institution**_
+#### **_How to engage students and faculty at an academic institution_**
 
 Universities are a great place to engage people on causes - and as a scientist you are in a prime position to do so. Academic institutions are places of learning and research, so students and academics are more likely to have open minds and a willingness to learn more. If you are a member of faculty this also puts you in a trusted position to educate and inform.
 
@@ -331,7 +324,7 @@ Hosting a discussion can be as simple as arranging an informal lunch to have a c
 
 Scientists may often feel a hesitation to mix their activism with their work, but when a cause is important enough to you and to wider society as a whole it can be greatly beneficial to do so. You can try and influence your company, institution or field to bring about positive change. Being a scientist and being publicly involved in a group or cause also lends greater legitimacy and normalises activism from the prospective of the public and your colleagues - and can allow you to recruit from your work circles.
 
-#### _**Part 1. In academia**_
+#### **_Part 1. In academia_**
 
 #### **Get involved**
 
@@ -382,7 +375,7 @@ Add slides to your talks
 
 Add slides to your lectures
 
-#### _**Part 2. In private industry**_
+#### **_Part 2. In private industry_**
 
 \[This is a stub: please expand!\]
 
@@ -391,10 +384,15 @@ Much of the content in Part 1 is directly transferable. As experts in their work
 Opportunities as a scientist in a non-academic workplace could include:
 
 -   Raising the Climate & Ecological Emergency as something that needs planning for whenever it is appropriate. For example, https://www.starlabgroup.com/GB-en/dead-planet
+    
 -   Bringing alternative technical solutions into the discussion. For example, personal interest in alternative material types being considered for a product.
+    
 -   Seeking opportunities for energy efficiency. The Institute of Mechanical Engineers has produced a widely applicable [‘hierarchy’](https://www.imeche.org/docs/default-source/1-oscar/Get-involved/specialist-interest-groups/eesg/imeche-ps-energy-hierarchy-2020-final.pdf) of opportunities that are worth referencing.
+    
 -   Collaborating with like-minded people, either within your employer or through outside groups.
+    
 -   Seeking your own professional accreditation, such as a [Carbon Literacy](https://carbonliteracy.com/) accreditation (UK), as an individual - then talking about it.
+    
 
 ## Improve this page
 
@@ -404,32 +402,21 @@ Add some suggestions on how this page could be improved in the future here…
 
 Related articles on the Activist Handbook website:
 
-[https://www.activisthandbook.org/en/communication/public-speaking](/communication/public-speaking)
-
-[https://www.activisthandbook.org/en/communication/news-media](/communication/news-media)
-
-[https://www.activisthandbook.org/en/communication](/communication)
-
--   [Title of article A](/home/)
--   [Title of article B](/home/)
--   …
+-   [https://www.activisthandbook.org/en/communication/public-speaking](/communication/public-speaking)
+    
+-   [https://www.activisthandbook.org/en/communication/news-media](/communication/news-media)
+    
+-   [https://www.activisthandbook.org/en/communication](/communication)
+    
 
 ## External resources
 
 External resources like guides, books, videos:
 
-Radio programme ‘The Men in White Coats’: [https://www.bbc.co.uk/programmes/p09yc99f](https://www.bbc.co.uk/programmes/p09yc99f)
-
--   [Book: Title by Author (Year)](/support/content/reference)
--   [Video: Title by Author (Year)](/support/content/reference)
--   [https://www.chemistryworld.com/careers/should-scientists-be-activists/4011293.article](https://www.chemistryworld.com/careers/should-scientists-be-activists/4011293.article)
--   [https://www.nature.com/articles/521027a](https://www.nature.com/articles/521027a)
--   [https://news.mit.edu/2021/scientists-as-engaged-citizens-0203](https://news.mit.edu/2021/scientists-as-engaged-citizens-0203)  
-      
+-   Radio programme ‘The Men in White Coats’: [https://www.bbc.co.uk/programmes/p09yc99f](https://www.bbc.co.uk/programmes/p09yc99f)
     
-
-## Attribution
-
-Work from the following sources was reused in this article:
-
--   Title by Author (Year), [CC BY-NC-SA 4.0 licence](https://creativecommons.org/licenses/by-nc-sa/4.0/)
+-   [https://www.chemistryworld.com/careers/should-scientists-be-activists/4011293.article](https://www.chemistryworld.com/careers/should-scientists-be-activists/4011293.article)
+    
+-   [https://www.nature.com/articles/521027a](https://www.nature.com/articles/521027a)
+    
+-   [https://news.mit.edu/2021/scientists-as-engaged-citizens-0203](https://news.mit.edu/2021/scientists-as-engaged-citizens-0203)
