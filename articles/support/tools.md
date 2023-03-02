@@ -6,8 +6,9 @@ description: >
 langCode: en
 articleID: IRusWHwB2x87Uhs-rRcerk76UYUTy4i0
 languageCollectionID: 7XDy61yvKpaLRRTTmcECY4_Z6hOYsyYL
-updatedTimestamp: 1650109902930
+updatedTimestamp: 1677741289487
 createdTimestamp: 1618836565403
+wordCount: 510
 tags: []
 ---
 
@@ -26,14 +27,23 @@ We recommend everyone to follow this tech training, even if you are tech savvy.
 Every Activist Handbook volunteer gets their own personal Google Workspace account. With the account, you get access to:
 
 -   Personal email address (name@activisthandbook.org)
+    
 -   Google apps
-    -   Gmail: [mail.activisthandbook.org](http://mail.activisthandbook.org)
+    
+    -   Gmail: [mail.activisthandbook.org](https://mail.activisthandbook.org/?utm_source=activisthandbook.org)
+        
     -   Drive (including 30GB storage): [drive.activisthandbook.org](http://drive.activisthandbook.org)
+        
     -   Calendar: [calendar.activisthandbook.org](http://calendar.activisthandbook.org)
+        
     -   Meet
+        
     -   Groups
+        
 -   Our passwords
+    
 -   Useful bookmarks
+    
 
 ### Step 1: Request access
 
@@ -48,11 +58,13 @@ Every Activist Handbook volunteer gets their own personal Google Workspace accou
 Important security steps:
 
 -   As an activist, _you are a_ high-risk _target for hackers._ Take security seriously. Use a randomly generated password and safely store it in a password manager.
+    
 -   We require all volunteers to [turn on 2-step verification](https://support.google.com/accounts/answer/185839?hl=en&co=GENIE.Platform%3DAndroid) immediately after creating your account!
+    
 
 ## Gmail & Google Groups
 
-All volunteers get their own email addresses, which can be accessed via [Gmail](/support/tools/mail.activisthandbook.org). For example: [joppe@activisthandbook.org](mailto:joppe@activisthandbook.org)
+All volunteers get their own email addresses, which can be accessed via [Gmail](http://mail.activisthandbook.org/?utm_source=activisthandbook.org). For example: [joppe@activisthandbook.org](mailto:joppe@activisthandbook.org)
 
 In addition, all circles have their own email addresses. For example, the finance circle can be contacted via [finance@activisthandbook.org](mailto:finance@activisthandbook.org)
 
@@ -75,7 +87,9 @@ We use Airtable to keep track of all our projects & to-dos. Watch these [trainin
 Members of the core circle get access to a pro subscription.
 
 1.  Sign in to [**Passwd**](https://app.passwd.team/) with your Google Workplace account and find the password details for Airtable.
+    
 2.  [Sign in to Airtably](https://airtable.com/login) with the login details you just copied.
+    
 
 ### Option B: For all other volunteers
 

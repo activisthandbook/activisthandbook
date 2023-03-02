@@ -6,7 +6,7 @@ description: >
 langCode: en
 articleID: dqIEdknV4hO7Eqa1OZNQWeeF1D-KptVM
 languageCollectionID: WeIM7eSP9ovc2D_rh7HpCq26GW7AQRV-
-updatedTimestamp: 1677085222606
+updatedTimestamp: 1677739706599
 createdTimestamp: 1594650737037
 wordCount: 1215
 tags: []
@@ -67,7 +67,7 @@ By joining existing institutions one can make change happen from within. Institu
 
 ### Financial 🤑
 
-**Topics:** [Boycott](/tactics/boycot) | [Divestment](/tactics/divestment) | [Shareholder](/tactics/shareholder)
+**Topics:** [Boycott](/tactics/boycot) | [Divestment](/tactics/divestment) | Shareholder
 
 > “A good tactic is one that **your people enjoy**. If your people are not having a ball doing it, there is something very wrong with the tactic.”
 > 

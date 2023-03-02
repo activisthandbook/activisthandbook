@@ -6,12 +6,13 @@ description: >
 langCode: en
 articleID: Deg8NLdjp5VRnwXECCU9H1YWMWDUbbQa
 languageCollectionID: 0_srD33Dxjp1Rf2OKG5FXnyZt4VMbqFF
-updatedTimestamp: 1668494118157
+updatedTimestamp: 1677739941018
 createdTimestamp: 1602158637408
+wordCount: 1371
 tags: []
 ---
 
-**This page is meant as a starting point for anyone who wants to learn more about providing first aid at protests. Start by reading the introduction below, or explore the various topics about street medics further down.** **If you need a quick reference during actions, make sure to check out the** [**FIELD GUIDE.**](/wellbeing/riot-medicine/field-guide)
+**This page is meant as a starting point for anyone who wants to learn more about providing first aid at protests. Start by reading the introduction below, or explore the various topics about street medics further down. If you need a quick reference during actions, make sure to check out the** [**FIELD GUIDE.**](/wellbeing/riot-medicine/field-guide)
 
 This section of Activist Handbook was derived from the book [Riot Medicine](https://riotmedicine.net), which the author Håkan Geijer generously published under a Creative Commons Zero 1.0 Universal license.
 
@@ -23,7 +24,7 @@ This section of Activist Handbook was derived from the book [Riot Medicine](http
 
 Riot medicine is the practice of medicine in an adversarial environment. It exists outside of formal and State sanctioned medical services. Practitioners of riot medicine go by many names (riot medics, street medics, demonstration medics, action medical), but at the end of the day, their goals are the same. They take to the streets as part of the diverse system of mutual aid that allows individuals to engage in protest. The duties of a riot medic may include handing out water during a peaceful demonstration, providing late-night jail support for arrested comrades, caring for injured protesters and bystanders during a riot, or extracting and providing lifesaving interventions for combatants during an armed uprising.
 
-<div><figcaption>Illustration by <a href="https://commons.wikimedia.org/wiki/User:Eldridge_Misnomer">Eldridge Misnomer</a> from <a href="https://commons.wikimedia.org/wiki/User:Eldridge_Misnomer#/media/File:Medic_Attire.svg">Mediawiki</a></figcaption></div>
+Illustration by [Eldridge Misnomer](https://commons.wikimedia.org/wiki/User:Eldridge_Misnomer) from [Mediawiki](https://commons.wikimedia.org/wiki/User:Eldridge_Misnomer#/media/File:Medic_Attire.svg)
 
 The lens of riot medicine rather than street medicine was chosen to help you focus more on how to provide medical care during demonstrations and physical engagements rather than to inform you on how to run a volunteer clinic or provide care for injuries sustained outside of short lived confrontations (1). The aim is to provide enough medical and tactical knowledge to enable riot medics to support short mobilizations on the scale of several hours to several days.
 
@@ -33,7 +34,7 @@ Because of the exceptionally diverse conditions under which riot medicine is pra
 
 Riot medicine incorporates elements of wilderness medicine and combat medicine, but it is still a distinct practice. Often the riot medic is only equipped with what they can carry in a backpack. What they choose to pack is limited by multiple factors, the major one being that their gear can be confiscated or destroyed during the course of their work. They need to carry provisions to survive the day and personal protective equipment to keep themselves safe enough to do their job. The riot medic needs to take a highly practical approach to medicine knowing that they will not be able to operate under ideal conditions. Hospital-quality diagnostic equipment will not be available, materials may be limited, and care rendered often will only be “good enough” to get a restless comrade back into the fray.
 
-<div><figcaption><strong>Code Rood action near Groningen – </strong>Farmsum. Peaceful activists raise their hands after being attacked by police forces with dogs, battons and pepper spray as hundreds of climate activist block the tanker park (<a href="https://www.flickr.com/photos/350org/44467349931/in/photolist-LZqKF2-2aKqMV6-MGe8nr-2aKqLPt-28G12nj-PjdMfj-2a4vVwn-MGe9eM-rhiD5z-sdXKCd-dsH18o-se4pxR-apQC8J-79XeNv-se7jDa-se4pG8-se7jAz-rWw1uw-7a4CAY-M8Xf6F-79Xezt-8Jb5is-7a2627-79ZMLP-79XeBV-rWxb3j-7aZBM5-79XeJM-rWxaDU-7cnM9C-rh79uS-rWw1Km-8J7HdD-EEjU1e-rWxaFC-7a4Cu5-79ZMPg-7a4CXy-7a4Cnq-79ZMtP-79ZN4n-7a4D1w-7a4Cwo-79ZN3c-se4pB8-79ZMRB-79ZMf4-8JpQx6-Td8moA-sm8Ye5/">Pierre Crom, 2018</a>)</figcaption></div>
+**Code Rood action near Groningen –** Farmsum. Peaceful activists raise their hands after being attacked by police forces with dogs, battons and pepper spray as hundreds of climate activist block the tanker park ([Pierre Crom, 2018](https://www.flickr.com/photos/350org/44467349931/in/photolist-LZqKF2-2aKqMV6-MGe8nr-2aKqLPt-28G12nj-PjdMfj-2a4vVwn-MGe9eM-rhiD5z-sdXKCd-dsH18o-se4pxR-apQC8J-79XeNv-se7jDa-se4pG8-se7jAz-rWw1uw-7a4CAY-M8Xf6F-79Xezt-8Jb5is-7a2627-79ZMLP-79XeBV-rWxb3j-7aZBM5-79XeJM-rWxaDU-7cnM9C-rh79uS-rWw1Km-8J7HdD-EEjU1e-rWxaFC-7a4Cu5-79ZMPg-7a4CXy-7a4Cnq-79ZMtP-79ZN4n-7a4D1w-7a4Cwo-79ZN3c-se4pB8-79ZMRB-79ZMf4-8JpQx6-Td8moA-sm8Ye5/))
 
 Riot medics comfort traumatized comrades as much as they heal their bodies. Protests and confrontations with fascists and the State can be stressful and even traumatizing. Even in the nonideal environments you will be working in, it is your responsibility to keep calm and help calm those around you. Nervous and stressed out comrades can be liable to make mistakes that lead to more injuries. Reading this book will help enable you to act confidently and therefore help others act confidently, contributing toward successful demonstrations and insurrections.
 
@@ -46,47 +47,80 @@ _(1) Riot medics are strongly encouraged to apply their medical knowledge by pro
 ## Organize
 
 -   [Responsibilities](/wellbeing/riot-medicine/responsibilities)
+    
 -   [Organizational Structures](/wellbeing/riot-medicine/organizational-structures)
+    
 -   [Pre-Action Planning](/wellbeing/riot-medicine/pre-action-planning)
+    
 -   [Post-Action Tasks](/wellbeing/riot-medicine/post-action-tasks)
+    
 -   [Training](/wellbeing/riot-medicine/training)
+    
 
 ## Medicine
 
--   [Patient Assessment](/wellbeing/riot-medicine/patient-assesment)
+-   [Patient Assessment](/wellbeing/riot-medicine/patient-assessment)
+    
 -   [Patient Evacuation](/wellbeing/riot-medicine/patient-evacuation)
+    
 -   [Psychological Care](/wellbeing/riot-medicine/psychological-care)
+    
 -   [Medication](/wellbeing/riot-medicine/medication)
--   [Alternative Medicine](/wellbeing/riot-medicine/alternative-medicine)
+    
+-   Alternative Medicine
+    
 -   Basic Life Support
+    
 -   Wound Management
+    
 -   Riot Control Agent Contamination
+    
 -   Shock
+    
 -   Brain and Spinal Cord Injuries
+    
 -   Chest Injuries
+    
 -   Fractures and Dislocations
+    
 -   Athletic Injuries
+    
 -   Burns
+    
 -   Combat Injuries
+    
 -   Cold Injuries
+    
 -   Heat Illness
+    
 -   Respiratory and Cardiac Emergencies 24 Allergies and Anaphylaxis
+    
 -   Blood Glucose Disorders
+    
 -   Drug Overdoses
+    
 -   Unresponsive States
+    
 
 ## Equipment
 
 -   Medical Supplies
+    
 -   Personal Protective Equipment 30 Other Gear
+    
 -   Packing Your Bag
+    
 
 ## **Tactics**
 
 -   General Tactics
+    
 -   Action Tactics
+    
 -   Operational Security
+    
 -   Radio Operation
+    
 
 Afterword
 
@@ -111,22 +145,36 @@ Additionally, the legality of protest, practice of medicine, and their intersect
 This book was not the product of one individual, and I extend my gratitude to those who provided illustrations, taught me, inspired me, and gave me encouraging words. My thanks go out to the following (in alphabetical order):
 
 -   Anonymous comrades for their illustrations and help with editing
+    
 -   Audrey Huff for her illustrations
+    
 -   Bizhan Khodabandeh for his illustrations
+    
 -   Cat Paris for her illustrations
+    
 -   Citriii for her illustrations
+    
 -   drnSX42 for their illustrations
+    
 -   snailsnail for his illustrations
+    
 -   ZEROC0IL for his illustrations
+    
 
 ## Related resources
 
 -   [Riot Medicine](https://riotmedicine.net) by Håkan Geijer (2020) \[Book, [archived version](https://drive.google.com/file/d/1yAmphB7IYbdvHsZYy5DHH9PH6l5T6l8G/view?usp=sharing)\]
+    
 -   [Street medic training](https://www.donoharmcoalition.org/street-medic-training.html) by Do Not Harm Coalition (2020) \[Video\]
+    
 -   [Street Medic Guide](https://www.paperrevolution.org/street-medic-guide/) from Paper Revolution
+    
 -   [Street medic](https://en.wikipedia.org/wiki/Street_medic) from Wikimedia
+    
 -   [Where protestors go, street medics follow](https://www.nytimes.com/2020/06/09/health/unrest-protests-street-medics.html) by Emma Grillo (2020)
+    
 -   [Street Medic Pro-Tips: Medical and First Aid Support at Protests and Direct Actions](https://commonslibrary.org/street-medic-pro-tips-medical-and-first-aid-support-at-protests-and-direct-actions/) by Melbourne Street Medic Collective
+    
 
 ## Contribute
 

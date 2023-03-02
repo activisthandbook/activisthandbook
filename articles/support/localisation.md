@@ -1,11 +1,14 @@
 ---
 title: >
   Volunteer guide: Localisation circle
+description: >
+  Volunteer guide
 langCode: en
 articleID: 4J67-NXzqD8fnAzZrwJVpAOWKaUp-v_U
 languageCollectionID: 7kKQ-IlDtB__rzN1sMC2nMPe7pSP5MnL
-updatedTimestamp: 1653583852442
+updatedTimestamp: 1677740794471
 createdTimestamp: 1623334906727
+wordCount: 236
 tags: []
 ---
 
@@ -25,20 +28,29 @@ tags: []
 
 The following guides are relevant to all members in the core circle:
 
--   [Translation guides](/support/localisation/translate)
+-   Translation guides
+    
 -   Everything about the facilitation of translating articles
+    
 -   Everything about the facilitation of writing context specific articles
+    
 
 ## Role guides
 
 We have written a guide for all roles within the content circle:
 
 -   **⭕️** [**Localisation coordinator**](/support/localisation/coordinator)
+    
 -   **🙌** [**Localisation support**](/support/localisation/localisationsupport)
+    
 -   **💬** [**Translation sub-circle facilitator**](/support/localisation/translation-facilitator)
+    
 -   **🏳** [**Lead translator**](/support/localisation/leadtranslator)
+    
 -   **🗺** [**Rebel Hub support**](/support/localisation/rebelhubsupport)
+    
 -   **📍** [**Rebel Hub coordinators**](/support/hub)
+    
 
 You can find descriptions and vacancies for these roles on [our Airtable](https://airtable.com/shr6GqOJ7587fNbEn/tbloV4g8loVisebVz?filter_Circles=Localisation%20circle).
 

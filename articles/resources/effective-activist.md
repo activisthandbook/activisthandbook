@@ -6,8 +6,9 @@ description: >
 langCode: en
 articleID: tNwTYjEK8kxob0NljoZ4QZhQkOTeGehG
 languageCollectionID: vyEAcUJgZ2ucVRhMOzFuwu4O94-po7bl
-updatedTimestamp: 1648641363415
+updatedTimestamp: 1677740956197
 createdTimestamp: 1648641191777
+wordCount: 257
 tags: ["resources","website"]
 ---
 
@@ -23,7 +24,10 @@ Effective Activist was created by its authors after becoming burned out from try
 
 ## Related websites
 
--   [Beautiful Trouble](/beautiful-trouble)
--   [Blueprints for Change](/blueprints-for-change)
--   [Seeds for Change](/seeds-for-change)
--   [The Change Agency](/the-change-agency)
+-   [Beautiful Trouble](/resources/beautiful-trouble)
+    
+-   [Blueprints for Change](/resources/blueprints-for-change)
+    
+-   [Seeds for Change](/resources/seeds-for-change)
+    
+-   [The Change Agency](/resources/the-change-agency)

@@ -6,8 +6,9 @@ description: >
 langCode: en
 articleID: 2UkBeDLNeVYpzXLZW6b_y-gneJqvOkgu
 languageCollectionID: 45BBcP-9xhzdfoy-8tbQokv9c43gBjoy
-updatedTimestamp: 1652025818113
+updatedTimestamp: 1677740912990
 createdTimestamp: 1614246395258
+wordCount: 281
 tags: []
 ---
 
@@ -24,20 +25,30 @@ tags: []
 The following guides are relevant to all members in the core circle:
 
 -   🛠 [Tools we use](/support/core/tools)
+    
 -   ☎️ [Facilitate meetings](/support/core/facilitate-meetings)
+    
 -   📂 [Manage projects](/support/core/manage-projects)
+    
 
 ## Role guides
 
 We have written a guide for each role within the core circle:
 
 -   ⭕️ [Project facilitator](/support/core/project-facilitator)
+    
 -   💬 [Communication coordinator](/support/communication/coordinator)
--   📝 [Content coordinator](/support/content/coordinator)
+    
+-   📝 [Writers coordinator](/support/writers/coordinator)
+    
 -   🌏 [Localisation coordinator](/support/localisation/coordinator)
+    
 -   👩‍💻 [Tech coordinator](/support/tech/coordinator)
+    
 -   🤑 [Finance coordinator](/support/finance/coordinator)
+    
 -   **❤️** [Wellbeing facilitator](/support/core/wellbeing-facilitator)
+    
 
 ## Important: security guide
 
@@ -50,9 +61,12 @@ You should protect yourself from hackers. As activist, you are in a high risk gr
 ## Related articles
 
 -   [Organising movements](/organising)
+    
 
 ## External resources
 
 -   [**Active roles**](https://airtable.com/shrgU5rF75woG9SHq?filter_Circles=Core%20circle): See how people are contributing in this team.
+    
 -   [**Vacant roles**](https://airtable.com/shrwlhB02r8fij4TW?filter_Circles=Core%20circle): Apply for one of the roles to become active in this circle.
+    
 -   [**Google Drive folder**](https://drive.google.com/drive/folders/1-qx1LrD_z4anb8zg1kfdJ0YoU3-GH8Al?usp=sharing): All files of this circle are saved in this public folder.

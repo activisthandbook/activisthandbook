@@ -6,8 +6,9 @@ description: >
 langCode: en
 articleID: _BnQLrmfYFT9NyjcMJ090CZjohKTdnNR
 languageCollectionID: OVlRyXDvcdBAt1_PFh4Ozd5BBdSWMhic
-updatedTimestamp: 1633685032011
+updatedTimestamp: 1677739926915
 createdTimestamp: 1605013464631
+wordCount: 9923
 tags: []
 ---
 
@@ -65,7 +66,7 @@ The primary assessment uses the mnemonic ABCDE to to remind the medic of the mai
 
 **ABCDE**
 
-<div><table><tbody><tr><td><strong>A</strong></td><td>Airway</td></tr><tr><td><strong>B</strong></td><td>Breathing</td></tr><tr><td><strong>C</strong></td><td>Circulation</td></tr><tr><td><strong>D</strong></td><td>Disability</td></tr><tr><td><strong>E</strong></td><td>Expose/examine injuries</td></tr></tbody></table></div>
+<table><tbody><tr><td><p><strong>A</strong></p></td><td><p>Airway</p></td></tr><tr><td><p><strong>B</strong></p></td><td><p>Breathing</p></td></tr><tr><td><p><strong>C</strong></p></td><td><p>Circulation</p></td></tr><tr><td><p><strong>D</strong></p></td><td><p>Disability</p></td></tr><tr><td><p><strong>E</strong></p></td><td><p>Expose/examine injuries</p></td></tr></tbody></table>
 
 To begin your primary assessment, approach the patient and obtain consent. If the patient is not responsive, and the MOI is either uncertain or suggests a spinal injury, you will need to move the head and neck to a neutral position and stabilize the cervical spine. Protection of the c-spine should not take precedence over more immediately life-threatening conditions. A rule of thumb is to treat what kills the patient first. A full description of how to immobilize and protect the c-spine can be found in Chapter 15 (“Brain and Spinal Cord Injuries”).
 
@@ -75,7 +76,7 @@ When you are checking a patient’s ABCDEs, if you find that they have no pulse 
 
 (BLS). Instructions for how to perform BLS can be found in Chapter 11 (“Basic Life Support”).
 
-<div><figcaption>Patient Examination<mark> [SOURCE 24]</mark></figcaption></div>
+Patient Examination \[SOURCE 24\]
 
 #### Airway
 
@@ -103,13 +104,13 @@ When checking for a carotid pulse, check on the side of the neck nearer to you, 
 
 If you or your buddy has a pulse oximeter, while one of you is checking for the pulse manually, the other should attach it to one of the patient’s fingers before moving on to assist with other parts of the primary assessment (Figure 6.3). Pulse oximetry is coverd in more detail later in this chapter.
 
-**Arteries for Checking Pulse** **\[Source 24\]**
+**Arteries for Checking Pulse \[Source 24\]**
 
-<div><table><tbody><tr><td><div><figcaption>Carotid Pulse</figcaption></div></td><td><div><figcaption>Radial Pulse</figcaption></div></td></tr><tr><td><div><figcaption>Brachial Pulse</figcaption></div></td><td><div><figcaption>Pedal Pulse</figcaption></div></td></tr><tr><td><div><figcaption>Femoral Pulse</figcaption></div></td><td></td></tr></tbody></table></div>
+<table><tbody><tr><td><p>Carotid Pulse</p></td><td><p>Radial Pulse</p></td></tr><tr><td><p>Brachial Pulse</p></td><td><p>Pedal Pulse</p></td></tr><tr><td><p>Femoral Pulse</p></td><td><p></p></td></tr></tbody></table>
 
 Note that during this step you are simply checking for the presence of pulse to determine if the patient is in cardiac arrest. Quality and regularity of the pulse are investigated during the secondary assessment.
 
-<div><figcaption>Pulse Oximeter Application<mark> [Source 24]</mark></figcaption></div>
+Pulse Oximeter Application \[Source 24\]
 
 #### Disability
 
@@ -133,7 +134,7 @@ In a combat or other major trauma scenario, the priority will usually be checkin
 
 **MARCH**
 
-<div><table><tbody><tr><td><strong>M</strong></td><td>Massive hemorrhage</td></tr><tr><td><strong>A</strong></td><td>Airway</td></tr><tr><td><strong>R</strong></td><td>Respiration</td></tr><tr><td><strong>C</strong></td><td>Circulation</td></tr><tr><td><strong>H</strong></td><td>Hypothermia</td></tr></tbody></table></div>
+<table><tbody><tr><td><p><strong>M</strong></p></td><td><p>Massive hemorrhage</p></td></tr><tr><td><p><strong>A</strong></p></td><td><p>Airway</p></td></tr><tr><td><p><strong>R</strong></p></td><td><p>Respiration</p></td></tr><tr><td><p><strong>C</strong></p></td><td><p>Circulation</p></td></tr><tr><td><p><strong>H</strong></p></td><td><p>Hypothermia</p></td></tr></tbody></table>
 
 For all other cases, using ABC is generally the best approach. Note that patients who are not breathing may have a weak pulse and that time is better spent beginning basic life support than searching for a pulse.
 
@@ -191,7 +192,7 @@ You will need to check both hands and feet for circulation, sensation, and motio
 
 **CSM**
 
-<div><table><tbody><tr><td><strong>C</strong></td><td>Circulation</td></tr><tr><td><strong>S</strong></td><td>Sensation</td></tr><tr><td><strong>M</strong></td><td>Motion</td></tr></tbody></table></div>
+<table><tbody><tr><td><p><strong>C</strong></p></td><td><p>Circulation</p></td></tr><tr><td><p><strong>S</strong></p></td><td><p>Sensation</p></td></tr><tr><td><p><strong>M</strong></p></td><td><p>Motion</p></td></tr></tbody></table>
 
 In patients with suspected spinal damage, ensure you do not comment on a lack of motion. Doing so may cause the patient to attempt to look at their limb to see if it’s moving or not. It may additionally distress them that their limb is not moving. Likewise, avoid testing for sensation if there is a lack of motion.
 
@@ -215,13 +216,13 @@ To measure the LOC, medics use the simple classification system AVPU for alert, 
 
 **AVPU**
 
-<div><table><tbody><tr><td><strong>A</strong></td><td>Alert</td></tr><tr><td><strong>V</strong></td><td>Responsive to verbal stimuli</td></tr><tr><td><strong>P</strong></td><td>Responsive to painful stimuli</td></tr><tr><td><strong>U</strong></td><td>Unresponsive</td></tr></tbody></table></div>
+<table><tbody><tr><td><p><strong>A</strong></p></td><td><p>Alert</p></td></tr><tr><td><p><strong>V</strong></p></td><td><p>Responsive to verbal stimuli</p></td></tr><tr><td><p><strong>P</strong></p></td><td><p>Responsive to painful stimuli</p></td></tr><tr><td><p><strong>U</strong></p></td><td><p>Unresponsive</p></td></tr></tbody></table>
 
 **Alert.** A patient is alert if they are fully awake or can be woken from sleep. They are classified as oriented times 0, 1, 2, 3, or 4 depending on whether they know who they are, where they are, the approximate time, and the events immediately preceding their injury or illness. Criteria for orientation are listed in Table 6.5.
 
 **Patient orientation**
 
-<div><table><tbody><tr><td><strong>A+O×4</strong></td><td>Patient knows name, place, time, and event</td></tr><tr><td><strong>A+O×3</strong></td><td>Patient knows name, place, and time but not event</td></tr><tr><td><strong>A+O×2</strong></td><td>Patient knows name and place but not time or event</td></tr><tr><td><strong>A+O×1</strong></td><td>Patient knows name but not place, time, or event</td></tr><tr><td><strong>A+O×0</strong></td><td>Patient does not know name, place, time, or event</td></tr></tbody></table></div>
+<table><tbody><tr><td><p><strong>A+O×4</strong></p></td><td><p>Patient knows name, place, time, and event</p></td></tr><tr><td><p><strong>A+O×3</strong></p></td><td><p>Patient knows name, place, and time but not event</p></td></tr><tr><td><p><strong>A+O×2</strong></p></td><td><p>Patient knows name and place but not time or event</p></td></tr><tr><td><p><strong>A+O×1</strong></p></td><td><p>Patient knows name but not place, time, or event</p></td></tr><tr><td><p><strong>A+O×0</strong></p></td><td><p>Patient does not know name, place, time, or event</p></td></tr></tbody></table>
 
 In the context of riot medicine, you may not want to directly ask a patient’s name since this is may violate their privacy and anonymity, especially if police or journalists are present. It is sufficient to ask “Do you know your name?”
 
@@ -265,26 +266,34 @@ Systolic blood pressure (SBP) is the maximum blood pressure during one heartbeat
 
 **Reference Ranges for Blood Pressure**
 
-<div><table><tbody><tr><td><strong>Category</strong></td><td><strong>Systolic BP</strong></td><td><strong>Diastolic BP</strong></td></tr><tr><td>Optimal</td><td>&lt; 120</td><td>&lt; 80</td></tr><tr><td>Normal</td><td>120-129</td><td>80-84</td></tr><tr><td>High normal</td><td>130-139</td><td>85-89</td></tr><tr><td>Hypertension</td><td>≥ 140</td><td>≥ 90</td></tr></tbody></table></div>
+<table><tbody><tr><td><p><strong>Category</strong></p></td><td><p><strong>Systolic BP</strong></p></td><td><p><strong>Diastolic BP</strong></p></td></tr><tr><td><p>Optimal</p></td><td><p>&lt; 120</p></td><td><p>&lt; 80</p></td></tr><tr><td><p>Normal</p></td><td><p>120-129</p></td><td><p>80-84</p></td></tr><tr><td><p>High normal</p></td><td><p>130-139</p></td><td><p>85-89</p></td></tr><tr><td><p>Hypertension</p></td><td><p>≥ 140</p></td><td><p>≥ 90</p></td></tr></tbody></table>
 
 Systolic blood pressure below 90mmHg or that falls approximately 40mmHg below the patient’s baseline may indicate shock. See Chapter 14 (“Shock”) for more information about shock.
 
 Using a sphygmomanometer. Measuring blood pressure is done by occluding blood flow through an artery, typically the brachial artery, using a pressurized cuff and then listening for the sounds of turbulence in the blood flow (Korotkov sounds) using a stethoscope or using a digital oscillometer.
 
-<div><figcaption>Measuring Blood Pressure <mark>[Source 24]</mark></figcaption></div>
+Measuring Blood Pressure \[Source 24\]
 
 If you place your stethoscope over the brachial artery in the cubital fossa (the triangular region of the inside of the elbow) of a patient without arterial disease, you will not hear any sounds. Blood flowing through arteries and veins has a laminar (non-turbulent) flow. By occluding blood flow with a cuff and then releasing it, during the peak pressure during a systole, some blood will turbulently rush through the vein. This turbulence produces a sound. As the pressure drops, eventually the pressure in the cuff will be below that of the diastolic blood pressure, and the blood flow will again become laminar. Sounds will no longer be audible. The pressure displayed on the gauge when the Korotkov sounds begin and end are respectively the systolic and diastolic blood pressures.
 
 Figure 6.4 shows proper placement for the cuff and stethoscope di- aphragm. To measure blood pressure with a manual sphygmomanometer, use the following steps:
 
 1.  Remove bulky clothing from the patient’s arm.
+    
 2.  Place the cuff over the upper arm and tighten it until it is snug.
+    
 3.  Using one hand, find their radial pulse.
+    
 4.  Using your other hand, use the sphygmomanometer’s bulb to rapidly inflate the cuff until the pulse disappears, then give one additional pump.
+    
 5.  Place the diaphragm of your stethoscope on the cubital fossa.
+    
 6.  Slowly release air from cuff at a rate of approximately 3mmHg per second.
+    
 7.  Listen for the presence of the Korotkov sounds; the reading on the dial at this time is the systolic blood pressure.
+    
 8.  Listen for the absence of the Korotkov sounds; the reading on the dial at this time is the diastolic blood pressure.
+    
 
 In a loud environment, you may not be able to hear the Korotkov sounds. Instead of using a stethoscope, use your fingers to feel the radial pulse. When releasing pressure from the cuff, the reading on the dial when you feel return of the patient’s pulse is the systolic blood pressure.
 
@@ -306,7 +315,7 @@ Examining the skin gives insight into the overall quality of the circulatory and
 
 **SCTM**
 
-<div><table><tbody><tr><td><strong>SC</strong></td><td>Skin Color</td></tr><tr><td><strong>T</strong></td><td>Temperature</td></tr><tr><td><strong>M</strong></td><td>Moisture</td></tr></tbody></table></div>
+<table><tbody><tr><td><p><strong>SC</strong></p></td><td><p>Skin Color</p></td></tr><tr><td><p><strong>T</strong></p></td><td><p>Temperature</p></td></tr><tr><td><p><strong>M</strong></p></td><td><p>Moisture</p></td></tr></tbody></table>
 
 Human skin naturally has great degrees of variation in color and even among patients with apparently similar skin color, there are different undertones (e.g., a person with “white” skin may have red or olive undertones). When you are examining skin color, you are not taking an absolute measurement, especially when looking for paleness (pallor) or redness (erythema). You need to compare their current color against the their baseline color. If this is difficult to asses, you may choose to hold up a small mirror so the patient can see their face and ask “Is this your normal skin color?”
 
@@ -336,11 +345,11 @@ You will need to interview the patient’s about their relevant medical history.
 
 **Pupil Dilation**
 
-<div><table><tbody><tr><td><div><figcaption>Normal</figcaption></div></td><td><div><figcaption>Dilated</figcaption></div></td></tr><tr><td><div><figcaption>Pinpoint</figcaption></div></td><td><div><figcaption>Uneven</figcaption></div></td></tr></tbody></table></div>
+<table><tbody><tr><td><p>Normal</p></td><td><p>Dilated</p></td></tr><tr><td><p>Pinpoint</p></td><td><p>Uneven</p></td></tr></tbody></table>
 
 **Medical History Assessment (SAMPLE)**
 
-<div><table><tbody><tr><td><strong>S</strong></td><td>Signs and symptoms</td></tr><tr><td><strong>A</strong></td><td>Allergies</td></tr><tr><td><strong>M</strong></td><td>Medications</td></tr><tr><td><strong>P</strong></td><td>Past medical history</td></tr><tr><td><strong>L</strong></td><td>Last oral intake</td></tr><tr><td><strong>E</strong></td><td>Events leading to incident</td></tr></tbody></table></div>
+<table><tbody><tr><td><p><strong>S</strong></p></td><td><p>Signs and symptoms</p></td></tr><tr><td><p><strong>A</strong></p></td><td><p>Allergies</p></td></tr><tr><td><p><strong>M</strong></p></td><td><p>Medications</p></td></tr><tr><td><p><strong>P</strong></p></td><td><p>Past medical history</p></td></tr><tr><td><p><strong>L</strong></p></td><td><p>Last oral intake</p></td></tr><tr><td><p><strong>E</strong></p></td><td><p>Events leading to incident</p></td></tr></tbody></table>
 
 **Allergies.** Does the patient have allergies to any food, medications, pollen, plants, animals, or other wildlife? Is it possible they were recently exposed to one of their allergens? What are their typical symptoms to exposure? What is their typical treatment for exposure to their allergens? Do they take medication or have an epinephrine autoinjector?
 
@@ -385,9 +394,13 @@ After you have treated your patient to the extent of your abilities, you should 
 Failure to discharge your patient or transfer care to another provider may run afoul of an ethical (and legal) concept called patient aban- donment. In the context of riot medicine, patient abandonment occurs when a medic stops treating a patient who has not been transferred to another caregiver while they are still in need of emergency care. Patient abandonment occurs when there is negligence on behalf of the caregiver, but the caregiver may terminate care for valid reasons such as:
 
 -   The scene becomes unsafe for the medic
+    
 -   The patient assaults or harasses the medic
+    
 -   The medic is incapable of providing the care the patient needs
+    
 -   Ethical or legal problems would arise as a result of further treatment
+    
 
 Even if you cannot provide care for your patient, if they are having a medical emergency, you should stay with them until a more qualified provider arrives.
 
@@ -400,12 +413,19 @@ You should research what constitutes patient abandonment in your region to under
 There are a number of conditions that should immediately trigger calling emergency medical services (EMS). Some of these conditions are:
 
 -   Loss of consciousness
+    
 -   Difficulty breathing
+    
 -   Respiratory or cardiac arrest
+    
 -   Suspected poisoning or overdose
+    
 -   Massive hemorrhage
+    
 -   Cardiac chest pain
+    
 -   Anything your instinct suggests is “very bad”
+    
 
 In order to keep your hands free and to allow you to concentrate on treating the patient, have your buddy call EMS. If your buddy is helping, or you have no buddy, assign someone to call EMS. Do not make a general statement like “Someone call 9-1-1” as no one may make the call due to the bystander effect and the diffusion of responsibility. Instead, single out someone from the crowd and call out to them based off an obvious feature. Say “You, with the red shirt. I need you to call 9-1-1 (1-1-2 in Europe).” Direct them to come to you so you can ensure they are following through with your instructions and so that you can answer questions the dispatcher may have.
 
@@ -443,15 +463,18 @@ If there are many medics present, one should act as an incident com- mander. The
 
 The SALT triage algorithm (Figure 6.6) is common in the United States and may be applicable in your region. SALT stands for sort, assess, lifesaving interventions, and triage/treatment. Protocols for triage and classification of patients vary from region to region. You should research how your local EMS triages patients so that you may effectively interface with them. The SALT algorithm places patients into five categories, listed in Table 6.10 from least severe to most severe. Note that in some regions, the color black is used for both expectant and dead patients.
 
-<div><table><tbody><tr><td>Category</td><td>Color</td><td>Description</td></tr><tr><td>Minimal</td><td>Green</td><td>Patient requires minimal aid, if any</td></tr><tr><td>Delayed</td><td>Yellow</td><td>Patient requires medical attention within 6 hours</td></tr><tr><td>Immediate</td><td>Red</td><td>Patient requires immediate medical attention to survive</td></tr><tr><td>Expectant</td><td>Blue</td><td>Patient is expected to die regardless of intervention</td></tr><tr><td>Dead</td><td>Black</td><td>Patient is dead</td></tr></tbody></table></div>
+<table><tbody><tr><td><p>Category</p></td><td><p>Color</p></td><td><p>Description</p></td></tr><tr><td><p>Minimal</p></td><td><p>Green</p></td><td><p>Patient requires minimal aid, if any</p></td></tr><tr><td><p>Delayed</p></td><td><p>Yellow</p></td><td><p>Patient requires medical attention within 6 hours</p></td></tr><tr><td><p>Immediate</p></td><td><p>Red</p></td><td><p>Patient requires immediate medical attention to survive</p></td></tr><tr><td><p>Expectant</p></td><td><p>Blue</p></td><td><p>Patient is expected to die regardless of intervention</p></td></tr><tr><td><p>Dead</p></td><td><p>Black</p></td><td><p>Patient is dead</p></td></tr></tbody></table>
 
 #### Sort
 
 The first step is sort the patients into three groups determine who needs to be assessed first. Ask all patients to walk to you for assessment. Patients who are ambulatory are assessed last. Ask all non-ambulatory patients to wave at you. Patients who can wave or make other obvious movements are assessed second. Patients who cannot respond to verbal commands or who have obvious life-threatening injuries (such as massive hemorrhage) are assessed first. Thus, the ordering for assessment is:
 
 1.  Unresponsive or critically injured
+    
 2.  Responsive but non-ambulatory
+    
 3.  Responsive and ambulatory
+    
 
 Patients who are ambulatory may still be critically injured, and patients who do not respond may fail to do so simply due to hearing damage. All patients need to be assessed.
 
@@ -467,7 +490,7 @@ Assessments and interventions must be done quickly. One critically injured patie
 
 **SALT Triage Algorithm**
 
-<div><figcaption>SALT Triage Algorithm [Source 27]</figcaption></div>
+SALT Triage Algorithm \[Source 27\]
 
 #### Triage and Treatment
 
@@ -478,9 +501,13 @@ If the patient is not breathing, they are classified as dead. Roll them into the
 Perform the following checks to determine the criticality of the patient’s injuries:
 
 1.  After the 1 minute assessment, have their major hemorrhages been controlled?
+    
 2.  Do they have a peripheral pulse (radial pulse)?
+    
 3.  Are they not in respiratory distress?
+    
 4.  Can they follow commands or make purposeful movements?
+    
 
 If the answer to any of the above questions is no, the patient is classified as immediate. If the patient is unlikely to survive given current resources, they are classified as expectant. As stated before, medics should avoid use of the expectant category as additional resources will typically rapidly arrive and there are few cases where multiple individuals will have immediately life-threatening injuries.
 
@@ -494,7 +521,7 @@ When you have a potential patient, ensure the scene is safe, approach them, and 
 
 **Normal Vital Signs**
 
-<div><table><thead><tr><th>Measurement</th><th>Value</th></tr></thead><tbody><tr><th>Heart rate</th><td>60–100 BPM</td></tr><tr><th>Respiratory rate</th><td>12–20 breaths per minute</td></tr><tr><th>Blood pressure (systolic)</th><td>90–140 mmHg</td></tr><tr><th>Blood pressure (diastolic)</th><td>80–95 mmHg</td></tr><tr><th>Blood glucose</th><td>4.4–10 mmol/L (80–180 mg/dL)</td></tr><tr><th>SpO<sub>2</sub></th><td>95–99%</td></tr><tr><th>Capillary refill time</th><td>&lt; 2 seconds</td></tr></tbody></table></div>
+<table><tbody><tr><th><p>Measurement</p></th><th><p>Value</p></th></tr><tr><th><p>Heart rate</p></th><td><p>60–100 BPM</p></td></tr><tr><th><p>Respiratory rate</p></th><td><p>12–20 breaths per minute</p></td></tr><tr><th><p>Blood pressure (systolic)</p></th><td><p>90–140 mmHg</p></td></tr><tr><th><p>Blood pressure (diastolic)</p></th><td><p>80–95 mmHg</p></td></tr><tr><th><p>Blood glucose</p></th><td><p>4.4–10 mmol/L (80–180 mg/dL)</p></td></tr><tr><th><p>SpO2</p></th><td><p>95–99%</p></td></tr><tr><th><p>Capillary refill time</p></th><td><p>&lt; 2 seconds</p></td></tr></tbody></table>
 
 ## Footnotes
 

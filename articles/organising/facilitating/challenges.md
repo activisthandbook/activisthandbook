@@ -6,14 +6,14 @@ description: >
 langCode: en
 articleID: i_DzFLGcVTg_OnGJEH8RD1SHAGct9QL1
 languageCollectionID: _aijcQxgcIu6BjlklzXiY2yMTqj8GF2V
-updatedTimestamp: 1676642011070
+updatedTimestamp: 1677739848732
 createdTimestamp: 1676634204264
 wordCount: 2815
 ---
 
 In this guide, we discuss common challenges people face during meetings. We explain how to keep meetings short, effective and inclusive.
 
-> 📚 This guide is part of a series on [**how to facilitate meetings**](/organising/facilitating/large-groups).
+> 📚 This guide is part of a series on [**how to facilitate meetings**](/organising/facilitating).
 
 Meetings don't always go the way you expect! And what is going well for one person will be difficult for someone else. As a facilitator, you will never get things perfectly 'right' for everyone. However, it can help to develop your ability to problem solve. Try different things out, and notice the impacts.
 

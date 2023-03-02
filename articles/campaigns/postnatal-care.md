@@ -1,11 +1,14 @@
 ---
 title: >
   Advocating for better postnatal care
+description: >
+  Guide for activists
 langCode: en
 articleID: tHkrUyOJb9vVSRzQZgvtc6gsdjrmyf1R
 languageCollectionID: 1AMXdTSE7xNsbDVN5-8J8Whilz_Xk_vK
-updatedTimestamp: 1663878586766
+updatedTimestamp: 1677741048738
 createdTimestamp: 1663876937569
+wordCount: 486
 tags: []
 ---
 
@@ -56,25 +59,3 @@ As activists we can search for sponsorships who are willing to invest on Newborn
 ### **Improve this page**
 
 Add some suggestions on how this page could be improved in the future here…
-
-## Related articles
-
-Related articles on the Activist Handbook website:
-
--   [Title of article A](/home/)
--   [Title of article B](/home/)
--   …
-
-## External resources
-
-External resources like guides, books, videos:
-
--   [Book: Title by Author (Year)](/support/content/reference)
--   [Video: Title by Author (Year)](/support/content/reference)
--   …
-
-## Attribution
-
-Work from the following sources was reused in this article:
-
--   Title by Author (Year), [CC BY-NC-SA 4.0 licence](https://creativecommons.org/licenses/by-nc-sa/4.0/)

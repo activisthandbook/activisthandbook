@@ -6,9 +6,9 @@ description: >
 langCode: en
 articleID: lwXuStFPLIQwUu_yg2hsZwnl_MLJaQ6X
 languageCollectionID: KJDBDugCUogRlOSqDrfCc5k89fd-lkA5
-updatedTimestamp: 1677136258918
+updatedTimestamp: 1677141334089
 createdTimestamp: 1583671492658
-wordCount: 2077
+wordCount: 2084
 tags: []
 ---
 
@@ -163,6 +163,8 @@ This article contains lots of information, but it's a bit messy. Suggest better 
 -   [Mobilising vs. organising](https://docs.google.com/document/d/1QxPFuXrsGSnHtkn-3_C_XVzTVzH3L9EiU4xH3B7ed_c/edit#) by FYEG (2021)
     
 -   [Increasing Participation and Membership](https://ctb.ku.edu/en/increasing-participation-and-membership) by Community Tool Kit
+    
+-   [Can anger change](https://mindworkslab.org/anger-monitor/?utm_source=activisthandbook.org) the world by Mindworkslab
     
 
 ### Recruitment

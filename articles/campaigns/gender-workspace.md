@@ -1,11 +1,14 @@
 ---
 title: >
-  Addressing gender discrimination in the workspace
+  Gender discrimination in the workspace
+description: >
+  Guide for gender discrimination activists
 langCode: en
 articleID: w9lGeF__5jTXZNYZTL0cExMjfFrsVL5g
 languageCollectionID: 9OdeZ2_R4ZNwetMee-5oKOcwA4hH8S1p
-updatedTimestamp: 1663878623649
+updatedTimestamp: 1677741631486
 createdTimestamp: 1663877693370
+wordCount: 500
 tags: []
 ---
 
@@ -50,10 +53,15 @@ Women are promoted less often than men
 With the prevalence of gender discrimination, girls are exposed to possibility of;
 
 1.  Teenage pregnancies
+    
 2.  Poor education
+    
 3.  Health and sexual abuse
+    
 4.  Exploitation and violence
+    
 5.  Child domestic abuse
+    
 
 ### **How we as activists can address it.**
 
@@ -68,15 +76,16 @@ This page could be improved in the future by allowing more volunteers to join th
 Related articles on the Activist Handbook website:
 
 -   Women in the workplace 2021.
+    
 -   Gender inequality in the workplace :The fight against Bias.
+    
 
 ## External resources
 
 External resources like guides, books, videos:
 
 -   [Book: Gender equality in the Boardroom (2013)](/support/content/reference)
--   [Video: Title by Author (Year)](/support/content/reference)
--   …
+    
 
 ## Attribution
 

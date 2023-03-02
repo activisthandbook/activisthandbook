@@ -6,8 +6,9 @@ description: >
 langCode: en
 articleID: ZTQABi5F0n4ij-1aEkaO8imWWsB5STYA
 languageCollectionID: g9eYZ4FpD2vb8XTcoQ_3oH5n456q1jdz
-updatedTimestamp: 1602336493384
+updatedTimestamp: 1677740222846
 createdTimestamp: 1602161713853
+wordCount: 2335
 tags: []
 ---
 
@@ -36,12 +37,19 @@ Medics’ responsibilities do not begin and end with an action. There is prepara
 Your responsibilities during actions are something you are likely already familiar with. They may include:5
 
 -   Providing care to injured individuals
+    
 -   Spreading calm when others may panic
+    
 -   Evacuating injured persons to safety
+    
 -   Interfacing with traditional EMS
+    
 -   Setting up makeshift clinics to care for multiple casualties
+    
 -   Instructing patients on aftercare
+    
 -   Providing emotional and psychological support for patients experiencing trauma
+    
 
 Outside of actions, you will need to work to prepare yourself and others for medical emergencies that may occur in the future. Some of these topics will be covered more in depth as you read this book.
 
@@ -75,7 +83,7 @@ Confronting the State and fascism is an inherently risky endeavor, and there is 
 
 When treating a patient for any serious injury, you should not stop unless law enforcement makes you stop. By becoming a medic and offering treatment, this is a risk you accept. Obeying police and halting treatment can kill people (5). If police want you to stop, make them drag you away from your patient (6).
 
-<div><figcaption>French Medics Hiding from Cops (7) - Illustration by <a href="https://twitter.com/snailsnail">@snailmail</a> from <a href="https://commons.wikimedia.org/wiki/User:Eldridge_Misnomer">Mediawiki</a></figcaption></div>
+French Medics Hiding from Cops (7) - Illustration by [@snailmail](https://twitter.com/snailsnail) from [Mediawiki](https://commons.wikimedia.org/wiki/User:Eldridge_Misnomer)
 
 Generally, you should know what laws you are willing to break in the course of your work. This may mean simply remaining with a protest that is declared an unlawful assembly, or it may mean working closely with insurrectionaries during fighting in the streets. You should figure out what actions you are or are not willing to take or what laws you are willing to break before you are confronted with the decision. This allows you to have a sense of risk beforehand so you don’t make irrational snap decisions you may later regret.
 
@@ -94,9 +102,13 @@ As a medic, you should be calm, knowledgeable, and willing to take whatever step
 Other articles about organising for riot medics:
 
 -   [Organizational Structures](/wellbeing/riot-medicine/organizational-structures)
+    
 -   [Pre-Action Planning](/wellbeing/riot-medicine/pre-action-planning)
+    
 -   [Post-Action Tasks](/wellbeing/riot-medicine/post-action-tasks)
+    
 -   [Training](/wellbeing/riot-medicine/training)
+    
 
 ## Footnotes
 
@@ -123,13 +135,23 @@ _(10) Not unlike some so-called “journalists.”_
 ## References
 
 -   Heroes by Shireen Crisis Folk (2016)
+    
 -   [Rescuing the “Underground Accidents Room” of the protesters is now a humanitarian crisis, aid from international organizations](https://hk.news.appledaily.com/local/realtime/article/20190827/59977953) from Hong Kong Daily (2019-08, visited on 2019-08-31) \[[Archived version](https://web.archive.org/save/https://hk.appledaily.com/local/20190827/NL3EKI7UEN7KH44YOSLDM46LEM/)\]
+    
 -   [Insurrectionary Mutual Aid](https://aftershockaction.blogspot.com/2007/04/insurrectionary-mutual-aid.html) by Aftershock Action Alliance (2007-04, visited on 2019-08-31) \[[Archived version](https://web.archive.org/web/2019*/https://aftershockaction.blogspot.com/2007/04/insurrectionary-mutual-aid.html)\]
+    
 -   Street Medic Handbook. 1st ed. The Paper Revolution Collective, 2012-07.
+    
 -   ["Gilets jaunes" : comment de prétendus "street medics" ont effectué des prélèvements sanguins en pleine manifestation](https://www.francetvinfo.fr/economie/transports/gilets-jaunes/gilets-jaunes-comment-de-pretendus-street-medics-ont-effectue-des-prelevements-sanguins-en-pleine-manifestation_3432957.html) by Marion Borothel (2019-05, visited on 2019-12-22) \[[Archived version](https://web.archive.org/web/20201008132301/https://www.francetvinfo.fr/economie/transports/gilets-jaunes/gilets-jaunes-comment-de-pretendus-street-medics-ont-effectue-des-prelevements-sanguins-en-pleine-manifestation_3432957.html)\]
+    
 -   [Why Did A State Trooper Try To Stop Medics From Performing CPR On Heather Heyer?](https://itsgoingdown.org/state-trooper-try-stop-medics-performing-cpr-heather-heyer/) (2017-08, visited on 2019-09-01) \[[Archived version](https://web.archive.org/web/20201009105429/https://itsgoingdown.org/state-trooper-try-stop-medics-performing-cpr-heather-heyer/)\]
+    
 -   [Tweet](https://twitter.com/MaryEmilyOHara/status/1161031331213533184) by Mary Emily O’Hara (2019-08, visited on 2019-09-01). \[[Archived version](https://web.archive.org/web/20201009105519/https://twitter.com/MaryEmilyOHara/status/1161031331213533184)\]
+    
 -   [Illustration](https://commons.wikimedia.org/wiki/User:Eldridge_Misnomer#/media/File:Medics_hiding_from_police.svg) by snailsnail
+    
 -   Pedro Brito da Fonseca. url: https://twitter.com/dafonsecapedro (visited on 2020-03-27).
+    
 -   [Ursula K Le Guin’s speech at National Book Awards: ‘Books aren’t just commodities’](https://www.theguardian.com/books/2014/nov/20/ursula-k-le-guin-national-book-awards-speech) from The Guardian (2014-11, visited on 2019-11-11). \[[Archived version](https://web.archive.org/web/20201009105808/https://www.theguardian.com/books/2014/nov/20/ursula-k-le-guin-national-book-awards-speech)\]
+    
 -   Baedr. url: https://commons.wikimedia.org/wiki/User:Baedr-9439.

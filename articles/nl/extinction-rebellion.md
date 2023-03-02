@@ -6,8 +6,9 @@ description: >
 langCode: nl
 articleID: JlC0WQOjEyxVZK_gdn7jUN_PCHpJH597
 languageCollectionID: 7EU-Y1Qi2gOp2OIkTfWkMh8M6BO9F-KH
-updatedTimestamp: 1675095396179
+updatedTimestamp: 1677740712007
 createdTimestamp: 1648974308968
+wordCount: 819
 tags: []
 ---
 
@@ -28,7 +29,9 @@ XR is bekritiseerd omdat het het leven van gewone mensen ontwricht en niet genoe
 ‘_Extinction Rebellion_' betekent in het Nederlands ‘_Opstand tegen uitsterven_’. Je kan het ook vertalen als:
 
 -   Vernietigingsverzet
+    
 -   Rebellie tegen onze ondergang
+    
 
 De van oorsprong Britse groep gebruikt zelf de naam ‘_Extinction Rebellion NL_’ in Nederland.
 
@@ -45,21 +48,32 @@ Ook sterven heel veel diersoorten uit: sneller dan het geval was toen de dinosau
 Op de site van Extinction Rebellion vind je allerlei [handleidingen](https://extinctionrebellion.nl/hulpmiddelen/) voor leden van de beweging. Er zijn hulpmiddelen over de volgende onderwerpen:
 
 -   [Protestacties organiseren](https://resources.extinctionrebellion.nl/nl/categories/action)
+    
 -   [Werving](https://resources.extinctionrebellion.nl/nl/categories/outreach)
+    
 -   [Bewegingsopbouw](https://resources.extinctionrebellion.nl/nl/categories/movement)
+    
 -   [Regeneratieve cultuur](https://resources.extinctionrebellion.nl/nl/categories/regen)
+    
 -   [Kunst](https://resources.extinctionrebellion.nl/nl/categories/art)
+    
 -   [Strategie & eisen](https://resources.extinctionrebellion.nl/nl/categories/strategy)
+    
 -   [Media](https://resources.extinctionrebellion.nl/nl/categories/media)
+    
 -   [Democratische vernieuwing](https://resources.extinctionrebellion.nl/nl/categories/democracy)
+    
 
-Op [Activist Handbook](/home/) vind je meer handleidingen als je meer wil leren over effectief actievoeren.
+Op [Activist Handbook](/) vind je meer handleidingen als je meer wil leren over effectief actievoeren.
 
 ## Afdelingen
 
 -   [Amsterdam](/extinction-rebellion/amsterdam)
+    
 -   [Den Haag](/extinction-rebellion/den-haag)
+    
 -   [Rotterdam](/extinction-rebellion/rotterdam)
+    
 
 ## Veelgestelde vragen
 

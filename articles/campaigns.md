@@ -6,9 +6,9 @@ description: >
 langCode: en
 articleID: c4L2x0pWlUtcQ6RyikLG9sE4KPBUkgNE
 languageCollectionID: GsUEXf9xjOCPs2pSe9JLVp0JaWIGjZ09
-updatedTimestamp: 1676531204453
+updatedTimestamp: 1677741140195
 createdTimestamp: 1639823695813
-wordCount: 376
+wordCount: 383
 tags: []
 ---
 
@@ -35,6 +35,8 @@ In alphabetic order:
 -   🗳 [**Political activism**](/campaigns/political-activism): Win election campaigns
     
 -   **💸** [**Post-capitalism**](/campaigns/post-capitalism): Alternative to mainstream economics
+    
+-   👶 [**Postnatal care**](/campaigns/postnatal-care): Taking care of newborns
     
 -   🏳️‍🌈 [**Queer activism**](/campaigns/queer-activism): Fighting for LGBTQIA+ rights
     
