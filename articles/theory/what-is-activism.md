@@ -6,15 +6,13 @@ description: >
 langCode: en
 articleID: cVIZgL8OdSMxfah2ieoxYK1JQxemQkj1
 languageCollectionID: RfeJdH-LyWwpcJhml2MrFY8hoejKzHvP
-updatedTimestamp: 1675606176870
+updatedTimestamp: 1677839566271
 createdTimestamp: 1638949628585
-wordCount: 1540
+wordCount: 1534
 tags: []
 ---
 
 **On this page we explain what activism is. We argue anyone can be an activist. Even though you might not refer to yourself as an ‘activist’, we believe this handbook can be useful for anyone who would like to achieve societal change.**
-
-_Available in other languages:_ [_Français_](/fr/theory/what-is-activism)_,_ [_Nederlands_](/nl/theory/what-is-activism)
 
 ## What is activism?
 
@@ -35,6 +33,8 @@ In the above quote, Climate justice activist Anjali Appadurai defines activism a
 > \- Neal Lawson
 
 In [this article](https://newint.org/sections/argument/2013/06/01/shopping-activism-argument) from the New Internationalist, two activists debate whether shopping should be a form of activism. On the one hand, it is argued that in a society where shopping is so important, it is essential to make it a site of activism. On the other hand, it is argued that if we want to change society, then we need to grasp at the root of consumerism by creating and using alternatives. This debate is largely strategic, rather than definitional, but it's an interesting insight into the different understandings of what ‘activism’ can and should include.
+
+<action-smart-small></action-smart-small>
 
 ### Narrow definitions
 
