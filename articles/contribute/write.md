@@ -6,7 +6,7 @@ description: >
 langCode: en
 articleID: 1klKzE-SRt1neRdmh8ZSlLmI7-9scxxN
 languageCollectionID: 1rusRm6zp4Z-ZLQrE1rJHkEnATM7Rafp
-updatedTimestamp: 1675593992708
+updatedTimestamp: 1677837969778
 createdTimestamp: 1650719261892
 wordCount: 113
 tags: []

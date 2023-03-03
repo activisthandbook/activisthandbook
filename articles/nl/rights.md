@@ -6,7 +6,7 @@ description: >
 langCode: nl
 articleID: fKmFu-JZItd1YnD9S1AJYWOlgz04w1dN
 languageCollectionID: I-YpwczEWStif-VOD4LPxMApnw3oe250
-updatedTimestamp: 1677135020252
+updatedTimestamp: 1677774116537
 createdTimestamp: 1629198632960
 wordCount: 1319
 tags: []
@@ -26,9 +26,9 @@ Zorg ervoor dat de autoriteiten niet op basis van deze redenen je demonstratie k
 
 Volgens het Europese hof hoef je demonstraties niet aan te kondigen, maar volgens Nederlandse regels moet dit wel. De Nederlandse wet houdt zich dus niet aan Europese regelgeving. De politie en de Gemeente willen graag weten wat je van plan bent, naar eigen zeggen zodat ze het protest beter kunnen faciliteren en veilig kunnen laten verlopen. De meeste gemeentes hebben in hun Algemene Plaatselijke Verordening (APV) vastgelegd hoe en of je betogingen moet aanmelden. Voldoe je hier niet aan, dan kan de burgemeester in uitzonderlijke omstandigheden de betoging verbieden. In praktijk betekent het niet melden van je betoging helaas vaak dat de driehoek (burgemeester, politie en justitie) eerder geneigd is de betoging te beëindigen met als reden gevaar voor de Openbare Veiligheid of vanwege het niet aanmelden. In verschillende gemeentes, waaronder Den Haag, kan je zelfs een boete krijgen voor het niet melden van een betoging.
 
--   [Amsterdam](/rights/amsterdam)
+-   [Amsterdam](/nl/rights/amsterdam)
     
--   [Rotterdam](/rights/rotterdam)
+-   [Rotterdam](/nl/rights/rotterdam)
     
 -   Den Haag (voeg pagina toe)
     

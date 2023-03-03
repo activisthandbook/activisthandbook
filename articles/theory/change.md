@@ -6,7 +6,7 @@ description: >
 langCode: en
 articleID: 0_8fgBbBDhVXQN4N-_4exCgvBwdp6ujs
 languageCollectionID: IrfkwzTBM8FhrIau_Qn6ZGQ9kralDR2x
-updatedTimestamp: 1677135092842
+updatedTimestamp: 1677774187910
 createdTimestamp: 1615218342317
 wordCount: 888
 tags: ["theory"]
