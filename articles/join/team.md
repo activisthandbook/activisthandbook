@@ -6,9 +6,15 @@ description: >
 langCode: en
 articleID: SGXooS4_3efDPlBYYry7J10ubOqIyYN2
 languageCollectionID: 9PUewzOSgeHji6XbBHj5KgPG_M5R_IIT
-updatedTimestamp: 1678027291381
+updatedTimestamp: 1678027848072
 createdTimestamp: 1678020910340
-wordCount: 680
+wordCount: 678
+focusMode: 
+  isOn: true
+  buttonLabel: Apply
+  buttonLink: mailto:contact@activisthandbook.org
+sidebar: false
+aside: false
 ---
 
 Activist Handbook is looking for change-makers who are not afraid to think big. We want to train 350 million activists. But we do not have funding, and only a small number of volunteers. Help us take on this challenge!
@@ -49,7 +55,7 @@ We will find a role that fits your experience and interests. Most importantly, y
 
 -   **📝 Get more people to contribute to our handbook**
     
--   **📢 Increase the number of people making use of our platform**
+-   **📢 Increase the number of people reading our guides**
     
 -   **🔥 Grow our capacity: volunteers & funding**
     
@@ -62,7 +68,7 @@ For example, these are some ways you could help:
     
 -   Reach out to other movements for partnerships
     
--   Apply for grands and find other ways of funding
+-   Apply for grants and find other ways of funding
     
 
 Feel free to suggest another way you think you could be of value to our team!
