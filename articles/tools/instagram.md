@@ -6,8 +6,9 @@ description: >
 langCode: en
 articleID: SY9FCX7pCVS2O2P1PLTJ7qCXvU5MSFxd
 languageCollectionID: 7Jfznk5OtS3_kSxTiwgEey440hnk-HKG
-updatedTimestamp: 1642506347012
+updatedTimestamp: 1677840809105
 createdTimestamp: 1638441224778
+wordCount: 1202
 tags: ["social media","communication"]
 ---
 
@@ -41,50 +42,74 @@ You need to communicate with your specific goal in mind and not get carried away
 
 To put it simply - Practice what you preach. For example, if your specific goal is to help people reduce their plastic waste by 50%, you can not host the event that is sponsored by major corporations that produce a lot of plastic waste. This will create distrust of your community and will lead to losing followers/contributors/volunteers.
 
+<action-smart-small></action-smart-small>
+
 ## Tips & tricks
 
 -   **Going Live + Inviting Guests**. Share your vision and the topic you are passionate about via Instagram Live videos and always encourage and invite people to send their questions. If you are not an expert in the topic, you can always invite guests that will help you answer the questions that your audience or you have.
+    
 -   **Sharing online and in-person events organized by you, or the events that the members of your organisation are participating/guest-speaking.** This will keep your audience updated on your activities and will show them which steps are you taking towards reaching your goal.
+    
 -   **Sharing posts about your organisation - introduction of the members.** For building trust, it is important for your audience to know who they are supporting and who are the persons working ‘behind the screen’.
+    
 -   **Show what is going on in the background.** Show how your organisation works. The easiest way is for one person from the organisation to take over the stories and show how her/his working day looks like.
+    
 -   **Always respond to messages.** This goes without saying. People need to know that you are listening to them and that they can turn to you with their ideas, suggestions and questions.
+    
 -   **Repost when somebody tags in you in a post.** This one also goes without saying. It may appear rude if somebody shows their support by attending your event or engage in an activity you have suggested and for you not to share that.
+    
 -   **Share your posts in stories**. Whenever you post a new post, make sure you share it in your story as well. Instagram does not show your content to everybody, so you have a higher chance of reaching people if you re-share your post in your story.
+    
 -   **Starting discussions, video clubs or book clubs**. It is important to ask questions and start discussions with your audiences. You can organize book clubs and video clubs and organize some discussions later.
+    
 -   **Share a post about your core values and beliefs.** You should always have at least one post that covers your core values and beliefs. When new people join your network, you should restate your core values and beliefs.
+    
 -   **Follow other organisations and share their content as well**. It is important for networking and well as increasing your reach.
+    
 -   **Using humor and memes in your communication.** Instagram is fun! People use Instagram in their free time and do not want to be overwhelmed. FunEducation is the key for effective Instagram communication.
+    
 
 ## Instagram stories
-
-<div></div>
 
 ## How to contribute
 
 This page is still very empty. Do you know how to use Instagram successfully? Share your experience and improve the article! These are ways this article can be improved:
 
 -   Add a section on feed posts
+    
 -   Write about how to use hashtags effectively
+    
 -   Add a section on videos
+    
 -   Sending us the examples of effective communication on Instagram
+    
 -   Share your ideas on how to improve communication on Instagram
+    
 
 ## Related articles
 
 There is a whole section of our website dedicated with advice on how to [communicate your message](/communication). We have also written other [social media guides for activists](/tools/social-media):
 
 -   [Facebook](/tools/facebook)
+    
 -   [Facebook Groups](/tools/facebook-groups)
+    
 -   [Twitter](/tools/instagram)
+    
 
 ## External resources
 
 -   [10 Ways To Use Instagram For Activism](https://couragetoearn.com/activism-on-social-media/) by Brandi (Jeter) Riley (2021)
+    
 -   ‘Vodič kroz ekološku komunikaciju’ by Anđela Đurašković (Ekokorijen) (2020)
+    
 -   [The Aesthetics Of Activism: How Instagram Changed Protesting](https://www.refinery29.com/en-us/2021/05/10335757/instagram-activism-aesthetics-impact) by Erin Corbett (2021)
+    
 -   [Instagram's become an essential tool for activists. But it's a double-edged sword.](https://couragetoearn.com/activism-on-social-media/) by Elizabeth Djinis (2021)
+    
 -   [IG activism: the pros, the cons and how we can improve it](https://thewellesleynews.com/2020/11/01/ig-activism-the-pros-the-cons-and-how-we-can-improve-it/) by Eugenie Park (2020)
+    
 
 ## Attribution
 
--   _**Pizza & Write-a-thon 2021:** This article was created during the_ [_Pizza & Write-a-thon 2021_](/writeathon)_, a joint project between Activist Handbook and_ [_Federation of Young European Greens_](https://fyeg.org/)
+-   **_Pizza & Write-a-thon 2021:_** _This article was created during the_ [_Pizza & Write-a-thon 2021_](/writeathon)_, a joint project between Activist Handbook and_ [_Federation of Young European Greens_](https://fyeg.org/)

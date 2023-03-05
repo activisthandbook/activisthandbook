@@ -6,9 +6,9 @@ description: >
 langCode: en
 articleID: dqIEdknV4hO7Eqa1OZNQWeeF1D-KptVM
 languageCollectionID: WeIM7eSP9ovc2D_rh7HpCq26GW7AQRV-
-updatedTimestamp: 1677739706599
+updatedTimestamp: 1677846386047
 createdTimestamp: 1594650737037
-wordCount: 1215
+wordCount: 1218
 tags: []
 ---
 
@@ -39,7 +39,7 @@ People marching - Generated using OpenAI
 
 Protesting is great way to attract the attention of the public, either by gathering a large crowd or by doing something out of the ordinary.
 
-**Topics:** [March](/tactics/march) | [Flash mob](/tactics/flash-mob) | [Occupation](/tactics/occupation) | [Direct action](/tactics/direct-action) | [Civil disobedience](/tactics/civil-disobedience) | [Cultural disobedience](/tactics/cultural-disobedience) | [Human banner](/tactics/human-banner) | [Cacerolazo](/tactics/cacerolazo) | [Hunger strike](/tactics/hunger-strike) | [Banner drop](/tactics/banner-drop) | [Citizen's arrest](/tactics/citizens-arrest) | [Distributed action](/tactics/distributed-action) | [Hoax](/tactics/hoax) | [Lamentation (mourning)](https://beautifulrising.org/tool/lamentation) | Walking blockade
+**Topics:** [March](/tactics/march) | [Flash mob](/tactics/flash-mob) | [Occupation](/tactics/occupation) | [Direct action](/tactics/direct-action) | [Civil disobedience](/tactics/civil-disobedience) | [Cultural disobedience](/tactics/cultural-disobedience) | [Human banner](/tactics/human-banner) | [Cacerolazo](/tactics/cacerolazo) | [Hunger strike](/tactics/hunger-strike) | [Banner drop](/tactics/banner-drop) | [Citizen's arrest](/tactics/citizens-arrest) | [Distributed action](/tactics/distributed-action) | [Hoax](/tactics/hoax) | [Lamentation (mourning)](https://beautifulrising.org/tool/lamentation) | [Nonviolent resistance](/tactics/nonviolent-resistance) | Walking blockade
 
 ### **Creative 🎨**
 

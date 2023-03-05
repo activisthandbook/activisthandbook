@@ -6,32 +6,65 @@ description: >
 langCode: en
 articleID: lv6eNfm4WxrMsuTy66DCSWIBtH1MkMiA
 languageCollectionID: 7VdD1PlCE22nVnC-egvaEOFqQL5kTIMW
-updatedTimestamp: 1668059172177
+updatedTimestamp: 1677843198170
 createdTimestamp: 1584723870082
-tags: ["tactics","stub"]
+wordCount: 2415
+tags: []
 ---
 
 **In this guide, you will learn all about direct action. This guide is designed to help activists who are considering using direct action as a way of bringing about change. It includes information on planning and carrying out an action, as well as advice on what to do if things go wrong.**
 
-In recent years, there has been an increase in the use of direct action by activists to bring about change. Direct action is a form of protest in which those taking part seek to achieve their goals through direct, often physical, action, rather than through negotiation or discussion.
+## Summary
+
+Direct action is a form of protest in which those taking part seek to achieve their goals through direct, often physical, action, rather than through negotiation or discussion.
 
 Direct action can take many different forms, from occupying buildings or blocking roads, to more disruptive actions such as property damage or violence. It is often seen as a last resort by those taking part, when other methods of protest, such as petitions or letter-writing, have failed.
 
-While direct action can be an effective way of bringing about change, it also carries risks. Those taking part can be arrested or injured, and there is always the possibility that the action will not achieve its desired goal.
+<dynamic-image imageid="bfeff6a6-f140-4f4b-9a2a-e54b2d0b2300" alt="Protestors walking over a bridge"><p>People blocking a bridge, by <a target="_blank" href="https://edit.activisthandbook.org/author/tzmE91SnnrbJJXuvQNBl9rt6HK63">Joppe</a> | Generated using Dall-e</p></dynamic-image>
 
-## What is direct action?
+## Definition
 
-**Direct action** originated as a political [activist](https://en.wikipedia.org/wiki/Activism) term for economic and political acts in which the actors use their power (e.g. [economic](https://en.wikipedia.org/wiki/Economic_power) or physical) to directly reach certain goals of interest; in contrast to those actions that appeal to others (e.g. authorities); by, for example, revealing an existing problem, using physical violence, highlighting an alternative, or [demonstrating](https://en.wikipedia.org/wiki/Demonstration_(protest)) a possible solution.
+### What is direct action?
+
+Direct action is doing something that helps us achieve our goals without handing power to someone else (for example, the government). Direct action interrupts business-as-usual, seizes leadership, and introduces an alternative narrative.
+
+Direct action is often practiced by people who have few resources. They do this to try and free themselves from an injustice.
+
+> _Smart direct action assesses power dynamics and finds a way to shift them._
+
+The aim of direct action is to either obstruct another political agent or political organization from performing some practice to which the activists object, or to solve perceived problems which traditional societal institutions ([governments](https://en.wikipedia.org/wiki/Government), [religious organizations](https://en.wikipedia.org/wiki/Religious_organizations) or established [trade unions](https://en.wikipedia.org/wiki/Trade_union)) are not addressing to the satisfaction of the direct action participants.
+
+Anthropologist David Graeber defines direct action as "a form of action in which means and ends become, effectively, indistinguishable; a way of actively engaging with the world to bring about change, in which the form of the action — or at least, the organization of the action — is itself a model for the change one wishes to bring about."
+
+As Frederick Douglass said, “power concedes nothing without a demand.” Malcolm X elaborated, “Power never takes a step back, except in the face of more power.” Rather than deferring to others to make changes for us through votes or lobbying, we seek to change the dynamics of power directly.
+
+### Examples
 
 Both direct action and actions appealing to others can include [nonviolent](https://en.wikipedia.org/wiki/Nonviolent) and violent activities which target persons, groups, or property deemed offensive to the action participants. **Nonviolent direct action** may include [sit-ins](https://en.wikipedia.org/wiki/Sit-in), [strikes](https://en.wikipedia.org/wiki/Strike_action), and [counter-economics](https://en.wikipedia.org/wiki/Counter-economics). **Violent direct action** may include [political violence](https://en.wikipedia.org/wiki/Political_violence), [assault](https://en.wikipedia.org/wiki/Assault), [arson](https://en.wikipedia.org/wiki/Arson), street [blockades](https://en.wikipedia.org/wiki/Blockades), [sabotage](https://en.wikipedia.org/wiki/Sabotage), and [property destruction](https://en.wikipedia.org/wiki/Property_destruction).
 
 By contrast, [electoral](https://en.wikipedia.org/wiki/Election) [politics](https://en.wikipedia.org/wiki/Politics), [diplomacy](https://en.wikipedia.org/wiki/Diplomacy), [negotiation](https://en.wikipedia.org/wiki/Negotiation), [arbitration](https://en.wikipedia.org/wiki/Arbitration) are not usually described as direct action, as they are electorally mediated. Nonviolent actions are sometimes a form of [civil disobedience](https://en.wikipedia.org/wiki/Civil_disobedience), and may involve a degree of intentional law-breaking where persons place themselves in arrestable situations in order to make a political statement but other actions (such as strikes) may not violate [criminal law](https://en.wikipedia.org/wiki/Criminal_law).
 
-The aim of direct action is to either obstruct another political agent or political organization from performing some practice to which the activists object, or to solve perceived problems which traditional societal institutions ([governments](https://en.wikipedia.org/wiki/Government), [religious organizations](https://en.wikipedia.org/wiki/Religious_organizations) or established [trade unions](https://en.wikipedia.org/wiki/Trade_union)) are not addressing to the satisfaction of the direct action participants.
+### Difference with civil disobedience
 
-Nonviolent direct action has historically been an assertive regular feature of the tactics employed by [social movements](https://en.wikipedia.org/wiki/Social_movement), including [Mahatma Gandhi](https://en.wikipedia.org/wiki/Mahatma_Gandhi)'s [Indian Independence Movement](https://en.wikipedia.org/wiki/Indian_Independence_Movement) and the [Civil Rights Movement](https://en.wikipedia.org/wiki/Civil_Rights_Movement). [Anarchists](https://en.wikipedia.org/wiki/Anarchists) organize almost exclusively though direct action, this manifests as a varied set of actions, non-violent or violent. Direct action is used by anarchists due to a rejection of party politics, and refusal to work within hierarchical [bureaucratic institutions](https://en.wikipedia.org/wiki/Bureaucracy).
+People often conflate direct action with “getting arrested.” While sometimes getting arrested can amplify your message, or is strategically necessary to achieve your goal, it isn’t the point of direct action. (In most liberation struggles throughout history, “getting captured” is actually seen as a bad thing!)
+
+Similarly, people often conflate direct action with civil disobedience. Civil disobedience is a specific form of direct action that involves intentionally violating a law because that law is unjust — for instance, refusing to pay taxes that would fund a war, or refusing to comply with anti-immigrant legislation. In these circumstances, breaking the law is the purpose. With other kinds of direct action, laws may be broken, but the law being broken isn’t the point. For example, we may be guilty of trespassing if we drop a banner from a building, but the violation is incidental: we aren’t there to protest trespassing laws.
+
+While associated with confrontation, direct action at its core is about power. Smart direct action assesses power dynamics and finds a way to shift them.
+
+One way of thinking about power is that there are two kinds: organized money and organized people. We don’t have billions of dollars to buy politicians and governments, but with direct action, organized people spend a different currency: we leverage risk. We leverage our freedom, our comfort, our privilege or our safety.
+
+## How do organise a direct action?
+
+Check out our [tactics chapter](/tactics) to get inspiration for your next action. Choose which tactic to use, and learn all about the specifics of how to organise that type of action. Or read our guide on how to [organise a protest](/organising/protest).
+
+<action-smart-small></action-smart-small>
 
 ## History
+
+We see instances of direct action in indigenous parables and stories, in the Bible, Torah and Koran, and in every people’s movement and popular revolution in modern history.
+
+Nonviolent direct action has historically been an assertive regular feature of the tactics employed by [social movements](https://en.wikipedia.org/wiki/Social_movement), including [Mahatma Gandhi](https://en.wikipedia.org/wiki/Mahatma_Gandhi)'s [Indian Independence Movement](https://en.wikipedia.org/wiki/Indian_Independence_Movement) and the [Civil Rights Movement](https://en.wikipedia.org/wiki/Civil_Rights_Movement). [Anarchists](https://en.wikipedia.org/wiki/Anarchists) organize almost exclusively though direct action, this manifests as a varied set of actions, non-violent or violent. Direct action is used by anarchists due to a rejection of party politics, and refusal to work within hierarchical [bureaucratic institutions](https://en.wikipedia.org/wiki/Bureaucracy).
 
 Direct action tactics have been around for as long as conflicts have existed but it is not known when the term first appeared. [José Ortega y Gasset](https://en.wikipedia.org/wiki/Jos%C3%A9_Ortega_y_Gasset) located the origins of the term and concept of direct action in fin-de-siècle France: "When the reconstruction of the origins of our epoch is undertaken, it will be observed that the first notes of its special harmony were sounded in those groups of French syndicalists and realists of about 1900, inventors of the method and the name of 'direct action.'" The radical union the [Industrial Workers of the World](https://en.wikipedia.org/wiki/Industrial_Workers_of_the_World) first mentioned the term "direct action" in a publication in reference to a Chicago strike conducted in 1910. Other noted historical practitioners of direct action include the [American Civil Rights Movement](https://en.wikipedia.org/wiki/Civil_rights_movement), the [Global Justice Movement](https://en.wikipedia.org/wiki/Global_Justice_Movement), the [Suffragettes](https://en.wikipedia.org/wiki/Women%27s_Suffrage), [LGBT](https://en.wikipedia.org/wiki/LGBT) and other human rights movements (I.e, [ACT UP](https://en.wikipedia.org/wiki/ACT_UP)); revolutionary [Che Guevara](https://en.wikipedia.org/wiki/Che_Guevara), and certain [environmental](https://en.wikipedia.org/wiki/Environmentalist) [advocacy groups](https://en.wikipedia.org/wiki/Advocacy_group).
 
@@ -78,39 +111,64 @@ Right now, this article is very descriptive. On Activist Handbook, we try to wri
 Some questions to answer:
 
 -   What is direct action?
+    
 -   What are some examples of direct action?
+    
 -   What are the goals of direct action?
+    
 -   How is direct action different from other forms of activism?
+    
 -   What are the risks associated with direct action?
+    
 -   What are the benefits of direct action?
+    
 -   How do you plan and carry out a direct action?
+    
 -   What are the challenges of organizing a direct action?
+    
 -   What are the legal implications of direct action?
+    
 -   How do you know if a direct action is successful?
+    
 
 ## Related articles
 
 -   [Civil disobedience](/tactics/civil-disobedience)
+    
 -   [Cultural disobedience](/tactics/cultural-disobedience)
+    
 
 ## External resources
 
--   [Direct action](https://beautifultrouble.org/toolbox/tool/direct-action) by Beautiful Trouble
 -   [Take risks, but take care](https://beautifultrouble.org/toolbox/tool/take-risks-but-take-care) by Beautiful Trouble
+    
 -   [Cultural disobedience](https://beautifulrising.org/tool/cultural-disobedience) by Beautiful Rising
+    
 -   Hauser, Luke (2003) _Direct Action: An Historical Novel_. Available at [www.directaction.org](https://directaction.org/book/).
+    
 -   Lunori, G. (1999) _Direct Action_. Available at [sniggle.net](http://www.sniggle.net/Manifesti/directAction.php).
+    
 -   Kauffman, L.A. (2017) "Direct Action: Protest and the Reinvention of American Radicalism". New York, Verso, 2017. [ISBN](https://en.wikipedia.org/wiki/ISBN_(identifier)) [9781784784096](https://en.wikipedia.org/wiki/Special:BookSources/9781784784096)
+    
 -   Sparrow, R. (undated) _Anarchist Politics and Direct Action_. Available at [Spunk Online Anarchist Library](http://www.spunk.org/library/intro/sp001641.html).
+    
 -   [_A Communiqué on Tactics and Organization to the Black Bloc, from within the Black Bloc_](http://theanarchistlibrary.org/library/anti-racist-action-the-green-mountain-anarchist-collective-black-bloc-tactics-communique), by The Green Mountain Anarchist Collective (NEFAC-VT) & Columbus Anti-Racist Action, Black Clover Press, 2001.
+    
 -   [_The Black Bloc Papers: An Anthology of Primary Texts From The North American Anarchist Black Bloc 1988-2005_](http://www.infoshop.org/amp/bgp/BlackBlockPapers2.pdf), by Xavier Massot & David Van Deusen of the Green Mountain Anarchist Collective (NEFAC-VT), Breaking Glass Press, 2010.
+    
 -   Hansen, Ann. _Direct Action: Memoirs of an Urban Guerrilla_. Toronto: Between the Lines, 2001. [ISBN](https://en.wikipedia.org/wiki/ISBN_(identifier)) [978-1902593487](https://en.wikipedia.org/wiki/Special:BookSources/978-1902593487)
+    
 -   [_Van Deusen On North American Black Blocs 1996-2001_](http://theanarchistlibrary.org/library/david-van-deusen-green-mountain-anarchist-collective-van-deusen-on-u-s-back-blocs-1996-2001), by David Van Deusen, The Anarchist Library, 2017.
+    
 -   [Non Violent Direct Action: Start Here](https://commonslibrary.org/nonviolent-direct-action-nvda-start-here/) by Holly Hammond
+    
 -   [198 Methods of Nonviolent Action](https://commonslibrary.org/198-methods-of-nonviolent-action/) by Gene Sharp
+    
 
 ## Attribution
 
 This page is an adaptation of the following articles:
 
 -   [Direct action](https://en.wikipedia.org/wiki/Direct_action) by Wikipedia
+    
+-   [Direct action](https://beautifultrouble.org/toolbox/tool/direct-action) by Beautiful Trouble
