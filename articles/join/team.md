@@ -6,9 +6,9 @@ description: >
 langCode: en
 articleID: SGXooS4_3efDPlBYYry7J10ubOqIyYN2
 languageCollectionID: 9PUewzOSgeHji6XbBHj5KgPG_M5R_IIT
-updatedTimestamp: 1678027848072
+updatedTimestamp: 1678084170845
 createdTimestamp: 1678020910340
-wordCount: 678
+wordCount: 724
 focusMode: 
   isOn: true
   buttonLabel: Apply
@@ -35,8 +35,6 @@ To achieve this goal, we built an online knowledge-sharing platform. It works ju
     
 -   We have written 450+ guides and collected 4.7K external resources.
     
--   About one person a day signs up to contribute to our campaign.
-    
 
 ### Our challenges
 
@@ -51,13 +49,11 @@ We are looking for people like you to take on these challenges!
 
 ## How can I help?
 
-We will find a role that fits your experience and interests. Most importantly, your role should contribute to these objectives:
+We will find a role that fits your experience and interests. Most importantly, your role should contribute to these two objectives:
 
--   **📝 Get more people to contribute to our handbook**
+-   **📝 Get more people to contribute to Activist Handbook**
     
 -   **📢 Increase the number of people reading our guides**
-    
--   **🔥 Grow our capacity: volunteers & funding**
     
 
 For example, these are some ways you could help:
@@ -87,13 +83,15 @@ Anyone can join our team. Let us know what kind of experience you want to bring 
 
 Activist Handbook is all about learning, so we encourage you to step out of your comfort zone.
 
+We do expect coordinators to have made a few edits on our website. If you have not done so yet, check out our guide on how to start writing for Activist Handbook.
+
 ### Initiative
 
 We expect members of our coordination team to show initiative and to be able to work independently.
 
 Nobody will tell you what to do. We are all equal members of this team. We support each other and take responsibility for our part in the project.
 
-## Apply for our team
+## Apply aa coordinator
 
 We would love to get to know you! Send us an email if you are interested in joining our international coordination team: [contact@activisthandbook.org](mailto:contact@activisthandbook.org)
 
@@ -105,4 +103,6 @@ This is what the application process looks like:
     
 2.  **Video call:** We schedule a video call to get to know each other. We will tell you a bit more about Activist Handbook. And we discuss what kind of experience you would like to bring to the team, and what skills you would like to develop further.
     
-3.  **Integration period:** We will help you get started. We will add you to our team group chat and refine your role (with clear responsibilities and expectations).
+3.  **Decision period:** We will give you one or two weeks to get familiar with our organisation and your role, before committing to stay for a longer period.
+    
+4.  **Integration period:** We will help you get started by providing you any necessary training. We will add you to our team group chat and refine your role (with clear responsibilities and expectations).
