@@ -6,15 +6,18 @@ description: >
 langCode: en
 articleID: Z-Ui7ues8iBNtbuAydgwwYxtzRpER2i_
 languageCollectionID: tPpL-PgfyflnfdbX8PN394PCl1Ic8v1c
-updatedTimestamp: 1643469275941
+updatedTimestamp: 1678183511842
 createdTimestamp: 1628605870725
+wordCount: 1871
 tags: []
 ---
 
 You should protect yourself from hackers. As activist, you are in a high risk group. Digital security practices help protect campaigners from malicious online attacks and intrusive surveillance efforts led either by groups that are hostile to your agenda or by repressive government agencies.
 
 -   [Securing your phone](/tools/security/phone)
+    
 -   [Securing your laptop](/tools/security/laptop)
+    
 
 ## **Who needs this?**
 
@@ -31,19 +34,26 @@ Take your internal digital security seriously! Make it as high a priority as dat
 Dia Kayyali, [writing for the Center for Media Justice](http://centerformediajustice.org/2016/11/29/getting-started-digital-security/), explains that a threat modeling or risk assessment requires asking yourself the following five questions and recommends taking out pen and paper, brainstorming and consider discussing these questions along with the people you work closely with, since security is a collective effort:
 
 -   What do I need to protect?
+    
 -   Who do I need to protect it from?
+    
 -   How much do they want that information, and how easy is it for them to get it?
+    
 -   What happens if they do get it?
+    
 -   What am I willing to do to stop that from happening?
+    
 
 A useful tool for conducting a risk level assessment is the [Secure Communications Framework](https://teamsammut.com/scf/) (SCF), developed by Tim Sammut. This tool uses a simple chart on which you can plot the different kinds of information, materials and data that your organisation works with, according to:
 
 -   The **capability** of external actors (adversaries, be they individuals or organizations) that would like to acquire this information, for undesirable purposes
+    
 -   The **impact** of having this particular type of information compromised or exposed.
+    
 
 If your organisation manages data or information that falls in the blue quadrants (in the illustration below) then following basic best practices for digital security, as outlined in this guide, is sufficient. If you manage information in the orange quadrants then more stringent measures are required and it may be desirable to seek support from trusted security experts, such as the groups listed below. If your organisation manages information that falls into the red quadrant then working with trusted security experts is a must.
 
-<div><figcaption>Secure Communications Framework (Tim Sammut)</figcaption></div>
+Secure Communications Framework (Tim Sammut)
 
 ## **Setup steps/ stages**
 
@@ -80,29 +90,41 @@ Pro tip: It's a myth that strong passwords must contain every character under th
 Sarah Lange and Holly Davis from Blue Pine Strategies recommend the following wrt passwords:
 
 -   At least 13 characters in length
+    
 -   Add numbers and special characters
+    
 -   Use both uppercase and lowercase letters
+    
 
 Easy to remember, hard to crack:
 
 -   Line from a favorite book, movie, or song
+    
 -   Address (not linked to you!)
+    
 -   Mantra or intention
+    
 -   Passphrase
+    
 
 Do not use information publicly available about you:
 
 -   Name of your partner, child, or pet
+    
 -   Favorite sports team
+    
 -   Favorite food
+    
 
 Change passwords frequently:
 
 -   Ideally every 3-6 months
+    
 
 Prioritize accounts for complex passwords
 
 -   Use one password per account
+    
 
 **Make sure all of your devices are encrypted.**
 
@@ -115,14 +137,20 @@ If you want to encrypt specific information / files on your device then you can 
 Often forgotten in these measures are the external devices that we store our data on. Consider though that some of the most serious data leaks cames as a result of people leaving these devices around unprotected!
 
 -   First step is keeping a close eye on these devices and not leaving them around
+    
 -   It is recommended that you [encrypt your flash/hard drives](https://lifehacker.com/encrypt-your-flash-drive-to-ensure-your-peace-of-mind-1820010000) and set password protection to access them
+    
 
 **Mobile device security**
 
 -   Make sure your mobile PIN is at least 6 digits, it is much easier to crack a phone with only 4.
+    
 -   Make sure you keep auto-update of your applications switched on and ensure they are kept up to date. For Android, only download applications from the Google Play Store. If this is not possible, you can first upload APK files to [www.virustotal.com](http://www.virustotal.com/).
+    
 -   Take extra care when accessing organisational information over public wifi - if you need to do this regularly then invest in a VPN.
+    
 -   For groups that have more acute security concerns, a factory reset of mobile devices is recommended every few months to make sure any malicious tracking is wiped out (but this presents the inconvenience of re-configuring devices)
+    
 
 ## **Tricky parts/ fixes**
 
@@ -162,25 +190,43 @@ sarah@bluepinestrategies.com
 
 [Tania Mejia](https://twitter.com/taniamejiae), [Tom Liacas](https://medium.com/@TomLiacas), [Josh Levy](https://levjoy.com/), [Chris Alford](https://twitter.com/christophA33), [Sarah Aoun](https://twitter.com/sa0un), [Steve Anderson](https://twitter.com/Steve_Media)
 
-## Resources
+## External resources
 
 -   [Email self defence](https://emailselfdefense.fsf.org/en/) by Free Software Foundation
+    
 -   [Security in a box](https://securityinabox.org/en/)
+    
 -   [Prism Break](https://prism-break.org/en/)
+    
 -   [EFF Tools](https://www.eff.org/pages/tools) (Especially the [Surveillance Self Defence](https://ssd.eff.org) guide)
+    
 -   [Holistic Security](https://holistic-security.tacticaltech.org) by Tactical Tech
+    
 -   [Watch Your Hack](https://watchyourhack.com) by Daniel Verlaan
+    
 -   [Digital Security for Everyone](https://actionskills.co/resources/digital-security/) by ActionSkills
+    
 -   [Data Detox Kit](https://datadetoxkit.org/en/security/) by Tactical Tech
+    
 -   [Tech security](https://wikijs.dev.organise.earth/en/tech#operational-security-staying-safe) by Extinction Rebellion Global
+    
 -   [Assess Your Cybersecurity through Threat Modeling](https://www.nonviolent-conflict.org/blog_post/practitioners-civil-resistance-assess-cybersecurity-threat-modeling/) by Lisha Sterling
+    
 -   [Defend Dissent](https://open.oregonstate.education/defenddissent/) by Oregon State University
+    
 -   [Center for Media Justice - Getting Started with Digital Security: Tips and Resources for Activists](http://centerformediajustice.org/2016/11/29/getting-started-digital-security/)
+    
 -   Electronic Frontier Foundation's guide to Security Self-Defense: [https://ssd.eff.org/ and guide to Surveillance Self-Defense: https://ssd.eff.org/](https://ssd.eff.org/)
+    
 -   Access Now's "A First Look at Digital Security," which features a number of risk profiles (and is great for leading trainings): [https://www.accessnow.org/first-look-at-digital-security/](https://www.accessnow.org/first-look-at-digital-security/)
+    
 -   Martin Shelton's "Securing Your Digital Life Like a Normal Person": [https://medium.com/@mshelton/securing-your-digital-life-like-a-normal-person-a-hasty-and-incomplete-guide-56437f127425](https://medium.com/@mshelton/securing-your-digital-life-like-a-normal-person-a-hasty-and-incomplete-guide-56437f127425)
+    
 -   How to Lead a Digital Security Workshop  
     [https://motherboard.vice.com/en\_us/article/4xby8g/how-to-give-a-digital-security-training](https://motherboard.vice.com/en_us/article/4xby8g/how-to-give-a-digital-security-training)
+    
 -   "A DIY Guide to Feminist Cybersecurity": [https://hackblossom.org/cybersecurity/](https://hackblossom.org/cybersecurity/)
+    
 -   APC’s Digital Security First Aid Kit for Human Rights Defenders: [https://www.apc.org/en/irhr/digital-security-first-aid-kit](https://www.apc.org/en/irhr/digital-security-first-aid-kit)
+    
 -   Tactical Technology Collective’s Security in a Box: [https://securityinabox.org/en/tools/](https://securityinabox.org/en/tools/)
