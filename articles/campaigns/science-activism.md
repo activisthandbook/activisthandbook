@@ -1,12 +1,12 @@
 ---
 title: >
-  science activism
+  Science activism
 description: >
-  learn from Scientist Rebellion and other academic activists
+  Learn from Scientist Rebellion and other academic activists
 langCode: en
 articleID: EpOGhhfzbufIlbXKBLZW02ZkuXWvSRo0
 languageCollectionID: aUm7wuakSuR04i-IDcILEnsF4CWTcMPq
-updatedTimestamp: 1677135633263
+updatedTimestamp: 1678183756796
 createdTimestamp: 1663872847035
 wordCount: 6657
 tags: []
