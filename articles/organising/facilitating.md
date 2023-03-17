@@ -6,9 +6,9 @@ description: >
 langCode: en
 articleID: XIgAxsDXgYVhs5ns90TUqOpCRJudip4A
 languageCollectionID: M4oQzM4kkLmmPBClRgocK1sL2BS2jXE2
-updatedTimestamp: 1679051600255
+updatedTimestamp: 1679051894112
 createdTimestamp: 1676567899135
-wordCount: 1986
+wordCount: 1984
 tags: []
 ---
 
@@ -37,7 +37,7 @@ Facilitation is a proactive role, but not a ‘power-over’ role. The facilitat
 
 > _Continue reading or sign up for our free 7 day course!_
 
-<action-signup tags="newsletter,course-facilitating" redirect="/next-steps/signup-course-facilitating" buttonlabel="Sign up"><h2>Free 7-day course</h2><p>Learn how to become a professional facilitator in 7 days. Receive a new guide in your inbox every day for a week. Sign up for our free course for change-makers:</p></action-signup>
+<action-signup tags="newsletter,course-facilitating" redirect="/next-steps/signup-course-facilitating" buttonlabel="Sign up"><h2>Free 7-day course</h2><p>Learn how to become a professional facilitator in 7 days. Receive a new guide in your inbox every day for a week. Sign up for our free course:</p></action-signup>
 
 ## **Facilitation task**
 
