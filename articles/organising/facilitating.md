@@ -6,9 +6,9 @@ description: >
 langCode: en
 articleID: XIgAxsDXgYVhs5ns90TUqOpCRJudip4A
 languageCollectionID: M4oQzM4kkLmmPBClRgocK1sL2BS2jXE2
-updatedTimestamp: 1676736414481
+updatedTimestamp: 1679050405658
 createdTimestamp: 1676567899135
-wordCount: 1970
+wordCount: 2003
 tags: []
 ---
 
@@ -29,7 +29,7 @@ At the bottom of this article, you will find external resources if you would lik
 
 Facilitation is a way of taking responsibility for making meetings as inclusive, effective and enjoyable as possible. It involves creating a space where everyone can be heard and respected, helping the group work efficiently and introducing facilitation tools where appropriate. Facilitation skills include active listening, questioning and summarising. The facilitator should also take steps to meet access requirements and balance out power dynamics in the group.
 
-<dynamic-image imageid="c1e7ec59-1aa4-4d1c-57b7-8fbf39e77000" alt="People sitting in a circle"><p>People having a meeting, by <a target="_blank" href="https://edit.activisthandbook.org/author/tzmE91SnnrbJJXuvQNBl9rt6HK63">Joppe</a> | Generated using Dall-e</p></dynamic-image>
+<dynamic-image imageid="c1e7ec59-1aa4-4d1c-57b7-8fbf39e77000" alt="People sitting in a circle"><p>People having a meeting, by <a target="_blank" href="https://edit.activisthandbook.org/author/tzmE91SnnrbJJXuvQNBl9rt6HK63">Joppe</a> | Generated using Dall-e</p></dynamic-image><action-signup tags="newsletter,course-facilitating" redirect="/next-steps/signup-course-facilitating" buttonlabel="Sign up"><h2>Free 7-day course</h2><p>Learn how to become a professional facilitator in 7 days. Receive a new guide in your inbox every day for a week. Sign up for our free course for change-makers:</p></action-signup>
 
 ## In-depth guides
 
