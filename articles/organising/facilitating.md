@@ -6,7 +6,7 @@ description: >
 langCode: en
 articleID: XIgAxsDXgYVhs5ns90TUqOpCRJudip4A
 languageCollectionID: M4oQzM4kkLmmPBClRgocK1sL2BS2jXE2
-updatedTimestamp: 1679050405658
+updatedTimestamp: 1679051174695
 createdTimestamp: 1676567899135
 wordCount: 2003
 tags: []
@@ -30,71 +30,6 @@ At the bottom of this article, you will find external resources if you would lik
 Facilitation is a way of taking responsibility for making meetings as inclusive, effective and enjoyable as possible. It involves creating a space where everyone can be heard and respected, helping the group work efficiently and introducing facilitation tools where appropriate. Facilitation skills include active listening, questioning and summarising. The facilitator should also take steps to meet access requirements and balance out power dynamics in the group.
 
 <dynamic-image imageid="c1e7ec59-1aa4-4d1c-57b7-8fbf39e77000" alt="People sitting in a circle"><p>People having a meeting, by <a target="_blank" href="https://edit.activisthandbook.org/author/tzmE91SnnrbJJXuvQNBl9rt6HK63">Joppe</a> | Generated using Dall-e</p></dynamic-image><action-signup tags="newsletter,course-facilitating" redirect="/next-steps/signup-course-facilitating" buttonlabel="Sign up"><h2>Free 7-day course</h2><p>Learn how to become a professional facilitator in 7 days. Receive a new guide in your inbox every day for a week. Sign up for our free course for change-makers:</p></action-signup>
-
-## In-depth guides
-
-Want to become a facilitating pro? Read the guides below:
-
-### Facilitating basics
-
--   **🔤** [**What is facilitating?**](/organising/facilitating/what-is-facilitating)
-    
--   💬 [**Succesful meetings**](/organising/facilitating/meeting)
-    
--   📄 [**Script for meetings**](/organising/facilitating/script)
-    
--   **🏡** [**Accessible space**](/organising/facilitating/accessible-space)
-    
--   **⏱** [**Writing an agenda**](/organising/facilitating/meeting-agenda)
-    
--   📝 [**Taking minutes**](/organising/facilitating/taking-minutes)
-    
--   🏆 [**Skills facilitators need**](/organising/facilitating/skills)
-    
--   **🆘** [**Common challenges**](/organising/facilitating/challenges)
-    
-
-<dynamic-image imageid="9071bcec-7244-448b-27e1-12e9f10a0d00" alt="People having a meeting underneath a tree"><p>Activists making plans, by <a target="_blank" href="https://edit.activisthandbook.org/author/tzmE91SnnrbJJXuvQNBl9rt6HK63">Joppe</a> | Generated using Dall-e</p></dynamic-image>
-
-### Facilitation techniques
-
-Experienced facilitators use these techniques and solutions to address common challenges. Just want a quick overview? Check out our [**facilitation techniques 101**](/organising/facilitating/techniques) guide.
-
--   **☀️** [**Check-in**](/organising/facilitating/check-in)
-    
--   **👋** [**Hand signals**](/organising/facilitating/hand-signals)
-    
--   **🙉** [**Active listening**](/organising/facilitating/active-listening)
-    
--   **✅** [**Group agreements**](/organising/facilitating/group-agreements)
-    
--   **💤** [**Increasing participation**](/organising/facilitation/meeting-participation)
-    
--   **💡** [**Evaluating ideas**](/organising/facilitation/evaluating-ideas)
-    
--   **🧠** [**Discussing complex issues**](/organising/facilitating/complex-issues)
-    
--   **❤️** [**Trust building activities**](/organising/facilitating/trust-building)
-    
--   **⚡️** [**Energizers**](/organising/facilitating/energisers)
-    
--   **🌒** [**Check-out**](/organising/facilitating/check-out)
-    
--   **💯** [**Evaluation**](/organising/facilitating/evaluation)
-    
-
-### Specific contexts
-
--   **🐳** [**Large group meetings**](/organising/facilitating/large-group)
-    
--   💻 **Online meetings (not yet created)**
-    
-
-### Decision making
-
-This is a whole topic on its own, so we wrote a series of guides about [decision making](/organising/decisions ).
-
-<dynamic-image imageid="47d4b791-440e-49e1-63cb-e98016f34c00" alt="People sitting at a table having a meeting"><p>Four activists making decisions, by <a target="_blank" href="https://edit.activisthandbook.org/author/tzmE91SnnrbJJXuvQNBl9rt6HK63">Joppe</a> | Generated using Dall-e</p></dynamic-image>
 
 ## Introduction
 
@@ -171,6 +106,71 @@ Another important role for a facilitator is making sure that the meeting works f
 **Small groups or pairs:** Splitting into small groups can help more people participate actively in the meeting. It gives people a chance to work out their thoughts before coming back to a whole group discussion. Explain clearly what you want people to discuss in their small groups, how much time they have and what they will need to feed back afterwards. Nominating a facilitator in each small group can help them stay on track.
 
 **Breaks and energisers:** Breaks give people time to move around, process information or work out their thoughts. Build in regular breaks, or offer a quick group game.
+
+## In-depth guides
+
+Want to become a facilitating pro? Read the guides below:
+
+### Facilitating basics
+
+-   **🔤** [**What is facilitating?**](/organising/facilitating/what-is-facilitating)
+    
+-   💬 [**Succesful meetings**](/organising/facilitating/meeting)
+    
+-   📄 [**Script for meetings**](/organising/facilitating/script)
+    
+-   **🏡** [**Accessible space**](/organising/facilitating/accessible-space)
+    
+-   **⏱** [**Writing an agenda**](/organising/facilitating/meeting-agenda)
+    
+-   📝 [**Taking minutes**](/organising/facilitating/taking-minutes)
+    
+-   🏆 [**Skills facilitators need**](/organising/facilitating/skills)
+    
+-   **🆘** [**Common challenges**](/organising/facilitating/challenges)
+    
+
+<dynamic-image imageid="9071bcec-7244-448b-27e1-12e9f10a0d00" alt="People having a meeting underneath a tree"><p>Activists making plans, by <a target="_blank" href="https://edit.activisthandbook.org/author/tzmE91SnnrbJJXuvQNBl9rt6HK63">Joppe</a> | Generated using Dall-e</p></dynamic-image>
+
+### Facilitation techniques
+
+Experienced facilitators use these techniques and solutions to address common challenges. Just want a quick overview? Check out our [**facilitation techniques 101**](/organising/facilitating/techniques) guide.
+
+-   **☀️** [**Check-in**](/organising/facilitating/check-in)
+    
+-   **👋** [**Hand signals**](/organising/facilitating/hand-signals)
+    
+-   **🙉** [**Active listening**](/organising/facilitating/active-listening)
+    
+-   **✅** [**Group agreements**](/organising/facilitating/group-agreements)
+    
+-   **💤** [**Increasing participation**](/organising/facilitation/meeting-participation)
+    
+-   **💡** [**Evaluating ideas**](/organising/facilitation/evaluating-ideas)
+    
+-   **🧠** [**Discussing complex issues**](/organising/facilitating/complex-issues)
+    
+-   **❤️** [**Trust building activities**](/organising/facilitating/trust-building)
+    
+-   **⚡️** [**Energizers**](/organising/facilitating/energisers)
+    
+-   **🌒** [**Check-out**](/organising/facilitating/check-out)
+    
+-   **💯** [**Evaluation**](/organising/facilitating/evaluation)
+    
+
+### Specific contexts
+
+-   **🐳** [**Large group meetings**](/organising/facilitating/large-group)
+    
+-   💻 **Online meetings (not yet created)**
+    
+
+### Decision making
+
+This is a whole topic on its own, so we wrote a series of guides about [decision making](/organising/decisions ).
+
+<dynamic-image imageid="47d4b791-440e-49e1-63cb-e98016f34c00" alt="People sitting at a table having a meeting"><p>Four activists making decisions, by <a target="_blank" href="https://edit.activisthandbook.org/author/tzmE91SnnrbJJXuvQNBl9rt6HK63">Joppe</a> | Generated using Dall-e</p></dynamic-image>
 
 ## External resources
 
