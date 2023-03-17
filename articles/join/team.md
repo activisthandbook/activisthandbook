@@ -6,7 +6,7 @@ description: >
 langCode: en
 articleID: SGXooS4_3efDPlBYYry7J10ubOqIyYN2
 languageCollectionID: 9PUewzOSgeHji6XbBHj5KgPG_M5R_IIT
-updatedTimestamp: 1678084170845
+updatedTimestamp: 1678199224532
 createdTimestamp: 1678020910340
 wordCount: 724
 focusMode: 
@@ -73,7 +73,7 @@ Feel free to suggest another way you think you could be of value to our team!
 
 ### Commitment
 
-Coordinators spend at least at least **2 hours per week** on Activist Handbook. They are part of our team for a period of at least **6 months**.
+Coordinators spend at least at least **4 hours per week** on Activist Handbook. They are part of our team for a period of at least **6 months**.
 
 If you are unable to commit this amount of time, we recommend you to check out our [other ways of contributing](/contribute).
 
@@ -83,7 +83,7 @@ Anyone can join our team. Let us know what kind of experience you want to bring 
 
 Activist Handbook is all about learning, so we encourage you to step out of your comfort zone.
 
-We do expect coordinators to have made a few edits on our website. If you have not done so yet, check out our guide on how to start writing for Activist Handbook.
+We do expect coordinators to have made a few edits on our website. If you have not done so yet, check out our guide on how to [start writing for Activist Handbook](/contribute/write).
 
 ### Initiative
 
