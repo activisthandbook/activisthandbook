@@ -6,30 +6,21 @@ description: >
 langCode: en
 articleID: XIgAxsDXgYVhs5ns90TUqOpCRJudip4A
 languageCollectionID: M4oQzM4kkLmmPBClRgocK1sL2BS2jXE2
-updatedTimestamp: 1679051174695
+updatedTimestamp: 1679051600255
 createdTimestamp: 1676567899135
-wordCount: 2003
+wordCount: 1986
 tags: []
 ---
 
 In this guide, we explain how to facilitate meetings. Learn how to make your meetings effective, inclusive and enjoyable.
 
-We've got 3 versions of this article:
-
-1.  [**Summary**](#summary): 1 minute reading time
-    
-2.  [**Short guide**](#introduction)**:** 10 minute reading time
-    
-3.  [**In-depth guides**](#in-depth-guides)**:** 2 hours total reading time
-    
-
-At the bottom of this article, you will find external resources if you would like to learn even more!
+> This is our short guide on facilitating. Also check out our [**free course**](#action-signup) and [**in-depth guides**](#in-depth-guides).
 
 ## Summary
 
 Facilitation is a way of taking responsibility for making meetings as inclusive, effective and enjoyable as possible. It involves creating a space where everyone can be heard and respected, helping the group work efficiently and introducing facilitation tools where appropriate. Facilitation skills include active listening, questioning and summarising. The facilitator should also take steps to meet access requirements and balance out power dynamics in the group.
 
-<dynamic-image imageid="c1e7ec59-1aa4-4d1c-57b7-8fbf39e77000" alt="People sitting in a circle"><p>People having a meeting, by <a target="_blank" href="https://edit.activisthandbook.org/author/tzmE91SnnrbJJXuvQNBl9rt6HK63">Joppe</a> | Generated using Dall-e</p></dynamic-image><action-signup tags="newsletter,course-facilitating" redirect="/next-steps/signup-course-facilitating" buttonlabel="Sign up"><h2>Free 7-day course</h2><p>Learn how to become a professional facilitator in 7 days. Receive a new guide in your inbox every day for a week. Sign up for our free course for change-makers:</p></action-signup>
+<dynamic-image imageid="c1e7ec59-1aa4-4d1c-57b7-8fbf39e77000" alt="People sitting in a circle"><p>People having a meeting, by <a target="_blank" href="https://edit.activisthandbook.org/author/tzmE91SnnrbJJXuvQNBl9rt6HK63">Joppe</a> | Generated using Dall-e</p></dynamic-image>
 
 ## Introduction
 
@@ -44,9 +35,11 @@ There are two main areas to keep in mind when facilitating:
 
 Facilitation is a proactive role, but not a ‘power-over’ role. The facilitator doesn’t have more power than anyone else, or makes decisions for the group. They should stay neutral in discussions, or make it clear when they are stepping out of the facilitator role to give their own opinion.
 
-<dynamic-image imageid="288f9347-3aa5-4d74-bc29-3ded9d57d300" alt="Someone sitting behind their laptop taking minutes"><p>Someone taking minutes, by <a target="_blank" href="https://edit.activisthandbook.org/author/tzmE91SnnrbJJXuvQNBl9rt6HK63">Joppe</a> | Generated using Dall-e</p></dynamic-image>
+> _Continue reading or sign up for our free 7 day course!_
 
-## **Facilitation tasks**
+<action-signup tags="newsletter,course-facilitating" redirect="/next-steps/signup-course-facilitating" buttonlabel="Sign up"><h2>Free 7-day course</h2><p>Learn how to become a professional facilitator in 7 days. Receive a new guide in your inbox every day for a week. Sign up for our free course for change-makers:</p></action-signup>
+
+## **Facilitation task**
 
 Facilitation can involve different tasks depending on the situation. They can be taken on by one or more facilitators. This list of tasks will be relevant to most meetings:
 
@@ -94,6 +87,8 @@ Another important role for a facilitator is making sure that the meeting works f
 **Preferences:** We all have preferences about how we participate in meetings, e.g. do we prefer small groups or large ones? Can we concentrate if someone speaks for a long time? What makes it easy for us to process information, feel comfortable, have fun, speak our minds and hear what others have to say? When something is not our preference, it is possible to stretch ourselves and manage for a while. This may be at the cost of getting more tired, or not getting as much from the discussion. As a facilitator, building in lots of variety of activities will help balance things out so everyone gets their preferences met some of the time!
 
 **Power:** The way that people participate in a meeting and whether they get heard by others is very closely related to how much power they have in the group! Facilitation will never ‘solve’ power imbalances. However, it can help to create a space where people are empowered to voice their thoughts and opinions and supported to listen and take into account what each other have said. Some practical ways of doing this include: spotting points that are getting missed and asking people to expand / repeat; using tools like a go round that enable everyone to be heard; challenging problematic behaviours and micro-aggressions.
+
+<dynamic-image imageid="288f9347-3aa5-4d74-bc29-3ded9d57d300" alt="Someone sitting behind their laptop taking minutes"><p>Someone taking minutes, by <a target="_blank" href="https://edit.activisthandbook.org/author/tzmE91SnnrbJJXuvQNBl9rt6HK63">Joppe</a> | Generated using Dall-e</p></dynamic-image>
 
 ## **Meeting tools**
 
