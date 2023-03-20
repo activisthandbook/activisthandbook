@@ -6,9 +6,9 @@ description: >
 langCode: en
 articleID: HoOfo2tH3HucVjYIbZL9LtPorVEFZtI-
 languageCollectionID: 6U4kXo7qbzKkrfaO_cJnG9RkCS37n1Qz
-updatedTimestamp: 1679304943099
+updatedTimestamp: 1679307111023
 createdTimestamp: 1584809921964
-wordCount: 589
+wordCount: 590
 tags: ["about"]
 ---
 
@@ -30,7 +30,7 @@ To achieve this goal, we built an online knowledge-sharing platform. It works ju
 
 ### 🕊 Free & reusable
 
-We publish all our work under a Creative Commons [licence](/about/licence). Other people can redistribute and repurpose our work. It's out there for everyone to use, as long as it is not for commercial purposes.
+We publish all our work under a Creative Commons [licence](/about/licence). Other people can freely redistribute and repurpose our work. It's out there for everyone to use, as long as it is not for commercial purposes.
 
 ### 📖 Practical how-to guides
 
@@ -42,7 +42,7 @@ We copy other people's work and make it better. There is no point in reinventing
 
 ### 🗂 Well-organised content
 
-We organise our content with chapters, sub-topics, tags and lists of related articles: This makes it easier for people to find the content they are looking for, even if they do not quite know the right😉 search term. In addition, we provide a super fast search engine.
+We organise our content with chapters, sub-topics, tags and lists of related articles: This makes it easier for people to find the content they are looking for, even if they do not quite know the right search term. In addition, we provide a super fast search engine.
 
 ### 🌏 Localised & translated
 
