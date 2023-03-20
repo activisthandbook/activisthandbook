@@ -6,9 +6,9 @@ description: >
 langCode: en
 articleID: aaxL7iJG4b6uhB1gUxhH9gLMHxK-e2-5
 languageCollectionID: fq0bmSihqXqKFnTyglS84MLy3-tIQWBU
-updatedTimestamp: 1678183384224
+updatedTimestamp: 1679230815852
 createdTimestamp: 1632575279603
-wordCount: 345
+wordCount: 360
 tags: []
 ---
 
@@ -34,6 +34,8 @@ Activist Handbook is the Wikipedia for change-makers. Our platform contains 450+
 Any material you can find on Activist Handbook is available under a [**Creative Commons licence**](/about/licence).
 
 This means that you can freely reuse our guides, as long as you attribute us as original author. You do not need to ask for permission. Check out the licence for the details!
+
+Of course, we love to hear in what ways you are using our work: [contact@activisthandbook.org](mailto:contact@activisthandbook.org)
 
 > **Examples** of ways you can reuse our work:
 > 

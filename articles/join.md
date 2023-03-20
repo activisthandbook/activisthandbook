@@ -6,9 +6,9 @@ description: >
 langCode: en
 articleID: dw3LUReexTkwNvZvhxWDi9yzjCADdFS9
 languageCollectionID: LHjeW2KJkqhujvzxEBTSu_lNe91LwD6R
-updatedTimestamp: 1675753670856
+updatedTimestamp: 1679304872170
 createdTimestamp: 1583579488069
-wordCount: 218
+wordCount: 221
 tags: ["about"]
 focusMode: 
   isOn: true
@@ -28,7 +28,7 @@ Let's learn how to bring about change. Join our campaign and help us train 350 m
 
 Science shows that change happens when 3.5% of the population takes action. In 2050, there will be 10 billion people on this planet. That's why we are going to train 350 million activists.
 
-Right now, we train 4000 new activists every month. You can help us to scale up our project.
+Right now, we train 6000 new activists every month with our guides. You can help us to scale up our project.
 
 ## Join our community
 

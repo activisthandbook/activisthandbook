@@ -6,9 +6,9 @@ description: >
 langCode: en
 articleID: SGXooS4_3efDPlBYYry7J10ubOqIyYN2
 languageCollectionID: 9PUewzOSgeHji6XbBHj5KgPG_M5R_IIT
-updatedTimestamp: 1678199224532
+updatedTimestamp: 1679304690070
 createdTimestamp: 1678020910340
-wordCount: 724
+wordCount: 735
 focusMode: 
   isOn: true
   buttonLabel: Apply
@@ -31,7 +31,7 @@ To achieve this goal, we built an online knowledge-sharing platform. It works ju
 
 ### Our progress
 
--   We train about 4000 new activists every month. Our guides are read by change-makers across the globe.
+-   We train about 6.000 new activists every month. Our guides are read by change-makers across the globe.
     
 -   We have written 450+ guides and collected 4.7K external resources.
     
@@ -42,7 +42,7 @@ To achieve this goal, we built an online knowledge-sharing platform. It works ju
     
 -   Many activists don't know about Activist Handbook yet. We want more change-makers to make use of our free learning materials.
     
--   We do not have access to funding and our team of volunteers is small. We want to grow our capacity so that we can scale up our project.
+-   Our team of active volunteers who can support and train writers is small. We want to grow our capacity so that we can scale up our project.
     
 
 We are looking for people like you to take on these challenges!
@@ -62,9 +62,9 @@ For example, these are some ways you could help:
     
 -   Train new writers and review their contributions
     
--   Reach out to other movements for partnerships
+-   Reach out to other movements to promote Activist Handbook
     
--   Apply for grants and find other ways of funding
+-   Organise projects that help us scale up (for example, getting together a team that can organize an international meetup)
     
 
 Feel free to suggest another way you think you could be of value to our team!

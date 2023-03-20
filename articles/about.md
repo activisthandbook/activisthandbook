@@ -6,7 +6,7 @@ description: >
 langCode: en
 articleID: HoOfo2tH3HucVjYIbZL9LtPorVEFZtI-
 languageCollectionID: 6U4kXo7qbzKkrfaO_cJnG9RkCS37n1Qz
-updatedTimestamp: 1678199083093
+updatedTimestamp: 1679304943099
 createdTimestamp: 1584809921964
 wordCount: 589
 tags: ["about"]
@@ -22,7 +22,7 @@ Science shows that change happens when 3.5% of the population takes action. In 2
 
 To achieve this goal, we built an online knowledge-sharing platform. It works just like Wikipedia: everyone can edit our articles. This way, we allow activists across countries and movements to exchange their experiences with change-making.
 
-**Right now, we are able to train more than 4000 new activists every month. Help us scale up our project:**
+**Right now, we are able to train more than 6000 new activists every month. Help us scale up our project:**
 
 <action-button buttonlink="/join" buttonlabel="👉 Join our campaign"></action-button>
 
