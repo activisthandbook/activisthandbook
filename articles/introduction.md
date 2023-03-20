@@ -6,7 +6,7 @@ description: >
 langCode: en
 articleID: 7w7tygtXhS5UljIFB5e7
 languageCollectionID: oeU2LXIfqc9t2aFsgu7n
-updatedTimestamp: 1678447046141
+updatedTimestamp: 1679305204793
 createdTimestamp: 1675513049772
 wordCount: 364
 ---
@@ -15,7 +15,7 @@ Activist Handbook is the Wikipedia for activists. On this website, you will find
 
 ## Everyone can edit
 
-Our guides are written by people like you. Everyone can edit Activist Handbook. Every month, we train more than 4000 activists. With your help, we can empower even more people:
+Our guides are written by people like you. Everyone can edit Activist Handbook. Every month, we train more than 6000 activists. With your help, we can empower even more people:
 
 <action-button buttonlink="/contribute" buttonlabel="Start contributing"></action-button>
 
