@@ -6,9 +6,9 @@ description: >
 langCode: en
 articleID: SGXooS4_3efDPlBYYry7J10ubOqIyYN2
 languageCollectionID: 9PUewzOSgeHji6XbBHj5KgPG_M5R_IIT
-updatedTimestamp: 1679304690070
+updatedTimestamp: 1679306222295
 createdTimestamp: 1678020910340
-wordCount: 735
+wordCount: 763
 focusMode: 
   isOn: true
   buttonLabel: Apply
@@ -31,7 +31,7 @@ To achieve this goal, we built an online knowledge-sharing platform. It works ju
 
 ### Our progress
 
--   We train about 6.000 new activists every month. Our guides are read by change-makers across the globe.
+-   We train about 6000 new activists every month. Our guides are read by change-makers across the globe.
     
 -   We have written 450+ guides and collected 4.7K external resources.
     
@@ -91,11 +91,20 @@ We expect members of our coordination team to show initiative and to be able to 
 
 Nobody will tell you what to do. We are all equal members of this team. We support each other and take responsibility for our part in the project.
 
-## Apply aa coordinator
+## Apply as coordinator
 
 We would love to get to know you! Send us an email if you are interested in joining our international coordination team: [contact@activisthandbook.org](mailto:contact@activisthandbook.org)
 
+Make sure to include:
+
+-   Your motivation for wanting to join our team
+    
+-   Your skills, experience with activism and things you would like to learn more about.
+    
+
 > **If you would just like to write for Activist Handbook, you do not need to apply.** Read our guide on [how to contribute](/contribute) instead.
+
+## Application process
 
 This is what the application process looks like:
 
@@ -105,4 +114,4 @@ This is what the application process looks like:
     
 3.  **Decision period:** We will give you one or two weeks to get familiar with our organisation and your role, before committing to stay for a longer period.
     
-4.  **Integration period:** We will help you get started by providing you any necessary training. We will add you to our team group chat and refine your role (with clear responsibilities and expectations).
+4.  **Integration period:** We will help you get started by providing you with some training. We will add you to our team group chat and refine your role (with clear responsibilities and expectations).
