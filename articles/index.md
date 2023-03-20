@@ -68,21 +68,11 @@ Develop a [theory of change](/theory) for your activist organisation using our t
 
 <action-smart-large/>
 
-## We work with data & revolutionary tech
+## Our research & revolutionary tech
 
-We don’t just write guides. Activist Handbook uses a **data-driven approach** and develops **digital tools** to empower change-makers.
+We don’t just write guides. Activist Handbook uses a **data-driven writing approach** and develops **digital tools** to empower change-makers. Learn more about how we do search engine optimization research and build tech that is optimized for speed and accessibility:
 
-### Large numbers, big impact
-
-- **🔍 1K+ search queries analysed:** We know what challenges activists face most, and what words they type into Google to find help. With this SEO data, we can write the guides that activists actually need and make sure our platform is found by the people looking for it.
-- **📚 4.7K resources:** We did not write our 450+ guides from scratch. Instead, we brought together material from experienced campaigned around the globe and organised all of it in into one single comprehensive handbook.
-- **🔥 4K+ activist trained every month:** Our number of volunteers can be counted on one hand and budget is €0. Yet, we manage to train thousands of activists every single month. And the more activists use and contribute to our wiki platform, the better it gets.
-
-### A unique digital toolset
-
-- **🧑‍💻 We develop our own digital tools:** If we need it, we build it. We bring together our experience with web development and campaigning.
-- **💡 We empower activists with AI:** Our writers never have to start with an empty page. Using artifical intelligence, we generate a first draft, as well as illustrations to accompany the guide. Whatever tech the capitalist elite can get their hands on to protect their interests, we use it too and fight back.
-- **⚡️ We prioritise speed & accessibility:** Everyone should be able to use Activist Handbook, no matter if you are on a slow or expensive data plan. So we put in the work to make that possible. And it shows. For example, our platform loads 8x faster and uses 87% less data than the Beautiful Trouble website (tested 25 dec 2022).
+<action-button buttonlink="/about" buttonlabel="About us"></action-button>
 
 ## We start the activist movements of tomorrow
 
