@@ -6,15 +6,13 @@ description: >
 langCode: en
 articleID: OIdzm4zCNy5uueuVtSGK-dWoAYJojt2l
 languageCollectionID: rOnRkqeKFocsL5LElVfQGPX5zRbZgjK8
-updatedTimestamp: 1677741183291
+updatedTimestamp: 1679313534001
 createdTimestamp: 1585060695885
-wordCount: 781
+wordCount: 753
 tags: []
 ---
 
 With the current corona crisis going on, video calling tools have become essential for staying in touch. Now, we cannot meet in person, but meeting face to face is still possible with the the video calling tools that we will be discussing. Below you will find a list of the various services that are available.
-
-> Activist Handbook is a collaborative project. Anyone can edit and create new pages. Feel free to add information! Just [**create an account**](/register) or [**log in**](/login) to start contributing.
 
 ## For large groups
 

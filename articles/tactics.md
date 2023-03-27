@@ -1,20 +1,56 @@
 ---
 title: >
-  Protest tactics 📣
+  Protest ideas 📣
 description: >
-  A list of tactics for activists and tactical action planning
+  List of creative protest tactics for activists
 langCode: en
 articleID: dqIEdknV4hO7Eqa1OZNQWeeF1D-KptVM
 languageCollectionID: WeIM7eSP9ovc2D_rh7HpCq26GW7AQRV-
-updatedTimestamp: 1677846386047
+updatedTimestamp: 1679313308810
 createdTimestamp: 1594650737037
-wordCount: 1218
+wordCount: 1436
 tags: []
 ---
 
-**This chapter contains a list of various tactics that activists use to make change happen. Note that you do not have to choose one particular tactic. The most successful movements use a combination of tactics and allow people to contribute to the cause in their own way.**
+In this chapter, you will find a list of over 100 creative protest ideas for your next action. From nonviolent civil disobedience to political activism, we have a guide for your type of activism.
 
-> Start organising small, build towards something big. Radical change starts small. If you would like to learn how to become the spark that ignites the fire, also make sure to check out our [organising chapter](/organising).
+> Also check out our guide on [how to organise a protest](/organising/protest).
+
+## Types of activism
+
+Before picking your protest tactic, you first need to decide what type of activism you would like to do. We organised our creative protest ideas into the following categories, loosely ordered from most to least rebellious:
+
+-   **✊** [**Civil disobedience**](/tactics/civil-disobedience): challenging the system by breaking the law on purpose, for example using blockades, occupations or strikes.
+    
+-   **🛠** [**Alternative building**](/tactics/alternative-building): envisioning a different future, for example by building community gardens, introducing alternative local currencies, and constructing off-grid homes - alse called constructive program.
+    
+-   **🎨** [**Cultural activism (artivism)**](/tactics/artivism): using creativity to draw attention to your cause, for example using theatre, music and brandalism.
+    
+-   **💻** [**Digital activism**](/tactics/digital-activism): making use of online platforms or using hacktivism to disrupt the digital world to make a point.
+    
+-   **💬** [**Raising awareness**](/tactics/raising-awareness)
+    
+-   **🗳** [**Political activism**](/tactics/political-activism): acting within established political institutions to create change through policy, for example by running for office or organising succesful election campaigns.
+    
+-   **⚖️** [**Legal activism**](/tactics/legal-activism): forcing change by applying existing laws, for example through climate litigation (suing companies and governments based on environmental and human-right laws) .
+    
+-   **🤑** [**Financial activism**](/tactics/finanical-activism): using monetary pressure to create change, for example through boycotts or shareholder activism
+    
+
+_Many different activist tactics exist. To bring order into the chaos, we chose one particular categorisation based on SEO research (see above). However, other ways of categorising tactics are also possible. Read chapter 3 of_ [_Civil Resistance in the 21st Century_](https://www.nonviolent-conflict.org/wp-content/uploads/2021/03/Civil-Resistance-Tactics-in-the-21st-Century-Monograph.pdf?utm_source=activisthandbook.org) _by ICNC for more context._
+
+## Action toolbox
+
+Whatever your action, these practices will come in handy:
+
+-   🚔 Resisting arrest ([Going floppy](/tactics/going-floppy))
+    
+-   🎨 Painting banners
+    
+-   🏳 Creating flags
+    
+-   ☮️ [Disabling a tank](/tactics/disable-tank)
+    
 
 ## Choose your tactic
 
@@ -63,7 +99,7 @@ Sometimes having a conversation is better than shouting slogans. Informational t
 
 By joining existing institutions one can make change happen from within. Institutional tactics create societal change while following the rules of the existing system.
 
-**Topics:** Voting | [Running for office](/tactics/running-for-office) | [Judicial](/tactics/judicial) | Corporate
+**Topics:** Voting | Running for office | [Judicial](/tactics/judicial) | Corporate
 
 ### Financial 🤑
 
@@ -72,19 +108,6 @@ By joining existing institutions one can make change happen from within. Institu
 > “A good tactic is one that **your people enjoy**. If your people are not having a ball doing it, there is something very wrong with the tactic.”
 > 
 > Saul Alinsky (Rules for Radicals, p.94)
-
-## Action toolbox
-
--   🚔 Resisting arrest ([Going floppy](/tactics/going-floppy))
-    
--   🎨 Painting banners
-    
--   🏳 Creating flags
-    
--   ☮️ [Disabling a tank](/tactics/disable-tank)
-    
-
-One-person protest, blocking a road - Generated using OpenAI
 
 ## Improve this page
 
@@ -122,7 +145,7 @@ Filter our recommended tactics based on the way you would like to achieve change
         
 -   💬 I want to **encourage conversations** with bystanders: _useful if you want to grow and broaden your movement, if you want to change minds_
     
-    -   _Suggested SEO title: no idea_
+    -   _Suggested SEO title: raising awareness_
         
 -   🗳 I want to work within **governmental institutions** to create change: _useful if you want to convert public support into policy_
     
@@ -161,12 +184,14 @@ And a section called 'action toolbox', that covers tools you can use with many d
 
 ### Search keywords
 
-<table><tbody><tr><th><p>Search keywords</p></th><th><p>Monthly global searches</p></th><th><p>Relevancy</p></th></tr><tr><td><p>activism types</p></td><td><p>510</p></td><td><p>high</p></td></tr><tr><td><p>protest tactics</p></td><td><p>190</p></td><td><p>high</p></td></tr><tr><td><p>creative protest tactics</p></td><td><p>120</p></td><td><p>high</p></td></tr><tr><td><p>blockading</p></td><td><p>24.9K</p></td><td><p>low</p></td></tr><tr><td><p>banner making</p></td><td><p>34.8K</p></td><td><p>low</p></td></tr><tr><td><p>hand signals</p></td><td><p>59.7K</p></td><td><p>low</p></td></tr><tr><td><p>hand signals protest</p></td><td><p>0</p></td><td><p>high</p></td></tr><tr><td><p>hand signals activism</p></td><td><p>0</p></td><td><p>high</p></td></tr><tr><td><p>action tactics</p></td><td><p>10</p></td><td><p>high</p></td></tr><tr><td><p>activist tactics</p></td><td><p>80</p></td><td><p>high</p></td></tr><tr><td><p>tactical action</p></td><td><p>310</p></td><td><p>low</p></td></tr><tr><td><p>activism workshop</p></td><td><p>70</p></td><td><p>high</p></td></tr><tr><td><p>action workshop</p></td><td><p>90</p></td><td><p>medium</p></td></tr><tr><td><p>activist actions</p></td><td><p></p></td><td><p></p></td></tr></tbody></table>
+<table><tbody><tr><th><p>Search keywords</p></th><th><p>Monthly global searches</p></th><th><p>Relevancy</p></th></tr><tr><td><p>activism types</p></td><td><p>510</p></td><td><p>high</p></td></tr><tr><td><p>protest tactics</p></td><td><p>190</p></td><td><p>high</p></td></tr><tr><td><p>protest ideas</p></td><td><p>430</p></td><td><p>high</p></td></tr><tr><td><p>creative protest tactics</p></td><td><p>120</p></td><td><p>high</p></td></tr><tr><td><p>blockading</p></td><td><p>24.9K</p></td><td><p>low</p></td></tr><tr><td><p>banner making</p></td><td><p>34.8K</p></td><td><p>low</p></td></tr><tr><td><p>hand signals</p></td><td><p>59.7K</p></td><td><p>low</p></td></tr><tr><td><p>hand signals protest</p></td><td><p>0</p></td><td><p>high</p></td></tr><tr><td><p>hand signals activism</p></td><td><p>0</p></td><td><p>high</p></td></tr><tr><td><p>action tactics</p></td><td><p>10</p></td><td><p>high</p></td></tr><tr><td><p>activist tactics</p></td><td><p>80</p></td><td><p>high</p></td></tr><tr><td><p>tactical action</p></td><td><p>310</p></td><td><p>low</p></td></tr><tr><td><p>activism workshop</p></td><td><p>70</p></td><td><p>high</p></td></tr><tr><td><p>action workshop</p></td><td><p>90</p></td><td><p>medium</p></td></tr><tr><td><p>activist actions</p></td><td><p></p></td><td><p></p></td></tr></tbody></table>
 
 _\*According to Semrush_
 
 ## External resources
 
+-   [Civil resistance tactics in the 21st century](https://www.nonviolent-conflict.org/wp-content/uploads/2021/03/Civil-Resistance-Tactics-in-the-21st-Century-Monograph.pdf?utm_source=activisthandbook.org) by International Center on Nonviolent Conflict (2021)
+    
 -   [Create Tactics to Stop Gas](https://drive.google.com/file/d/1zcxZ0vtMA1dCixmHevv2IO7jKC3L_HNm/view?usp=sharing) by [Gastivists](http://gastivists.org)
     
 -   [Brandalism](http://brandalism.ch)

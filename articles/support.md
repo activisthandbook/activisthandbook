@@ -6,17 +6,19 @@ description: >
 langCode: en
 articleID: R9w-vA6Vx9LIaumq6C5Z1qlXrnqYlMyl
 languageCollectionID: fe6muhGb1-y-9uGUkqw4WG-9sh5jeBHY
-updatedTimestamp: 1677134733536
+updatedTimestamp: 1679313506402
 createdTimestamp: 1597659940098
-wordCount: 329
+wordCount: 287
 tags: []
 ---
 
-**Contributing to Activist Handbook should be easy. That is why we wrote some guides to help you get started. If you are a new volunteer, this is the place to be.**
+This page has been archived.
 
-> Don't know where to start? We recommend all new volunteers to [**start with the basics**](/support/basics).
-> 
-> If you have any questions, reach out to us on Slack or send a message to: [contact@activisthandbook.org](mailto:contact@activisthandbook.org)
+> ⚠️ This page has been archived. Check out the [contributing guides](/contribute) instead.
+
+* * *
+
+Contributing to Activist Handbook should be easy. That is why we wrote some guides to help you get started. If you are a new volunteer, this is the place to be.
 
 ## General guides
 
@@ -31,8 +33,6 @@ We try to make our organisation accessible to everyone. Read our article on [**a
 -   **📝** [**Our meetings**](/support/meetings): We meet on a regular basis. Read this guide to find out what kind of meetings we have.
     
 -   **👩‍💻** [**Tools we use**](/support/tools): All volunteers use Slack to communicate. Google Workspace is for our calendar, email, video calls and files. Read this guide to find out how to get started with these tools.
-    
--   **🔗** [**Using our website**](/support/website)**:** Anyone can edit pages on our website. To learn more about how to use tags, translations, version history and more, read this article.
     
 -   **❤️** [**Wellbeing guide**](/support/wellbeing-volunteers) and [**inclusivity guide**](/support/inclusivity-volunteers) for volunteers (needs to be written).
     

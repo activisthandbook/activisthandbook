@@ -6,9 +6,9 @@ description: >
 langCode: en
 articleID: tvO08rRa9AhOz9-bQk2MnsJmo3IxrqGt
 languageCollectionID: 8Z7ZJiFcy-pvsGmAE6ZVgHrjZvu8r4pl
-updatedTimestamp: 1676963076986
+updatedTimestamp: 1679931107331
 createdTimestamp: 1653837592592
-wordCount: 917
+wordCount: 941
 tags: []
 ---
 
@@ -41,7 +41,7 @@ Instead, make a strategy first. Think about the following:
 
 Learn how to write your own campaign strategy:
 
-<action-button buttonlink="/strategy" buttonlabel="Write a campaign strategy"></action-button>
+<action-button buttonlink="/strategy" buttonlabel="Write a campaign strategy"></action-button><dynamic-image imageid="e7dad289-2d39-42f7-8ae2-de4942c74400" alt="An activist standing in front of a maze strategizing"><p>By <a target="_blank" href="https://edit.activisthandbook.org/author/tzmE91SnnrbJJXuvQNBl9rt6HK63">Joppe</a> | Generated using Dall-e</p></dynamic-image>
 
 ### 3\. Choose your action tactics
 
@@ -90,7 +90,7 @@ Remember: you are in this for the long run. Do not work yourself and your fellow
 
 Learn all about group-, action- and self-care:
 
-<action-button buttonlink="/wellbeing" buttonlabel="Wellbeing in activism"></action-button>
+<action-button buttonlink="/wellbeing" buttonlabel="Wellbeing in activism"></action-button><dynamic-image imageid="8c1cf293-5e91-4d96-cef7-5ad3315ebc00" alt="A monkey doing calming yoga"><p>By <a target="_blank" href="https://edit.activisthandbook.org/author/tzmE91SnnrbJJXuvQNBl9rt6HK63">Joppe</a> | Generated using Dall-e</p></dynamic-image>
 
 ### 6\. Pick your digital toolset
 
@@ -111,13 +111,13 @@ Check out our [tools chapter](/tools) to learn all about:
 
 Check out our tools chapter, to find campaigning tools that are easy to use and affordable for nonprofits:
 
-<action-button buttonlink="/tools" buttonlabel="Pick a digital toolset"></action-button>
+<action-button buttonlink="/tools" buttonlabel="Pick a digital toolset"></action-button><dynamic-image imageid="59a869f1-d48b-4a9d-b773-8670461eb400" alt="A frog on a phone"><p>By <a target="_blank" href="https://edit.activisthandbook.org/author/tzmE91SnnrbJJXuvQNBl9rt6HK63">Joppe</a> | Generated using Dall-e</p></dynamic-image>
 
 ### 7\. Know your rights
 
 Once you start making impact, you will find that your opponents start using the law to try and stop you. Don't let them. In many countries, the law provides certain protections to activists. Learn all about your legal rights:
 
-<action-button buttonlink="/rights" buttonlabel="Legal info for activists"></action-button>
+<action-button buttonlink="/rights" buttonlabel="Legal info for activists"></action-button><dynamic-image imageid="3ed52e97-e6f7-462d-3cd0-5c2d90dcb300" alt="Speaking truth to power"><p>By <a target="_blank" href="https://edit.activisthandbook.org/author/tzmE91SnnrbJJXuvQNBl9rt6HK63">Joppe</a> | Generated using Dall-e</p></dynamic-image>
 
 ## Q&A
 

@@ -6,14 +6,14 @@ description: >
 langCode: en
 articleID: MYeGV4HJdkmkrNcRInlWe29YSv3AyzCy
 languageCollectionID: 3oNI3UJ-vqusIDeG-9C_8jKsKXaMJfSx
-updatedTimestamp: 1676641884227
+updatedTimestamp: 1679313851710
 createdTimestamp: 1676632162450
 wordCount: 807
 ---
 
 In this guide, we teach you how to facilitate meetings with large groups. We discuss how to prepare the meeting and explain how dividing into smaller groups might help.
 
-> 📚 This guide is part of a series on [**how to facilitate meetings**](/organising/facilitating/large-groups).
+> 📚 This guide is part of a series on [**how to facilitate meetings**](/organising/facilitating).
 
 Large group meetings pose particular challenges for facilitators. Any more than 12 people can exhibit all the charac­teristics of a big group – it doesn't have to be hundreds of participants.
 

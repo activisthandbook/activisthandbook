@@ -6,7 +6,7 @@ description: >
 langCode: en
 articleID: zcObjuif3fqmql1flUYTamZghpPgD1yY
 languageCollectionID: dHWPTkxr2P1ECXwrKT31KbAeaG5hQkkt
-updatedTimestamp: 1676963971504
+updatedTimestamp: 1679313759295
 createdTimestamp: 1583583586992
 wordCount: 913
 tags: []
@@ -30,7 +30,7 @@ To build a strong movement, you need something that binds its members together. 
 
 Once you have determined what needs to happen in order to achieve your goals, you need to find out how to get there. You will likely not have the resources needed yet:
 
--   **🌊 Not enough people:** learn more about [mobilizing](/organizing/mobilising)
+-   **🌊 Not enough people:** learn more about [mobilizing](/organising/mobilising)
     
 -   **😐 People are not engaged:** increase [membership engagement](/organising/engagement)
     

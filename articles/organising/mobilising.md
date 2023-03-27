@@ -6,13 +6,11 @@ description: >
 langCode: en
 articleID: xNnscgpakG9vEGAl6B1H8gF0iRmnllHb
 languageCollectionID: vnkeR8PXExb5pqx3eAMjnmRXlog6MNcy
-updatedTimestamp: 1677739631570
+updatedTimestamp: 1679313385480
 createdTimestamp: 1643131462833
-wordCount: 316
+wordCount: 312
 tags: []
 ---
-
-**See also:** [**Online Outreach**](/organising/outreach-mobilisation/online-outreach)
 
 A great way to attract new members is to make yourself and your values visible, especially if your organisation is new and unknown to other like-minded people. What are the problems your organisation is passionate to solve or to highlight? Stage a protest, for example. Be bold, be visible.
 
