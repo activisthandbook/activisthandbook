@@ -2,13 +2,13 @@
 title: >
   Organise a campaign
 description: >
-  Campaign planning for nonprofits
+  Advocacy campaign planning for nonprofits
 langCode: en
 articleID: tvO08rRa9AhOz9-bQk2MnsJmo3IxrqGt
 languageCollectionID: 8Z7ZJiFcy-pvsGmAE6ZVgHrjZvu8r4pl
-updatedTimestamp: 1679932892134
+updatedTimestamp: 1679934907791
 createdTimestamp: 1653837592592
-wordCount: 1696
+wordCount: 1735
 tags: []
 ---
 
@@ -167,7 +167,14 @@ This causes participants to be disappointed by the impact they are making with t
 
 ## Improve this page
 
-Oops, you've stumbled upon one of our more empty pages. But you can make it better! Start by adding some resources about how to organise a campaign as an activist. Then make an outline of everything that should be discussed in this guide.
+You can make this guide on how to organize a campaign better!
+
+-   Add links to related guides on Activist Handbook (for example, if the article mentions something about social media, add a link to our social media guide)
+    
+-   Translate this guide into other languages.
+    
+-   Many people are looking up information about campaigning in the context of online campaigning or marketing campaigns. Those topics do not fit in this article. However, your could create a guide on marketing campaigns in our communication chapter.
+    
 
 ### **Search keywords**
 

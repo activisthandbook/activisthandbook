@@ -6,7 +6,7 @@ description: >
 langCode: en
 articleID: Z6uJY_SPlb4KGAjna9PThNsgiE0J98Ty
 languageCollectionID: fVhmN9s7AQ-loB2iM9of0SYyO7H3_eg2
-updatedTimestamp: 1677134906481
+updatedTimestamp: 1679934420021
 createdTimestamp: 1602591877175
 wordCount: 908
 tags: []
@@ -56,6 +56,8 @@ This means we can copy their articles to Activist Handbook as long as the approp
     
 -   [**The Direct Action Movement**](https://www.thedirectactionmovement.com/activate) (DAM): Australia-based organisation that supports actions and campaigns.
     
+-   [**The Citizen's Handbook**](https://citizenshandbook.org/toc.html)
+    
 -   [**Rhizome Network**](/resources/rhizome-network): Seem to be inactive since 2020, but their website still contains valuable Creative Commons resources
     
 
@@ -92,8 +94,6 @@ The following websites about activism are not available under a creative commons
 -   [**International Center on Nonviolent Conflict**](https://www.nonviolent-conflict.org/resource-library/): Collection of resources for nonviolent campaigns.
     
 -   [**Advocacy Handbook**](https://www.youthforum.org/news/advocacy-handbook): A 68 page document developed by the European Youth Forum on advocacy planning, choosing actions and defining different types of change-making.
-    
--   [**The Citizen's Handbook**](https://citizenshandbook.org/toc.html)
     
 -   [**The Movement Hub**](/resources/the-movement-hub)
     

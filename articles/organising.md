@@ -6,9 +6,9 @@ description: >
 langCode: en
 articleID: Jivvm_DITjwYHs0BtJuFs9SzsiRHfUlL
 languageCollectionID: 2iL5uLyfvLfLZc8ZAdnUzGAQX_cgwUc1
-updatedTimestamp: 1677136501251
+updatedTimestamp: 1679984225135
 createdTimestamp: 1583581575544
-wordCount: 877
+wordCount: 949
 tags: ["chapters"]
 ---
 
@@ -120,10 +120,29 @@ People want to learn more about the following topics. Focus on the most popular 
 
 The authors of these materials want you to reuse them! They are available under a Creative Commons licence or similar:
 
+**Introduction articles:**
+
+-   [Why Community Organizing Matters](https://citizenshandbook.org/0_01_Intro.html?utm_source=activisthandbook.org) by Citizen's Handbook
+    
+-   [Thinking about Organizing Your Community?](https://citizenshandbook.org/1_00_intro_organizing.html?utm_source=activisthandbook.org) by Citizen's Handbook
+    
+
 -   [Organizing: Start Here](https://commonslibrary.org/organising-start-here/) by Commons Library
     
 -   [Collection: Organizing](https://commonslibrary.org/topic/organising/) by Commons Library
     
+
+**Roles and structure:**
+
+-   [Grassroots leaders](https://citizenshandbook.org/1_08_lead.html?utm_source=activisthandbook.org) by Citizen's Handbook
+    
+-   [Group structure](https://citizenshandbook.org/1_12_group_structure.html?utm_source=activisthandbook.org) by Citizen's Handbook
+    
+-   [Forming a core group](https://citizenshandbook.org/core-group.html?utm_source=activisthandbook.org) by Citizen's Handbook
+    
+
+**Other:**
+
 -   [Guide: Distributed organising](https://blueprintsfc.org/guide/distributed-organizing/) by Blueprints for Change
     
 -   [Collection: Developing an Organizational Structure for the Initiative](https://ctb.ku.edu/en/table-of-contents/structure/organizational-structure) by Community Tool Box
@@ -138,6 +157,16 @@ The authors of these materials want you to reuse them! They are available under 
     
 -   [Workshop: Organizing](https://projects.iq.harvard.edu/files/ganzorganizing/files/seed_organizing_manual_final_2015_ok_coaching_appendix.pdf) by Marshall Ganz \[PDF\]
     
+-   [Block by block organizing](https://citizenshandbook.org/2_14_block_organizing.html?utm_source=activisthandbook.org) by Citizen's Handbook
+    
+-   [The Skinny for Local Community](https://citizenshandbook.org/thinkcity.html?utm_source=activisthandbook.org) by Citizen's Handbook
+    
+-   [Top 11 Guidelines for Community Organizing](https://citizenshandbook.org/organize-top11.html?utm_source=activisthandbook.org) by Citizen's Handbook
+    
+-   [Grassroots Rot: How citizen's groups destroy themselves](https://citizenshandbook.org/wilt.html?utm_source=activisthandbook.org) by Citizen's Handbook
+    
+-   [Dealing with bad apples](https://citizenshandbook.org/bad_apples.html?utm_source=activisthandbook.org) by Citizen's Handbook
+    
 
 ### Copyright resources
 
@@ -146,7 +175,5 @@ The authors of these materials want you to reuse them! They are available under 
 -   [Why stories matter: The art and craft of social change](https://commonslibrary.org/why-stories-matter-the-art-and-craft-of-social-change/) by Marshall Ganz (2009)
     
 -   [Book: Building a movement to end](https://sustainableequityorgresources.files.wordpress.com/2017/01/building-a-movement-to-end-the-new-jim-crow.pdf) by Marshall Ganz (2015) \[PDF\]
-    
--   [Guide: Meeting Facilitation](https://www.trainingforchange.org/training_tools/meeting-facilitation-the-no-magic-method/) by Training for Change
     
 -   [Six building blocks of distributed organizing campaigns](http://netchange.co/distributed-organizing) by NetChange
