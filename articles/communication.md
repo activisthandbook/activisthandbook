@@ -6,9 +6,9 @@ description: >
 langCode: en
 articleID: J3gTgLgqTAzHrap5en3ePR2GBmNRAg__
 languageCollectionID: Hm6ZaeMf02oXtZN2LlCr1NkH7Cxu6Il_
-updatedTimestamp: 1676481238552
+updatedTimestamp: 1679985089917
 createdTimestamp: 1583509188074
-wordCount: 788
+wordCount: 795
 tags: []
 ---
 
@@ -135,6 +135,8 @@ We have not found many keywords yet that have a high search volume and are also 
 -   [5 Questions to Ask Yourself When Planning a Communications Campaign](https://hub.ilga-europe.org/campaigning/5-questions-to-ask-yourself-when-planning-a-communications-campaign/?utm_source=activisthandbook.org) by ILGA-Europe Hub (2021)
     
 -   [Framing for LGBTI activists](https://hub.ilga-europe.org/campaigning/do-it-yourself-framing-lgbti-activists/?utm_source=activisthandbook.org) by ILGA-Europe Hub (2020)
+    
+-   [Publicity for grassroots groups](https://citizenshandbook.org/1_04_getnoticed.html?utm_source=activisthandbook.org) by Citizen's Handbook
     
 
 ### Copyright resources
