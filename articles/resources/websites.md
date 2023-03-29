@@ -6,9 +6,9 @@ description: >
 langCode: en
 articleID: Z6uJY_SPlb4KGAjna9PThNsgiE0J98Ty
 languageCollectionID: fVhmN9s7AQ-loB2iM9of0SYyO7H3_eg2
-updatedTimestamp: 1679934420021
+updatedTimestamp: 1680017415531
 createdTimestamp: 1602591877175
-wordCount: 908
+wordCount: 916
 tags: []
 ---
 
@@ -118,6 +118,8 @@ The following websites about activism are not available under a creative commons
 -   [**Toolkit for Climate Action**](http://www.networkforclimateaction.org.uk/index.html)
     
 -   [**Nonprofit Ready**](https://www.nonprofitready.org/volunteer-management-courses?utm_source=activisthandbook.org)
+    
+-   [**Canvas**](https://canvasopedia.org/publications/?utm_source=activisthandbook.org): Center for Applied NonViolent Actions and Strategies
     
 
 ## Blogs, journals & magazines

@@ -6,9 +6,9 @@ description: >
 langCode: en
 articleID: YUfVGkwMxm05zjEjl7vPQ9gPpUCItupH
 languageCollectionID: vijKrgNARghr6p534ZbiZ1HWioKFbDgl
-updatedTimestamp: 1677085031945
+updatedTimestamp: 1680017335481
 createdTimestamp: 1587834484219
-wordCount: 1703
+wordCount: 1711
 tags: ["training"]
 ---
 
@@ -71,6 +71,8 @@ The following organisations have trainers in several countries:
 -   [**Reframe**](https://learning.thisisreframe.org) ([Twitter](https://twitter.com/ThisIsReFrame)): Bringing together strategists, creatives, leaders, dreamers and technology to move narratives for liberation.
     
 -   [**International Center on Nonviolent Conflict, ICNC**](https://www.nonviolent-conflict.org/for-activists-and-organizers-landing/) ([Twitter](https://twitter.com/CivilResistance)): We support research, develop educational resources, & share knowledge about how nonviolent civil resistance movements win rights, freedom, & justice
+    
+-   [**Canvas**](https://canvasopedia.org/schedule-training-or-consultations/): Center for Applied NonViolent Actions and Strategies
     
 
 ### Australia 🇦🇺
