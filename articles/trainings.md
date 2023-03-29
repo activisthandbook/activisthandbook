@@ -6,9 +6,9 @@ description: >
 langCode: en
 articleID: YUfVGkwMxm05zjEjl7vPQ9gPpUCItupH
 languageCollectionID: vijKrgNARghr6p534ZbiZ1HWioKFbDgl
-updatedTimestamp: 1680017335481
+updatedTimestamp: 1680074702708
 createdTimestamp: 1587834484219
-wordCount: 1711
+wordCount: 1739
 tags: ["training"]
 ---
 
@@ -73,6 +73,8 @@ The following organisations have trainers in several countries:
 -   [**International Center on Nonviolent Conflict, ICNC**](https://www.nonviolent-conflict.org/for-activists-and-organizers-landing/) ([Twitter](https://twitter.com/CivilResistance)): We support research, develop educational resources, & share knowledge about how nonviolent civil resistance movements win rights, freedom, & justice
     
 -   [**Canvas**](https://canvasopedia.org/schedule-training-or-consultations/): Center for Applied NonViolent Actions and Strategies
+    
+-   [**The Social Change Agency**](https://thesocialchangeagency.org/?utm_source=activisthandbook.org): "From grassroots campaigns to established organisations, we’ll work with you to develop the tools, techniques and networks you need to create lasting social impact."
     
 
 ### Australia 🇦🇺

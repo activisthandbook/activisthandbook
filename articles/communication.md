@@ -6,9 +6,9 @@ description: >
 langCode: en
 articleID: J3gTgLgqTAzHrap5en3ePR2GBmNRAg__
 languageCollectionID: Hm6ZaeMf02oXtZN2LlCr1NkH7Cxu6Il_
-updatedTimestamp: 1679985089917
+updatedTimestamp: 1680076333625
 createdTimestamp: 1583509188074
-wordCount: 795
+wordCount: 814
 tags: []
 ---
 
@@ -154,6 +154,14 @@ We have not found many keywords yet that have a high search volume and are also 
 -   [Narrative Initiative](https://narrativeinitiative.org/resources/)
     
 -   [Naming an Advocacy Campaign](https://commonslibrary.org/naming-an-advocacy-campaign/) by Tim Singleton North
+    
+-   [Collection: Digital communication](https://www.charitycomms.org.uk/digital?utm_source=activisthandbook.org) by CharityComms
+    
+-   [Collection: Nonprofit brand](https://www.charitycomms.org.uk/brand?utm_source=activisthandbook.org) by CharityComms
+    
+-   [Collection: Media](https://www.charitycomms.org.uk/media?utm_source=activisthandbook.org) by CharityComms
+    
+-   [Collection: Communication strategy](https://www.charitycomms.org.uk/strategy?utm_source=activisthandbook.org) by CharityComms
     
 
 ### Social marketing

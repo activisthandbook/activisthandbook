@@ -2,19 +2,17 @@
 title: >
   Activist resources
 description: >
-  Resources for activists: Books, movies, podcasts
+  Resources for activists: Websites, books, movies, podcasts
 langCode: en
 articleID: p2JHElUNuhZ0836tywQzp55W8IFaKw55
 languageCollectionID: 1ZJn8NaxJ_WxKa_U1m9Xlf_1G93_IQ8u
-updatedTimestamp: 1677085312031
+updatedTimestamp: 1680068549545
 createdTimestamp: 1583508790126
-wordCount: 366
+wordCount: 361
 tags: ["resources"]
 ---
 
 **On this page, you find a list of resources for activists. We collected the best sites, books, podcasts, movies, academic articles and blogs related to social change-making. Brought to you by activists from around the globe.**
-
-_Resources in other languages:_ [_Nederlands_](/nl/resources)
 
 ## Resources for activists
 

@@ -6,9 +6,9 @@ description: >
 langCode: en
 articleID: Z6uJY_SPlb4KGAjna9PThNsgiE0J98Ty
 languageCollectionID: fVhmN9s7AQ-loB2iM9of0SYyO7H3_eg2
-updatedTimestamp: 1680068165775
+updatedTimestamp: 1680074754599
 createdTimestamp: 1602591877175
-wordCount: 935
+wordCount: 939
 tags: []
 ---
 
@@ -122,6 +122,8 @@ The following websites about activism are not available under a creative commons
 -   [**Canvas**](https://canvasopedia.org/publications/?utm_source=activisthandbook.org): Center for Applied NonViolent Actions and Strategies
     
 -   [**Rebel Toolkit**](https://rebeltoolkit.extinctionrebellion.uk/?utm_source=activisthandbook.org): Guides for members of Extinction Rebellion, but also useful for other activists
+    
+-   [**The Social Change Agency**](https://thesocialchangeagency.org/resources/?utm_source=activisthandbook.org)
     
 
 ## Blogs, journals & magazines
