@@ -6,9 +6,9 @@ description: >
 langCode: en
 articleID: Z6uJY_SPlb4KGAjna9PThNsgiE0J98Ty
 languageCollectionID: fVhmN9s7AQ-loB2iM9of0SYyO7H3_eg2
-updatedTimestamp: 1680017415531
+updatedTimestamp: 1680068165775
 createdTimestamp: 1602591877175
-wordCount: 916
+wordCount: 935
 tags: []
 ---
 
@@ -56,12 +56,12 @@ This means we can copy their articles to Activist Handbook as long as the approp
     
 -   [**The Direct Action Movement**](https://www.thedirectactionmovement.com/activate) (DAM): Australia-based organisation that supports actions and campaigns.
     
--   [**The Citizen's Handbook**](https://citizenshandbook.org/toc.html)
+-   [**The Citizen's Handbook**](/resources/the-citizens-handbook): Website with resources for activists
     
 -   [**Rhizome Network**](/resources/rhizome-network): Seem to be inactive since 2020, but their website still contains valuable Creative Commons resources
     
 
-## Non-commons websites
+## Copyright websites
 
 The following websites about activism are not available under a creative commons licence, but they contain great information nevertheless.
 
@@ -120,6 +120,8 @@ The following websites about activism are not available under a creative commons
 -   [**Nonprofit Ready**](https://www.nonprofitready.org/volunteer-management-courses?utm_source=activisthandbook.org)
     
 -   [**Canvas**](https://canvasopedia.org/publications/?utm_source=activisthandbook.org): Center for Applied NonViolent Actions and Strategies
+    
+-   [**Rebel Toolkit**](https://rebeltoolkit.extinctionrebellion.uk/?utm_source=activisthandbook.org): Guides for members of Extinction Rebellion, but also useful for other activists
     
 
 ## Blogs, journals & magazines
