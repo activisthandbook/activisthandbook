@@ -19,7 +19,7 @@ function decline() {
   analyticsAllowed.value = "no";
   localStorage.setItem("cookieBanner", "hide");
   localStorage.setItem("analyticsAllowed", "no");
-  window.gtag('consent', 'default', {
+  window.gtag('consent', 'update', {
     'ad_storage': 'denied',
     'analytics_storage': 'denied',
     'ads_data_redaction': 'true'
@@ -51,9 +51,8 @@ function accept() {
     data-nosnippet
   >
     <div class="explanation">
-      <strong>Analytics help us write better guides for change-makers.</strong
-      ><br />
-      Are you ok with us using cookies for analytics?
+      <div class="title">Analytics help us write better guides for change-makers.</div>
+      Are you ok with us using cookies for analytics and ad metrics? Read our <a href="/about/privacy" class="privacy-policy">privacy policy</a> for more information.
     </div>
     <button class="button accept" @click="accept()">OK 👍</button>
     <button class="button decline" @click="decline()">Decline</button>
@@ -95,13 +94,24 @@ function accept() {
   .explanation {
     max-width: 512px;
     margin: 0 auto 16px;
+
+    .title{
+      font-size: calc(16px + 1vw);
+      line-height: 1.2;
+      font-weight: bold;
+      margin-bottom:8px;
+    }
+
+    a{
+      border-bottom:1px solid rgba(0,0,0,.1)
+    }
   }
 
   .button {
     font-family: var(--vp-font-family-headings);
     font-weight: 700;
-    padding: 12px 8px;
-    width: 128px;
+    padding: 14px;
+    width: calc(112px + 5vw);
     color: var(--vp-c-white);
     border-radius: 2px;
     margin: 4px;
@@ -111,7 +121,7 @@ function accept() {
     }
   }
   .decline {
-    background: rgba(0, 0, 0, 0.85);
+    background: rgba(0, 0, 0, 0.8);
   }
   .accept {
     background: var(--vp-c-secondary);

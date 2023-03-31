@@ -52,6 +52,7 @@ watch(
   () => {
     // setLanguage()
     getLanguages()
+    // window.gtag('config', 'UA-0000000-1');
 
   },
   { deep: true }
