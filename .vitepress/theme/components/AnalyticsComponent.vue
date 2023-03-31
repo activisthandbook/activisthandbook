@@ -1,9 +1,6 @@
 <script setup>
 import { ref, onMounted } from "vue"
 
-import { useGtm } from '@gtm-support/vue-gtm';
-const gtm = useGtm();
-
 const cookieBanner = ref("show")
 const analyticsAllowed = ref(null)
 
@@ -15,11 +12,6 @@ onMounted(() => {
   if (localStorage.getItem("analyticsAllowed")) {
     analyticsAllowed.value = localStorage.getItem("analyticsAllowed");
   }
-  if (localStorage.getItem("analyticsAllowed") === "yes") {
-    turnOnAnalytics();
-  }
-
-
 })
 
 function decline() {
@@ -27,6 +19,11 @@ function decline() {
   analyticsAllowed.value = "no";
   localStorage.setItem("cookieBanner", "hide");
   localStorage.setItem("analyticsAllowed", "no");
+   window.gtag('consent', 'default', {
+    'ad_storage': 'denied',
+    'analytics_storage': 'denied',
+    'ads_data_redaction': 'true'
+  });
 }
 function accept() {
   cookieBanner.value = "hide";
@@ -36,8 +33,12 @@ function accept() {
   turnOnAnalytics();
 }
 function turnOnAnalytics() {
-  console.log("using analytics");
-  gtm.enable(true);
+  // console.log("using analytics");
+  window.gtag('consent', 'update', {
+    'ad_storage': 'granted',
+    'analytics_storage': 'granted',
+    'ads_data_redaction': 'false'
+  })
 }
 </script>
 <template>

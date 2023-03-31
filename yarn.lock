@@ -163,20 +163,6 @@
   resolved "https://registry.yarnpkg.com/@esbuild/linux-loong64/-/linux-loong64-0.15.11.tgz#2f4f9a1083dcb4fc65233b6f59003c406abf32e5"
   integrity sha512-geWp637tUhNmhL3Xgy4Bj703yXB9dqiLJe05lCUfjSFDrQf9C/8pArusyPUbUbPwlC/EAUjBw32sxuIl/11dZw==
 
-"@gtm-support/core@^1.4.0":
-  version "1.4.2"
-  resolved "https://registry.yarnpkg.com/@gtm-support/core/-/core-1.4.2.tgz#0bdd465d65246f588049279e8a17e359279edbe6"
-  integrity sha512-mx+0c6Ew1QR1y3a9CTxoeT4iRpcyNErFLhJOf7KhbiyrJlqEVBNMAttSs9g07FTBXLouiV1rTNwfi8yEBgFqnQ==
-
-"@gtm-support/vue-gtm@^1.6.0":
-  version "1.6.0"
-  resolved "https://registry.yarnpkg.com/@gtm-support/vue-gtm/-/vue-gtm-1.6.0.tgz#de543187d46c6e4a2dc73392f5ced78d26db3399"
-  integrity sha512-Mp814G5hM/KrwiSRl5VJEljGcjyn5I/Wv78RsFpJUKp0W4F8cGh+SmbBAauUOBWmrhIA2OVgsKh7PwTplaf0Dw==
-  dependencies:
-    "@gtm-support/core" "^1.4.0"
-  optionalDependencies:
-    vue-router "^4.0.0"
-
 "@types/web-bluetooth@^0.0.16":
   version "0.0.16"
   resolved "https://registry.yarnpkg.com/@types/web-bluetooth/-/web-bluetooth-0.0.16.tgz#1d12873a8e49567371f2a75fe3e7f7edca6662d8"
@@ -229,7 +215,7 @@
     "@vue/compiler-dom" "3.2.41"
     "@vue/shared" "3.2.41"
 
-"@vue/devtools-api@^6.1.4", "@vue/devtools-api@^6.4.4":
+"@vue/devtools-api@^6.4.4":
   version "6.4.5"
   resolved "https://registry.yarnpkg.com/@vue/devtools-api/-/devtools-api-6.4.5.tgz#d54e844c1adbb1e677c81c665ecef1a2b4bb8380"
   integrity sha512-JD5fcdIuFxU4fQyXUu3w2KpAJHzTVdN+p4iOX2lMWSHMOoQdMAcpFLZzm9Z/2nmsoZ1a96QEhZ26e50xLBsgOQ==
@@ -739,13 +725,6 @@ vue-demi@*:
   version "0.13.11"
   resolved "https://registry.yarnpkg.com/vue-demi/-/vue-demi-0.13.11.tgz#7d90369bdae8974d87b1973564ad390182410d99"
   integrity sha512-IR8HoEEGM65YY3ZJYAjMlKygDQn25D5ajNFNoKh9RSDMQtlzCxtfQjdQgv9jjK+m3377SsJXY8ysq8kLCZL25A==
-
-vue-router@^4.0.0:
-  version "4.1.5"
-  resolved "https://registry.yarnpkg.com/vue-router/-/vue-router-4.1.5.tgz#256f597e3f5a281a23352a6193aa6e342c8d9f9a"
-  integrity sha512-IsvoF5D2GQ/EGTs/Th4NQms9gd2NSqV+yylxIyp/OYp8xOwxmU8Kj/74E9DTSYAyH5LX7idVUngN3JSj1X4xcQ==
-  dependencies:
-    "@vue/devtools-api" "^6.1.4"
 
 vue@^3.2.37, vue@^3.2.40:
   version "3.2.41"
