@@ -25,17 +25,19 @@ export default {
     // a `ref` of current site-level metadata.
     // Check if we're in the client
 
-    window.dataLayer = window.dataLayer || [];
-    function gtag() {
-      window.dataLayer.push(arguments);
-    }
-    window.gtag = gtag;
+    if (window) {
+      window.dataLayer = window.dataLayer || [];
+      function gtag() {
+        window.dataLayer.push(arguments);
+      }
+      window.gtag = gtag;
 
-    window.gtag("consent", "default", {
-      ad_storage: "denied",
-      analytics_storage: "denied",
-      ads_data_redaction: "true",
-    });
+      window.gtag("consent", "default", {
+        ad_storage: "denied",
+        analytics_storage: "denied",
+        ads_data_redaction: "true",
+      });
+    }
 
     app.use(
       createGtm({
