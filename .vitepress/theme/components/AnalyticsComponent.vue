@@ -19,26 +19,28 @@ function decline() {
   analyticsAllowed.value = "no";
   localStorage.setItem("cookieBanner", "hide");
   localStorage.setItem("analyticsAllowed", "no");
-   window.gtag('consent', 'default', {
+  window.gtag('consent', 'default', {
     'ad_storage': 'denied',
     'analytics_storage': 'denied',
     'ads_data_redaction': 'true'
   });
+  const consentRevokedEvent = new Event("consentRevoked");
+  window.dispatchEvent(consentRevokedEvent);
 }
 function accept() {
   cookieBanner.value = "hide";
   analyticsAllowed.value = "yes";
   localStorage.setItem("cookieBanner", "hide");
   localStorage.setItem("analyticsAllowed", "yes");
-  turnOnAnalytics();
-}
-function turnOnAnalytics() {
-  // console.log("using analytics");
+
   window.gtag('consent', 'update', {
     'ad_storage': 'granted',
     'analytics_storage': 'granted',
     'ads_data_redaction': 'false'
   })
+
+  const consentGrantedEvent = new Event("consentGranted");
+  window.dispatchEvent(consentGrantedEvent);
 }
 </script>
 <template>
