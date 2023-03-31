@@ -6,14 +6,13 @@ description: >
 langCode: en
 articleID: nCeeZ8nCMgBSnDKh-lYXwgyr3FlG13Y0
 languageCollectionID: UJ-LgBfnSlQgKMjdqUrJYRp38wEB9Efz
-updatedTimestamp: 1655488629117
+updatedTimestamp: 1680068322892
 createdTimestamp: 1644926020013
+wordCount: 634
 tags: ["resources","training"]
 ---
 
 **Beautiful Trouble is a collection of over 300 stories,** [**tactics**](/tactics)**, principles,** [**theories**](/theory) **and methodologies for activists. You can also order the toolkit for troublemakers in book form. Also**, **make sure to check out other** [**resources for activists**](/resources)**.**
-
-_This page is also available in:_ [_Nederlands_](/nl/resources/beautiful-trouble)
 
 ## What is Beautiful Trouble?
 
@@ -28,20 +27,32 @@ In 2017, the Beautiful Trouble organisation published the **Beautiful Rising boo
 All guides published on the Beautiful Trouble platform are available under a Creative Commons License. This means that other people can reuse and remix their resources for troublemakers. At Activist Handbook, we use the same licence, and many of our articles are based on the ones published on Beautiful Trouble.
 
 -   **Number of resources:** 300+
+    
 -   **Type of resources:** Stories, tactics, principles, theories, methodologies
+    
 -   **Languages:** English, Spanish, French, Italian, Burmese, Arabic, Portuguese, Russian
+    
 -   **Creative Commons licence:** yes ✅
+    
 
 Most popular articles on Beautiful Trouble, according to [Ubersuggest](https://app.neilpatel.com/en/traffic_analyzer/top_pages?domain=https://beautifultrouble.org/&locId=2840&lang=en):
 
 -   [Alienation effect](http://beautifultrouble.org/toolbox/tool/alienation-effect) by Larry Bogad (people looking up ‘brechtian’, ‘alienation effect’ and ‘brecht alienation effect')
+    
 -   [The Salt March](https://beautifultrouble.org/toolbox/tool/the-salt-march) by Nadine Bloch (people looking up ‘salt march’, ‘salt movement’ and ‘salt march gandhi’)
+    
 -   [Flash mob](https://beautifultrouble.org/toolbox/tool/flash-mob) by Andrew Boyd and Dave Oswald Mitchell (people looking up ‘flash mob’)
+    
 -   [Power mapping](https://beautifultrouble.org/toolbox/tool/power-mapping) by Andrew Boyd (people looking up ‘power mapping’, ‘target maps’ and ‘power map template’)
+    
 -   [Clandestine Insurgent Rebel Clown Army](https://beautifultrouble.org/toolbox/tool/clandestine-insurgent-rebel-clown-army) by John Jordan (people looking up ‘military clown’ and ‘army of clowns’)
+    
 -   [Commodity fetishism](https://beautifultrouble.org/toolbox/tool/commodity-fetishism) by Zack Malitz (people looking up ‘commodity fetishism’, ‘commodity fetishism examples’, and ‘commodity fetishism definition’)
+    
 -   [Temporary autonomous zone](https://beautifultrouble.org/toolbox/tool/temporary-autonomous-zone) by John Jordan (people looking up 'temporary autonomous zones', ‘what is an autonomous zone’, ‘autonomous zones in us’ and ‘hakim bey taz’)
+    
 -   [Pedagogy of the Oppressed](https://beautifultrouble.org/toolbox/tool/pedagogy-of-the-oppressed) by Levana Saxon and Virginia Vitzthum (people looking up ‘pedagogy of the oppressed’ and ‘paulo freire pedagogy of the oppressed)
+    
 
 ### Training for activists
 
@@ -58,8 +69,11 @@ We wanted to take this a step further: by allowing anyone to edit Activist Handb
 ## Social media
 
 -   [Facebook](https://www.facebook.com/BeautifulTroubleHQ)
+    
 -   [Instagram](https://www.instagram.com/beautifultroublehq/)
+    
 -   [Twitter](https://twitter.com/BTroublemakers)
+    
 
 ## Improve this page
 

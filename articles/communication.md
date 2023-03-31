@@ -6,9 +6,9 @@ description: >
 langCode: en
 articleID: J3gTgLgqTAzHrap5en3ePR2GBmNRAg__
 languageCollectionID: Hm6ZaeMf02oXtZN2LlCr1NkH7Cxu6Il_
-updatedTimestamp: 1676481238552
+updatedTimestamp: 1680076333625
 createdTimestamp: 1583509188074
-wordCount: 788
+wordCount: 814
 tags: []
 ---
 
@@ -136,6 +136,8 @@ We have not found many keywords yet that have a high search volume and are also 
     
 -   [Framing for LGBTI activists](https://hub.ilga-europe.org/campaigning/do-it-yourself-framing-lgbti-activists/?utm_source=activisthandbook.org) by ILGA-Europe Hub (2020)
     
+-   [Publicity for grassroots groups](https://citizenshandbook.org/1_04_getnoticed.html?utm_source=activisthandbook.org) by Citizen's Handbook
+    
 
 ### Copyright resources
 
@@ -152,6 +154,14 @@ We have not found many keywords yet that have a high search volume and are also 
 -   [Narrative Initiative](https://narrativeinitiative.org/resources/)
     
 -   [Naming an Advocacy Campaign](https://commonslibrary.org/naming-an-advocacy-campaign/) by Tim Singleton North
+    
+-   [Collection: Digital communication](https://www.charitycomms.org.uk/digital?utm_source=activisthandbook.org) by CharityComms
+    
+-   [Collection: Nonprofit brand](https://www.charitycomms.org.uk/brand?utm_source=activisthandbook.org) by CharityComms
+    
+-   [Collection: Media](https://www.charitycomms.org.uk/media?utm_source=activisthandbook.org) by CharityComms
+    
+-   [Collection: Communication strategy](https://www.charitycomms.org.uk/strategy?utm_source=activisthandbook.org) by CharityComms
     
 
 ### Social marketing

@@ -6,9 +6,9 @@ description: >
 langCode: en
 articleID: yAYzcCOTjAmVsSAXXnmcRarsWt2nUqqQ
 languageCollectionID: ys9pUV4JgNDl6xp3zmTV2bnD1Vj1TkBW
-updatedTimestamp: 1676800265713
+updatedTimestamp: 1679984921161
 createdTimestamp: 1647940094296
-wordCount: 643
+wordCount: 657
 tags: []
 ---
 
@@ -77,6 +77,10 @@ You can make this article about campaign strategies better:
 -   [Campaigning for Social Change: Beyond Just Protesting For It](https://commonslibrary.org/campaigning-for-social-change-beyond-just-protesting-for-it/) by Daniel Hunter
     
 -   [The Building Power Guide](https://commonslibrary.org/building-power/) by Original Power
+    
+-   [Research for your strategy](https://citizenshandbook.org/1_02_research.html?utm_source=activisthandbook.org) by Citizen's Handbook
+    
+-   [Planning a Grassroot's Action](https://citizenshandbook.org/1_03_plan_act.html?utm_source=activisthandbook.org) by Citizen's Handbook
     
 
 ## Attribution

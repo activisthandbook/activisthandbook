@@ -6,8 +6,9 @@ description: >
 langCode: en
 articleID: jyvGYb7k5j3DV7UfGxrR8SSUrZ55z4ly
 languageCollectionID: -MkxqBWikd9eUMSeJ9xcnw-GjMWBqoR4
-updatedTimestamp: 1653729533476
+updatedTimestamp: 1680068380154
 createdTimestamp: 1584826442725
+wordCount: 764
 tags: []
 ---
 
@@ -38,17 +39,25 @@ The revolutionary potential for dispersed, coordinated action using flash mob ta
 **You can make this page about flash mobs better:** lot's of people are looking for information about how to organise a flash mob. Currently, however, this article shows up low in search results. Help us by adding more information about organising a flashmob to this article. Adding a photo might also help. Examples of search terms used:
 
 -   _‘How to organise flash mob’_
+    
 -   _‘_flash mob for protests’
+    
 -   _‘_flash mob protest_’_
+    
 
 ## External resources
 
 -   [Flash Mob](http://knowyourmeme.com/memes/flash-mob) by Know Your Meme
+    
 -   [Tool: Flash Mob](http://www.globalchangelab.org/en/trainingbit/smartmob-the-new-flashmob) by Global Change Lab, 2014
+    
 -   [Dance Flash Mob Step-by-Step How-To Kit](https://d3n8a8pro7vhmx.cloudfront.net/backbonecampaign/pages/81/attachments/original/1509496659/FlashmobHowto2.pdf?1509496659) by Backbone Campaign
+    
 -   [BDS Song and/or Dance Flash Mob Step-by-Step How-To Kit](https://d3n8a8pro7vhmx.cloudfront.net/backbonecampaign/pages/81/attachments/original/1509496658/FlashMobHow-To_FirstDraftcopy.pdf?1509496658) by End the Occupation
+    
 -   [Mondo Award Winner, First Runner-Up: Rae Abileah and Colleen Kelly for Flash Mob](http://mondoweiss.net/2011/03/mondo-award-winner-first-runner-up-rae-abileah-and-colleen-kelly-for-flashmob/) by Mondoweiss, 2011
+    
 
 ## Attribution
 
-This page is an adaptation of an [article](https://beautifulrising.org/tool/cacerolazo-noise-making-protest-) by Andrew Boyd and Dave Oswald Mitchell, which was published on Beautiful Rising under a Creative Commons licence. Feel free to edit and add content! Check out the [**tactic page template**](/template/tactic) to see how it can be improved.
+This page is an adaptation of an [article](https://beautifulrising.org/tool/cacerolazo-noise-making-protest-) by Andrew Boyd and Dave Oswald Mitchell, which was published on Beautiful Rising under a Creative Commons licence. Feel free to edit and add content!

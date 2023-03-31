@@ -6,8 +6,9 @@ description: >
 langCode: en
 articleID: AzUw-scgHRIrvTDTNoqdAK2XPFzRzz9D
 languageCollectionID: svLkaERWeqCNWd05RnNfVSNM44xO-cBn
-updatedTimestamp: 1663878549578
+updatedTimestamp: 1679313644139
 createdTimestamp: 1663877233897
+wordCount: 443
 tags: []
 ---
 
@@ -24,10 +25,15 @@ With corruption proving to be a major obstacle to achieving maternal rate. We ha
 Social media over the years since its introduction has proven to be a useful tool and can effectively be used to conduct protests pressurizing the government to improve The maternal health sector. Here is how you can use social media to pressure the government on improving Maternal health.
 
 -   Creating a twitter hashtag such as #improvematernal health and circulate among people
+    
 -   Creating YouTube videos that showcase poor maternal health services thereby pressurizing the government to improve them.
+    
 -   Conduct fundraising through Instagram ,twitter , Facebook.
+    
 -   You can also recruit members through social media
+    
 -   Engaging the media and providing the information gathered. The media will circulate the information to more people rather relying on social media only.
+    
 
 With the growth of technology also comes different ways or improved versions of protesting and campaigning.
 
@@ -40,14 +46,18 @@ As activists we can search for sponsorships who are willing to invest on materna
 ## Improve this page
 
 -   Adding example of articles written to enable the activists to have a guideline of how to write an article.
+    
 
 ## Related articles
 
 Related articles on the Activist Handbook website:
 
 -   [Title of article A](/home/)
+    
 -   [Title of article B](/home/)
+    
 -   …
+    
 
 ## External resources
 

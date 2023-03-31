@@ -2,13 +2,13 @@
 title: >
   Organise a campaign
 description: >
-  Campaign planning for nonprofits
+  Advocacy campaign planning for nonprofits
 langCode: en
 articleID: tvO08rRa9AhOz9-bQk2MnsJmo3IxrqGt
 languageCollectionID: 8Z7ZJiFcy-pvsGmAE6ZVgHrjZvu8r4pl
-updatedTimestamp: 1676963076986
+updatedTimestamp: 1679934907791
 createdTimestamp: 1653837592592
-wordCount: 917
+wordCount: 1735
 tags: []
 ---
 
@@ -21,6 +21,10 @@ If you're an activist who wants to make a difference, you need to know how to or
 ### 1\. Get people together
 
 Start by getting together two or three likeminded people. Having a few different perspectives will help you come up with a better strategy (the next step!). And you will soon find out that lots needs to happen, so having a few people to help you comes in handy.
+
+<dynamic-image imageid="bfeff6a6-f140-4f4b-9a2a-e54b2d0b2300" alt="Protestors walking over a bridge"><p>By <a target="_blank" href="https://edit.activisthandbook.org/author/tzmE91SnnrbJJXuvQNBl9rt6HK63">Joppe</a> | Generated using Dall-e</p></dynamic-image>
+
+[Grassroots organizing](/organising) is an essential and powerful tool in any successful campaign. It is a type of direct action that relies on the mobilization of ordinary people to take action in their local community. Grassroots organizing is often used to build a base of support, spread awareness, and recruit volunteers and activists.
 
 Check out our organising chapter to learn more about how to mobilise more people, keep people involved, work together with other organisations, and more:
 
@@ -38,6 +42,10 @@ Instead, make a strategy first. Think about the following:
     
 -   How do we pressure decision makers to act?
     
+
+<dynamic-image imageid="e7dad289-2d39-42f7-8ae2-de4942c74400" alt="An activist standing in front of a maze strategizing"><p>By <a target="_blank" href="https://edit.activisthandbook.org/author/tzmE91SnnrbJJXuvQNBl9rt6HK63">Joppe</a> | Generated using Dall-e</p></dynamic-image>
+
+[Strategizing](/strategy) is a critical part of organizing a successful campaign, as it allows activists to be more informed and organized in achieving their goals. It is important to take the time to think through the steps that need to be taken to reach a desired outcome, as well as to identify the resources, tactics, and strategies that will be most effective.
 
 Learn how to write your own campaign strategy:
 
@@ -58,6 +66,10 @@ In our [tactics](/tactics) chapter, we help you answer questions like:
 -   What materials do we need?
     
 
+<dynamic-image imageid="47d4b791-440e-49e1-63cb-e98016f34c00" alt="People sitting at a table having a meeting"><p>By <a target="_blank" href="https://edit.activisthandbook.org/author/tzmE91SnnrbJJXuvQNBl9rt6HK63">Joppe</a> | Generated using Dall-e</p></dynamic-image>
+
+Once you have a clear idea of the action you want to take, you can start planning and gathering the materials and resources necessary for success. You need to carefully consider what type of action is most likely to be successful and how to best use your resources. Good planning is essential for a successful action. You need to think about all the details, such as timing, location, publicity and media coverage, support from other organisations, resources, logistics, and safety. You also need to think about how you will evaluate the success of your action.
+
 For inspiration, check out our list with action tactics used by activists around the globe:
 
 <action-button buttonlink="/tactics" buttonlabel="Pick your action tactics"></action-button>
@@ -75,26 +87,44 @@ You want the right people to know about your campaign. So you need to develop a 
 -   How do we create content to share?
     
 
+<dynamic-image imageid="288f9347-3aa5-4d74-bc29-3ded9d57d300" alt="Someone sitting behind their laptop taking minutes"><p>By <a target="_blank" href="https://edit.activisthandbook.org/author/tzmE91SnnrbJJXuvQNBl9rt6HK63">Joppe</a> | Generated using Dall-e</p></dynamic-image>
+
+First, you should identify your target audience. Who do you want to reach with your message? Are you targeting other activists, the media, political leaders, or the general public? Understanding who your target audience is will help you determine the best way to communicate your message.
+
+Once you know the audience you want to reach, you need to decide what to say. What is the main message of your campaign? How will you explain the issue you are advocating for? Your message should be concise and compelling.
+
+Next, you should determine which platforms to use to share your message. Do you plan to use social media, traditional media outlets, or email? Each platform has advantages and disadvantages. You should consider which platform is best for your campaign and the audience you plan to reach.
+
+Finally, you need to create content to share. This could include written articles, videos, or press releases. Think about what type of content will be most effective for your campaign and the audience you are trying to reach. You should also consider how often you will be creating content and how often you will be sharing it.
+
 Have a look at our communication chapter to learn more:
 
 <action-button buttonlink="/communication" buttonlabel="Communicate your message"></action-button>
 
 ### 5\. Take care
 
-Remember: you are in this for the long run. Do not work yourself and your fellow activists into a burnout. In our wellbeing chapter, we explain how to do activism in a healthy way. We talk about:
+Remember: you are in this for the long run. Do not work yourself and your fellow activists into a burnout. In our wellbeing chapter, we explain how to do activism in a healthy way.
 
--   **Physical health**: for example, giving first aid at protests
+<dynamic-image imageid="8c1cf293-5e91-4d96-cef7-5ad3315ebc00" alt="A monkey doing calming yoga"><p>By <a target="_blank" href="https://edit.activisthandbook.org/author/tzmE91SnnrbJJXuvQNBl9rt6HK63">Joppe</a> | Generated using Dall-e</p></dynamic-image>
+
+Check out our [wellbeing](/wellbeing) chapter to learn more about:
+
+-   **Self-care**: Activism can be a stressful and emotionally draining experience. It is important to take care of your mental health while engaging in activism. This means taking measures to protect your mental wellbeing, such as taking breaks, setting healthy boundaries, and reaching out for help when needed. Additionally, it is important to be aware of the potential mental risks associated with activism, such as experiencing burnout or trauma. You should be prepared to deal with these issues if they arise.
     
--   **Mental health**: for example, dealing with stress
+-   **Group care**: Group care is the practice of taking care of each other within a group of activists. This includes providing emotional and physical support, setting healthy boundaries, and encouraging self-care. It is important to create a safe and nourishing environment for everyone in the group to ensure that everyone
+    
+-   **Physical health:** It is important to take care of your physical health while engaging in activism. This means taking measures to protect your physical well-being, such as eating a nutritious diet, getting enough sleep, and exercising regularly. Additionally, it is important to be aware of the potential physical risks associated with activism, such as exposure to tear gas, pepper spray, and other crowd control weapons. You should be prepared to give basic first aid at protests to protect yourself and others if necessary.
     
 
-Learn all about group-, action- and self-care:
+Learn all about group-, action- and self-care.
 
 <action-button buttonlink="/wellbeing" buttonlabel="Wellbeing in activism"></action-button>
 
 ### 6\. Pick your digital toolset
 
 If you are not using the right digital tools, you will soon find yourself overwhelmed with boring administrative tasks. With a good digital toolset, you will be able to do more in less time.
+
+<dynamic-image imageid="59a869f1-d48b-4a9d-b773-8670461eb400" alt="A frog on a phone"><p>By <a target="_blank" href="https://edit.activisthandbook.org/author/tzmE91SnnrbJJXuvQNBl9rt6HK63">Joppe</a> | Generated using Dall-e</p></dynamic-image>
 
 Check out our [tools chapter](/tools) to learn all about:
 
@@ -115,7 +145,13 @@ Check out our tools chapter, to find campaigning tools that are easy to use and 
 
 ### 7\. Know your rights
 
-Once you start making impact, you will find that your opponents start using the law to try and stop you. Don't let them. In many countries, the law provides certain protections to activists. Learn all about your legal rights:
+Once you start making impact, you will find that your opponents start using the law to try and stop you. Don't let them. In many countries, the law provides certain protections to activists.
+
+<dynamic-image imageid="3ed52e97-e6f7-462d-3cd0-5c2d90dcb300" alt="Speaking truth to power"><p>By <a target="_blank" href="https://edit.activisthandbook.org/author/tzmE91SnnrbJJXuvQNBl9rt6HK63">Joppe</a> | Generated using Dall-e</p></dynamic-image>
+
+[In many countries](/rights), activists have the right to peacefully protest and express their views. This is protected by the freedom of speech and assembly clauses in many constitutions. This means that you can gather together and express your opinion without fear of punishment or censorship. You may not be able to block traffic or cause harm to others in the process, but you should be able to peacefully gather and express your views without fear of being arrested.
+
+In addition, the law also often protects activists from being surveilled or spied on without a warrant. This is important because it means that the government cannot put you under surveillance without a valid reason. This protects your privacy and allows you to be able to organize and plan for your cause without fear of the government eavesdropping on your conversations or activities.
 
 <action-button buttonlink="/rights" buttonlabel="Legal info for activists"></action-button>
 
@@ -131,7 +167,14 @@ This causes participants to be disappointed by the impact they are making with t
 
 ## Improve this page
 
-Oops, you've stumbled upon one of our more empty pages. But you can make it better! Start by adding some resources about how to organise a campaign as an activist. Then make an outline of everything that should be discussed in this guide.
+You can make this guide on how to organize a campaign better!
+
+-   Add links to related guides on Activist Handbook (for example, if the article mentions something about social media, add a link to our social media guide)
+    
+-   Translate this guide into other languages.
+    
+-   Many people are looking up information about campaigning in the context of online campaigning or marketing campaigns. Those topics do not fit in this article. However, your could create a guide on marketing campaigns in our communication chapter.
+    
 
 ### **Search keywords**
 

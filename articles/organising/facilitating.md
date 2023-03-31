@@ -6,9 +6,9 @@ description: >
 langCode: en
 articleID: XIgAxsDXgYVhs5ns90TUqOpCRJudip4A
 languageCollectionID: M4oQzM4kkLmmPBClRgocK1sL2BS2jXE2
-updatedTimestamp: 1679051894112
+updatedTimestamp: 1679983976937
 createdTimestamp: 1676567899135
-wordCount: 1984
+wordCount: 1998
 tags: []
 ---
 
@@ -176,6 +176,10 @@ This is a whole topic on its own, so we wrote a series of guides about [decision
 -   [Short guide: Facilitating meetings](https://commonslibrary.org/facilitating-meetings-a-guide-to-making-your-meetings-effective-inclusive-and-enjoyable/) by Seeds for Change
     
 -   [Long guide: Facilitating meetings](https://www.seedsforchange.org.uk/facilitationmeeting?utm_source=activisthandbook.org) by Seeds for Change
+    
+-   [Facilitating meetings](https://citizenshandbook.org/1_10_facilitate.html?utm_source=activisthandbook.org) by Citizen's Handbook
+    
+-   [Running a meeting and making decisions](https://citizenshandbook.org/1_09_meet_decide.html?utm_source=activisthandbook.org) by Citizen's Handbook
     
 
 ### Copyright resources

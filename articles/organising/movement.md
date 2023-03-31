@@ -1,18 +1,20 @@
 ---
 title: >
-  Create a movement
+  Start a movement
 description: >
   Guide: social movement building
 langCode: en
 articleID: zcObjuif3fqmql1flUYTamZghpPgD1yY
 languageCollectionID: dHWPTkxr2P1ECXwrKT31KbAeaG5hQkkt
-updatedTimestamp: 1676963971504
+updatedTimestamp: 1679934275505
 createdTimestamp: 1583583586992
-wordCount: 913
+wordCount: 1003
 tags: []
 ---
 
 In this guide, we explain how to start a social movement. From big organizing to distributed organizing, this guide will help you change the world.
+
+<div data-youtube-video=""><iframe width="100" height="100" allowfullscreen="true" src="https://www.youtube-nocookie.com/embed/BVYbxOAy4kQ" start="0"></iframe></div>
 
 ## Steps to build a movement
 
@@ -30,7 +32,7 @@ To build a strong movement, you need something that binds its members together. 
 
 Once you have determined what needs to happen in order to achieve your goals, you need to find out how to get there. You will likely not have the resources needed yet:
 
--   **🌊 Not enough people:** learn more about [mobilizing](/organizing/mobilising)
+-   **🌊 Not enough people:** learn more about [mobilizing](/organising/mobilising)
     
 -   **😐 People are not engaged:** increase [membership engagement](/organising/engagement)
     
@@ -89,3 +91,19 @@ A campaign usually consists of a series of actions over the span of a few months
 Often, the injustices we are fighting are complex. A campaign focusses on changing a single issue within that complex system. In many cases, when activists win their campaign, their group falls apart because the thing that bound them together is no longer there.
 
 This does not mean, however, that all injustices are gone. It would be a shame to let the change-making capacity you have built up with your group fall apart. This is where movements come into play. A movement communicates a message that helps people understand how various issues are connected. In addition, a movement invests more resources into community building. People join your movement because they care about your cause. They stay because they feel at home.
+
+## External resources
+
+-   [How to start a movement](https://www.tate.org.uk/art/how-to-start-a-movement?utm_source=activisthandbook.org) by Tate
+    
+-   [How to build a successful movement in 4 steps](https://ideas.ted.com/how-to-build-a-successful-movement-in-4-steps/?utm_source=activisthandbook.org) by Jeremy Heimans and Henry Timms (2018)
+    
+-   [Video: How to start a movement](https://www.ted.com/talks/derek_sivers_how_to_start_a_movement/?utm_source=activisthandbook.org) by Derek Sivers (2010)
+    
+-   [How to Start a Movement: Building a Social and Political Campaign](https://thesolutionsproject.org/info/how-to-start-a-movement-building-a-social-and-political-campaign/?utm_source=activisthandbook.org) by The Solutions Project
+    
+-   [Social Movements for Good: What They Are and How to Lead Them](https://www.philanthropy-impact.org/expert-opinion/social-movements-good-what-they-are-and-how-lead-them?utm_source=activisthandbook.org) by Derrick Feldman
+    
+-   [Social Activism Overview: How to Get Involved in Social Activism](https://www.masterclass.com/articles/social-activism?utm_source=activisthandbook.org) by Masterclass
+    
+-   [How to: build and sustain a non-violent social movement](https://learn.landcoalition.org/en/manuals-toolkits/how-build-and-sustain-non-violent-social-movement/?utm_source=activisthandbook.org) by International Land Coalition

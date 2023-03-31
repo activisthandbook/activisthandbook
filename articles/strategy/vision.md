@@ -6,9 +6,9 @@ description: >
 langCode: en
 articleID: l6FCTNrIOjJgjbmAX-uOdA_cKokTzzVi
 languageCollectionID: y_D9jrB56xW6ReNETEa8mVmhAEGmoTnB
-updatedTimestamp: 1676802924068
+updatedTimestamp: 1679984822206
 createdTimestamp: 1629632224949
-wordCount: 1348
+wordCount: 1352
 tags: []
 ---
 
@@ -177,6 +177,8 @@ This exercise is designed to embolden the imagination and enlarge possibilities,
 -   [Establishing a Vision and Mission](https://ctb.ku.edu/en/best-change-processes/establishing-a-vision-and-mission/overview) by Community Tool Box
     
 -   [Being Purpose Driven](https://commonslibrary.org/being-purpose-driven/) by Nick Moriatis
+    
+-   [Visioning](https://citizenshandbook.org/2_16_visioning.html?utm_source=activisthandbook.org) by Citizen's Handbook
     
 
 ## Attribution

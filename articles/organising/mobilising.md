@@ -6,13 +6,11 @@ description: >
 langCode: en
 articleID: xNnscgpakG9vEGAl6B1H8gF0iRmnllHb
 languageCollectionID: vnkeR8PXExb5pqx3eAMjnmRXlog6MNcy
-updatedTimestamp: 1677739631570
+updatedTimestamp: 1679982519810
 createdTimestamp: 1643131462833
-wordCount: 316
+wordCount: 323
 tags: []
 ---
-
-**See also:** [**Online Outreach**](/organising/outreach-mobilisation/online-outreach)
 
 A great way to attract new members is to make yourself and your values visible, especially if your organisation is new and unknown to other like-minded people. What are the problems your organisation is passionate to solve or to highlight? Stage a protest, for example. Be bold, be visible.
 
@@ -23,3 +21,7 @@ At first you might not get a lot of participants in your public activities, so d
 If your activity fails to garner initial press and social media attention, you can still try to make yourself heard and seen with s[ocial media posts and an additional press release](https://www.huffpost.com/entry/the-art-of-protesting-how-to-organize-a-protest-that_b_588b2de1e4b0020b224b43a0). Good photographs and videos are really important for visibility. If your past activity looks interesting and valuable to potential new members, it increases the likelihood more people will join your organisation. Don’t be afraid to toot your own horn and be your own best advertiser. A great call to join your organization? A picture with your most impressive past activities and simple “come join us” text.
 
 Once you have attracted new activists, the next challenge is to keep them in the movement and engaged (connects with chapter “How to keep members in your movement, organisation”).
+
+## External resources
+
+-   [Get people to join your group](https://citizenshandbook.org/1_06_getpeople.html?utm_source=activisthandbook.org) by Citizen's Handbook
