@@ -25,7 +25,7 @@ export default {
     // a `ref` of current site-level metadata.
     // Check if we're in the client
 
-    if (window) {
+    if (!import.meta.env.SSR) {
       window.dataLayer = window.dataLayer || [];
       function gtag() {
         window.dataLayer.push(arguments);
