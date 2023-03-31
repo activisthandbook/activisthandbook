@@ -35,8 +35,22 @@ export default {
       window.gtag("consent", "default", {
         ad_storage: "denied",
         analytics_storage: "denied",
-        ads_data_redaction: "true",
+        ads_data_redaction: true,
       });
+
+      if (localStorage.getItem("analyticsAllowed") === "yes") {
+        window.gtag("consent", "update", {
+          ad_storage: "granted",
+          analytics_storage: "granted",
+          ads_data_redaction: false,
+        });
+      } else if (localStorage.getItem("analyticsAllowed") === "no") {
+        window.gtag("consent", "update", {
+          ad_storage: "denied",
+          analytics_storage: "denied",
+          ads_data_redaction: true,
+        });
+      }
     }
 
     app.use(

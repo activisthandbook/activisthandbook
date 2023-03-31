@@ -22,7 +22,7 @@ function decline() {
   window.gtag('consent', 'update', {
     'ad_storage': 'denied',
     'analytics_storage': 'denied',
-    'ads_data_redaction': 'true'
+    'ads_data_redaction': true
   });
   const consentRevokedEvent = new Event("consentRevoked");
   window.dispatchEvent(consentRevokedEvent);
@@ -36,7 +36,7 @@ function accept() {
   window.gtag('consent', 'update', {
     'ad_storage': 'granted',
     'analytics_storage': 'granted',
-    'ads_data_redaction': 'false'
+    'ads_data_redaction': false
   })
 
   const consentGrantedEvent = new Event("consentGranted");
