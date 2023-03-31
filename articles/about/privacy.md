@@ -6,9 +6,9 @@ description: >
 langCode: en
 articleID: YC_9rW73IjTkBRnk6moCPytxjCRvotJA
 languageCollectionID: lgOKrjHsTfDVz2zo4ReuGT9FZbyyPJd1
-updatedTimestamp: 1680261498392
+updatedTimestamp: 1680262785171
 createdTimestamp: 1680257121957
-wordCount: 709
+wordCount: 710
 ---
 
 On this page, we explain our privacy policy. We talk about what data we collect, for what purposes and with whom we share this data.
@@ -97,7 +97,7 @@ You can decline our cookies through the cookie banner that is shown when you fir
 
 ## Data request
 
-If you to know what data we store about you, send us a message: [contact@activisthandbook.org](mailto:contact@activisthandbook.org)
+If you want to know what data we store about you, send us a message: [contact@activisthandbook.org](mailto:contact@activisthandbook.org)
 
 ## Delete my data
 
