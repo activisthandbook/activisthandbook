@@ -1,5 +1,4 @@
 import DefaultTheme from "vitepress/theme";
-import { createGtm } from "@gtm-support/vue-gtm";
 
 // Custom
 import CustomLayout from "./CustomLayout.vue";
