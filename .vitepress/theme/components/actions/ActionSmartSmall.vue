@@ -5,7 +5,7 @@
       Our volunteers spent many hours writing this article. They got $0 for their work. But now, they do have to pay rent. Consider making a small donation and support them:
     </p>
     <div class="meta">
-      <a href="/donate">Make small donation</a>
+      <a href="/donate" class="promo-smart-small">Make small donation</a>
     </div>
   </div>
 </template>

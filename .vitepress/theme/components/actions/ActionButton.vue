@@ -14,8 +14,8 @@ function focusID(anchor){
 }
 </script>
 <template>
-  <a v-if="props.buttonlink && props.buttonlink.startsWith('http')" :href="props.buttonlink" class="button" target="_blank">{{ buttonlabel }}</a>
-  <a v-else-if="props.buttonlink" :href="props.buttonlink" class="button">{{ buttonlabel }}</a>
+  <a v-if="props.buttonlink && props.buttonlink.startsWith('http')" :href="props.buttonlink" class="button promo-button" target="_blank">{{ buttonlabel }}</a>
+  <a v-else-if="props.buttonlink" :href="props.buttonlink" class="button promo-button">{{ buttonlabel }}</a>
   <a v-else @click="focusID(props.buttonanchor)" class="button">{{ buttonlabel }}</a>
 </template>
 

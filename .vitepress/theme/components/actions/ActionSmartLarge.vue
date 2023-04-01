@@ -6,7 +6,7 @@
       group of writers.
     </p>
     <div class="meta">
-      <a href="/join">Join us</a>
+      <a href="/join" class="promo-smart-large">Join us</a>
     </div>
   </div>
 </template>
