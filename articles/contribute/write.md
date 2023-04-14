@@ -6,9 +6,9 @@ description: >
 langCode: en
 articleID: 1klKzE-SRt1neRdmh8ZSlLmI7-9scxxN
 languageCollectionID: 1rusRm6zp4Z-ZLQrE1rJHkEnATM7Rafp
-updatedTimestamp: 1677837969778
+updatedTimestamp: 1681485978501
 createdTimestamp: 1650719261892
-wordCount: 113
+wordCount: 125
 tags: []
 ---
 
@@ -38,5 +38,7 @@ Ready to learn more?
 -   **🎨** [**Styling articles**](/support/writers/style)**:** Learn how to make your articles easier to read with headings and emojis.
     
 -   **📄** [**Reference guide**](/support/writers/reference): Learn how to reference external resources.
+    
+-   🤖 [**Using ChatGPT**](/contribute/write/ai)**:** Learn how to use AI to write better guides.
     
 -   **✔️** [Content requirements](/support/writers/requirements) (needs to be updated!)
