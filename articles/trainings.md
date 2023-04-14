@@ -6,19 +6,15 @@ description: >
 langCode: en
 articleID: YUfVGkwMxm05zjEjl7vPQ9gPpUCItupH
 languageCollectionID: vijKrgNARghr6p534ZbiZ1HWioKFbDgl
-updatedTimestamp: 1680074702708
+updatedTimestamp: 1681471227054
 createdTimestamp: 1587834484219
-wordCount: 1739
+wordCount: 1723
 tags: ["training"]
 ---
 
 **In this article, you will find a list of more than 50 organisations around the globe that can provide IRL and online trainings, workshops and facilitation to your activist group. Also make sure to check out our** [**resources**](/resources) **chapter for a lists of useful websites, books and more.**
 
 On the Activist Handbook website, you can find [hundreds of guides](/) for activists. Sometimes though, it is nice to be able to get together in real life with fellow activists and get training from an experienced organiser. In this article we list training collectives that can provide various types of support to help make your campaign a success.
-
-_Available in other languages:_ [_Deutsch_](/de/trainings)_,_ [_Nederlands_](/nl/trainings)
-
-A group of activists exchanging experiences - Generated using OpenAI
 
 ## List of training organisations
 
