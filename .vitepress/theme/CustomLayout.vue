@@ -108,7 +108,7 @@ function focusID(anchor){
 
       <template #doc-before>
         <div class="action-top" v-if="!$frontmatter.focusMode?.isOn">
-          <a href="/join" class="promo-smart-tiny">Join our campaign</a> to train 350 million activists!
+          <span>🔥</span> <a href="/join" class="promo-smart-tiny">Join our campaign</a> to train 350 million activists!
         </div>
         <div class="hgroup">
           <ClientOnly>
@@ -255,18 +255,29 @@ function focusID(anchor){
 </template>
 <style lang="scss" scoped>
 .action-top {
-  background: rgba(0, 0, 0, 0.05);
-  color: #333;
-  font-size: 14px;
-  padding: 12px 8px;
+  background: rgba(#D70057, 0.05);
+  font-size: calc(14px + 0.1vw);
+  padding: calc(12px + 0.4vw) 8px;
   font-style: italic;
   margin-bottom: calc(16px + 1vh);
   border-radius: 2px;
   text-align: center;
 
+  span{
+    font-style: normal;
+    display: inline-block;
+    margin-right: 4px;
+  }
+
   a {
-    text-decoration: underline;
-    color: black;
+    // text-decoration: underline;
+    color: #D70057;
+    font-weight: bold;
+    border-bottom: 4px solid rgba(#D70057, 0.3);
+
+    &:hover {
+        border-bottom-color: rgba(#D70057, 0.8);
+      }
   }
 }
 
