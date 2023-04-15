@@ -6,7 +6,7 @@ description: >
 langCode: en
 articleID: EpOGhhfzbufIlbXKBLZW02ZkuXWvSRo0
 languageCollectionID: aUm7wuakSuR04i-IDcILEnsF4CWTcMPq
-updatedTimestamp: 1678183756796
+updatedTimestamp: 1681549181872
 createdTimestamp: 1663872847035
 wordCount: 6657
 tags: []
@@ -65,6 +65,8 @@ Think also of having a unified “look and feel” for all your banners that amp
 Photo credit: Crispin Hughes
 
 If you have multiple scientists in your movement and are participating as part of a larger action, it can be much more impactful to stay together so you are seen and photographed as a group of scientists. A group of people in lab coats (especially with a unified look) stands out more than a singular scientist in a crowd.
+
+<action-smart-small></action-smart-small>
 
 ## Building your scientific resources and arguments
 

@@ -6,8 +6,9 @@ description: >
 langCode: en
 articleID: GZ4Q9ZQEVklXHDz66jNhjhVIewpNh2OX
 languageCollectionID: vGiAVZBXQPJhmrATOnIUY0BRySsU4lSP
-updatedTimestamp: 1669986740002
+updatedTimestamp: 1681549224693
 createdTimestamp: 1639830802442
+wordCount: 1739
 tags: []
 ---
 
@@ -26,10 +27,15 @@ The municipality may sympathise more with landlords, and try to intimidate you w
 Here are a few creative words and phrases that you can use to refer to landlords and the housing market:
 
 -   **"Pocket-filling leeches"** - This phrase evokes the idea of landlords sucking money out of people's pockets without providing any value in return.
+    
 -   **"Capitalist cockroaches"** - This phrase uses a metaphor to compare landlords to pests that are hard to get rid of and that thrive on exploiting people.
+    
 -   **"Housing hustlers"** \- This phrase suggests that landlords are scamming people and taking advantage of them for financial gain.
+    
 -   **"Rent gougers"** - This phrase implies that landlords are charging excessive and unreasonable rents, and taking advantage of people's need for housing.
+    
 -   **"Property parasites"** - This phrase suggests that landlords are feeding off of the housing market and taking advantage of people's need for shelter.
+    
 
 And here are some more tips for formulating a message for affordable housing activism:
 
@@ -43,7 +49,7 @@ And here are some more tips for formulating a message for affordable housing act
 
 **Get public support:** One of the most effective ways to get your message heard is to build a broad coalition of supporters who can help amplify your message and increase its visibility. This can include other activists, community organizations, politicians, celebrities, and others who share your goals and can help you spread your message to a wider audience.
 
-<div><figcaption>Affordable Housing Protest Rally, at the Vancouver Art Gallery. Sunday, May 24th 2015. Vancouver British Columbia, Canada. Photo by <a href="https://www.flickr.com/photos/markklotz/"><strong>Mark Klotz</strong></a>.</figcaption></div>
+Affordable Housing Protest Rally, at the Vancouver Art Gallery. Sunday, May 24th 2015. Vancouver British Columbia, Canada. Photo by [**Mark Klotz**](https://www.flickr.com/photos/markklotz/).
 
 ## Action tactics
 
@@ -68,6 +74,8 @@ Here are a few creative action ideas that affordable housing activists can use t
 **🇳🇱 Dutch housing protests:** There is a huge shortage in affordable housing in the Netherlands. In 2021, over 8000 people in Rotterdam protested for [affordable housing](https://woonopstand.nl/en/). The protest was covered widely across news media, because of the disproportionate police violence used. After the protests, several municipalities announced they would start requiring people to live in the houses they buy, to counter slumlords (‘zelfwoonplicht’).
 
 **🇩🇪 German housing protests:** In Berlin, 10.000 people went to the streets to demand an end to the [soaring rent prices](https://www.dw.com/en/berlin-protesters-urge-end-to-soaring-rents/a-57635183).
+
+<action-smart-small></action-smart-small>
 
 ## Q&A
 
@@ -110,8 +118,7 @@ There are a few ways to make housing protests more inclusive. One way is to make
 ## External resources
 
 -   [UN Guidelines for the implementation of the right to adequate housing](https://www.ohchr.org/EN/Issues/Housing/Pages/GuidelinesImplementation.aspx)
-
-<div></div>
+    
 
 ## Attribution
 

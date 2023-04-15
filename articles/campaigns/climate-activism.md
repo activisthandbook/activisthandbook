@@ -6,7 +6,7 @@ description: >
 langCode: en
 articleID: IMpWBGgi-DB7e68av_nsoMrQknq0sVzD
 languageCollectionID: 0LiiGOKPXDtXadFAhHloJNbQCpMVuhqF
-updatedTimestamp: 1680364209826
+updatedTimestamp: 1681549130202
 createdTimestamp: 1641915364078
 wordCount: 1345
 tags: ["climate"]
@@ -58,6 +58,8 @@ Make sure to convey a sense of urgency. Do not say “climate change”, use phr
     
 5.  We must take action now before it's too late and our planet is **irrevocably damaged**.
     
+
+<action-smart-small></action-smart-small>
 
 ## Climate activist groups
 

@@ -6,7 +6,7 @@ description: >
 langCode: en
 articleID: GvaQci134VMW01x8fzBwm8dp37QUp3Hf
 languageCollectionID: NQYNttuJkw8OqeRAcgafPE_l_g2toIq3
-updatedTimestamp: 1677085519677
+updatedTimestamp: 1681549154057
 createdTimestamp: 1648637365736
 wordCount: 499
 tags: ["campaign"]
@@ -43,6 +43,8 @@ There are many ways to get involved in community activism, depending on the issu
 The best place to learn about community activism is by talking to people who are already involved in activism in your community. You can also look for books, websites, and articles about community activism and social change.
 
 Nobody is born an activist, so we recommend you [train yourself](/trainings). Also make sure to check out all our [resources about activism](/resources).
+
+<action-smart-small></action-smart-small>
 
 ## Improve this page
 
