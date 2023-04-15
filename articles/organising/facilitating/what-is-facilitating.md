@@ -6,7 +6,7 @@ description: >
 langCode: en
 articleID: KuHDKdCZWWd381Yp6YeeNpVNt-FqQjFx
 languageCollectionID: JV6ejjHODS-3aljFYxv2-Fitit6Rcva9
-updatedTimestamp: 1676736884589
+updatedTimestamp: 1681547738275
 createdTimestamp: 1676630262580
 wordCount: 2023
 ---
@@ -107,6 +107,8 @@ There are a number of skills and qualities that people commonly look for in thei
     
 -   Step out of role and let someone else facilitate.
     
+
+<action-smart-small></action-smart-small>
 
 ## **Accessible meetings**
 

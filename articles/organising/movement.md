@@ -6,7 +6,7 @@ description: >
 langCode: en
 articleID: zcObjuif3fqmql1flUYTamZghpPgD1yY
 languageCollectionID: dHWPTkxr2P1ECXwrKT31KbAeaG5hQkkt
-updatedTimestamp: 1679934275505
+updatedTimestamp: 1681547487330
 createdTimestamp: 1583583586992
 wordCount: 1003
 tags: []
@@ -81,6 +81,8 @@ Check out our [**tools chapter**](https://activisthandbook.org/tools) to learn a
 ### **7\. Know your rights**
 
 Once you start making impact, you will find that your opponents start using the law to try and stop you. Don't let them. In many countries, the law provides certain protections to activists. Learn all about your [legal rights and common police practices in your country](/rights).
+
+<action-smart-small></action-smart-small>
 
 ## Q&A
 

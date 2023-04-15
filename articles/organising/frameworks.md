@@ -6,7 +6,7 @@ description: >
 langCode: en
 articleID: G3dkQL5r8VGH4qvFx-36zI4WDRCiNzwD
 languageCollectionID: 89ReOOyPrqQ0GJ5WjQzIIR_PP0aAErgn
-updatedTimestamp: 1676731717847
+updatedTimestamp: 1681547522165
 createdTimestamp: 1643132983527
 wordCount: 291
 tags: ["stub","organising"]
@@ -34,7 +34,9 @@ Do not reinvent the wheel: other movements have tried out many different ways of
 -   [**Scrum**](/organising/scrum)
     
 
-## **How to contribute**
+<action-smart-small></action-smart-small>
+
+## **Improve this page**
 
 This page is still quite empty. Feel free to share resources about this topic, or suggest how we should organise this article.
 

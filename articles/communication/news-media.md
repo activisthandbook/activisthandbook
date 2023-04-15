@@ -6,7 +6,7 @@ description: >
 langCode: en
 articleID: QYNawon-AjklCbxGb81-gHUwL1XRd2-t
 languageCollectionID: MRMwO2j7BNRQKw8sfodmmrZld4vemHZu
-updatedTimestamp: 1681541487595
+updatedTimestamp: 1681548169319
 createdTimestamp: 1629625461157
 wordCount: 1023
 tags: ["stub","communication","easy to improve"]
@@ -56,6 +56,8 @@ Activists trying to get attention from mainstream news media face different chal
     
 -   **In countries with low public awareness or interest in your cause**, activists may find it hard to attract media attention or mobilize public opinion. To overcome these challenges, activists may use creative and innovative methods to communicate their messages and raise awareness, such as art, music, humor, storytelling, or campaigns. They may also appeal to the values and emotions of their audiences, highlighting the urgency and relevance of their causes and how they affect their lives.
     
+
+<action-smart-small></action-smart-small>
 
 ## Improve this page
 

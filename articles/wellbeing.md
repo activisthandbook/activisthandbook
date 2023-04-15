@@ -6,7 +6,7 @@ description: >
 langCode: en
 articleID: ItlwwJfYopwgV4ZEnH653rUc1JbQ2GJj
 languageCollectionID: l8XZ2W25XNow2B1wFBSVg7-4T2S1LBn3
-updatedTimestamp: 1681487489491
+updatedTimestamp: 1681548278867
 createdTimestamp: 1583509148168
 wordCount: 1392
 tags: ["wellbeing","chapters"]
@@ -78,6 +78,8 @@ Activists who work for social change often face challenges and risks that can af
     
 
 These factors can shape how activists perceive and respond to the challenges and risks they face as well as the strategies and practices they adopt to take care of their wellbeing. Therefore, it is important to understand and respect the local context across countries when supporting activists' wellbeing and to tailor the support according to their specific needs and realities.
+
+<action-smart-small></action-smart-small>
 
 ## Q&A
 

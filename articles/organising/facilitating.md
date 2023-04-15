@@ -6,7 +6,7 @@ description: >
 langCode: en
 articleID: XIgAxsDXgYVhs5ns90TUqOpCRJudip4A
 languageCollectionID: M4oQzM4kkLmmPBClRgocK1sL2BS2jXE2
-updatedTimestamp: 1679983976937
+updatedTimestamp: 1681547708091
 createdTimestamp: 1676567899135
 wordCount: 1998
 tags: []
@@ -65,6 +65,8 @@ Sometimes facilitation will involve helping the group address conflict, or reach
 **Questioning:** Asking questions can clarify issues and support people to explore their needs. Facilitators can ask clarifying questions to get a clearer understanding of what someone is saying, or put open questions to the group to open up more exploration.
 
 **Summarising:** Regular summaries of the discussion can help avoid repetition by reassuring people their points have been heard, and highlighting the key issues raised. The facilitator should offer the summary tentatively and give people space to correct them, e.g. “What I've heard people saying so far is ... Did I miss anything out?”
+
+<action-smart-small></action-smart-small>
 
 ## **Facilitating decision making**
 

@@ -6,7 +6,7 @@ description: >
 langCode: en
 articleID: DiHjNZcDvW_029tXpHf4l4i4X33-qRya
 languageCollectionID: h8MNVGc8piJZrF3En-6zINn-UrQMz_Hq
-updatedTimestamp: 1676726210670
+updatedTimestamp: 1681547777428
 createdTimestamp: 1676725894303
 wordCount: 2495
 ---
@@ -24,6 +24,8 @@ Be sensitive to the group and individual members - the idea is to relax people, 
 There are lots of energisers and ice-breakers to be found on the internet. We have prioritised games which aren't competitive - or if they are, where we think that individuals are unlikely to feel singled out as 'losers', or feel they are the reason their team lost. We have included some very short exercises for occasions when there's no time to play a full game.We have chosen exercises to work for a range of different access requirements, in the hope that you can pick something suitable for your group.
 
 It can help to think through how you will make games accessible in advance, so you don't get stuck trying to adapt an exercise on the go. Sometimes a short break or a pause to stretch can enable everyone to do for themselves whatever they need to do. This may seem less exciting than a game, but could be better than a 'fun activity' that only some people can participate in!
+
+<action-smart-small></action-smart-small>
 
 ## **Shake down 5-4-3-2-1**
 

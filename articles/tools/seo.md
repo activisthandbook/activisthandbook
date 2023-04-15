@@ -6,8 +6,9 @@ description: >
 langCode: en
 articleID: GRZTMOOdRRKvszcTgxXFLD8BLmGSMUdz
 languageCollectionID: jn3F_H5ZKnY4lyI9Zsu9-Fwk82rwaKQz
-updatedTimestamp: 1671914598553
+updatedTimestamp: 1681548127572
 createdTimestamp: 1645030914881
+wordCount: 1647
 tags: []
 ---
 
@@ -16,9 +17,13 @@ tags: []
 In this article, we answer the following questions:
 
 1.  Why is SEO important for nonprofits?
+    
 2.  How to improve your search rankings?
+    
 3.  What tools to use?
+    
 4.  How to use Google Ad Grant for SEO?
+    
 
 ## **Why is SEO important?**
 
@@ -33,16 +38,22 @@ Online activism is not a replacement of real-life activism, as it is very much r
 This is what you need to get started with this SEO guide:
 
 1.  **No prior SEO experience needed:** We try to explain everything in easy to understand terms. If something is unclear, let us know, and we will update our guide!
+    
 2.  **No money needed:** We only recommend tools that are free or very affordable.
+    
 3.  **Time & long term commitment:** Getting your website to rank high takes a long time and a lot of work. On average, pages that rank #1 in the search results are over 2.5 years old. You need to be willing to invest time in creating good content and continually improve it over the years: https://ahrefs.com/blog/how-long-does-it-take-to-rank/
+    
 
 ## Improve your search ranking
 
 The following things are taken into account by search engines like Google to determine if your webpage should show up high in the search results:
 
 1.  **High-quality content**
+    
 2.  **Relevant topics & intent**
+    
 3.  **Quality website**
+    
 
 Below we explain what each of these means in detail.
 
@@ -57,10 +68,15 @@ In short: **Google does not really want to you optimise your website for Google*
 We recommend you to do exactly that: if you do not really know how to do SEO well, your best guess is just to create content that people like. Chances are that Google will like it too. These are some things that Google looks at:
 
 -   **Do people like your content?** For example, they try to determine this by how many people are sharing links to your site. This can be other people adding a link to your website from their own site (backlinks), or people sharing your content on social media.
+    
 -   **Is your content well-written?** Grammar & spelling mistakes
+    
 -   **Is your content well organised?** Headings, links,
+    
 -   **Is your content unique?** Brings new value to readers
+    
 -   **Is your content complete?** Avoid very short articles
+    
 
 ### **Relevant topics & intent**
 
@@ -83,9 +99,15 @@ A good start is to analyse the quality of your website using a [page analysis to
 Some other factors to take into account:
 
 -   **Crawl**: To be included in the search results, search engines must first be able to find and crawl your website.
+    
 -   **User experience**: Avoid spammy pop-ups and annoying ads.
+    
 -   **Title, URL and description**
+    
 -   **Snippets & structured data**
+    
+
+<action-smart-small></action-smart-small>
 
 ## Tools for SEO
 
@@ -96,25 +118,40 @@ We know most activists do not have a pile of money laying around. We have made a
 There are many things you can do to improve your search engine performance. Choose one of the topics below to see the best tools for that purpose:
 
 -   **📈** [**Analyse website traffic**](/tools/website#analytics)**:** Track your website visitors, and find out where they are coming from and what they are doing on your site.
+    
     -   Google Analytics
+        
     -   Matomo (privacy-friendly alternative)
+        
     -   Want the most feature-rich solution? Choose Google Analytics. Care about privacy? Use Matomo.
+        
 -   **🔍** [**Find search keywords**](/tools/seo/keywords): Find out what people look up on Google, and compare differences over time and geographically.
+    
 -   👀 [**Competitor research**](/tools/seo/competitor-research): Learn from other activist organisations and opponents.
+    
 -   **🔗** [**Get more backlinks**](/tools/seo/backlinks)**:** Get a list of websites that link to yours. The more websites link to yours, the higher your search rankings. And it is a great way to find potential partner organisations & do outreach.
+    
 -   **📝 Write better content (guide not created yet):** Get suggestions on how to write better articles so that you can reach more people on Google.
+    
 -   **👩‍💻** [**Develop a better website**](/tools/website)**:** Make your website faster and more accessible to get better search results.
+    
 
 ### List of tools
 
 Here is a list of [tools for nonprofits and activist organisations](/tools) to improve their search engine ranking:
 
 -   [Search Console Insights](https://search.google.com/search-console/)
+    
 -   [Google Trends](https://trends.google.com/trends/)
+    
 -   [Google Analytics](http://analytics.google.com)
+    
 -   [Ahrefs](https://ahrefs.com)
+    
 -   [Semrush](https://www.semrush.com)
+    
 -   [UberSuggest](https://app.neilpatel.com/)
+    
 
 ## Google ad grant for nonprofits
 
@@ -133,8 +170,11 @@ Keep into account that search engine optimisation is still important, even if yo
 This page about SEO is written by activists like you, and you can help make it better. Here are some suggestions:
 
 -   Using SEO as activist tactic: bringing your message to the public through search engines (perhaps to compete with politicians or companies that you are targeting?)
+    
 -   Linking to a guide about privacy considerations when using tools like Google Analytics
+    
 -   Perhaps create separate guides about each of the tools (for example: ‘Semrush for nonprofits’), and a separate page about the Google ad grant (though the latter is harder to rank high for).
+    
 
 ### What are people looking up?
 
@@ -142,20 +182,29 @@ Originally, the title of this page was ‘search engine optimisation for activis
 
 This is quite a difficult query to compete for: most people writing articles about this topic are very skilled in search engine optimisation, so it is hard to get this article high in the results. There are also many ads for SEO services and tools.
 
-<div><table><thead><tr><th>Searches</th><th>Frequency</th><th>Relevancy</th><th>Difficulty</th></tr></thead><tbody><tr><td>seo nonprofit</td><td>520</td><td>medium</td><td></td></tr><tr><td>seo for nonprofits</td><td>710</td><td>high</td><td></td></tr><tr><td>semrush nonprofits</td><td>200</td><td>high</td><td></td></tr><tr><td>google analytics for nonprofits</td><td>400</td><td>high</td><td></td></tr><tr><td>google ad grants for nonprofits</td><td>990</td><td>low</td><td></td></tr><tr><td>nonprofit analytics</td><td>290</td><td>medium</td><td>44%</td></tr></tbody></table></div>
+<table><tbody><tr><th><p>Searches</p></th><th><p>Frequency</p></th><th><p>Relevancy</p></th><th><p>Difficulty</p></th></tr><tr><td><p>seo nonprofit</p></td><td><p>520</p></td><td><p>medium</p></td><td><p></p></td></tr><tr><td><p>seo for nonprofits</p></td><td><p>710</p></td><td><p>high</p></td><td><p></p></td></tr><tr><td><p>semrush nonprofits</p></td><td><p>200</p></td><td><p>high</p></td><td><p></p></td></tr><tr><td><p>google analytics for nonprofits</p></td><td><p>400</p></td><td><p>high</p></td><td><p></p></td></tr><tr><td><p>google ad grants for nonprofits</p></td><td><p>990</p></td><td><p>low</p></td><td><p></p></td></tr><tr><td><p>nonprofit analytics</p></td><td><p>290</p></td><td><p>medium</p></td><td><p>44%</p></td></tr></tbody></table>
 
 ## Related articles
 
 -   🔗 [Building a nonprofit website](/tools/website)
+    
 -   🌇 [Free stock photo libraries](/tools/photo-libraries)
+    
 -   🙈 [Privacy for activists](/tools/privacy)
+    
 -   📱 [Digital security in activism](/tools/security)
+    
 
 ## External resources
 
 -   [Internet marketing](https://www.digitalactivist.net/skills/internet-marketing/) by Digital Activist
+    
 -   [SEO for political campaign websites](https://www.rootshq.com/seo-for-political-campaign-websites/) by Allen Fuller
+    
 -   [SEO Activism: Detox Campaign by Greenpeace](https://web.archive.org/web/20200204002441/https://seo2.onreact.com/seo-activism-detox-campaign-by-greenpeace) \[Archived\]
+    
 -   [Analytics Academy](https://analytics.google.com/analytics/academy/) by Google
+    
 -   [Beginners guide to SEO](https://moz.com/beginners-guide-to-seo) by MOZ
+    
 -   [The 38 Best SEO Tools, According to SEO Experts](https://marketerhire.com/blog/best-seo-tools) by Kelsey Donk

@@ -6,7 +6,7 @@ description: >
 langCode: en
 articleID: tvO08rRa9AhOz9-bQk2MnsJmo3IxrqGt
 languageCollectionID: 8Z7ZJiFcy-pvsGmAE6ZVgHrjZvu8r4pl
-updatedTimestamp: 1679934907791
+updatedTimestamp: 1681547457204
 createdTimestamp: 1653837592592
 wordCount: 1735
 tags: []
@@ -164,6 +164,8 @@ A [protest action](/organising/protest) is a one-off event. A campaign consists 
 Often, inexperienced activists will start by organising a single protest, after which they discover that it has not led to the desired result. Then, they continue to organise more protests, without strategically thinking about how all their actions are connected.
 
 This causes participants to be disappointed by the impact they are making with the first few protests, because they do not see how these are contributing towards the bigger picture. Effective campaigns strategically build up towards a goal.
+
+<action-smart-small></action-smart-small>
 
 ## Improve this page
 

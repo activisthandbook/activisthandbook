@@ -6,14 +6,13 @@ description: >
 langCode: en
 articleID: y5lJ-VcsNzXpOePLIAq63fA62qNkJ0AY
 languageCollectionID: NgRZAH8Dvd769ZcUN-JmgJ-fd9tfCsVX
-updatedTimestamp: 1663731591051
+updatedTimestamp: 1681547642215
 createdTimestamp: 1643131835201
+wordCount: 7589
 tags: []
 ---
 
 **In this article you will learn how to build coalitions between movements. Together we stand stronger.**
-
-_Available in other languages:_ [_Français_](https://fr.wikipedia.org/wiki/Fran%C3%A7ais)
 
 ## **Summary**
 
@@ -34,9 +33,15 @@ Also important to mention- creating tighter relations between movements is going
 Recap. How to achieve tighter relations between movements:
 
 -   Finding compromises
+    
 -   Discussing but not arguing
+    
 -   Highlighting common goals
+    
 -   More joint activities (study sessions, projects, meetings)
+    
+
+<action-smart-small></action-smart-small>
 
 ## **Why do we need to do coalitions differently?**
 
@@ -58,23 +63,23 @@ At the city level, three inspiring networked coalitions are [The Sydney Alliance
 
 ## **What do networked coalitions look like and how can they benefit a campaign?**
 
-Many coalitions come together to achieve a specific policy goal and develop a shared plan to achieve it. On the other hand, members of a networked coalition unite around a _**broader cause or purpose**_. For example, the [Halt the Harm](https://halttheharm.net/about/) network brings together groups across the United States under the banner of “halting the harms of fracking” in their communities. The [Environmental Law Reform Coalition](http://www.capulet.com/blog/2018/6/20/online-coalition-building-for-environmental-law-reform) is another example. This coalition built a lot of power by coming together behind a "Let's Get it Right" frame. The frame is clear, succinct and broad enough to include a bunch of environmental laws. On the other hand, networked coalitions can come together around a shared commitment to social change. We see this in Sydney Alliance’s commitment to community organising, or Lock the Gate’s commitment to literally “locking the gate” - a form of civil disobedience that prevents mining companies from accessing the land.
+Many coalitions come together to achieve a specific policy goal and develop a shared plan to achieve it. On the other hand, members of a networked coalition unite around a **_broader cause or purpose_**. For example, the [Halt the Harm](https://halttheharm.net/about/) network brings together groups across the United States under the banner of “halting the harms of fracking” in their communities. The [Environmental Law Reform Coalition](http://www.capulet.com/blog/2018/6/20/online-coalition-building-for-environmental-law-reform) is another example. This coalition built a lot of power by coming together behind a "Let's Get it Right" frame. The frame is clear, succinct and broad enough to include a bunch of environmental laws. On the other hand, networked coalitions can come together around a shared commitment to social change. We see this in Sydney Alliance’s commitment to community organising, or Lock the Gate’s commitment to literally “locking the gate” - a form of civil disobedience that prevents mining companies from accessing the land.
 
-Focusing on broader missions like this make networked coalitions more suited to working on longer-term, systemic change, while also making it easier for _**larger diversity of members**_ to get behind the cause (sometimes leading to unlikely alliances).
+Focusing on broader missions like this make networked coalitions more suited to working on longer-term, systemic change, while also making it easier for **_larger diversity of members_** to get behind the cause (sometimes leading to unlikely alliances).
 
-Networked coalitions start from the premise that within every coalition there is a network of people (staff, members of groups, activists, supporters, etc.), and this network can either be functional or dysfunctional. How functional this network is in practice is not necessarily dependent on the strength or degree of organisational alignment - coalitions can achieve high degrees of alignment at the organisational level but fail to foster connections and synergies among their members at the individual level. Networked coalitions therefore _**focus on building and strengthening the relationships between the people**_ that belong to them. This is why, for instance, the [Industrial Areas Foundation network](http://www.industrialareasfoundation.org/) focuses on the practice of relational meetings: when coalitions are not building trusted 1-1 connections, then those networks are dying.
+Networked coalitions start from the premise that within every coalition there is a network of people (staff, members of groups, activists, supporters, etc.), and this network can either be functional or dysfunctional. How functional this network is in practice is not necessarily dependent on the strength or degree of organisational alignment - coalitions can achieve high degrees of alignment at the organisational level but fail to foster connections and synergies among their members at the individual level. Networked coalitions therefore **_focus on building and strengthening the relationships between the people_** that belong to them. This is why, for instance, the [Industrial Areas Foundation network](http://www.industrialareasfoundation.org/) focuses on the practice of relational meetings: when coalitions are not building trusted 1-1 connections, then those networks are dying.
 
-Networked coalitions can _**operate at a variety of scales**_ - but importantly they include the local neighbourhood scale. There is a recognition that power comes from the ownership, meaningful activity and participation of people - and that the most accessible space for this is locally. That said, networked coalitions can operate across multiple scales from the local to the global. The most powerful are multi-scaled, capable of simultaneous activity in multiple sites. This is why the Sydney Alliance has both a local structure of districts in neighborhoods alongside a citywide structure. Similarly the Ontario Health Coalition has dozens of local health chapters alongside a provincial structure.
+Networked coalitions can **_operate at a variety of scales_** - but importantly they include the local neighbourhood scale. There is a recognition that power comes from the ownership, meaningful activity and participation of people - and that the most accessible space for this is locally. That said, networked coalitions can operate across multiple scales from the local to the global. The most powerful are multi-scaled, capable of simultaneous activity in multiple sites. This is why the Sydney Alliance has both a local structure of districts in neighborhoods alongside a citywide structure. Similarly the Ontario Health Coalition has dozens of local health chapters alongside a provincial structure.
 
-Members of networked coalitions (at both the individual and organisational / group level) have higher degrees of autonomy to implement their own campaign tactics - there does not have to be consensus among all of the coalition’s members for one to pursue a particular strategy to advance the coalition’s cause. _**Distributed leadership and decision-making**_ is thus a key feature of networked coalitions, leading to local actions that are initiated and implemented by members and new grassroots leaders (Check out our [guide on distributed organizing](https://docs.google.com/document/d/1yO-cDdNDvGzNRMzbnfrDVkzn6OXyXFCuFefzj7miIOc/edit).)
+Members of networked coalitions (at both the individual and organisational / group level) have higher degrees of autonomy to implement their own campaign tactics - there does not have to be consensus among all of the coalition’s members for one to pursue a particular strategy to advance the coalition’s cause. **_Distributed leadership and decision-making_** is thus a key feature of networked coalitions, leading to local actions that are initiated and implemented by members and new grassroots leaders (Check out our [guide on distributed organizing](https://docs.google.com/document/d/1yO-cDdNDvGzNRMzbnfrDVkzn6OXyXFCuFefzj7miIOc/edit).)
 
-However, another crucial feature is that members’ self-initiated actions are supported and amplified by the network, allowing them to achieve greater impact than they otherwise could have accomplished. The stronger the network becomes, the more iterations of self-initiated actions appear, and the more powerful these individual actions become as they are supported and amplified by the network. Localised actions are also complemented by larger _**moments of convergence**_**,** during which all network members coordinate their actions over a set period of time (for example, through [distributed events](https://docs.google.com/document/d/1yO-cDdNDvGzNRMzbnfrDVkzn6OXyXFCuFefzj7miIOc/edit), big days of action or through coordinated tactical campaigning on a single target or to achieve a more tightly focused objective) in order to focus community power and scale impact. In these ways, the coalition _**provides tangible value and concrete services**_ to its members.
+However, another crucial feature is that members’ self-initiated actions are supported and amplified by the network, allowing them to achieve greater impact than they otherwise could have accomplished. The stronger the network becomes, the more iterations of self-initiated actions appear, and the more powerful these individual actions become as they are supported and amplified by the network. Localised actions are also complemented by larger **_moments of convergence_,** during which all network members coordinate their actions over a set period of time (for example, through [distributed events](https://docs.google.com/document/d/1yO-cDdNDvGzNRMzbnfrDVkzn6OXyXFCuFefzj7miIOc/edit), big days of action or through coordinated tactical campaigning on a single target or to achieve a more tightly focused objective) in order to focus community power and scale impact. In these ways, the coalition **_provides tangible value and concrete services_** to its members.
 
 The Gasfield Free Northern Rivers (GFNR) provides a good illustration of this kind of distributed structure in which members also receive support from across the network. The alliance functions as a system of distributed leadership, comprised of around 20 location-based action groups. While these groups have autonomy, they collaborate by sending a representative to regular GFNR meetings, where a high degree of cooperation ensures that vulnerable districts are supported by the whole region (for more on this listen to [ChangeMakers Series 1, Ep 2](https://changemakerspodcast.org/episode-2-win/)).
 
 Similarly, Re-Amp focused on designing a network with [decentralized structures](https://docs.google.com/document/d/1yO-cDdNDvGzNRMzbnfrDVkzn6OXyXFCuFefzj7miIOc/edit), many hubs, shared leadership, and multiple platforms for connecting and communicating. But it also holds an annual conference that brings the entire network together to build relationships and develop collective strategy.
 
-By giving their members greater degrees of autonomy and the freedom to self-organise, networked coalitions can liberate the creativity of their members, facilitating a larger diversity of campaigning tactics and actions on the ground. This makes them ideal spaces to _**foster experimentation and innovation**_**,** which, if successful, can then be quickly spread across the network for other members to learn from.
+By giving their members greater degrees of autonomy and the freedom to self-organise, networked coalitions can liberate the creativity of their members, facilitating a larger diversity of campaigning tactics and actions on the ground. This makes them ideal spaces to **_foster experimentation and innovation_,** which, if successful, can then be quickly spread across the network for other members to learn from.
 
 ## **When this might not work for you**
 
@@ -91,15 +96,22 @@ Similarly, networked coalitions’ focus on facilitating broad, inclusive allian
 An effective networked coalition functions according to a set of **core operating principles** (adapted from [New/Mode’s “Embracing Networks” guide](https://www.newmode.net/embracingnetworks)):
 
 1.  **Dynamic:** Loosely coordinated by a dynamic network of organisations, groups and people but potentially operating with its own shared approach to organising or social change
+    
 2.  **Decentralized:** Autonomous engagement is encouraged within the boundaries of a high-level vision or network purpose. Working in such a decentralised leadership structure requires awareness of what helps self-organisation, what hinders it, and what enables coherence.
+    
 3.  **Inclusive:** Anyone can join if they support the campaign’s overall vision or purpose. Coalitions thrive when they share a sense of interdependence and a recognition that we need each other. This can emerge out of a crisis (where the resolution is that we need to collaborate) or it can come from the style/practice of the organisational leader (whose own experience means that they know that collaboration is possible).
+    
 
 For instance, the Sydney Alliance formed following two major social attacks on civil society - one was the Workchoices / Your Rights at Work campaign that saw unions struggle for their lives - and become very open to new ways of collaborating. The second was the Cronulla Riots that saw many migrant communities, especially the Arab community, seek to reach out to others. Those social movements created an environment for leadership engagement that was critically important for building a coalition that was very different to ones that had come before.
 
 1.  **Amplifying:** The network exists to support and give power to its members’ actions. Members are encouraged to share each other’s materials (give recognition) and support each other’s campaigning actions. The network’s identity is more important than the brand of any single organization.
+    
 2.  **Respect a diversity of tactics:** Appreciate that network members serve different communities and thus use different engagement techniques and communications styles.
+    
 3.  **Use care:** Invoking the work of the network and its members is encouraged. Members should, however, use care when speaking on behalf of the network.
+    
 4.  **Own your voice:** While all members agree to furthering the cause laid out in the network’s vision or purpose, individual organisations are not expected to cross-endorse the specific positions of others.
+    
 
 Another set of coalition principles can be found in the Allied Media Projects [network principles](https://www.alliedmedia.org/about/network-principles).
 
@@ -112,10 +124,13 @@ An effective networked coalition requires putting in place certain **core elemen
     As an example, [Re-Amp](https://www.reamp.org/)’s vision is: “RE-AMP brings environmental, labour, faith, youth, energy, conservation and other groups together to share one audacious goal: to reduce regional global warming emissions 80 percent (from 2005 levels) by 2050”  
       
     The purpose therefore lies at the heart of the network, acting according to a _statement of unity_ which brings together its members. Once the vision has been set out, the rest of the elements of the network will flow from it.
+    
 2.  **Leaders:** Leaders are responsible for driving and coordinating the activities of the network. Leadership in successful networked coalitions is shared and distributed across the network. For example, the Environmental Law Reform Coalition used a steering committee that participated in weekly conference calls to build trust, establish clear leadership roles, and foster accountability.  
       
     There are multiple leadership _roles and responsibilities_ required for a network to operate effectively (detailed below).
+    
 3.  **Common language:** A common language helps members to develop a shared understanding of the cause the network is working to further, helping to build a distinct identity for the network. This can go as far as a shared “organising approach” and training program that comes from this work. For instance, the Sydney Alliance, and the IAF broadly, rely on the principles of community organising to build their coalitions and actively train thousands of leaders in these approaches.
+    
 4.  **Communications grid:** A communications grid is essential for ensuring free-flowing conversations between members so that they can plan activities, share successes and lessons learned and build relationships with one another.  
       
     For example, Halt the Harm opted for a centralised communications grid through [its website](https://halttheharm.net/), which acts as a central hub for resources, communications and collaboration. Its website provides an array of services, created by members and shared across the network, including: a leader directory, which members can use to connect with others based on shared interests, a needed skill, or geographic location; an alliance map, which features the hundreds of Halt the Harm members and others actively working on oil and gas drilling issues around the country; toolkits and support on campaigning and crowdfunding; a fracking help centre; a litigation map; as well as webinars and podcasts.  
@@ -123,31 +138,42 @@ An effective networked coalition requires putting in place certain **core elemen
     The Environmental Law Reform Coalition opted for a more distributed approach through cloned, individualised microsites that enabled each coalition member to continue managing their communications with their members and supporters. Through easily replicable and customizable content, Capulet, the firm that created the digital marketing campaign, was able to clone 55 sites for 26 different organizations. Capulet created generic landing pages, built a modular infrastructure, and then cloned the pages each coalition member wanted to use. This digital campaign not only addressed anxieties surrounding shared lists and assets, it also allowed each coalition organization to promote a unique URL across all their communication channels via a customizable landing page (read the full article about this digital campaign here: “Give each cook their own kitchen: Beating classic coalition challenges”).  
     
 5.  **Shared resources:** Networked coalitions create impact by pooling their members’ skills, expertise, experiences, services and other resources. This allows individual members to mobilise resources they would have otherwise been unable to access if they were operating alone, whilst also saving the overall network time and money. Networked coalitions therefore need systems in place for identifying the resources, assets and capacities that reside within them, tapping these existing capabilities and filling any gaps that may exist. The most successful ‘system’ is a highly interdependent set of relational connections that allows organisations to know each other and their assets.
+    
 6.  **Social ties:** As previously mentioned, networked coalitions focus on building healthy relationships between their members. Such social ties need to be actively cultivated in order to promote trust amongst participants and facilitate collaboration. For example, the communication subcommittee for the Environmental Law Reform Coalition developed social ties as members from the founding organizations worked together to test different frames for the coalition’s work. Once they landed on the “Let’s get it right” frame they mapped the environmental community to identify potential organizations to expand the coalition.
+    
 7.  **Feedback mechanisms:** In order to be able to drive a networked coalition forward, leaders need to be able to understand key trends that are manifesting across the network: needs, resources, emerging opportunities and challenges, and so on. Such feedback loops facilitate continuous learning and enable networked coalitions to continuously adapt to the dynamic contexts in which they operate, based on the knowledge they are constantly generating.
+    
 
 In terms of resources, running networked coalitions requires certain **operational costs**:
 
 -   **Communications infrastructure** – as mentioned above, an effective network requires putting in place suitable communications tools that allow members to engage with each other and with the network as a whole. The communications infrastructure can also be used to provide new members with the core training they need to be able to effectively participate in the network.
+    
 -   **Convening costs** – bringing members together in person helps to build social ties, whilst facilitating collaboration, collective learning together and planning for the future. Members can often absorb some, or all, of the costs of bringing people together (travel expenses, meeting space, facilitation, materials, etc.) if they see a clear value from collaboration.
+    
 -   **Staffing** \- as a network grows, staffing is required to coordinate and support the campaigning activities of members. These staff model the new culture that the coalition is seeking to cultivate across the partner organisations. Coalitions are stronger if the staff are organisers, rather than simply logistics people.
+    
 
 **Roles**
 
 Finally, an effective networked coalition requires certain **roles** to be fulfilled by its leaders and members. In smaller or nascent coalitions, a single member can fulfil multiple functions roles but it is still important to keep all of these roles in mind in order to ensure they are all covered by at least one member:
 
 -   **Principals (or lead organisers):** these are the coalition’s lead organisers who serve as the driving force for shaping the network and provide the initial magnetism that drives people to connect with each other. A key role of principals is to provide the network with a powerful unifying narrative.
+    
 -   **Drivers (or coordinators):** these are the lead campaigners within the network’s member organisations - the people who the network serves and who are responsible for championing individual campaigning actions on the ground to further the network’s cause.
+    
 -   **Supporters** **(or participants):** represent the larger pool of network members who self-organise to participate in and implement the campaigning actions led by the network drivers, thereby determining if they succeed and setting lessons for future actions. Supporters should also be promoters of the network by sharing their experiences with others outside of the network and bringing in those who show interest in participating.
+    
 -   **Weavers (or bridge-builders):** are the matchmakers of a network, working to build synergies by connecting members and forging mutually beneficial relationships between them, for example by looping relevant parties into conversations or by brokering introductions between members who are working in similar areas and who could benefit from each other’s skills or expertise. These people actively translate organisational cultures - speaking to (say) both unions and NGOs - allowing different cultural practices to be better understood.
+    
 
 A key role of weavers is also identifying undeveloped areas within the network and working, often with operators, to strengthen them.
 
 -   **Operators (or guardians):** are the people responsible for establishing and administering a healthy network infrastructure, in particular the communications grid and feedback mechanisms. Operators focus largely on solving problems for others — identifying where the energy and needs are. They therefore need a “birds-eye” view of the network so that they can see what the whole network (or certain parts of it) needs to function more effectively and use this information to constantly tune-up the network systems accordingly. Operators ensure adequate processes for clear and effective communication amongst coalition members (for example, by setting up a process for coalition members to report on campaign outcomes).
+    
 
 ## **Setup steps/ stages**
 
-[_**Connecting to Change the World**_](http://www.networkimpact.org/connecting-to-change-the-world/) identifies a flexible “pathway to success” for building any kind of social impact network, known as the Connect-Align-Produce sequence. This is a useful framework for building networked coalitions because each phase builds on and strengthens the connections forged between the members in the previous stage. Having said this, it shouldn’t be seen as a completely linear sequence: for example, whilst some members are moving onto the produce phase, others may only be just beginning to connect to the network.
+[**_Connecting to Change the World_**](http://www.networkimpact.org/connecting-to-change-the-world/) identifies a flexible “pathway to success” for building any kind of social impact network, known as the Connect-Align-Produce sequence. This is a useful framework for building networked coalitions because each phase builds on and strengthens the connections forged between the members in the previous stage. Having said this, it shouldn’t be seen as a completely linear sequence: for example, whilst some members are moving onto the produce phase, others may only be just beginning to connect to the network.
 
 **1\. Connect**
 
@@ -183,7 +209,7 @@ In this stage, it is also important for members to not only align around a share
 
 **3\. Produce**
 
-Once members have aligned around what they want to achieve and how they envision working together in order to further this cause, the next step is to develop the necessary network infrastructure and resources (see above) in order to facilitate this. During this stage, it is particularly important to think about how to _**facilitate and amplify members’ self-initiated action**_**s**; how to _**facilitate free-flowing communications and learning**_ amongst members; and what kinds of _**moments of convergence**_ you should plan together in order to scale-up your impact.
+Once members have aligned around what they want to achieve and how they envision working together in order to further this cause, the next step is to develop the necessary network infrastructure and resources (see above) in order to facilitate this. During this stage, it is particularly important to think about how to **_facilitate and amplify members’ self-initiated action_s**; how to **_facilitate free-flowing communications and learning_** amongst members; and what kinds of **_moments of convergence_** you should plan together in order to scale-up your impact.
 
 Re-Amp’s strategy for this stage was to establish working groups for each of the key levers of change that they had previously identified in their systems map, as well as an additional working group for funders. At a later point they added caucuses in order to provide outreach to specific constituents, such as youth, faith-based communities, rural areas and national environmental organizations. At the centre of their network sits a steering committee, which is responsible for areas such as designing and maintaining the network’s infrastructure, identifying gaps in strategy, and distributing learning and information across the network. The steering committee is supported by full-time staff equivalents who work out of the offices of member organisations and provide direct support to members in areas such as media, communications and facilitating connections. See the [Monitor Institute’s case study on Re-Amp](https://www.reamp.org/wp-content/uploads/2014/01/Monitor-Institute-RE-AMP-Case-Study.pdf) for a more detailed explanation of its operating structure.
 
@@ -201,7 +227,7 @@ The second is about the social power it builds. Coalitions might win policy refo
 
 **Table of Coalition success**
 
-<div><table><tbody><tr><td><p>Social Change</p><p>(mobilising power)</p></td><td><p>Social Power</p><p>(organising power)</p></td></tr><tr><td>Wins</td><td>Shifting the political climate</td><td>Stronger relationships between network partners/organisations</td><td>More leaders with more skills</td></tr></tbody></table></div>
+<table><tbody><tr><td><p></p></td><td><p></p></td><td><p>Social Change</p><p>(mobilising power)</p></td><td><p>Social Power</p><p>(organising power)</p></td></tr><tr><td><p>Wins</p></td><td><p>Shifting the political climate</p></td><td><p>Stronger relationships between network partners/organisations</p></td><td><p>More leaders with more skills</p></td></tr></tbody></table>
 
 Adapted from Power in Coalition (2010), Tattersall.
 
@@ -212,9 +238,13 @@ Adapted from Power in Coalition (2010), Tattersall.
 As a networked coalition grows, it is important to anticipate common pitfalls that can cause a network to become dysfunctional. Below we list four particularly important pitfalls:
 
 1.  **Navigation becomes impossible -** This occurs when network leaders or members can no longer fathom the network that they are a part of. They don’t know who the members are; where they stand on the issue; what they are doing to further the network’s purpose; or how to contact them. Investing in navigation by ensuring the network’s communication grid addresses these issues is essential. Members should be able to see who else is a member of the network; where they are located; what campaigning actions they are implementing; and how they can get in touch with them. They should also be able to access resources developed by other members and be able to share their own actions and resources across the network.
+    
 2.  **Value flows stop -** One of the reasons why networked coalitions are effective at taking campaigns to scale is that they offer concrete benefits to their members. When members implement campaign actions to further the network’s cause, these actions are given support and increased visibility by the network, allowing them to achieve greater impact than they would have done if they had been implemented on their own. If these value flows stop, then members will no longer feel as incentivised and motivated to continue actively participating in the network and it can therefore quickly lose momentum. Investing in a networked coalitions’ membership is essential for avoiding this pitfall - members need to be able to reach out to the network and garner support from others when they are leading campaign actions.
+    
 3.  **Individual actions are not aggregated to create collective impact** - Distributed leadership and decision-making are one of the key characteristics of networked coalitions. But there is a risk that decentralisation can go too far, leading to lots of self-initiated actions by individual members that do not add up to broader movement for structural/systemic change beyond the local level, limiting the ability of the network to transform its community power into the political power needed to achieve more systemic changes. Overcoming this challenge required integrating a certain degree of centralisation into the network’s structure and carefully balancing this with the need for autonomy and distributed ways of working. In the following section, we explore how to achieve this balance in more detail.
+    
 4.  **Misalignment around why it's important to center race, what it means to center race and how to do it**. This can lead to painful divides related to the ways power and privilege in our coalitions operate at the systemic, institutional and individual levels. These divides are harmful and can stop us from engaging fully to achieve our goals and win. We specifically mention race here because it is a place progressive organizations can often get stuck, and we want to acknowledge that this can apply to other identities and the intersections among them such as class, gender and so much more. As mentioned previously in the guide it's important to center IDEL principles at the values and principles level of the coalition work and to take that into all other aspects of the coalition work. It helps to be explicit about power dynamics, privilege and normalize talking about and unpacking the ways these show up in our work and impact us.
+    
 
 **How to achieve scale with networked coalitions**
 
@@ -255,12 +285,15 @@ Please review the Blueprints for Change [Digital Security Basics for Campaigners
 You can make this article better! Do you have experience building coalitions, or do you have some resources on the topic? Feel free to add them here.
 
 -   How to think about identities without making them exclusive/an obstacle to coalition.
+    
 -   Build together an “alphabeth” for coalition building, in the form of an illustrated fanzine.
+    
 -   How to build a [movement of movements:](https://www.sbs.ox.ac.uk/sites/default/files/2020-01/movement-of-movements-primer.pdf) If all the social movements in the world for eco and social justice shared their strategies with each other and came up with one massive meta strategy for global systems change, what would that look like? What kind of plan would that be? How would it be decided upon? Unprecedented times call for unprecedented measures…
+    
 
 ### Keywords
 
-<div><table><thead><tr><th>Keywords</th><th>Global monthly searches</th><th>Relevancy</th></tr></thead><tbody><tr><td>coalition building</td><td>2.6K</td><td>high</td></tr></tbody></table></div>
+<table><tbody><tr><th><p>Keywords</p></th><th><p>Global monthly searches</p></th><th><p>Relevancy</p></th></tr><tr><td><p>coalition building</p></td><td><p>2.6K</p></td><td><p>high</p></td></tr></tbody></table>
 
 ## Related articles
 
@@ -283,36 +316,58 @@ This article is an adaptation of the one published by [Blueprints for Change](ht
 Example partnerships
 
 -   [Extinction Rebellion partnership guide](https://www.canva.com/design/DAEBqghzyEg/hvNAFVCJQlhcbYIXWWDJJg/view#1)
+    
 
 ### **Guides**
 
 -   [Creating and Maintaining Coalitions and Partnerships](https://ctb.ku.edu/en/creating-and-maintaining-coalitions-and-partnerships) by Community Tool Box
+    
 -   [Starting a Coalition](https://ctb.ku.edu/en/table-of-contents/assessment/promotion-strategies/start-a-coaltion/main) by Community Tool Box
+    
 -   [Maintaining a Coalition](https://ctb.ku.edu/en/table-of-contents/assessment/promotion-strategies/maintain-a-coalition/main) by Community Tool Box
+    
 -   [A Field Guide for Network Managers (NetCentric Campaigns)](https://drive.google.com/file/d/1jsltRA-8f5wdnz5WQlr6HcAXZhwsetlc/view?usp=sharing)
+    
 -   [Embracing Networks (New/Mode)](https://www.newmode.net/embracingnetworks)
+    
 -   [Unlocking Networks: A Hub for Community Organisers and Peer Networks](https://www.unlockingnetworks.org/)
+    
 -   [Network Weaver Resource Package & Toolkit](https://networkweaver.com/product/network-weaver-free-resources-package/)
+    
 -   [EEFA Coalition Cookbook](http://networkecology.org/eefa/)
+    
 -   [Net Gains: A Handbook for Network Builders Seeking Social Change](http://networkimpact.org/downloads/NetGainsHandbookVersion1.pdf)
+    
 -   [Nuts and Bolts of Building an Alliance](https://commonslibrary.org/nuts-and-bolts-of-building-an-alliance/) by Movement Strategy Centre
+    
 -   [How To Build Networked Coalitions](https://commonslibrary.org/how-to-building-networked-coalitions/) by Blueprints For Change
+    
 
 ### **Books**
 
 -   [Connecting to Change the World: Harnessing the Power of Networks for Social](https://books.google.com.pe/books?id=8BQ-BAAAQBAJ)  
     [Impact (Peter Plastrik, Madeleine Taylor & John Clevela)](https://books.google.com.pe/books?id=8BQ-BAAAQBAJ)
+    
 -   [Power in Coalition: Strategies for Strong Unions and Social Change](https://books.google.com.pe/books?id=gvPa4uYKJYIC)  
     [(Amanda Tattersall)](https://books.google.com.pe/books?id=gvPa4uYKJYIC)
+    
 -   [Network Weaver Handbook (June Holley)](https://networkweaver.com/product/network-weaver-handbook-2/)
+    
 
 ### **Articles & Case Studies**
 
 -   [Give each cook their own kitchen: Beating classic coalition campaign challenges (MobLab)](https://mobilisationlab.org/coalition-campaign-cook-kitchen/)
+    
 -   [Transformer: How to build a network to change a system: A Case Study of the RE-AMP Energy Network (Monitor Institute)](https://www.reamp.org/wp-content/uploads/2014/01/Monitor-Institute-RE-AMP-Case-Study.pdf)
+    
 -   [Changemakers: How to Win (Season 1, Episode 2): Case studies of the Brexit Campaigns and the Gasfield Free Northern Rivers alliance](https://changemakerspodcast.org/episode-2-win/)
+    
 -   [Pioneers In Justice: Building Networks and Movements for Social Change](http://www.lccr.com/wp-content/uploads/Levi-Strauss-Foundation-Pioneers-in-Justice.pdf)
+    
 -   [Transforming Coordination Within Social Movements](https://commonslibrary.org/transforming-coordination-within-social-movements/) by Jeremy Brecher
+    
 -   [Networked Change: How Progressive Campaigns are Won in the 21st Century](https://commonslibrary.org/networked-change/) by Jason Mogus and Tom Liacas
+    
 -   [Movement as Network: Connecting People Organizations and People in the Environmental Movement](https://commonslibrary.org/movement-as-network-connecting-people-and-organizations-in-the-environmental-movement/) by Gideon Rosenblatt
+    
 -   [Enabling Emergence: The Bentley Blockade and the Struggle for a Gasfield free Northern Rivers](https://commonslibrary.org/enabling-emergence-the-bentley-blockade-and-the-struggle-for-a-gasfield-free-northern-rivers/) by Aiden Ricketts and Annie Kia
