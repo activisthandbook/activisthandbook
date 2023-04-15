@@ -6,7 +6,7 @@ description: >
 langCode: en
 articleID: Z6uJY_SPlb4KGAjna9PThNsgiE0J98Ty
 languageCollectionID: fVhmN9s7AQ-loB2iM9of0SYyO7H3_eg2
-updatedTimestamp: 1680074754599
+updatedTimestamp: 1681549067889
 createdTimestamp: 1602591877175
 wordCount: 939
 tags: []
@@ -60,6 +60,8 @@ This means we can copy their articles to Activist Handbook as long as the approp
     
 -   [**Rhizome Network**](/resources/rhizome-network): Seem to be inactive since 2020, but their website still contains valuable Creative Commons resources
     
+
+<action-smart-small></action-smart-small>
 
 ## Copyright websites
 

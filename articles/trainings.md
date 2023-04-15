@@ -6,7 +6,7 @@ description: >
 langCode: en
 articleID: YUfVGkwMxm05zjEjl7vPQ9gPpUCItupH
 languageCollectionID: vijKrgNARghr6p534ZbiZ1HWioKFbDgl
-updatedTimestamp: 1681471227054
+updatedTimestamp: 1681549044143
 createdTimestamp: 1587834484219
 wordCount: 1723
 tags: ["training"]
@@ -135,6 +135,8 @@ These initiatives do not have a website, but are still interesting to check out:
 
 -   Organised Anarchism (active on [Instagram](https://www.instagram.com/organized.anarchism/) & [Twitter](https://twitter.com/organizedanar))
     
+
+<action-smart-small></action-smart-small>
 
 ## About this page
 
