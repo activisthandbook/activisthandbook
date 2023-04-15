@@ -1,14 +1,14 @@
 ---
 title: >
-  Social media for activists 
+  Social media for activists
 description: >
   How to use social media to grow your movement
 langCode: en
 articleID: Cj99lsXnI4PFCr6eSJrzI_gSyOh4_LBu
 languageCollectionID: JHwMD3R3tNOsF_oZPrULUAYCkxJEjZXi
-updatedTimestamp: 1676123092104
+updatedTimestamp: 1681540302377
 createdTimestamp: 1583670666349
-wordCount: 608
+wordCount: 707
 tags: ["tools","social media"]
 ---
 
@@ -45,6 +45,12 @@ With users spread out over so many different platforms, it can be hard to create
     
 -   **Sprout Social**
     
+
+## Local context
+
+Activists who use social media to promote their causes need to be aware of the local context across countries, as it can impact their effectiveness and safety. For example, some countries may have different laws, norms, or censorship policies that affect how activists can communicate online.
+
+Some countries may also have different levels of internet access, digital literacy, or media freedom that influence how activists can reach and mobilize their audiences. Therefore, activists should tailor their social media strategies to the specific context of each country they operate in, and be prepared to adapt to changing circumstances.
 
 ## How to contribute
 

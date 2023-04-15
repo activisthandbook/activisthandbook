@@ -6,9 +6,9 @@ description: >
 langCode: en
 articleID: 0_yoxWYXGbjaX-v5RE1qlL72Cr4FItvP
 languageCollectionID: LUihcdG6bhR12zU73D-VtKU92Xv1OlQX
-updatedTimestamp: 1681490094835
+updatedTimestamp: 1681541144664
 createdTimestamp: 1681485991902
-wordCount: 413
+wordCount: 423
 ---
 
 In this guide, we explain how you can use ChatGPT and similar tools to write better guides for activists. We show you what prompts to use and warn for its limitations.
@@ -69,7 +69,7 @@ The prompt below only works in the Edge chat feature. Make sure you enable acces
 
 ### Local context
 
-> Explain how the local context across countries can impact activists trying to \[TOPIC\].
+> List challenges that arise from differing local contexts across countries for activists trying to \[TOPIC\]. Provide solutions to each of those local challenges.
 
 ## Getting creative
 

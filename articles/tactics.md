@@ -6,9 +6,9 @@ description: >
 langCode: en
 articleID: dqIEdknV4hO7Eqa1OZNQWeeF1D-KptVM
 languageCollectionID: WeIM7eSP9ovc2D_rh7HpCq26GW7AQRV-
-updatedTimestamp: 1679313308810
+updatedTimestamp: 1681539810097
 createdTimestamp: 1594650737037
-wordCount: 1436
+wordCount: 1635
 tags: []
 ---
 
@@ -28,7 +28,7 @@ Before picking your protest tactic, you first need to decide what type of activi
     
 -   **💻** [**Digital activism**](/tactics/digital-activism): making use of online platforms or using hacktivism to disrupt the digital world to make a point.
     
--   **💬** [**Raising awareness**](/tactics/raising-awareness)
+-   **💬** [**Raising awareness**](/tactics/raising-awareness): Educating the public about the issues and solutions, for example using speeches, petitions, slogans, symbols and media campaigns.
     
 -   **🗳** [**Political activism**](/tactics/political-activism): acting within established political institutions to create change through policy, for example by running for office or organising succesful election campaigns.
     
@@ -36,8 +36,6 @@ Before picking your protest tactic, you first need to decide what type of activi
     
 -   **🤑** [**Financial activism**](/tactics/finanical-activism): using monetary pressure to create change, for example through boycotts or shareholder activism
     
-
-_Many different activist tactics exist. To bring order into the chaos, we chose one particular categorisation based on SEO research (see above). However, other ways of categorising tactics are also possible. Read chapter 3 of_ [_Civil Resistance in the 21st Century_](https://www.nonviolent-conflict.org/wp-content/uploads/2021/03/Civil-Resistance-Tactics-in-the-21st-Century-Monograph.pdf?utm_source=activisthandbook.org) _by ICNC for more context._
 
 ## Action toolbox
 
@@ -51,6 +49,10 @@ Whatever your action, these practices will come in handy:
     
 -   ☮️ [Disabling a tank](/tactics/disable-tank)
     
+
+## Local context
+
+The local context across countries can impact activists trying to choose their protest tactics in various ways. For example, the level of repression, the media coverage, the public opinion, the legal framework, and the cultural norms can all influence the effectiveness and the risks of different forms of protest. Activists need to consider these factors carefully and adapt their strategies accordingly to achieve their goals.
 
 ## Choose your tactic
 
@@ -93,7 +95,7 @@ There are many ways of digital activism. Some of them include sharing pictures a
 
 Sometimes having a conversation is better than shouting slogans. Informational tactics are there to start a public debate about certain topics, in the hope that the outcome of the debate will lead to societal change.
 
-**Topics:** [Education](/tactics/education) | [Door-to-door canvassing](/tactics/canvassing) | [Leafletting](/tactics/leafletting) | [Hosting a talk or debate](/tactics/talk-debate) | Journalism | [Whistleblowing](/tactics/whistleblowing) | Blogging | Novels
+**Topics:** [Education](/tactics/education) | [Door-to-door canvassing](/tactics/canvassing) | [Leafletting](/tactics/leafletting) | Hosting a talk or debate | Journalism | [Whistleblowing](/tactics/whistleblowing) | Blogging | Novels
 
 ### Institutional 🏛
 
@@ -108,6 +110,16 @@ By joining existing institutions one can make change happen from within. Institu
 > “A good tactic is one that **your people enjoy**. If your people are not having a ball doing it, there is something very wrong with the tactic.”
 > 
 > Saul Alinsky (Rules for Radicals, p.94)
+
+## Q&A
+
+### What is a protest tactic?
+
+A tactic is a specific action or method that is used to achieve a goal or objective in the context of activism and protesting. Tactics can be diverse and creative, such as marches, sit-ins, boycotts, strikes, petitions, graffiti, banners, etc. Tactics can also be violent or nonviolent, depending on the situation and the message. The choice of tactics depends on various factors, such as the target audience, the resources available, the risks involved, the ethical principles, and the desired outcome.
+
+### What types of tactics exist?
+
+There are many tactics that activists use. To bring order into the chaos, we chose one particular categorisation based on search engine optimization research. In other words, we created our categories based on the terms people use to find various types of tactics on Google. However, other ways of categorising tactics are also possible. Read chapter 3 of [Civil Resistance in the 21st Century](https://www.nonviolent-conflict.org/wp-content/uploads/2021/03/Civil-Resistance-Tactics-in-the-21st-Century-Monograph.pdf?utm_source=activisthandbook.org) by ICNC for more context.
 
 ## Improve this page
 
