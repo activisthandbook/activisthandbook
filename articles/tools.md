@@ -2,11 +2,11 @@
 title: >
   Digital tools for activists 🛠
 description: >
-  Giphy
+  Free and affordable tools for nonprofits
 langCode: en
 articleID: _FhS3DYPgN9p0h3elRVarmYTU8jQvcTA
 languageCollectionID: _umEWSFrid1WEvO8qO_6umUHhX8sIc49
-updatedTimestamp: 1681547996474
+updatedTimestamp: 1681552593501
 createdTimestamp: 1583509229031
 wordCount: 922
 tags: ["tools","chapters"]
