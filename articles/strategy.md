@@ -6,7 +6,7 @@ description: >
 langCode: en
 articleID: v7ONnIEx3he17_I-JD0CgqlZRX-75Zuy
 languageCollectionID: GEBMCoST8DAOBDN-LZdnxBWpOlQD18V2
-updatedTimestamp: 1681540207241
+updatedTimestamp: 1681548312758
 createdTimestamp: 1583509165087
 wordCount: 705
 tags: ["tactics","chapters"]
@@ -61,6 +61,8 @@ The local context across countries can impact activists trying to develop their 
     
 -   **In a country with a dominant and oppressive culture**, activists may have to challenge deeply ingrained norms and values that justify or normalize injustice and discrimination. They may need to raise awareness and educate people about the issues they are fighting for, and use cultural expressions and narratives that resonate with their audience.
     
+
+<action-smart-small></action-smart-small>
 
 ## Improve this chapter
 

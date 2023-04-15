@@ -6,7 +6,7 @@ description: >
 langCode: en
 articleID: dqIEdknV4hO7Eqa1OZNQWeeF1D-KptVM
 languageCollectionID: WeIM7eSP9ovc2D_rh7HpCq26GW7AQRV-
-updatedTimestamp: 1681539810097
+updatedTimestamp: 1681548296325
 createdTimestamp: 1594650737037
 wordCount: 1635
 tags: []
@@ -53,6 +53,8 @@ Whatever your action, these practices will come in handy:
 ## Local context
 
 The local context across countries can impact activists trying to choose their protest tactics in various ways. For example, the level of repression, the media coverage, the public opinion, the legal framework, and the cultural norms can all influence the effectiveness and the risks of different forms of protest. Activists need to consider these factors carefully and adapt their strategies accordingly to achieve their goals.
+
+<action-smart-small></action-smart-small>
 
 ## Choose your tactic
 

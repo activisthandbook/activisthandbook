@@ -6,7 +6,7 @@ description: >
 langCode: en
 articleID: KpSE6GZzWtgmL1uqgz-MGDkI0p43Y3tw
 languageCollectionID: 0i_-Q9v7ZVA3wxBRMxfhy5eJ5GSoLBKU
-updatedTimestamp: 1681545034186
+updatedTimestamp: 1681547602487
 createdTimestamp: 1598872029744
 wordCount: 1131
 tags: []
@@ -57,6 +57,8 @@ Some possible solutions to these challenges are:
     
 -   Building solidarity and cooperation among CSOs and other stakeholders, such as media, academia, public institutions or international organisations, to raise awareness and support for human rights activism.
     
+
+<action-smart-small></action-smart-small>
 
 ## Improve this page
 

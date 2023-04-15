@@ -6,9 +6,9 @@ description: >
 langCode: en
 articleID: J3gTgLgqTAzHrap5en3ePR2GBmNRAg__
 languageCollectionID: Hm6ZaeMf02oXtZN2LlCr1NkH7Cxu6Il_
-updatedTimestamp: 1681539994337
+updatedTimestamp: 1681548248616
 createdTimestamp: 1583509188074
-wordCount: 1055
+wordCount: 1016
 tags: []
 ---
 
@@ -68,8 +68,6 @@ Where do you want to share your message?
 -   [**Advertising**](/communication/advertising) **(needs to be created)**
     
 
-**Global Climate Strike in London –** Global Climate Strike in London. Tens of thousands turned out in central London to call for radical change to climate policies. The day included speeches and a march through central London. ([350org, 2019](https://www.flickr.com/photos/350org/48794671711/))
-
 ## Local context
 
 The local context across countries can impact activists trying to communicate their message in various ways. For example, the political system, the cultural norms, the media landscape, and the legal framework can affect how activists can express their views, mobilize supporters, and influence decision-makers. Depending on the context, activists may face different opportunities and challenges in their advocacy work. Some general examples are:
@@ -80,6 +78,8 @@ The local context across countries can impact activists trying to communicate th
     
 -   **In a country with a diverse or divided population**, activists may have to deal with different cultural values, beliefs, languages, and identities among their potential supporters and opponents. They may need to tailor their message to appeal to different groups and avoid alienating or offending others. They may also need to build coalitions and alliances with other actors who share their goals or interests.
     
+
+<action-smart-small></action-smart-small>
 
 ## Improve this page
 

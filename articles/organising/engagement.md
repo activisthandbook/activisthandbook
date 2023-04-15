@@ -1,12 +1,12 @@
 ---
 title: >
-  Recruitment and engagement
+  Keeping people involved
 description: >
-  Community building for activist movements
+  Increase membership engagement
 langCode: en
 articleID: lwXuStFPLIQwUu_yg2hsZwnl_MLJaQ6X
 languageCollectionID: KJDBDugCUogRlOSqDrfCc5k89fd-lkA5
-updatedTimestamp: 1679983133745
+updatedTimestamp: 1681547575956
 createdTimestamp: 1583671492658
 wordCount: 2116
 tags: []
@@ -48,8 +48,9 @@ Active members support you on the streets and on social media but will not be th
 
 Passive membership are the people who recognise that the movement is trying to create positive change in society but have no interest in action. Converting them to the cause requires the long-term breakdown of that inaction. The resultant consequence could be simply just voting or signing a petition. All you need is to for them to show that they agree with you, that they do not support the opposing system. This is the hardest membership base to measure but generally there is a correlation between an increase in active and passive support.
 
-  
-_The path to victory is not to create a coalition through awkward comprises, but rather to develop your values with such clarity that you persuade others to join your cause. Empires fall not because people oppose them, but because they find their support eroded. To win, you need to convince others to defect._
+> _The path to victory is not to create a coalition through awkward comprises, but rather to develop your values with such clarity that you persuade others to join your cause. Empires fall not because people oppose them, but because they find their support eroded. To win, you need to convince others to defect._
+
+<action-smart-small></action-smart-small>
 
 ## Engagement
 

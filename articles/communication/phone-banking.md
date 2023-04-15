@@ -6,8 +6,9 @@ description: >
 langCode: en
 articleID: SUUTlNt_FwBUIwtvKCNlUWvhOE1Sibsb
 languageCollectionID: 2YNm2PBNSyvF3s6uB-W0fT0kf3Gl5dEE
-updatedTimestamp: 1668577104952
+updatedTimestamp: 1681548199254
 createdTimestamp: 1634136511440
+wordCount: 3629
 tags: ["tools","communication"]
 ---
 
@@ -26,9 +27,13 @@ Other groups using phone banking include [Human Rights Campaign](https://www.hrc
 ## **Impact/ Why do this?**
 
 -   Have personal conversations at scale
+    
 -   Communicate with voters when door-to-door just isn’t feasible
+    
 -   Have passionate volunteers living in non-election states call across state lines to voters in swing states
+    
 -   Gather valuable information about voters that will affect campaign messaging.
+    
 
 **To engage people in personal conversations**  
   
@@ -57,6 +62,8 @@ As a campaign grows and build alliances with other organizations and grassroots 
 **Drive Lobbying Strategies**
 
 Several phone banking platforms offer a “patch-through calls” features, which can be used to connect supporters to their elected representatives, or other campaign targets, in order to drive mass lobbying efforts. [NEAT](http://www.theneat.org/) uses this tactic in their campaigns for LGBTQ+ justice: “_When we find people that support an issue, we can transfer them at their request to leave a message with their local elected official to let them know how they feel.”_
+
+<action-smart-small></action-smart-small>
 
 ## **When this might not work for you**
 
@@ -167,7 +174,9 @@ Though tech providers work on preventing this, phone banking software can jam up
 To address this, Celine Trojand from Organizing for Change reported the following practices:
 
 -   “In some cases, when the predictive dialer didn’t work and volunteers called multiple people, all we could do was be as communicative as possible with the solutions. It helped to have people on phone support to communicate with volunteers and walk them through troubleshooting. It was important to let everyone know the problem and the solution. Being responsive and letting people know we were working hard for them was key. We also had a couple of analog back ups -- solutions like a folder a phone numbers in spreadsheet form. If someone was having so much trouble that they couldn’t use the tech, we would go analog.
+    
 -   We had to prioritize our volunteer experience so that they would come back. We were very responsive, communicative and has many plans to knock down a list.
+    
 
 **Data entry**
 
@@ -186,29 +195,42 @@ Campaigns that have had a large number of volunteers making calls through a brow
 People are looking up the following questions:
 
 -   Is phone banking effective?
+    
 -   What is a phone bank?
+    
 -   phone bank volunteer
+    
 -   open virtual phone bank
+    
 
 ## **Resources**
 
 **Tools: Phone banking platforms**
 
 -   [CallHub](https://callhub.io/phone-banking/) (International)
+    
 -   [Hubdialer](https://www.hubdialer.com/) (U.S.)
+    
 -   [LiveVox](https://livevox.com/) (International)
+    
 
 **Phone banking guides**
 
 -   [How to phone bank](https://www.youtube.com/watch?v=_SzdceBih2s) by Morgan Gale \[video\]
+    
 -   [What is a predictive dialer?](https://callhub.io/what-is-a-predictive-dialer/)
+    
 -   [Automated Vs Manual phone banking](https://callhub.io/automated-call-center-vs-manual-collective-calling/)
+    
 -   [Volunteer-led Phone Banking Guide](https://commonslibrary.org/how-to-volunteer-led-phone-banking/) by Blueprints for Change
+    
 -   [Tips for Phonebanking or Calling Volunteers](https://commonslibrary.org/tips-for-phonebanking-or-calling-volunteers/) by Holly Hammond
+    
 
 **Great phone banking tutorial video from DemLabs:**
 
 -   [Improve Your Phone Banking Skills](https://www.youtube.com/watch?v=Z-Y8kn0G1yg)
+    
 
 ## **Attribution**
 
