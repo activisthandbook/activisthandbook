@@ -6,9 +6,9 @@ description: >
 langCode: en
 articleID: IMpWBGgi-DB7e68av_nsoMrQknq0sVzD
 languageCollectionID: 0LiiGOKPXDtXadFAhHloJNbQCpMVuhqF
-updatedTimestamp: 1677085460878
+updatedTimestamp: 1680364209826
 createdTimestamp: 1641915364078
-wordCount: 1336
+wordCount: 1345
 tags: ["climate"]
 ---
 
@@ -19,8 +19,6 @@ As the world faces an unprecedented climate crisis, people are taking to the str
 If you are reading this, you are probably already aware of the many ways in which climate change is affecting our planet. Perhaps you have read about the melting glaciers, the billions of tons of plastic in our oceans, or the drastic decline in the populations of many species of animals. Or maybe you have experienced the effects of climate change firsthand, in the form of more extreme weather conditions or changes in your local ecosystem.
 
 Whatever your reason for wanting to take action on climate change, this guide is for you. Here, you will find information on some of the most effective ways to make a difference. Whether you want to lobby your government for change, or join a climate protest, you will find the resources you need here. So let’s get started!
-
-Activist fighting for climate justice - Generated using OpenAI
 
 ## Guides for climate activists
 
@@ -59,6 +57,27 @@ Make sure to convey a sense of urgency. Do not say “climate change”, use phr
 4.  The ocean's **ecosystems are collapsing**, putting countless species in danger.
     
 5.  We must take action now before it's too late and our planet is **irrevocably damaged**.
+    
+
+## Climate activist groups
+
+### International
+
+-   [Extinction Rebellion](/extinction-rebellion)
+    
+-   [Fridays for Future](/fridays-for-future)
+    
+-   [Just Stop Oil](/just-stop-oil)
+    
+
+### Italy
+
+-   [Ultima Generazione](/ultima-generazione)
+    
+
+### Germany
+
+-   [Letzte Generation](/letzte-generation)
     
 
 ## Q&A

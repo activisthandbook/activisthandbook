@@ -6,9 +6,9 @@ description: >
 langCode: en
 articleID: ItlwwJfYopwgV4ZEnH653rUc1JbQ2GJj
 languageCollectionID: l8XZ2W25XNow2B1wFBSVg7-4T2S1LBn3
-updatedTimestamp: 1676481606702
+updatedTimestamp: 1681487489491
 createdTimestamp: 1583509148168
-wordCount: 974
+wordCount: 1392
 tags: ["wellbeing","chapters"]
 ---
 
@@ -63,6 +63,21 @@ Articles that have been written to cover special issues that are currently relev
     
 -   **💚** [**Wellbeing climate activists**](/wellbeing/climate)
     
+
+## Local context
+
+Activists who work for social change often face challenges and risks that can affect their wellbeing. However, the local context across countries can also impact how activists cope with these challenges and access support. Some of the factors that can influence the wellbeing of activists in different contexts are:
+
+-   **The political and legal environment:** Activists may face different levels of repression, censorship, surveillance, harassment, intimidation, or violence from the state or other actors depending on the country they operate in. This can create a climate of fear, stress, and insecurity that can undermine their mental and physical health. Activists may also have different degrees of freedom and protection to express their views, organize, mobilize, or access justice and legal aid.
+    
+-   **The social and cultural norms:** Activists may encounter different expectations, values, beliefs, or stereotypes from their families, communities, or society at large depending on the country they live in. This can affect their sense of identity, belonging, or acceptance as well as their relationships and social support networks. Activists may also face different forms of discrimination, stigma, or marginalization based on their gender, sexuality, ethnicity, religion, or other aspects of their identity or work.
+    
+-   **The availability and accessibility of resources:** Activists may have different opportunities and challenges to access resources that can enhance their wellbeing depending on the country they work in. This can include financial resources, such as funding, grants, or donations; material resources, such as equipment, tools, or infrastructure; human resources, such as staff, volunteers, or allies; and informational resources, such as data, evidence, or knowledge. Activists may also have different options and barriers to access services that can support their wellbeing, such as health care, education, counseling, or therapy.
+    
+-   **The diversity and solidarity of the activist community:** Activists may have different experiences of working with other activists within or across movements depending on the country they collaborate in. This can affect their sense of solidarity, trust, cooperation, or learning as well as their exposure to conflicts, tensions, or competition. Activists may also have different levels of diversity and inclusion within their movements based on the representation and participation of different groups and perspectives.
+    
+
+These factors can shape how activists perceive and respond to the challenges and risks they face as well as the strategies and practices they adopt to take care of their wellbeing. Therefore, it is important to understand and respect the local context across countries when supporting activists' wellbeing and to tailor the support according to their specific needs and realities.
 
 ## Q&A
 

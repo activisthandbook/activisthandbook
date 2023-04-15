@@ -6,9 +6,9 @@ description: >
 langCode: en
 articleID: J3gTgLgqTAzHrap5en3ePR2GBmNRAg__
 languageCollectionID: Hm6ZaeMf02oXtZN2LlCr1NkH7Cxu6Il_
-updatedTimestamp: 1680076333625
+updatedTimestamp: 1681539994337
 createdTimestamp: 1583509188074
-wordCount: 814
+wordCount: 1055
 tags: []
 ---
 
@@ -69,6 +69,17 @@ Where do you want to share your message?
     
 
 **Global Climate Strike in London –** Global Climate Strike in London. Tens of thousands turned out in central London to call for radical change to climate policies. The day included speeches and a march through central London. ([350org, 2019](https://www.flickr.com/photos/350org/48794671711/))
+
+## Local context
+
+The local context across countries can impact activists trying to communicate their message in various ways. For example, the political system, the cultural norms, the media landscape, and the legal framework can affect how activists can express their views, mobilize supporters, and influence decision-makers. Depending on the context, activists may face different opportunities and challenges in their advocacy work. Some general examples are:
+
+-   **In a democratic country** with a free press and a vibrant civil society, activists may have more space to voice their opinions, organize protests, and lobby policymakers. However, they may also face competition from other groups and interests, and need to adapt their message to different audiences and platforms.
+    
+-   **In an authoritarian country** with a repressive regime and a controlled media, activists may have less space to voice their opinions, organize protests, and lobby policymakers. They may face censorship, harassment, intimidation, or even violence from the authorities or their supporters. They may need to use alternative or covert methods to communicate their message, such as online platforms, encrypted tools, or underground networks.
+    
+-   **In a country with a diverse or divided population**, activists may have to deal with different cultural values, beliefs, languages, and identities among their potential supporters and opponents. They may need to tailor their message to appeal to different groups and avoid alienating or offending others. They may also need to build coalitions and alliances with other actors who share their goals or interests.
+    
 
 ## Improve this page
 

@@ -6,9 +6,9 @@ description: >
 langCode: en
 articleID: v7ONnIEx3he17_I-JD0CgqlZRX-75Zuy
 languageCollectionID: GEBMCoST8DAOBDN-LZdnxBWpOlQD18V2
-updatedTimestamp: 1679984782904
+updatedTimestamp: 1681540207241
 createdTimestamp: 1583509165087
-wordCount: 458
+wordCount: 705
 tags: ["tactics","chapters"]
 ---
 
@@ -47,6 +47,19 @@ Before you can start to define your strategy, you need to get a group of likemin
 -   [Dealing with opposition](/strategy/opposition)
     
 -   [Power mapping](/strategy/power-mappig)
+    
+
+## Local context
+
+The local context across countries can impact activists trying to develop their strategy in various ways. For example, the political system, the legal framework, the media landscape, the cultural norms, and the public opinion can all affect the opportunities and challenges that activists face. Depending on the context, activists may need to adapt their goals, tactics, messages, allies, and risks. Some general examples are:
+
+-   **In a democratic country** with a strong civil society and a free press, activists may have more space to voice their demands and mobilize support through peaceful protests, petitions, campaigns, and lobbying.
+    
+-   **In an authoritarian country** with a repressive regime and a controlled media, activists may have less space to express their dissent and may face more threats and violence. They may need to use more covert and creative ways to communicate and organize, such as encryption, art, humor, or symbolism.
+    
+-   **In a country with a diverse and divided society**, activists may have to deal with different and sometimes conflicting interests and identities among their potential supporters and opponents. They may need to build bridges and coalitions across different groups and sectors, and avoid alienating or polarizing others.
+    
+-   **In a country with a dominant and oppressive culture**, activists may have to challenge deeply ingrained norms and values that justify or normalize injustice and discrimination. They may need to raise awareness and educate people about the issues they are fighting for, and use cultural expressions and narratives that resonate with their audience.
     
 
 ## Improve this chapter
