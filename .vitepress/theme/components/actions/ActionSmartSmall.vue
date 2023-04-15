@@ -1,11 +1,14 @@
 <template>
   <div class="call-to-action primary-action small" tabindex="0" id="action-smart-small">
-    <h1>Sorry to interrupt...</h1>
+    <h1>⚠️ Urgent request: Please don't scroll away</h1>
     <p class="description">
-      Our volunteers spent many hours writing this article. They got $0 for their work. But now, they do have to pay rent. Consider making a small donation and support them:
+      We ask you, humbly, to help. Activist Handbook trains 6000 new activists every month. But very few people decide to donate. We depend on donations to keep our platform free and independent.
+    </p>
+    <p class="description">
+      We appreciate any donation, no matter how small. Give whatever you can afford this month:
     </p>
     <div class="meta">
-      <a href="/donate" class="promo-smart-small">Make small donation</a>
+      <a href="/donate" class="promo-smart-small">Donate now</a>
     </div>
   </div>
 </template>
