@@ -6,9 +6,9 @@ description: >
 langCode: en
 articleID: p2JHElUNuhZ0836tywQzp55W8IFaKw55
 languageCollectionID: 1ZJn8NaxJ_WxKa_U1m9Xlf_1G93_IQ8u
-updatedTimestamp: 1680068549545
+updatedTimestamp: 1682523087834
 createdTimestamp: 1583508790126
-wordCount: 361
+wordCount: 363
 tags: ["resources"]
 ---
 
@@ -21,6 +21,8 @@ We made a collection of valuable resources for protestors, campaigners and all o
 -   **🔗** [**Websites**](/resources/websites)
     
 -   **📕** [**Books**](/resources/books)
+    
+-   📖 [**Handbooks**](/resources/handbooks)
     
 -   **🎧** [**Podcasts**](/resources/podcasts)
     

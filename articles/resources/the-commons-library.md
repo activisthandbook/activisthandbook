@@ -6,9 +6,9 @@ description: >
 langCode: en
 articleID: MVawwsRzb24Kk-J2PIdPuO2T1GFNQzab
 languageCollectionID: ra5zzhhdS53h3rqKdZ98WhjqSvuXbOf2
-updatedTimestamp: 1677740616556
+updatedTimestamp: 1682524879235
 createdTimestamp: 1653037424084
-wordCount: 2118
+wordCount: 2125
 tags: []
 ---
 
@@ -18,7 +18,7 @@ _Also make sure to check out other_ [_resources for activists_](/resources)_._
 
 ## **About the Commons Library**
 
-The Commons Library, which was started in 2015 by the Australian political movement [GetUp!](https://en.wikipedia.org/wiki/GetUp!), is an online resource centre for those working towards social change. It offers a wide range of educational materials on topics such as campaign strategy, community organizing, digital campaigning, and diversity and inclusion.
+The Commons Library is an online resource centre for those working towards social change. It offers a wide range of educational materials on topics such as campaign strategy, community organizing, digital campaigning, and diversity and inclusion.  Originally started in 2015 by the Australian political movement [GetUp!](https://en.wikipedia.org/wiki/GetUp!), it was relaunched in 2019 by its current team Commons Library Ltd.
 
 These resources are available in various formats including videos, podcasts, articles, and training materials. The library is free to use and aims to be inclusive, accessible, and beneficial to many.
 

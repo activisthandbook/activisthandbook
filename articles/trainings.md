@@ -6,9 +6,9 @@ description: >
 langCode: en
 articleID: YUfVGkwMxm05zjEjl7vPQ9gPpUCItupH
 languageCollectionID: vijKrgNARghr6p534ZbiZ1HWioKFbDgl
-updatedTimestamp: 1681549044143
+updatedTimestamp: 1682524065610
 createdTimestamp: 1587834484219
-wordCount: 1723
+wordCount: 1896
 tags: ["training"]
 ---
 
@@ -71,6 +71,24 @@ The following organisations have trainers in several countries:
 -   [**Canvas**](https://canvasopedia.org/schedule-training-or-consultations/): Center for Applied NonViolent Actions and Strategies
     
 -   [**The Social Change Agency**](https://thesocialchangeagency.org/?utm_source=activisthandbook.org): "From grassroots campaigns to established organisations, we’ll work with you to develop the tools, techniques and networks you need to create lasting social impact."
+    
+-   [**The Hum**](http://thehum.org/): provides practical guidance for decentralised organisations. (Disclaimer: this is Richard Bartlett’s company, who started this libary.)
+    
+-   [**AORTA**](https://aorta.coop/work-with-us): The Anti-Oppression Resource and Training Alliance is a worker-owned co-op supporting grassroots and social justice groups to grow their capacity.
+    
+-   [**Organisational Misbehaviourists**](http://www.organisationalmisbehaviourists.com/): corporate trainers focussed on psychological safety and collective wisdom
+    
+-   [**PowerLab**](https://powerlabs.io/): campaigning trainers
+    
+-   [**RAD.cat**](http://RAD.cat): Research Action Design (RAD) uses community-led research, collaborative design of technology and media, and secure digital strategies to build the power of grassroots social movements.
+    
+-   [**NetChange**](http://netchange.co/trainings): distributed organising campaign trainers
+    
+-   [**Round Sky Solutions**](https://www.roundskysolutions.com/): a worker owned cooperative offering online or in-person training and support for collaborative meetings, decision-making, clarifying roles, strategic planning, and innovative solutions to the challenges of self-organization.
+    
+-   [**Evolutesix**](https://www.evolutesix.com/): Programmes for startups and established companies on deploying an integrated legal + roles and tasks + developmental practices, based on the book Rebuild above. Focus on regenerative startups.
+    
+-   [**Effective Collective**](https://www.effectivecollective.net/): Kavana Tree Bressen is an experienced trainer and facilitator for a wide range of groups oriented toward horizontal power; website includes an extensive library of articles and handouts.
     
 
 ### Australia 🇦🇺
