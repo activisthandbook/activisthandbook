@@ -6,9 +6,15 @@ description: >
 langCode: en
 articleID: X3umAd56zE_WfRK7zcHngdegG3YyMXkk
 languageCollectionID: iy2_KUsH2lXPdvhd5Txr2B7jyLgtdRVS
-updatedTimestamp: 1679305810116
-createdTimestamp: 1675522460685
+updatedTimestamp: 1682925607762
+createdTimestamp: 1675239596552
 wordCount: 143
+focusMode: 
+  isOn: true
+  buttonLabel: 
+  buttonAnchor: primary-action
+sidebar: false
+aside: false
 ---
 
 You can contribute to Activist Handbook! Our platform works just like Wikipedia: everyone can edit. In this guide, we explain how to start contributing.

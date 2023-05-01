@@ -6,9 +6,9 @@ description: >
 langCode: en
 articleID: YDhDPuRtRiSVyvpIQFEshkjwntMOHg2j
 languageCollectionID: J2Ob8I-vLt6F7hsqCHl_RhDVkGC1ybLs
-updatedTimestamp: 1677085370063
+updatedTimestamp: 1682779883071
 createdTimestamp: 1593095391290
-wordCount: 452
+wordCount: 552
 tags: []
 ---
 
@@ -96,6 +96,31 @@ When improving this page, focus on the following:
 -   How do activists understand justice and equality?
     
 -   What are ethics?
+    
+-   What is diversity, equity and inclusivity and how are these concepts relevant to activists?
+    
+
+### A list of relevant topics to this chapter
+
+-   Critical theory, critical race theory, queer theory,, critical pedagogy
+    
+-   Feminism, gender equality, postcolonial feminism, feminist posthumanism
+    
+-   Environmentalism, eco-feminsm, ecology, climate justice, queer ecology.
+    
+-   social movement theory (revolutionary movements, reactionary movements, self-help movements, etc.)
+    
+-   anthropocentrism, non-human rights
+    
+-   bottom-up, top down
+    
+-   Art and activism, artivism, cultural activism, aesthetic approaches and visual identity, socially engaged practices, male gaze and other gazes.
+    
+-   Alternative building, regenerative culture, mutual aid, precarity and accountability
+    
+-   ecopsychology, climate anxiety, ecological grieve and hope
+    
+-   civil disobedience, violence, nonviolence
     
 
 ### Search keywords
