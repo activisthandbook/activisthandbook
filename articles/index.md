@@ -88,7 +88,7 @@ Activist Handbook is here for all progressive, green and social activists. We em
 _Also make sure to check out the rest of our [campaigns](/campaigns)._
 
 <action-custom buttonlink="/join" buttonlabel="Join the campaign">
-  <h2>We're training 350 million activists</h2>
+  <h2>Let's train 350 million activists</h2>
   <p class="description">
     We're in deep shit. Natural ecosystems are crumbling. Democracies are breaking down. And the rich are fueling the fire. So let's learn how to do something about that. Together.
   </p>
