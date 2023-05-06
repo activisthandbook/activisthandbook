@@ -1,11 +1,14 @@
 ---
 title: >
   End-To-End Encryption
+description: >
+  Secure communication
 langCode: en
 articleID: WXaCOkV-u88q8UvXbK1TJ326wHSxN_dO
 languageCollectionID: SlOzLdrQ4JlDkbD316bGDGMObRPaSi43
-updatedTimestamp: 1599740981511
+updatedTimestamp: 1683375714418
 createdTimestamp: 1599740973411
+wordCount: 192
 tags: ["terms"]
 ---
 

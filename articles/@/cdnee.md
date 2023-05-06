@@ -1,13 +1,14 @@
 ---
 title: >
-   Cooperation and Development Network Eastern Europe
+  Cooperation and Development Network Eastern Europe
 description: >
   A capacity-building network of youth organisations committed to the development and implementation of Green ideas in Eastern Europe
 langCode: en
 articleID: 4vV0vjGbSiZogxLJ1nq-Q1Wu0m4tRixC
 languageCollectionID: pfkCXZH7FI6ogx8UEnD6f_r-f-3U3gdv
-updatedTimestamp: 1665236048505
+updatedTimestamp: 1683375618947
 createdTimestamp: 1665236014664
+wordCount: 682
 tags: ["communities"]
 ---
 

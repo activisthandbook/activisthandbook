@@ -1,11 +1,14 @@
 ---
 title: >
   Tipping Point UK
+description: >
+  Supports grassroots climate justice groups
 langCode: en
 articleID: IuySjweFTU4BLfnLUVIhOm-RXYGVYJpc
 languageCollectionID: -PXOZJTatLIdwhOS1BiwLjBzjxXOmHpC
-updatedTimestamp: 1669982636322
+updatedTimestamp: 1683376086776
 createdTimestamp: 1669982632201
+wordCount: 133
 tags: []
 ---
 

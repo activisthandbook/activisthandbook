@@ -6,8 +6,9 @@ description: >
 langCode: en
 articleID: 3P7A6nawCT2_JIr2QNuvs9IsQYTlIG-p
 languageCollectionID: Ii_23eNiOU0ZlKYppFffHDnwqIPq8VMw
-updatedTimestamp: 1605893180587
+updatedTimestamp: 1683374132690
 createdTimestamp: 1604591888895
+wordCount: 1936
 tags: ["terms"]
 ---
 
@@ -15,7 +16,7 @@ The International Bill of Rights is a collection of three texts that enshrine th
 
 The documents are relevant to activists in two ways. Firstly, they give us the right to participate in politics such as through freedom of association. Secondly, they give us some protection from authorities, such as the right to privacy.
 
-Confusingly, the International Bill of Human Rights is not actually a bill, but includes a resolution and two treaties: the [Universal Declaration of Human Rights](/universal-declaration-of-human-rights) (UDHR), the [International Covenant on Civil and Political Rights](/International-Covenant-on-Civil-and-Political-Rights) (ICCPR), and the International Covenant on Economic, Social and Cultural Rights. The first two are super relevant to activists but the last one is not. Since it is not a bill, **the ‘Bill’ is** **not legally binding** ([Australian Human Rights Commission](https://humanrights.gov.au/our-work/education/human-rights-explained-fact-sheet-5the-international-bill-rights)). However, this doesn't mean that it's unimportant.
+Confusingly, the International Bill of Human Rights is not actually a bill, but includes a resolution and two treaties: the [Universal Declaration of Human Rights](/universal-declaration-of-human-rights) (UDHR), the [International Covenant on Civil and Political Rights](/rights/iccpr) (ICCPR), and the International Covenant on Economic, Social and Cultural Rights. The first two are super relevant to activists but the last one is not. Since it is not a bill, **the ‘Bill’ is** **not legally binding** ([Australian Human Rights Commission](https://humanrights.gov.au/our-work/education/human-rights-explained-fact-sheet-5the-international-bill-rights)). However, this doesn't mean that it's unimportant.
 
 > “Everyone is entitled to all the rights and freedoms set forth in this Declaration, without distinction of any kind”
 > 

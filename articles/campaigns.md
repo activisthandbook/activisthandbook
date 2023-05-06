@@ -6,9 +6,9 @@ description: >
 langCode: en
 articleID: c4L2x0pWlUtcQ6RyikLG9sE4KPBUkgNE
 languageCollectionID: GsUEXf9xjOCPs2pSe9JLVp0JaWIGjZ09
-updatedTimestamp: 1677741140195
+updatedTimestamp: 1683374673611
 createdTimestamp: 1639823695813
-wordCount: 383
+wordCount: 400
 tags: []
 ---
 
@@ -21,6 +21,10 @@ For each campaign, we have selected our most relevant resources. Select your cau
 In alphabetic order:
 
 -   **🐷** [**Animal rights**](/campaigns/animal-rights): Representing life which can not speak
+    
+-   ✊ [**Anti-oppression**](/campaigns/anti-oppression): Standing up against oppression
+    
+-   ✊🏾 [**Black lives matter**](/campaigns/black-lives-matter): Fighting against racism, discrimination, and racial inequality
     
 -   **🌍** [**Climate activism**](/campaigns/climate-activism): Building environmental movements for climate justice
     

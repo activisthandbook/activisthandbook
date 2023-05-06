@@ -6,7 +6,7 @@ description: >
 langCode: en
 articleID: 1GPnL8mO560heQAkCnR152bcLhMe31gM
 languageCollectionID: t86YTPjsvIm_IDA77I5hZ3oWxVTkw1Y4
-updatedTimestamp: 1677740573995
+updatedTimestamp: 1683375895631
 createdTimestamp: 1648021684065
 wordCount: 570
 tags: ["climate","movement"]
