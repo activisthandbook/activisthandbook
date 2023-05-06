@@ -6,7 +6,7 @@ description: >
 langCode: en
 articleID: IMpWBGgi-DB7e68av_nsoMrQknq0sVzD
 languageCollectionID: 0LiiGOKPXDtXadFAhHloJNbQCpMVuhqF
-updatedTimestamp: 1681549130202
+updatedTimestamp: 1683382819947
 createdTimestamp: 1641915364078
 wordCount: 1345
 tags: ["climate"]
@@ -14,7 +14,7 @@ tags: ["climate"]
 
 **All over the globe people are taking action for climate justice. In this article, we have put together a collection of resources for environmental protest movements.**
 
-As the world faces an unprecedented climate crisis, people are taking to the streets to demand change. From the [Extinction Rebellion](/extinction-rebellion) protests in the UK, to the Youth Climate Strike in the US, to the [Greta Thunberg](/greta-thunberg)\-inspired school strikes happening all over the world, people are rising up to demand action on climate change.
+As the world faces an unprecedented climate crisis, people are taking to the streets to demand change. From the [Extinction Rebellion](/movements/extinction-rebellion) protests in the UK, to the Youth Climate Strike in the US, to the [Greta Thunberg](/people/greta-thunberg)\-inspired school strikes happening all over the world, people are rising up to demand action on climate change.
 
 If you are reading this, you are probably already aware of the many ways in which climate change is affecting our planet. Perhaps you have read about the melting glaciers, the billions of tons of plastic in our oceans, or the drastic decline in the populations of many species of animals. Or maybe you have experienced the effects of climate change firsthand, in the form of more extreme weather conditions or changes in your local ecosystem.
 
@@ -65,21 +65,21 @@ Make sure to convey a sense of urgency. Do not say “climate change”, use phr
 
 ### International
 
--   [Extinction Rebellion](/extinction-rebellion)
+-   [Extinction Rebellion](/movements/extinction-rebellion)
     
--   [Fridays for Future](/fridays-for-future)
+-   [Fridays for Future](/movements/fridays-for-future)
     
--   [Just Stop Oil](/just-stop-oil)
+-   Just Stop Oil
     
 
 ### Italy
 
--   [Ultima Generazione](/ultima-generazione)
+-   [Ultima Generazione](/movements/ultima-generazione)
     
 
 ### Germany
 
--   [Letzte Generation](/letzte-generation)
+-   [Letzte Generation](/@/letzte-generation)
     
 
 ## Q&A
