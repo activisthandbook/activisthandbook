@@ -6,7 +6,7 @@ description: >
 langCode: en
 articleID: ItlwwJfYopwgV4ZEnH653rUc1JbQ2GJj
 languageCollectionID: l8XZ2W25XNow2B1wFBSVg7-4T2S1LBn3
-updatedTimestamp: 1681548278867
+updatedTimestamp: 1683450197605
 createdTimestamp: 1583509148168
 wordCount: 1392
 tags: ["wellbeing","chapters"]
@@ -33,11 +33,11 @@ Articles about wellbeing practices that you can implement as a group:
 
 Articles about wellbeing practices that you can implement during your actions:
 
--   **👉 Basics of action wellbeing** (does not exist yet)
+-   **👉** [**Basics of action wellbeing**](/wellbeing/action) (does not exist yet)
     
 -   **🩺** [**Riot medicine**](/wellbeing/riot-medicine)
     
--   **☮️ De-escalation** (available soon!)
+-   **☮️** [**De-escalation**](/wellbeing/deescalation) (available soon!)
     
 
 <dynamic-image imageid="4e1cc461-cd1c-4365-6f21-b8a3c1ba7a00" alt="An elephant holding a first aid kit"><p>A caring elephant with a first aid kit, by <a target="_blank" href="https://edit.activisthandbook.org/author/tzmE91SnnrbJJXuvQNBl9rt6HK63">Joppe</a> | Generated using Dall-e</p></dynamic-image>
