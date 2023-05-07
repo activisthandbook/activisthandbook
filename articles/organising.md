@@ -6,7 +6,7 @@ description: >
 langCode: en
 articleID: Jivvm_DITjwYHs0BtJuFs9SzsiRHfUlL
 languageCollectionID: 2iL5uLyfvLfLZc8ZAdnUzGAQX_cgwUc1
-updatedTimestamp: 1681470894779
+updatedTimestamp: 1683443853855
 createdTimestamp: 1583581575544
 wordCount: 949
 tags: ["chapters"]
@@ -50,7 +50,7 @@ You want to make a big impact. But you have a limited access to resources needed
 
 Organizing is all about bringing people together and building strong teams. Learn how to transform a collective of individuals into an impactful group of activists:
 
--   🙌 [**Roles and teams**](/organising/roles-teams)
+-   🙌 [**Roles and teams**](/organising/roles)
     
 -   🙋 [**Facilitating meetings**](/organising/facilitating)
     
