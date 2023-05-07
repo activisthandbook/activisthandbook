@@ -6,15 +6,15 @@ description: >
 langCode: en
 articleID: ItlwwJfYopwgV4ZEnH653rUc1JbQ2GJj
 languageCollectionID: l8XZ2W25XNow2B1wFBSVg7-4T2S1LBn3
-updatedTimestamp: 1683452155204
+updatedTimestamp: 1683453112032
 createdTimestamp: 1583509148168
-wordCount: 1484
+wordCount: 1469
 tags: ["wellbeing","chapters"]
 ---
 
 In this chapter, we explain how prevent burning out by taking care of yourself and others. We discuss group wellbeing, action wellbeing and self-help.
 
-> 🆘 Need help now? Check out [**Wellbeing Hotlines**](/wellbeing/hotlines)
+🆘 _Need help now? Check out_ [**_Wellbeing Hotlines_**](/wellbeing/hotlines)
 
 ## Introduction
 
@@ -26,11 +26,11 @@ Being an activist can be rewarding, but also challenging and stressful. You may 
 
 Articles about wellbeing practices that you can implement as a group:
 
--   **👉 Basics of group wellbeing** (available soon!)
+-   **👉** [**Basics of group wellbeing**](/wellbeing/group)
     
 -   **✋** [**Sexual harassment inside your group**](/wellbeing/sexual_harassement)
     
--   🏳️‍🌈 **Health marginalised activists** (not created yet, sub-article: [Wellbeing LGBTQIA+ activists](/wellbeing/lgbtqia_inclusion))
+-   🏳️‍🌈 [**Health marginalised activists**](/wellbeing/lgbtqia_inclusion)
     
 
 <dynamic-image imageid="a014428f-d59c-4369-ca5e-d74bbf80d100" alt="Three goats taking care of each other"><p>Together, we are more resilient, by <a target="_blank" href="https://edit.activisthandbook.org/author/tzmE91SnnrbJJXuvQNBl9rt6HK63">Joppe</a> | Generated using Dall-e</p></dynamic-image>
@@ -39,11 +39,11 @@ Articles about wellbeing practices that you can implement as a group:
 
 Articles about wellbeing practices that you can implement during your actions:
 
--   **👉** [**Basics of action wellbeing**](/wellbeing/action) (does not exist yet)
+-   **👉** [**Basics of action wellbeing**](/wellbeing/action)
     
 -   **🩺** [**Riot medicine**](/wellbeing/riot-medicine)
     
--   **☮️** [**De-escalation**](/wellbeing/deescalation) (available soon!)
+-   **☮️** [**De-escalation**](/wellbeing/deescalation)
     
 
 <dynamic-image imageid="4e1cc461-cd1c-4365-6f21-b8a3c1ba7a00" alt="An elephant holding a first aid kit"><p>A caring elephant with a first aid kit, by <a target="_blank" href="https://edit.activisthandbook.org/author/tzmE91SnnrbJJXuvQNBl9rt6HK63">Joppe</a> | Generated using Dall-e</p></dynamic-image>
