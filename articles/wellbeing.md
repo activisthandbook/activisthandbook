@@ -6,9 +6,9 @@ description: >
 langCode: en
 articleID: ItlwwJfYopwgV4ZEnH653rUc1JbQ2GJj
 languageCollectionID: l8XZ2W25XNow2B1wFBSVg7-4T2S1LBn3
-updatedTimestamp: 1683450197605
+updatedTimestamp: 1683452155204
 createdTimestamp: 1583509148168
-wordCount: 1392
+wordCount: 1484
 tags: ["wellbeing","chapters"]
 ---
 
@@ -16,13 +16,19 @@ In this chapter, we explain how prevent burning out by taking care of yourself a
 
 > 🆘 Need help now? Check out [**Wellbeing Hotlines**](/wellbeing/hotlines)
 
+## Introduction
+
+Being an activist can be rewarding, but also challenging and stressful. You may face many pressures and risks, such as burnout, trauma, harassment, or violence. That's why it's important to take care of your wellbeing and mental health, not only for yourself, but also for your cause and your community. In this guide, we will share some tips and resources on how to practice self-care, cope with stress, and seek support when you need it. We hope this guide will help you to stay healthy, resilient, and effective in your activism.
+
+<action-button buttonlink="/wellbeing/introduction" buttonlabel="Why is wellbeing important?"></action-button>
+
 ## **Group wellbeing**
 
 Articles about wellbeing practices that you can implement as a group:
 
 -   **👉 Basics of group wellbeing** (available soon!)
     
--   **✋** [**Sexual harassment inside activist groups**](/wellbeing/sexual_harassement)
+-   **✋** [**Sexual harassment inside your group**](/wellbeing/sexual_harassement)
     
 -   🏳️‍🌈 **Health marginalised activists** (not created yet, sub-article: [Wellbeing LGBTQIA+ activists](/wellbeing/lgbtqia_inclusion))
     
