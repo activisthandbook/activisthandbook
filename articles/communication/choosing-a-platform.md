@@ -1,13 +1,14 @@
 ---
 title: >
-  Choosing a Platform
+  Choosing a platform
 description: >
   This article will help you chose an optimal communication platform
 langCode: en
 articleID: dnXjynCQ_S_kRZsop-oVXfRO8HPAAFBe
 languageCollectionID: DYa6LNdTuI1ajeUBWKCJBqKgm3XuuwN3
-updatedTimestamp: 1639827941344
+updatedTimestamp: 1683991754101
 createdTimestamp: 1639827736142
+wordCount: 788
 tags: ["#workinprogress"]
 ---
 
@@ -82,4 +83,4 @@ XYZ
 
 ## Attribution
 
--   _**Pizza & Write-a-thon 2021:** This article was created during the_ [_Pizza & Write-a-thon 2021_](/writeathon)_, a joint project between Activist Handbook and_ [_Federation of Young European Greens_](https://fyeg.org/)
+-   **_Pizza & Write-a-thon 2021:_** _This article was created during the_ [_Pizza & Write-a-thon 2021_](/writeathon)_, a joint project between Activist Handbook and_ [_Federation of Young European Greens_](https://fyeg.org/)

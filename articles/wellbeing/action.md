@@ -6,7 +6,7 @@ description: >
 langCode: en
 articleID: DSVL_hMhNKXa_Pj78rHMMSKIBk_xNkAh
 languageCollectionID: ghKYqeq-errdEnMJAxkkhK8aDAUvhsNA
-updatedTimestamp: 1683445857637
+updatedTimestamp: 1683458440189
 createdTimestamp: 1683445672801
 wordCount: 999
 ---
@@ -46,11 +46,11 @@ Coordinators are prone to burnout, make sure to look out for them too!
 
 The better you are organised, the easier it becomes to make everyone feel safe. Each of these roles plays a part in ensuring the wellbeing of all your action participants. It is highly recommended to give each role a differently coloured high visibility vest.
 
--   [**First aid**](/wellbeing/riot-medicine)**: First aiders provide medical support at protest actions. We have a large collection of guides about providing first aid at protests. Make sure to read it and practice before taking on the role of first aider.**
+-   [**First aid**](/wellbeing/riot-medicine)**:** First aiders provide medical support at protest actions. We have a large collection of guides about providing first aid at protests. Make sure to read it and practice before taking on the role of first aider.
     
 -   [**Wellbeing support team**](/wellbeing/action/team)**:** Wellbeing supporters make sure everyone feels well. They give _physical suppor_t, such as a blanket if it's cold, tarps and umbrellas if it rains, biscuits if people have a post-adrenaline sugar crash. They also give _emotional support_: for example asking how people are doing, looking out for vulnerable people and supporting people while they are being arrested.
     
--   [**De-escalation**](/wellbeing/deescalation)**: De-escalators defuse tensions using non-violent communication. They are especially useful if you are organising an action where bystanders are likely to become frustrated (for example, if you are blocking a road).**
+-   [**De-escalation**](/wellbeing/deescalation)**:** De-escalators defuse tensions using non-violent communication. They are especially useful if you are organising an action where bystanders are likely to become frustrated (for example, if you are blocking a road).
     
 -   [**Personal anchor**](https://docs.google.com/document/d/1Gr5S1RVFNRl-NpVASYalzlcDuMM3Dw2wVRjMzoPNSh4/edit)**:** The anchor is someone who does not take part in the action, but provides remote support. They are a point of stability during the tumult of an action and offers check-ins as needed by activists on the ground. They might be someone who can’t come to the action or wants to support from a distance, thus conserving their energies, especially for pre- and post-action support.
     
@@ -71,7 +71,7 @@ You can easily feel lost in the crowd at a protest, so it is nice to have some p
 
 -   [**Meditation & breathing exercises**](https://xr-regenerativezcultures.org/selfcare/meditation)**:** In our day-to-day lives, mental health is often dismissed as unimportant. You may feel a bit uncomfortable with the idea of doing meditation or breathing exercises. But we highly recommend you to try to experience it once, as it is actually a really nice way to calm down and be open up to your emotions. You can do it alone, but we encourage you to also do it in groups before, during or after an action.
     
--   **Songs & music (no separate guide yet): Singing songs can help spread your message, create a good atmosphere and bring energy to a protest. It can also help to bring stress levels down or de-escalate tensions.**
+-   **Songs & music (no separate guide yet):** Singing songs can help spread your message, create a good atmosphere and bring energy to a protest. It can also help to bring stress levels down or de-escalate tensions.
     
 
 ## **After actions**
