@@ -6,9 +6,9 @@ description: >
 langCode: en
 articleID: 6j6Jjxj6fW6JHwbbSKjEsOVqejxYkpRu
 languageCollectionID: Og8DHuouMtyNVNIn-Ho6sZwl7Jfos6XQ
-updatedTimestamp: 1681556790585
+updatedTimestamp: 1684074277717
 createdTimestamp: 1643184635101
-wordCount: 6891
+wordCount: 6922
 tags: []
 ---
 
@@ -30,12 +30,12 @@ If your demonstration is to go smoothly and to accomplish its purpose, you'll ne
     
 -   Lead time
     
--   [Communication](/communication)
+-   Communication
     
 -   Follow-up
     
 
-<dynamic-image imageid="bfeff6a6-f140-4f4b-9a2a-e54b2d0b2300" alt="Protestors walking over a bridge"><p>Protest march, by <a target="_blank" href="https://edit.activisthandbook.org/author/tzmE91SnnrbJJXuvQNBl9rt6HK63">Joppe</a> | Generated using Dall-e</p></dynamic-image>
+<action-signup tags="newsletter,free-guides" redirect="/next-steps/signup-free-guides" buttonlabel="Sign up"><h2>Get 450+ free guides for activists</h2><p>On Activist Handbook, you can find over <strong>450 free guides</strong> for change-makers. Sign up to get a selection of our best articles in your inbox:</p></action-signup>
 
 ## The basics
 
@@ -45,6 +45,8 @@ If you are new to protesting, we recommend you to read the following articles fi
     
 -   [Are protests effective?](/theory/are-protests-effective)
     
+
+<dynamic-image imageid="bfeff6a6-f140-4f4b-9a2a-e54b2d0b2300" alt="Protestors walking over a bridge"><p>Protest march, by <a target="_blank" href="https://edit.activisthandbook.org/author/tzmE91SnnrbJJXuvQNBl9rt6HK63">Joppe</a> | Generated using Dall-e</p></dynamic-image>
 
 ## Prepare your protest
 
