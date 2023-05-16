@@ -6,9 +6,9 @@ description: >
 langCode: nl
 articleID: fKmFu-JZItd1YnD9S1AJYWOlgz04w1dN
 languageCollectionID: I-YpwczEWStif-VOD4LPxMApnw3oe250
-updatedTimestamp: 1677774116537
+updatedTimestamp: 1684220024661
 createdTimestamp: 1629198632960
-wordCount: 1319
+wordCount: 1322
 tags: []
 ---
 
@@ -58,6 +58,10 @@ Het kan altijd zijn dat je, of iemand in jouw groep, bij een actie gearresteerd 
 ## Belgische context
 
 > Oeps… Hier hebben we nog geen info over. Voel je vrij om het artikel te verbeteren!
+
+## Inlichtingendiensten
+
+TOOI: [https://activisthandbook.org/nl/rechten/tooi](https://activisthandbook.org/nl/rechten/tooi)
 
 ## **_Tips en tricks voor politiewoordvoerders_**
 
