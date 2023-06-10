@@ -6,9 +6,9 @@ description: >
 langCode: en
 articleID: YUfVGkwMxm05zjEjl7vPQ9gPpUCItupH
 languageCollectionID: vijKrgNARghr6p534ZbiZ1HWioKFbDgl
-updatedTimestamp: 1682524065610
+updatedTimestamp: 1686386602311
 createdTimestamp: 1587834484219
-wordCount: 1896
+wordCount: 1902
 tags: ["training"]
 ---
 
@@ -89,6 +89,8 @@ The following organisations have trainers in several countries:
 -   [**Evolutesix**](https://www.evolutesix.com/): Programmes for startups and established companies on deploying an integrated legal + roles and tasks + developmental practices, based on the book Rebuild above. Focus on regenerative startups.
     
 -   [**Effective Collective**](https://www.effectivecollective.net/): Kavana Tree Bressen is an experienced trainer and facilitator for a wide range of groups oriented toward horizontal power; website includes an extensive library of articles and handouts.
+    
+-   **European Community Organizing Network (ECON)**: [https://organizeeurope.org/what-we-do/](https://organizeeurope.org/what-we-do/)
     
 
 ### Australia 🇦🇺

@@ -6,13 +6,13 @@ description: >
 langCode: en
 articleID: _FhS3DYPgN9p0h3elRVarmYTU8jQvcTA
 languageCollectionID: _umEWSFrid1WEvO8qO_6umUHhX8sIc49
-updatedTimestamp: 1681552593501
+updatedTimestamp: 1685717327289
 createdTimestamp: 1583509229031
 wordCount: 922
 tags: ["tools","chapters"]
 ---
 
-**In this article you will find a list of digital tools that will come in handy for you as activist. Taking into account the limited resources of movements, we have selected a wide variety of affordable apps. We also have provided some open source alternatives, if you prefer to avoid evil big business out of privacy concerns.**
+**In this article you will find a list of digital tools that will come in handy for you as activist. Taking into account the limited resources of movements, we have selected a wide variety of affordable apps. We also have provided some open source alternatives, if you prefer to avoid evil big business out of privacy concerns!**
 
 > Wow! There are lots of tools highlighted here. If you need help figuring out what kind of tools to use to help your movement work more effectively, reach out to us: [contact@activisthandbook.org](mailto:contact@activisthandbook.org)
 
