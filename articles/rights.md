@@ -6,7 +6,7 @@ description: >
 langCode: en
 articleID: K0Qld3HRqVZOPQAo4HNcamdTubXfnbZU
 languageCollectionID: I-YpwczEWStif-VOD4LPxMApnw3oe250
-updatedTimestamp: 1683450691589
+updatedTimestamp: 1687024032227
 createdTimestamp: 1595863865377
 wordCount: 345
 tags: []
@@ -38,7 +38,7 @@ The right to protest is different in every country. We have written guides that 
     
 -   🇺🇸 [**United States**](/rights/united-states) (written in English and Spanish)
     
--   🇪🇬 [**Egypt**](rights/Egypt) ( written in Arabic)
+-   🇪🇬 [**Egypt**](/ar/rights/egypt) ( written in Arabic)
     
 -   _Add your country!_
     
