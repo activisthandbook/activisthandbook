@@ -2,11 +2,11 @@
 title: >
   Introduction training
 description: >
-  Saturday, 3 June 15:00 UTC
+  Friday, 14 July 16:00 UTC
 langCode: en
 articleID: l_ow2m4Ri326Dry9acAUgVcF0szENJZv
 languageCollectionID: 94GnbKU6cEU2urQQSrJvxT3-DbAK52i8
-updatedTimestamp: 1684572536114
+updatedTimestamp: 1687458339477
 createdTimestamp: 1682072851906
 wordCount: 31
 focusMode: 
