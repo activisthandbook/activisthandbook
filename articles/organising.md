@@ -6,9 +6,9 @@ description: >
 langCode: en
 articleID: Jivvm_DITjwYHs0BtJuFs9SzsiRHfUlL
 languageCollectionID: 2iL5uLyfvLfLZc8ZAdnUzGAQX_cgwUc1
-updatedTimestamp: 1683443853855
+updatedTimestamp: 1688194536484
 createdTimestamp: 1583581575544
-wordCount: 949
+wordCount: 958
 tags: ["chapters"]
 ---
 
@@ -25,6 +25,8 @@ To build an impactful grassroots movement, start small. Organise a protest actio
 3.  **🌊** [**Build a movement**](/organising/movement) — Scale up your campaign
     
 4.  **📄** [**Organisation frameworks**](/organising/frameworks) — Better teamwork
+    
+5.  🔥 [**Movement of movements**](/organising/movement-of-movements) - Intersectional & international activism
     
 
 <dynamic-image imageid="354b51f4-5e7e-4272-c227-c829b1244c00" alt="Ants are organising at the grassroots"><p>Ants are organising at the grassroots, by <a target="_blank" href="https://edit.activisthandbook.org/author/tzmE91SnnrbJJXuvQNBl9rt6HK63">Joppe</a> | Generated using Dall-e</p></dynamic-image>
