@@ -6,9 +6,9 @@ description: >
 langCode: en
 articleID: XIgAxsDXgYVhs5ns90TUqOpCRJudip4A
 languageCollectionID: M4oQzM4kkLmmPBClRgocK1sL2BS2jXE2
-updatedTimestamp: 1681547708091
+updatedTimestamp: 1688292297733
 createdTimestamp: 1676567899135
-wordCount: 1998
+wordCount: 2001
 tags: []
 ---
 
@@ -173,7 +173,7 @@ This is a whole topic on its own, so we wrote a series of guides about [decision
 
 ### Creative Commons resources
 
--   [Guide: Meeting Facilitation](https://www.trainingforchange.org/training_tools/meeting-facilitation-the-no-magic-method/) by Training for Change
+-   [Tools for In-person and Online Facilitation](https://www.trainingforchange.org/tools/?utm_source=activisthandbook.org) by Training for Change
     
 -   [Short guide: Facilitating meetings](https://commonslibrary.org/facilitating-meetings-a-guide-to-making-your-meetings-effective-inclusive-and-enjoyable/) by Seeds for Change
     
@@ -200,13 +200,13 @@ This is a whole topic on its own, so we wrote a series of guides about [decision
 
 ### Books & publications
 
-**Come Hell or High Water: A Handbook on Collective Process Gone Awry**, Delfina Vannucci and Richard Singer, 2009. ISBN 1849350183
+**Come Hell or High Water: A Handbook on Collective Process Gone Awry**, Delfina Vannucci and Richard Singer, 2009. ISBN [1849350183](tel:1849350183)
 
 **A Consensus Handbook,** Seeds for Change, 2013. ISBN: 978-0957587106
 
 **Consensus: A New Handbook for Grassroots Social, Political, and Environmental Groups,** Peter Gelderloos, Sharp Press, 2006. ISBN 978-1-884365-39-3
 
-**Democracy in Small Groups – Participation, Decision-Making and Communication,** John Castill, New Society Publishers, 1993. ISBN: 0 86571 274 3
+**Democracy in Small Groups – Participation, Decision-Making and Communication,** John Castill, New Society Publishers, 1993. ISBN: [0 86571 274 3](tel:0 86571 274 3)
 
 **Facilitator's Guide to Participatory Decision-Making,** Sam Kaner with Lenny Lind, Catherine Toldi, Sarah Fisk and Duane Berger, New Society Publishers, 1996, ISBN: 0-86571-347-2
 
