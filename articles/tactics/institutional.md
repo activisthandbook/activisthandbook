@@ -6,9 +6,9 @@ description: >
 langCode: en
 articleID: RvXm4TvXtqVx8EaEnXd4B0fj1EyaU9Gl
 languageCollectionID: EyOTjKL3VT-sUb8bcCMiwB8tai70QnrC
-updatedTimestamp: 1677740839059
+updatedTimestamp: 1688354064791
 createdTimestamp: 1643202844698
-wordCount: 205
+wordCount: 217
 tags: []
 ---
 
@@ -49,6 +49,8 @@ _No tactics for bringing about change from within legal institutions have been a
 -   [Lobbying and Advocacy: Start Here](https://commonslibrary.org/lobbying-and-advocacy-start-here/) by Commons Library
     
 -   [Lobbying: A Tactic for Social Change](https://commonslibrary.org/lobbying-a-tactic-for-social-change/) by Lois Levy
+    
+-   Lobbying Playbook: How To Guides, Stories and Examples by [Citizen's Climate Lobby](https://commonslibrary.org/lobbying-playbook-how-to-guides-stories-and-examples/?utm_source=activisthandbook.org)
     
 -   [The Unicorn Activity: Political Lobbying Roleplay](https://commonslibrary.org/the-unicorn-activity-political-lobbying-role-play/) by Anita Tang
     

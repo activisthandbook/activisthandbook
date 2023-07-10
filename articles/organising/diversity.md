@@ -6,9 +6,9 @@ description: >
 langCode: en
 articleID: JtSFhpVrFe-abxXDXckXLEK6ZW2oABiT
 languageCollectionID: XMG01S8u1emdjY5flCBKcnVheCzPj0b9
-updatedTimestamp: 1682777504241
+updatedTimestamp: 1688352533483
 createdTimestamp: 1598874008704
-wordCount: 308
+wordCount: 375
 tags: []
 ---
 
@@ -57,6 +57,18 @@ Talk about the following topics:
 -   [Accessibility: Introduction to Thinking about Events and Engagement](https://commonslibrary.org/accessibility-introduction-to-thinking-about-events-and-engagement/) by Community Organising Fellowship
     
 -   [Do Better and Win Bigger By Taking on Marginalisation](https://commonslibrary.org/do-better-and-win-bigger-by-taking-on-marginalisation-2/) by Mobilization Labs
+    
+-   [Making Advocacy Accessible Webinar](https://commonslibrary.org/making-advocacy-accessible-webinar/?utm_source=activisthandbook.org) by Commons Social Change Library
+    
+-   [Disability Advocacy Online Courses](https://commonslibrary.org/disability-advocacy-online-courses/?utm_source=activisthandbook.org) by Disability Advocacy Resource Unit
+    
+-   [Insights from Disability Campaigning: A conversation between two activists](https://commonslibrary.org/commons-conversation-podcast-with-elly-desmarchelier-and-el-gibbs/?utm_source=activisthandbook.org) by El Gibbs and Elly Demarchelier
+    
+-   [Easy Read Resources about Advocacy and Campaigning](https://commonslibrary.org/easy-read-resources-about-advocacy-and-campaigning/?utm_source=activisthandbook.org) compiled by Commons Librarian
+    
+-   [Making Protests Accessible: Tips and Checklists for Actions](https://commonslibrary.org/making-protest-accessible-tips-and-checklists-for-actions/?utm_source=activisthandbook.org) compiled by Commons Librarian
+    
+-   [How to make your Social Justice Event Accessible](https://commonslibrary.org/making-protest-accessible-tips-and-checklists-for-actions/?utm_source=activisthandbook.org) by Krysia Birman
     
 -   [Supporting Indigenous Leadership in the Climate Movement](https://commonslibrary.org/supporting-indigenous-leadership-in-the-climate-movement/) by Sustaining All Life
     

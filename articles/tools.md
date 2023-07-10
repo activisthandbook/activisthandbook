@@ -1,14 +1,14 @@
 ---
 title: >
-  Digital tools for activists 🛠
+  Digital tools for activists 🛠️
 description: >
   Free and affordable tools for nonprofits
 langCode: en
 articleID: _FhS3DYPgN9p0h3elRVarmYTU8jQvcTA
 languageCollectionID: _umEWSFrid1WEvO8qO_6umUHhX8sIc49
-updatedTimestamp: 1685717327289
+updatedTimestamp: 1688973112037
 createdTimestamp: 1583509229031
-wordCount: 922
+wordCount: 940
 tags: ["tools","chapters"]
 ---
 
@@ -172,3 +172,7 @@ This article performs well in search engines**.** Lot's of people look up ‘too
 -   [Accessibility in Social Media. A look into the movement towards… | by Ellie Oliver](https://medium.com/@EllieOliver196_16205/accessibility-in-social-media-62828199466d) by Ellie Oliver (2020)
     
 -   [New Mode](https://www.newmode.net/home)
+    
+-   [Digital First Aid Kit](https://commonslibrary.org/digital-first-aid-kit/?utm_source=activisthandbook.org) by CiviCert/Rapid Response Network
+    
+-   [What Campaigners Should be Considering About Artificial Intelligence](https://commonslibrary.org/what-campaigners-should-be-considering-about-artificial-intelligence-ai/?utm_source=activisthandbook.org) by Tectonica

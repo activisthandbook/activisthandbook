@@ -6,9 +6,9 @@ description: >
 langCode: en
 articleID: R7hx8BgoPcn3d3Qkcwo7wRJijFqoVa1W
 languageCollectionID: 9GFfvJqI1sLYzUAl3sOl_rDVdfLpcgKB
-updatedTimestamp: 1676395095619
+updatedTimestamp: 1688353093397
 createdTimestamp: 1676394459446
-wordCount: 165
+wordCount: 182
 tags: ["stub"]
 ---
 
@@ -19,6 +19,13 @@ Engagement is a key goal for any nonprofit or activist organization, and having 
 An engagement flow, also called engagement ladder, is a way to categorise and segment the people involved in your action, from the most committed to the least committed.
 
 <dynamic-image imageid="a31d74e1-a050-4c74-7e2c-f2a0fa0ba200" alt="A little girl climbing up a ladder, speaking to large businessmen"><p>Empower people by providing them with an engagement ladder, by <a target="_blank" href="https://edit.activisthandbook.org/author/tzmE91SnnrbJJXuvQNBl9rt6HK63">Joppe</a> | Generated using Dall-e</p></dynamic-image>
+
+## **External resources**
+
+-   [Circles of Commitment: A Model of Engagement](https://commonslibrary.org/circles-of-commitment/?utm_source=activisthandbook.org) by Michael Pulsford
+    
+-   [Engagement Pyramid](https://commonslibrary.org/engagement-pyramid/?utm_source=activisthandbook.org) by Mobilisation Lab
+    
 
 ## Improve this page
 

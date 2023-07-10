@@ -6,9 +6,9 @@ description: >
 langCode: en
 articleID: XnqSxPk7cPDQNT7lYHw8I5Emkn3xRNT5
 languageCollectionID: PiYt4vKJveD_cRTg5_buzibhWuIZPqk_
-updatedTimestamp: 1683451341705
+updatedTimestamp: 1688371706077
 createdTimestamp: 1683444515791
-wordCount: 5003
+wordCount: 5012
 ---
 
 **Being arrested and held in police custody is unpleasant. People often appreciate being met by a friendly face when they are released. This is a guide to doing effective police station support.**
@@ -426,6 +426,8 @@ Related articles on the Activist Handbook website:
 -   [Arrestee welfare](https://extinctionrebellion.uk/act-now/resources/arrestee-welfare/) by Extinction Rebellion (no date)
     
 -   [Arrestee support](https://nlgsf.org/activist-support/arrestee-support/) by National Lawyers Guild San Francisco Bay Area (no date)
+    
+-   [Jail Solidarity and Supporting Prisoners](https://commonslibrary.org/jail-solidarity-and-supporting-prisoners/?utm_source=activisthandbook.org) (2022) by Commons Librarian
     
 
 ## **Attribution**

@@ -6,9 +6,9 @@ description: >
 langCode: en
 articleID: G3dkQL5r8VGH4qvFx-36zI4WDRCiNzwD
 languageCollectionID: 89ReOOyPrqQ0GJ5WjQzIIR_PP0aAErgn
-updatedTimestamp: 1681547522165
+updatedTimestamp: 1688428260729
 createdTimestamp: 1643132983527
-wordCount: 291
+wordCount: 304
 tags: ["stub","organising"]
 ---
 
@@ -64,3 +64,5 @@ _No related articles have been added yet._
 -   [Book: The Path of Most Resistance: A Step by Step Guide to Planning Nonviolent Campaigns](https://commonslibrary.org/the-path-of-most-resistance-a-step-by-step-guide-to-planning-nonviolent-campaigns/) by Ivan Marovic
     
 -   [Blueprints for Change Progressive Organizing and Campaigning Manual](https://commonslibrary.org/blueprints-for-change-progressive-organizing-and-campaigning-manual/) by BfP
+    
+-   [Approaches to Organising: Decentralised, Direct Network, and Strike Circles Models](https://commonslibrary.org/approaches-to-organising-decentralised-directed-network-and-strike-circles-models/?utm_source=activisthandbook.org) by Robyn Gulliver

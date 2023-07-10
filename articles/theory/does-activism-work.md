@@ -1,11 +1,14 @@
 ---
 title: >
   Does activism work?
+description: >
+  Effective activism and protesting
 langCode: en
 articleID: ETUO_gJ52_U5EGUjziQabJC_pgAE1X48
 languageCollectionID: WfT3HnxgXtTb5i-DekYxK4OhVj08gkDT
-updatedTimestamp: 1653827123632
+updatedTimestamp: 1688973228225
 createdTimestamp: 1653827121193
+wordCount: 246
 tags: []
 ---
 
@@ -23,6 +26,11 @@ The bottom line is that activism can be effective, but it's not always easy. It 
 
 This page is still quite empty. But you can make it better! Look up some resources about whether activism works and add them to the ‘External resources’ section.
 
+## **External resources**
+
+-   [Efficacy is Essential for Action](https://commonslibrary.org/efficacy-is-essential-for-taking-action/?utm_source=activisthandbook.org) by PowerLabs
+    
+
 ### Search keywords
 
-<div><table><thead><tr><th>Keywords</th><th>Monthly global searches</th><th>Relevancy</th></tr></thead><tbody><tr><td>does activism work</td><td>30</td><td>high</td></tr></tbody></table></div>
+<table><tbody><tr><th><p>Keywords</p></th><th><p>Monthly global searches</p></th><th><p>Relevancy</p></th></tr><tr><td><p>does activism work</p></td><td><p>30</p></td><td><p>high</p></td></tr></tbody></table>

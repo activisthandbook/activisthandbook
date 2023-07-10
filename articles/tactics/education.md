@@ -1,12 +1,21 @@
 ---
 title: >
   Education as activist tactic
+description: >
+  Education
 langCode: en
 articleID: 6Gz_RwS9yH2ELNOrYOuXnzxDSoReQaKn
 languageCollectionID: 89Oo0NYRmj6XQ9tU4ytzJuZyEc82u5xX
-updatedTimestamp: 1648631664117
+updatedTimestamp: 1688351902276
 createdTimestamp: 1648631661405
+wordCount: 190
 tags: []
+focusMode: 
+  isOn: true
+  buttonLabel: 
+  buttonAnchor: primary-action
+sidebar: false
+aside: false
 ---
 
 **This guide is for anyone who wants to use their skills and knowledge to make a difference in the world through education. It provides information on how to get started, how to find and work with allies, and how to make your voice heard.**
@@ -35,7 +44,9 @@ _Add ideas on how to improve this page here…_
 
 ## **External resources**
 
-_Add resources here…_
+[Storytelling and Social Activism with Young People](https://commonslibrary.org/storytelling-and-social-activism-in-young-people?utm_source=activisthandbook.org) by Marilyn Metta
+
+[The Learning Zone Model](https://commonslibrary.org/the-learning-zone-model/?utm_source=activisthandbook.org) by Maxwell J Smith
 
 ## Attribution
 

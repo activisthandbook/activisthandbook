@@ -6,9 +6,9 @@ description: >
 langCode: en
 articleID: K0Qld3HRqVZOPQAo4HNcamdTubXfnbZU
 languageCollectionID: I-YpwczEWStif-VOD4LPxMApnw3oe250
-updatedTimestamp: 1687024032227
+updatedTimestamp: 1688372128022
 createdTimestamp: 1595863865377
-wordCount: 345
+wordCount: 416
 tags: []
 ---
 
@@ -53,6 +53,20 @@ The right to protest is different in every country. We have written guides that 
     
 
 <dynamic-image imageid="ad760b54-e06b-4f75-4c66-45eff343cb00" alt="Activists being stopped by police"><p>Ende Gelände: The activists split into four groups approaching the mine from different sides. To get to the mine, they had to cross a motorway and flow through various police lines - By <a target="_blank" href="https://www.flickr.com/photos/350org/20577167336/in/photolist-xmkmXb-drTy45-P6vijC-7a5egv-drS8ku-P6vhGL-vGUV6f-7ciX8k-7cnLV3-7a5edB-P8Zzv6-7a93RW-TUxZ7U-N5yqvC-aq3inm-MzkMSj-7cnPc1-V4vWca-7ciZh6-Td8qv3-g7bfnM-7cnN3Y-79XeVr-7cnLYq-8JAG9e-7ciYTF-7ciX5e-apZdQv-PcZKoy-7cnMYb-7cnP2h-7cnPqj-7ciZav-7ciZuk-MGe4Cx-7ciZ72-8HPmSz-8MrdXh-7a4CDf-WcZZaf-ticWdv-7cnNXU-qdQz5v-apZMkh-Wd1233-7bt2wE-g7c9tt-rWxaHw-se7jAK-W4YBxH">Tim Wagner</a> (Attribution 2.0 Generic (CC BY 2.0))</p></dynamic-image>
+
+## **External resources**
+
+[What is this thing called Activist Legal Support?](https://commonslibrary.org/what-is-this-thing-called-activist-legal-support/?utm_source=activisthandbook.org) by Melbourne Activist Legal Support
+
+[Staying Safe: Protective Strategies for Activists](https://commonslibrary.org/staying-safe-protective-strategies-for-activists/?utm_source=activisthandbook.org) by Melbourne Activist Legal Support
+
+[Understanding and Responding to Repression: Lessons from Peace Brigade International](https://commonslibrary.org/understanding-and-responding-to-repression-lessons-from-peace-brigades-international/?utm_source=activisthandbook.org) by Anthony Kelly
+
+[Backfire Manual: Tactics Against Injustice](https://commonslibrary.org/backfire-manual-tactics-against-injustice/?utm_source=activisthandbook.org) by Brian Martin
+
+[Lessons for Resisting Police Violence and Building a Racial Justice Movement](https://commonslibrary.org/lessons-for-resisting-police-violence-and-building-a-strong-racial-justice-movement/?utm_source=activisthandbook.org) by Waging Nonviolence
+
+[Resources about Police Violence and Racial Justice](https://commonslibrary.org/resources-about-police-violence-and-racial-justice/?utm_source=activisthandbook.org) by Commons Librarian
 
 ## Improve this page
 

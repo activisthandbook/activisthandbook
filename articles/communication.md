@@ -6,9 +6,9 @@ description: >
 langCode: en
 articleID: J3gTgLgqTAzHrap5en3ePR2GBmNRAg__
 languageCollectionID: Hm6ZaeMf02oXtZN2LlCr1NkH7Cxu6Il_
-updatedTimestamp: 1683991985744
+updatedTimestamp: 1688353689553
 createdTimestamp: 1583509188074
-wordCount: 1016
+wordCount: 1041
 tags: []
 ---
 
@@ -148,6 +148,10 @@ We have not found many keywords yet that have a high search volume and are also 
 -   [Framing for LGBTI activists](https://hub.ilga-europe.org/campaigning/do-it-yourself-framing-lgbti-activists/?utm_source=activisthandbook.org) by ILGA-Europe Hub (2020)
     
 -   [Publicity for grassroots groups](https://citizenshandbook.org/1_04_getnoticed.html?utm_source=activisthandbook.org) by Citizen's Handbook
+    
+-   [How to Call Talk-back Radio](https://commonslibrary.org/how-to-call-talkback-radio/?utm_source=activisthandbook.org) by the Australian Conservation Foundation
+    
+-   [The Neon Guide to Progressive Media Work/Press Officer Handbook](https://commonslibrary.org/the-neon-guide-to-progressive-media-work/?utm_source=activisthandbook.org) by Matthew Butcher and Polly Edwards
     
 
 ### Copyright resources

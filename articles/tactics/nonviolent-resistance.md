@@ -2,13 +2,13 @@
 title: >
   Nonviolent resistance
 description: >
-  Definition &amp; guide: Nonviolent action
+  Definition and guide: Nonviolent action
 langCode: en
 articleID: q_XXWOPJD7LxCoe7DBkRdXIMLfc8c8B0
 languageCollectionID: uMzqvZQ30M9mf5t6Se0sVhx1_8rY2xhC
-updatedTimestamp: 1677847223091
+updatedTimestamp: 1688973248422
 createdTimestamp: 1677846394492
-wordCount: 783
+wordCount: 799
 tags: ["stub"]
 ---
 
@@ -64,6 +64,8 @@ You can make this page better! Here are some suggestions:
 -   [Preparing for a Community Blockade](https://commonslibrary.org/preparing-for-a-community-blockade/)
     
 -   [Beginners guide to a blockade camp](https://commonslibrary.org/beginners-guide-to-a-blockade-camp/)
+    
+-   [Nonviolent Campaigning, Organising and Wellbeing Resources | Şiddetsiz Kampanya, Örgütlenme ve Esenlik Kaynakları (Turkish – Türkçe)](https://commonslibrary.org/turkish-language-resources/?utm_source=activisthandbook.org)
     
 
 ### Resources for NVDA Training
