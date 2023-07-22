@@ -1,11 +1,14 @@
 ---
 title: >
   Localisation support
+description: >
+  add a guide
 langCode: en
 articleID: UReSxt_tp11U8P2Z6NSEZ6_2WCdaelqe
 languageCollectionID: JGJHgFhz8A0LWNEOkyWuc4D5gOkEhHsz
-updatedTimestamp: 1652619761765
+updatedTimestamp: 1689594391723
 createdTimestamp: 1642870043562
+wordCount: 185
 tags: []
 ---
 
@@ -22,11 +25,19 @@ tags: []
 This page is still very empty. Improve it by filling it with content. If you have ideas on how to improve this article, but do not have time to do it right now, add some suggestions below:
 
 -   How to do (live) subtitles
+    
     -   [All you need to know about translating subtitles](https://lokalise.com/blog/translating-subtitles/) Lokalise (2021)
+        
     -   [Add subtitles and captions to our youtube videos](https://support.google.com/youtube/answer/2734796?hl=en) Youtube guide
+        
     -   [Use automatic captioning](https://support.google.com/youtube/answer/6373554?hl=en#zippy=) (useful for live streams) Youtube guide
+        
+    -   [How to automate subtitle translation](https://crowdin.com/blog/2023/01/17/subtitle-translation?utm_source=activisthandbook.org) Crowdin guide
+        
 -   How to handle translation requests
+    
 -   How to add languages to the website
+    
 
 ## **Related articles**
 
