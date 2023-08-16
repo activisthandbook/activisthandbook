@@ -6,7 +6,7 @@ description: >
 langCode: en
 articleID: wW8TOejHgg5EnUdhj_WDv9PmMIJpHp0l
 languageCollectionID: T68C4Mo4oLjL-VegH7FWd8lS6f4vJB7W
-updatedTimestamp: 1692202164655
+updatedTimestamp: 1692202604188
 createdTimestamp: 1645349312599
 wordCount: 4697
 tags: []
@@ -24,7 +24,7 @@ This book is primarily valuable for campaigners working in institutionalised con
 
 Another thing to take into account: Activist Handbook does not regard the "rules" described in the book as rules that are universally true for all types of activism. Instead, interpet them as strategic and tactical choices that are applicable for some activists, not all.
 
-In this article, we summarise the contents of this book. We know activists are busy people with little time to read a 200+ page book. However, if you find any of their rules as summarised below useful in your activism, we highly recommend you to read the respective chapters in its entirety, as it provides many practical tools! At the bottom of this page, you will also find a critique of the book.
+In this article, we summarise the contents of this book. We know activists are busy people with little time to read a 200+ page book. However, if you find any of their rules as summarised below useful in your activism, we highly recommend you to read the respective chapters in their entirety, as they provides many practical tools! At the bottom of this page, you will also find a critique of the book.
 
 ## **Contents**
 
