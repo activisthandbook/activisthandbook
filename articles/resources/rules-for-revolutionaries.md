@@ -6,9 +6,9 @@ description: >
 langCode: en
 articleID: wW8TOejHgg5EnUdhj_WDv9PmMIJpHp0l
 languageCollectionID: T68C4Mo4oLjL-VegH7FWd8lS6f4vJB7W
-updatedTimestamp: 1692169889077
+updatedTimestamp: 1692170589392
 createdTimestamp: 1645349312599
-wordCount: 1913
+wordCount: 1908
 tags: []
 ---
 
@@ -119,11 +119,11 @@ Mass meetings are a tool to organize people into groups and start working right 
 
 ### Rule 9: Fight the Tyranny of the Annoying
 
-Keep your movement inclusive and welcoming by avoiding disruptive activists! Sometimes, a person with too much free time can take over a group and discourage the kind of people you want to join. Even if they have good intentions, it's better to ask them to leave your groups, and to create a culture where they won't stop the revolution.
+Keep your movement inclusive and welcoming by dealing with disruptive activists appropriately. Sometimes, a person with too much free time can take over a group and discourage the kind of people you want to join. Even if they have good intentions, it's better to ask them to leave your groups, and to create a healthy culture where they won't stop the revolution. Do not let a few bad apples become the reason not to trust volunteers at all.
 
 ### Rule 10: Give Away Your Passwords
 
-Keep your movement inclusive and welcoming by avoiding disruptive activists! Sometimes, a person with too much free time can take over a group and discourage the kind of people you want to join. Even if they have good intentions, it's better to ask them to leave your groups, and to create a culture where they won't stop the revolution.
+Don't be afraid to take chances and invite as many people as you can to join your cause and let them speak for themselves. Trusting them, with some boundaries, can create a community that grows.
 
 ### Rule 11:Don’t Let the Perfect Be the Enemy of the Big
 
