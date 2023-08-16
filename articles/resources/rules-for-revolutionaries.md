@@ -6,9 +6,9 @@ description: >
 langCode: en
 articleID: wW8TOejHgg5EnUdhj_WDv9PmMIJpHp0l
 languageCollectionID: T68C4Mo4oLjL-VegH7FWd8lS6f4vJB7W
-updatedTimestamp: 1692170589392
+updatedTimestamp: 1692180628168
 createdTimestamp: 1645349312599
-wordCount: 1908
+wordCount: 2429
 tags: []
 ---
 
@@ -87,15 +87,33 @@ In this article, we summarise the contents of this book. We know activists are b
 
 ### Rule 1: You Won’t Get a Revolution If You Don’t Ask for One
 
-You can inspire people to take action for a big cause. Movements need clear requests for solutions that match the scale of our challenges, and you need trustworthy, competent leaders to communicate them.
+If you promise small incremental changes, people will not think your campaign is worth their time. Movements need clear requests for solutions that match the scale of our challenges.
+
+In addition, ask people to contribute in ways that actually help further progress towards your big goal. People are more likely to commit to big asks if they believe it makes an actual impact, than they will commit to small things they do not believe will make impact.
 
 ### Rule 2: The Revolution Will Not Be Handed to You on a Silver Platter
 
-You can't customize the revolution to your liking. You have to deal with the challenges and the chances. And often it's in the middle of turmoil that you find the best situations for introducing radical changes.
+You can't customise the revolution to your liking. You have to dare to take on big challenges. Expect big obstacles if you are fighting for big change. Often, it's in the middle of turmoil that you find the best situations for introducing radical changes.
 
 ### Rule 3: The Revolution Will Not Be Staffed
 
-If you want big change, you will never have enough money to hire enough organizers to achieve your goals. The people who care about the issue are your best resource. They can volunteer their time and skills to make things happen. A few dedicated volunteers can do as much as a paid staff member. All you need is a list of people who are ready to take action and you can start building a strong organization.
+If you want big change, you will never have enough money to hire enough organizers to achieve your goals. The people who care about the issue are your best resource. They can volunteer their time and skills to make things happen. A few dedicated volunteers can do as much as a paid staff member. All you need is a list of people who are ready to take action and you can start building a strong organization. Every time you hear "we do not have the capacity for that", reply: "can a team of volunteers do it?".
+
+> **Example:** You might be afraid to welcome too many new volunteer groups all at once, because you do not have the capacity to support them. However, a team of more experienced volunteers might be able to do that for you. Here is a way to set up such a team quickly:
+> 
+> _"Step 1: Email a list of between one hundred and one thousand individuals selected as candidates for the team, inviting them to join a conference call. This list could be a random selection of our list, in which case I’d have to email one thousand, or it could be a list based on criteria from the database designed to target people more likely to succeed on the team._
+> 
+> _Step 2: Conduct a conference call with the between ten and fifty prospective team members who typically signed up to join. I’d explain the team’s purpose, the type of work it would involve, and also the big picture of how we were running a volunteer-driven campaign that would depend on volunteer teams to function._
+> 
+> _Step 3: If possible, give the volunteers a task to do to make it onto the team. This would weed out people who, despite the best of intentions, were not serious about doing the work. Sometimes in the beginning, however, I was too busy to set people up with a task and evaluate all the results, so I just let people get started based on a promise that they really wanted to work._
+> 
+> _“Step 4: Invite a subset of people from the original call who seem to really want to do the work—either because they did the task or promised to—onto another call. On the second call, choose a leader (or two or three coleaders), cover more details about how to get started, and answer questions._
+> 
+> _Step 5: Invite the team to a Slack channel or in some other way get them together so that they can productively communicate._
+> 
+> _Step 6: Pray they will make it!”_
+> 
+> Excerpt from Rules for Revolutionaries by Becky Bond and Zack Exley (2016)
 
 ### Rule 4: Fighting Racism Must Be at the Core of the Message to Everyone
 
@@ -103,7 +121,7 @@ A revolution must have these essential elements: people of color and immigrants 
 
 ### Rule 5: Get on the phone!
 
-To build stronger connections, stay updated with the situation, and solve hard problems, you need to communicate in real time even in our digital world. Good organizing means calling people every day. Use the newest tools for online meetings and scheduling to have more effective conversations with more people.
+To build stronger connections, stay updated with the situation, and solve hard problems, you need to communicate in real time even in our digital world. Good organizing means calling people every day. Use the newest [tools](/tools) for online meetings and scheduling to have more effective conversations with more people.
 
 ### Rule 6: The Work Is Distributed. The Plan Is Centralized.
 
@@ -111,11 +129,11 @@ A central plan is essential for distributed organizing, even if the tasks are di
 
 ### Rule 7: The Revolution Will Be Funded—by Small Donations
 
-A movement that relies on wealthy donors is doomed to fail. The people you want to mobilize are the ones you should focus on, and they will provide the necessary resources as your movement grows. Avoid becoming part of the system that exploits the people you want to help by pretending to represent them while depending on their indifference.
+A movement that relies on wealthy donors is doomed to fail. The people you want to mobilize are the ones you should focus on, and they will provide the necessary resources as your movement grows. Avoid becoming part of the system that exploits the people you want to help by pretending to represent them while depending on their indifference. Learn more about [fundraising](/organising/fundraising).
 
 ### Rule 8: Barnstorm!
 
-Mass meetings are a tool to organize people into groups and start working right away. Keep improving your method to make your meetings more effective. The ability to repeat your meetings is essential for growing your movement.
+Mass meetings are a tool to organize people into groups and start working right away. Keep improving your method to make your meetings more effective by iterating over time. The ability to repeat your meetings is essential for growing your movement.
 
 ### Rule 9: Fight the Tyranny of the Annoying
 
@@ -123,15 +141,15 @@ Keep your movement inclusive and welcoming by dealing with disruptive activists 
 
 ### Rule 10: Give Away Your Passwords
 
-Don't be afraid to take chances and invite as many people as you can to join your cause and let them speak for themselves. Trusting them, with some boundaries, can create a community that grows.
+Don't be afraid to take chances and invite as many people as you can to join your cause and let them speak for themselves. Trusting them, with some clear boundaries, can create a community that grows.
 
 ### Rule 11:Don’t Let the Perfect Be the Enemy of the Big
 
-To scale up your impact, you cannot aim for perfection and depend on your resources. You have to delegate important tasks, training, and leadership roles to volunteers.
+To scale up your impact, you cannot aim for perfection and depend on your existing resources. You have to delegate important tasks, training, and leadership roles to volunteers.
 
 ### Rule 12: Learn the Basics of Good Management
 
-To lead a revolution, you need good management skills. Social change is hard and slow. People care a lot and want to do their best. But you can't do it alone, you need a team. And a team needs a good management culture. Working on a great team for a good cause is very rewarding for any organizer.
+To lead a revolution, you need good management skills. Social change is hard and slow. People care a lot and want to do their best. But you can't do it alone, you need a team. And a team needs a good management culture.
 
 ### Rule 13: If There Are No Nurses, I Don’t Want to Be Part of Your Revolution
 
@@ -157,17 +175,24 @@ A successful movement empowers its leaders from the grassroots to collaborate as
 
 To change the world, you need a lot of people working together with the right tools. You should teach your supporters some simple and effective methods that they can use over and over again to achieve your common goals. But that's not enough. You also need to find a way to keep growing your movement with new people.
 
+> Example:
+> 
+> -   **Rinse and repeat:** In the Bernie Sanders campaign, the campaign team identified calling potential voters as the most impactful action volunteers could engage with. Everyone could log into an online system from home, in the bus or anywhere else and start calling voters using a script.
+>     
+> -   **Repeat:** During so-called 'barnstorms', big events of 50-100 people, they motivated new people to either host a small call event (getting together in a living room to call potential voters together, 10-20 percent of the room), or to participate in one (70-80 percent of the room). They trained volunteers to organise these barnstorms.
+>     
+
 ### Rule 19: There’s No Such Thing as a Single-Issue Revolution
 
-The revolution concerns everything. The people belong to communities that face various problems, and our fights are interrelated. That's why the revolution cannot be limited to one issue. Moreover, it will require all of us, each driven by the issues that directly affect us, collaborating to build the revolution.
+The revolution concerns everything. The people belong to communities that face various problems, and our fights are interrelated. That's why the revolution cannot be limited to one issue. Moreover, it will require all of us, each driven by the issues that directly affect us, collaborating to build the revolution. Learn more about [intersectionality](/theory/intersectionality).
 
 ### Rule 20: Get Ready for the Counterrevolution (to Include Your Friends)
 
-When you are working for big change, and you are close to success, many people - even some you thought were on your side - will try to stop you. You will be shocked, puzzled, and waste time and energy if you are not ready for the backlash.
+When you are working for big change, and you are close to success, many people - even some you thought were on your side - will try to stop you. You will be shocked, puzzled, and waste time and energy if you are not ready f or the backlash.
 
 ### Rule 21: Put Consumer Software at the Center
 
-The way we use software on our devices has changed how we manage our lives and connect with others, and it is the new area where organizing can work or fail. With good use, tools that are free or cheap and open to everyone can make things easier and help teams collaborate across time and space for common goals. A bit of custom code can fill any important gaps that come up.
+The way we use software on our devices has changed how we manage our lives and connect with others, and it is the new area where organizing can work or fail. With good use, tools that are free or cheap and open to everyone can make things easier and help teams collaborate across time and space for common goals. A bit of custom code can fill any important gaps that come up. Check out our [tools chapter](/tools) for more information.
 
 ### Rule 22: People New to Politics Make the Best Revolutionaries
 
