@@ -6,9 +6,9 @@ description: >
 langCode: en
 articleID: YUfVGkwMxm05zjEjl7vPQ9gPpUCItupH
 languageCollectionID: vijKrgNARghr6p534ZbiZ1HWioKFbDgl
-updatedTimestamp: 1686386602311
+updatedTimestamp: 1691655071411
 createdTimestamp: 1587834484219
-wordCount: 1902
+wordCount: 1926
 tags: ["training"]
 ---
 
@@ -134,6 +134,8 @@ The following organisations have trainers in several countries:
 
 ### United States 🇺🇸
 
+-   [**The Resilient Activist**](https://www.theresilientactivist.org/?utm_source=activisthandbook.org): Kansas-based non-profit fostering resilience in the face of eco-anxiety. Offers evidence-backed activist training. In-person and online live workshops + asynchronous learning.
+    
 -   [**Building Movement Project**](https://buildingmovement.org/engage/): New York based, offers training, consulting and webinars
     
 -   [**Movement School**](https://www.movementschool.us) ([Twitter](https://twitter.com/mvmtschool)): Cultivating the next generation of leaders and organizers to mobilize grassroots engagement in the democratic process
