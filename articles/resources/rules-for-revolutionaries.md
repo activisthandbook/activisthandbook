@@ -6,13 +6,15 @@ description: >
 langCode: en
 articleID: wW8TOejHgg5EnUdhj_WDv9PmMIJpHp0l
 languageCollectionID: T68C4Mo4oLjL-VegH7FWd8lS6f4vJB7W
-updatedTimestamp: 1692180628168
+updatedTimestamp: 1692202164655
 createdTimestamp: 1645349312599
-wordCount: 2429
+wordCount: 4697
 tags: []
 ---
 
-**The book Rules for Revolutionaries is about how to change the world and how to be an effective activist. It is written by two experienced political activists, Bond and Exley, who draw on their own experiences as well as scientific research to provide a guide for revolutionaries.**
+**The book Rules for Revolutionaries describes lessons learned during the Bernie Sanders campaign. It is written by two experienced political activists, Bond and Exley, who draw on their own experiences as well as scientific research to provide a guide for revolutionaries.**
+
+> Not to be confused with the book "[Rules for Revolutionaries: The Capitalist Manifesto for Creating and Marketing New Products and Services](https://clearpurpose.media/book-brief-rules-for-revolutionaries-35b8e4a1e49a?utm_source=activisthandbook.org)".
 
 ## **Introduction**
 
@@ -20,7 +22,9 @@ Do not be misled by the title: this book is about a political campaign for the U
 
 This book is primarily valuable for campaigners working in institutionalised contexts such as election campaigns and nonprofits. However, it also contains some useful insights for activists who do intend to start a revolution in the traditional meaning of the word.
 
-In this article, we summarise the contents of this book. We know activists are busy people with little time to read a 200+ page book. However, if you find their rules as summarised below useful in your activism, we highly recommend you to read this book in its entirely, as it provides many practical tools!
+Another thing to take into account: Activist Handbook does not regard the "rules" described in the book as rules that are universally true for all types of activism. Instead, interpet them as strategic and tactical choices that are applicable for some activists, not all.
+
+In this article, we summarise the contents of this book. We know activists are busy people with little time to read a 200+ page book. However, if you find any of their rules as summarised below useful in your activism, we highly recommend you to read the respective chapters in its entirety, as it provides many practical tools! At the bottom of this page, you will also find a critique of the book.
 
 ## **Contents**
 
@@ -198,6 +202,67 @@ The way we use software on our devices has changed how we manage our lives and c
 
 A growing movement attracts many people who are new to politics. Don't burden these eager leaders with outdated ideas from previous movements. We are not winning enough with our current leaders, so we should welcome more and new leaders.
 
+## Criticism
+
+> **Improve this section:** The following section is an adaptation of a review written by Amanda Tattersall. This section is not written in the usual style and language of Activist Handbook, taking the perspective of a single person.
+> 
+> We encourage you to rewrite this section. Feel free to add other perspectives. Just click the blue edit bottom on the bottom right to get started!
+
+You have probably heard of Rules for Radicals, an old but still living set of strategies designed for changing the world, written by the grandfather of community organising – Saul Alinsky.
+
+It is that book, or at least its title, that inspired Becky Bond and Zack Exley to write _Rules for Revolutionaries_ following their whirlwind experience working on the Bernie Sanders US Primary Campaign in 2016.
+
+The book is a fast past narrative of that campaign. It is an insiders guide to how they built one of the most expansive field campaigns in US political history. The book documents the way in which these skilled campaigners cleverly intersected digital campaigning, volunteer field efforts, “revolutionary” phone banking alongside some old-school community organising.
+
+But, there are some **fundamental weaknesses** in the argument it presents. My motivation in writing this review is to caution campaigners, organisers and activists to not take these so called “rules” as gospel.
+
+I have called the review “Tactics for Mobilisers” for a reason. It’s based on my two fundamental critiques of the book.
+
+-   **My first concern is that the book’s “rules” can be better described as “tactics” for campaigning.**
+    
+-   **Secondly, I argue that while the book argues that it’s strategy is one of “revolution,” it is much better understood as describing the more familiar strategy of mobilisation.**
+    
+
+### Tactics, not rules
+
+Lets start with the book’s claim about being a list of “rules.” It’s always bold to borrow from a giant like Saul Alinsky. Bond and Exley’s title bravely makes an allusion to the book _Rules for Radicals_, and in doing so they imply that they might speaking with the same authority. The 1972 _Rules for Radicals_ is one of the most potent texts about social change written in modern times. This is not because of its occasionally offensive manner or exaggerated stories, but because it sought to identify universal lessons for how we work in public life that can be transported across different contexts. The “Rules” weren’t statements like “hold a rally in this way”, they were more a fundamental commentary about public life – borrowing from social psychology, theology, philosophy, public action and political theory. Alinsky’s rules were statements like “if you push a negative hard enough it will push through and become a positive” or “ power is not only what you have but what your target thinks you have.” The Rules were necessarily obtuse. They required active discussion and translation to make them work. That’s the point of rules; they require interpretation, deep thinking, collective analysis.
+
+The “Rules” in Rules for Revolutionaries do not pass this test. They are instead tactical observations about running a big (electoral) campaign. Don’t get me wrong, they include great tactical observations about how a campaign can be won – but they are not more than that. Rules like “get on the phone,” “the revolution will be funded by small donations” and “barnstorm” are explicitly tactical. That’s not bad. They are a great guide for campaigners who want to run a participatory phone banking system or to organise people into teams using face-to-face town hall meetings. But they aren’t “Rules.” They aren’t concepts that are open to contextual interpretation. They aren’t ideas that can be explored and improved when discussed. They are surface level descriptors of a strategy that was recently implemented. Indeed, I would worry if they were rules because they are internally contradictory and sometimes a little self-righteous.
+
+Take the “Rule” – “the work is distributed, the plan is centralised.” This is an argument for highly coordinated campaigns. That makes total sense in an electoral context where you have one objective – a candidate’s win – over a whole nation. It makes no sense, however, when it comes to running the climate movement. Climate issues don’t operate at a single scale – they run from the neighbourhood, to the state, the nation, the global and to corporations– all have potential targets and there are thousands of potential, integrated campaign strategies. If you “centralised” climate strategy you would risk loosing many of your leaders (at best) if not totally pissing them off. Imagining climate campaigners deciding they were going to centrally coordinate the Standing Rock campaign. Wait, don’t imagine that! Take another example from the US, the amazing living wage campaigns that have raised minimum wages for over 20 years are not “centralised.” They are decentralised to cities and municipalities and only now are scaling out to capture some corporate giants like McDonalds. They would have failed if someone had tried to centrally coordinate all of them from Washington. Yet the _Rules for Revolutionaries_ “rule” argues that this should have been done!
+
+There is a universal rule about how to stage the geography of a campaign, but it doesn’t take a position in favour of “coordination and centralisation” over “localism and autonomy.” The universal is to simply recognise that every campaign has to handle the tension between “coordination versus autonomy” and needs to trade off that tension in how it runs its campaign ([Tattersall](https://changemakerspodcast.org/cdn-cgi/l/email-protection#b7dfc3c3c7c48d9898c0c0c099d6dbdbd2d9d6d9d3c2d9c0ded999d4d8da98d5c5d8c0c4d298d5d8d8dcc498d6d4d6d3d2daded49ac7c5d8d1d2c4c4ded8d9d6db98c7d8dbdec3ded4c49ad0d8c1d2c5d9dad2d9c398e7d8c0d2c59aded99af4d8d6dbdec3ded8d99af6dad6d9d3d69ae3d6c3c3d2c5c4d6dbdb9a8e808f86808385848083828180) 2010). Tending towards coordination makes central planning easier, and long term volunteer engagement harder. Tending towards autonomy makes planning more diffuse but meaningful volunteerism easier. Choosing which strategy a campaign needs to emphasise depends on the changing dynamics of the campaign.
+
+The weakness of Bond and Exley’s “rule” played out in the Sanders campaign, if you put it in a longer term context. While the centralisation was able to effectively produce good mobilisation when motivated by a clear electoral goal and a series of transferable tactics, the campaign did not sustain volunteer engagement in an ongoing campaign infrastructure. As Marshall Ganz has noted – it didn’t build long term organising structures, which then lead to the dissipation of the large numbers of people who were initially engaged (Ganz, 2017).
+
+### Mobilisation, not revolutionary
+
+This is a useful segue to my second major concern with the text – and that is its claim about presenting a “revolutionary” method. That too is a bold claim and in the book it is mixed up with a whole bunch of fairly pejorative phases like “big organising” versus “small organising.”
+
+When you call something “revolutionary” you are making a claim that it is new and extremely powerful. The trouble is that the book doesn’t live up to either of these claims. What they describe as _new_ is something I recognise as an older tradition – called mobilising. What they describe as powerful is sadly something that didn’t last (sadly like most mobilising strategies).
+
+Both of these gaps reveal that the authors misunderstand community organising. Indeed the book creates quite a few “strawmen” in order to argue that the Sander’s campaign is something new and different, as compared to the “old ways” of Alinsky style organising.
+
+It’s worth running through some of these gaps.
+
+Firstly, there is nothing new about contrasting face-to-face community organising (“old organising”) and fast paced turn out (“big organising). What is frustrating is that Bond and Exley selectively interpret history to create hard and fast contrasts in this space. For every historical example they use, like Fight for 15 or Black Lives Matter, they use it to prove that big is “better” than small. Sadly there is some inaccuracy and inexperience revealed in their categories. They awkwardly use the term “one on one” to describe relational meetings – yet no community organiser would describe a meeting as “on” someone else (Bond, Exley 2016, 76)! Exley puts union organising and broad-based IAF organising in the same category. As a former union organiser then broad-based community organiser I can categorically tell you they aren’t very similar. What is similar about them is they seek to build organisations, which is a point that is under-explained in the book.
+
+Bond and Exley use the terms “old organising” and “big organising”, but using the traditional terms “organising” and “mobilising” would have better served them. That is what they are describing. Using the term “big organising” confuses the reader. After all, what they describe in the book is how, inspired by an extraordinary candidate, they mobilised thousands of people to work in groups, to undertake fairly simple tasks (mainly phone banking) to turnout people for a primary election.
+
+If they had used less pejorative terms they might have had a more sophisticated analysis. A better way to analyse the difference between organising and mobilising is to say that you need both. The argument, dare I say “rule,” is that there is a time to organise and a time to mobilise. Indeed, any sophisticated analysis of Fight for 15 shows that it was the robust interconnection of one to one work, alongside mass turn out, that made the campaign sing. Indeed, even the Bernie campaign used both one to one organising strategies alongside their mobilising work (for instance much of their phone banking strategy tried to use principles from broad-based organising). Dare I say it, the Sanders campaign used both old organising and big organising!
+
+However, it is also true that both organising and mobilising are not beyond critique. Indeed its quite clear that we aren’t winning and we have some learning to do.
+
+There is a critique to be had of Alinsky style organising. Having set up Australia’s first Alinsky style organisation – the Sydney Alliance – I know too well how hard it can be to turn deep, relational work into campaigns that can move enough people and power to transform the city. We struggled to develop mass action over time. It never felt like we had the time or space to do that work alongside our commitment to putting leaders in charge and training them to lead our work. Indeed, I am currently doing a post-doctoral fellowship exploring this question of what it might take to build bigger organising strategies using a relational approach.
+
+That said, mobilising (so called “big organising”) is riddled with problems too. I felt it in the 2003 Walk against the War movement against the War in Iraq, where in Sydney we had 500 000 people rally against the War, yet they slowly dissipated. We deployed much tactical mastery, including trialling some of the earliest digital organising techniques ever used for activism in Australia, but after the heat went out of the issue and the war went ahead, people’s interest in political activity went too.
+
+This is precisely what happened with the Bernie campaign. While there was passionate interest in his candidacy, when the “heat went out of the issue” and Clinton became inevitable, the people left. The problem is that mobilisation (or “big organising”) uses the issue to organise the people – and when the issue changes and fails, then the people leave. The advantage of community organising (old organising) is that relationships and a broad set of interests engage leaders, and so even if the issues change the people stick around. The obvious sweet spot is having enough people “organised” so that you can “mobilise” a larger number of people around issues – but still – when the issue changes the “organised” group is still committed to ongoing action.
+
+Mobilising strategies are also limited in how they treat people. People are often seen as a deployable army rather than as leaders who have the capacity to create their own destiny. The book, at times, falls victim to the language of seeing leaders as people who “act for you” not “with you.” Bond and Exley argue that you want to find tactics that you can “rinse and repeat.” The idea is that if you find a tactic that volunteers can do and is useful, you just repeat it over and over again. While its understandable that a highly scalable campaign needs patterns of work, the way this is explained in the book raises alarm bells. It implies that “the little people” are out there doing the rinsing and repeating, while the important people sit back and do the important work. It feels mechanical and machine line – it doesn’t feel very dignified let alone revolutionary.
+
+I have strong opinions about this book, and one of them is – its worth a read. This is an interesting tale of a fascinating campaign where a lot of brilliant and creative tactics were used. But you need to take it, and its “rules” with a grain of salt. Don’t hold the categories it presents as “the truth” – bring a critical eye to what you read and use that curious posture to think about the kinds of creative, imaginative, deep and broad organising strategies we need to create a better world.
+
 ## **Related books**
 
 -   The Activist's Handbook: Winning Social Change in the 21st Century by Pam Chamberlain (2008)
@@ -215,4 +280,15 @@ A growing movement attracts many people who are new to politics. Don't burden th
 
 ## External resources
 
--   [‘Tactics for Mobilisers’ A Review of Rules for Revolutionaries](https://commonslibrary.org/tactics-for-mobilisers-a-review-of-rules-for-revolutionaries/) by Amanda Tattersall
+-   [Rules for Revolutionaries website](http://www.rulesforrevolutionaries.org/?utm_source=activisthandbook.org) - ⚠️ insecure connection
+    
+-   [Takeaways and review](https://actbuildchange.com/books/rules-for-revolutionaries/?utm_source=activisthandbook.org) by Act Build Change (no date)
+    
+-   [Review](https://www.kirkusreviews.com/book-reviews/becky-bond/rules-for-revolutionaries/?utm_source=activisthandbook.org) by Kirkus Reviews
+    
+
+## Attribution
+
+Work from the following resources was reused on this page:
+
+-   [‘Tactics for Mobilisers’ A Review of Rules for Revolutionaries](https://commonslibrary.org/tactics-for-mobilisers-a-review-of-rules-for-revolutionaries/) by Amanda Tattersall (Licence: Creative Commons Attribution-NonCommercial)
