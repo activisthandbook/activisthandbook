@@ -1,16 +1,20 @@
 ---
 title: >
-  Outreach and mobilisation
+  Movement mobilization
 description: >
-  Mass mobilizing
+  Growing small groups and mass mobilization for protests
 langCode: en
 articleID: xNnscgpakG9vEGAl6B1H8gF0iRmnllHb
 languageCollectionID: vnkeR8PXExb5pqx3eAMjnmRXlog6MNcy
-updatedTimestamp: 1679982519810
+updatedTimestamp: 1692359646570
 createdTimestamp: 1643131462833
-wordCount: 323
+wordCount: 369
 tags: []
 ---
+
+In this article, we explain how to mobilize people for your movement. Use this guide to learn how to recruit volunteers for your nonprofit or mobilize a large group of people for a protest.
+
+<div data-youtube-video=""><iframe width="640" height="480" allowfullscreen="true" src="https://www.youtube-nocookie.com/embed/oL1fP-8fM8E" start="0"></iframe></div>
 
 A great way to attract new members is to make yourself and your values visible, especially if your organisation is new and unknown to other like-minded people. What are the problems your organisation is passionate to solve or to highlight? Stage a protest, for example. Be bold, be visible.
 
@@ -21,6 +25,20 @@ At first you might not get a lot of participants in your public activities, so d
 If your activity fails to garner initial press and social media attention, you can still try to make yourself heard and seen with s[ocial media posts and an additional press release](https://www.huffpost.com/entry/the-art-of-protesting-how-to-organize-a-protest-that_b_588b2de1e4b0020b224b43a0). Good photographs and videos are really important for visibility. If your past activity looks interesting and valuable to potential new members, it increases the likelihood more people will join your organisation. Don’t be afraid to toot your own horn and be your own best advertiser. A great call to join your organization? A picture with your most impressive past activities and simple “come join us” text.
 
 Once you have attracted new activists, the next challenge is to keep them in the movement and engaged (connects with chapter “How to keep members in your movement, organisation”).
+
+## Examples
+
+### Extinction Rebellion
+
+<div data-youtube-video=""><iframe width="100" height="100" allowfullscreen="true" src="https://www.youtube-nocookie.com/embed/aRLsRqKguW0" start="0"></iframe></div>
+
+<div data-youtube-video=""><iframe width="640" height="480" allowfullscreen="true" src="https://www.youtube-nocookie.com/embed/AaNjt2bL5Tw" start="0"></iframe></div>
+
+## Q&A
+
+### What is the difference between organizing and mobilizing?
+
+<div data-youtube-video=""><iframe width="100" height="100" allowfullscreen="true" src="https://www.youtube-nocookie.com/embed/Mdyw8-gzuls" start="0"></iframe></div>
 
 ## External resources
 

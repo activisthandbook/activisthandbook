@@ -6,7 +6,7 @@ description: >
 langCode: en
 articleID: XIgAxsDXgYVhs5ns90TUqOpCRJudip4A
 languageCollectionID: M4oQzM4kkLmmPBClRgocK1sL2BS2jXE2
-updatedTimestamp: 1690558584589
+updatedTimestamp: 1692359780072
 createdTimestamp: 1676567899135
 wordCount: 1998
 tags: []
@@ -20,7 +20,7 @@ In this guide, we explain how to facilitate meetings. Learn how to make your mee
 
 Facilitation is a way of taking responsibility for making meetings as inclusive, effective and enjoyable as possible. It involves creating a space where everyone can be heard and respected, helping the group work efficiently and introducing facilitation tools where appropriate. Facilitation skills include active listening, questioning and summarising. The facilitator should also take steps to meet access requirements and balance out power dynamics in the group.
 
-<dynamic-image imageid="c1e7ec59-1aa4-4d1c-57b7-8fbf39e77000" alt="People sitting in a circle"><p>People having a meeting, by <a target="_blank" href="https://edit.activisthandbook.org/author/tzmE91SnnrbJJXuvQNBl9rt6HK63">Joppe</a> | Generated using Dall-e</p></dynamic-image>
+<div data-youtube-video=""><iframe width="640" height="480" allowfullscreen="true" src="https://www.youtube-nocookie.com/embed/oPZJQ-Mhwq0" start="0"></iframe></div>
 
 ## Introduction
 
@@ -56,7 +56,7 @@ Facilitation can involve different tasks depending on the situation. They can be
 
 Sometimes facilitation will involve helping the group address conflict, or reach agreement on a difficult decision.
 
-<dynamic-image imageid="7fc3e7ab-0408-4a9c-ea21-cdd34e344f00" alt="Two people actively listening to each other"><p>Two people listening attentively to each other, by <a target="_blank" href="https://edit.activisthandbook.org/author/tzmE91SnnrbJJXuvQNBl9rt6HK63">Joppe</a> | Generated using Dall-e</p></dynamic-image>
+<dynamic-image imageid="c1e7ec59-1aa4-4d1c-57b7-8fbf39e77000" alt="People sitting in a circle"><p>People having a meeting, by <a target="_blank" href="https://edit.activisthandbook.org/author/tzmE91SnnrbJJXuvQNBl9rt6HK63">Joppe</a> | Generated using Dall-e</p></dynamic-image>
 
 ## **Facilitation skills**
 
@@ -103,6 +103,8 @@ Another important role for a facilitator is making sure that the meeting works f
 **Small groups or pairs:** Splitting into small groups can help more people participate actively in the meeting. It gives people a chance to work out their thoughts before coming back to a whole group discussion. Explain clearly what you want people to discuss in their small groups, how much time they have and what they will need to feed back afterwards. Nominating a facilitator in each small group can help them stay on track.
 
 **Breaks and energisers:** Breaks give people time to move around, process information or work out their thoughts. Build in regular breaks, or offer a quick group game.
+
+<dynamic-image imageid="7fc3e7ab-0408-4a9c-ea21-cdd34e344f00" alt="Two people actively listening to each other"><p>Two people listening attentively to each other, by <a target="_blank" href="https://edit.activisthandbook.org/author/tzmE91SnnrbJJXuvQNBl9rt6HK63">Joppe</a> | Generated using Dall-e</p></dynamic-image>
 
 ## In-depth guides
 

@@ -6,7 +6,7 @@ description: >
 langCode: en
 articleID: tvO08rRa9AhOz9-bQk2MnsJmo3IxrqGt
 languageCollectionID: 8Z7ZJiFcy-pvsGmAE6ZVgHrjZvu8r4pl
-updatedTimestamp: 1681547457204
+updatedTimestamp: 1692359154151
 createdTimestamp: 1653837592592
 wordCount: 1735
 tags: []
@@ -15,6 +15,8 @@ tags: []
 In this guide, we explain how to organise a campaign. Learn how to advocate your cause with the right campaign planning. Go beyond raising awareness and make change happen.
 
 If you're an activist who wants to make a difference, you need to know how to organise a campaign. A well-organised campaign can be the key to success, and this guide will show you how to do it. From setting goals and targetting your audience, to choosing the right tactics and organising your team, we'll cover everything you need to know to make your campaign a success.
+
+<div data-youtube-video=""><iframe width="100" height="100" allowfullscreen="true" src="https://www.youtube-nocookie.com/embed/c_g1BMVFcuw" start="0"></iframe></div>
 
 ## Steps to organise a campaign
 

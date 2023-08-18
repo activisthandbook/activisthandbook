@@ -6,7 +6,7 @@ description: >
 langCode: en
 articleID: wW8TOejHgg5EnUdhj_WDv9PmMIJpHp0l
 languageCollectionID: T68C4Mo4oLjL-VegH7FWd8lS6f4vJB7W
-updatedTimestamp: 1692202604188
+updatedTimestamp: 1692287866935
 createdTimestamp: 1645349312599
 wordCount: 4697
 tags: []
@@ -163,7 +163,7 @@ Nurses are professionals who value care, empathy, and community, and they are st
 
 When you are part of a movement, campaign, or revolution that is successful, things are changing and growing too quickly to plan everything in advance. But to become bigger, you need to deal with more and more complex issues. You can increase complexity by finding solutions for the real problems that come up in dialogue with the leaders who are involved.
 
-### Rule 15: “Only Hire Staff Who Embrace the Rule “The Revolution Will Not Be Staffed”
+### Rule 15: Only Hire Staff Who Embrace the Rule “The Revolution Will Not Be Staffed”
 
 A good rule for revolutionaries is to respect and appreciate the volunteer leaders who are doing most of the work. When you have the chance to hire more people, avoid those who might look down on, offend, or discourage the volunteers. And if you realize you have hired someone like that, let them go as soon as possible.
 
@@ -175,7 +175,7 @@ Our world is always changing, so what worked well before might not work well now
 
 A successful movement empowers its leaders from the grassroots to collaborate as equals in a framework that helps them achieve their goals and grow. Your supporters have many skills and backgrounds; respecting them as equals is the best way to encourage them to take on leadership roles; working with them as you would with paid staff is the best way to retain them as leaders while enhancing their abilities.
 
-### Rule 18: Repeat “Rinse and Repeat
+### Rule 18: Repeat “Rinse and Repeat”
 
 To change the world, you need a lot of people working together with the right tools. You should teach your supporters some simple and effective methods that they can use over and over again to achieve your common goals. But that's not enough. You also need to find a way to keep growing your movement with new people.
 
