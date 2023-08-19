@@ -6,7 +6,7 @@ description: >
 langCode: en
 articleID: wW8TOejHgg5EnUdhj_WDv9PmMIJpHp0l
 languageCollectionID: T68C4Mo4oLjL-VegH7FWd8lS6f4vJB7W
-updatedTimestamp: 1692287866935
+updatedTimestamp: 1692463251784
 createdTimestamp: 1645349312599
 wordCount: 4697
 tags: []
@@ -15,6 +15,8 @@ tags: []
 **The book Rules for Revolutionaries describes lessons learned during the Bernie Sanders campaign. It is written by two experienced political activists, Bond and Exley, who draw on their own experiences as well as scientific research to provide a guide for revolutionaries.**
 
 > Not to be confused with the book "[Rules for Revolutionaries: The Capitalist Manifesto for Creating and Marketing New Products and Services](https://clearpurpose.media/book-brief-rules-for-revolutionaries-35b8e4a1e49a?utm_source=activisthandbook.org)".
+
+<div data-youtube-video=""><iframe width="640" height="480" allowfullscreen="true" src="https://www.youtube-nocookie.com/embed/CcgkturI9yw" start="0"></iframe></div>
 
 ## **Introduction**
 
