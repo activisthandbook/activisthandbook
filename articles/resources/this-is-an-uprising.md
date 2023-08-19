@@ -6,12 +6,13 @@ description: >
 langCode: en
 articleID: E4f4wpHJ3vqzdtO9jpy7SPPucIkijmHA
 languageCollectionID: aV2eosSZ1AFxlaEG4__C0zo9m8PPuhdQ
-updatedTimestamp: 1655467729342
+updatedTimestamp: 1692464190142
 createdTimestamp: 1645352776029
+wordCount: 462
 tags: ["resources","books"]
 ---
 
-**The book** _**This is an Uprising**_ **(2016) by Mark Engler & Paul Engler is about the history and potential of mass movements, and how to build them. The book covers a wide range of topics, from the civil rights movement to the occupy movement. It is a guide for anyone who wants to make a difference in the world.**
+**The book _This is an Uprising_ (2016) by Mark Engler & Paul Engler is about the history and potential of mass movements, and how to build them. The book covers a wide range of topics, from the civil rights movement to the occupy movement. It is a guide for anyone who wants to make a difference in the world.**
 
 The [book](http://thisisanuprising.org/about/) looks into the history of mass movements, and explores the factors that make them successful. It outlines the practicalities of organising a mass movement, and offers advice on how to get started. Finally, it discusses the future of mass movements, and explores the challenges they face.
 
@@ -26,23 +27,33 @@ Nonviolence is usually seen simply as a philosophy or moral code. _This Is an Up
 ## Book details
 
 -   Publisher: Nation Books
+    
 -   ISBN Number: 978-1568587332
+    
 -   Publish Date: 2016
+    
 -   Number of Pages: 368
+    
 
 ## Related books
 
 Make sure to check out our full list of [books about activism](/resources/books).
 
 -   The Rebel yell: A history of the American populist movement by William J. Bryan (1994)
+    
 -   The People’s History of the United States by Howard Zinn (2005)
+    
 -   The Silenced Majority: Stories of Uprisings, Occupations, Resistance, and Hope by Amy Goodman (2012)
+    
 -   Strike! by Jeremy Brecher (1997)
+    
 -   The End of America: Letter of Warning to a Young Patriot by Naomi Wolf (2007)
+    
 
 ## External resources
 
 -   [About the book: This is an uprising](http://thisisanuprising.org/about/)
+    
 
 ## Attribution
 
