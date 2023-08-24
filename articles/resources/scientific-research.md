@@ -2,13 +2,13 @@
 title: >
   Scientific research on activism
 description: >
-  Trusted sources for social change-making publications
+  Trusted sources for social change-making publications 
 langCode: en
 articleID: NbvpN7vyT-YZG2PgH_TqUgza-92xFSY8
 languageCollectionID: 8XR_3Id0ZXpXu-CI3Klije2pt9_UHzja
-updatedTimestamp: 1686386848111
+updatedTimestamp: 1692894593100
 createdTimestamp: 1602592134129
-wordCount: 253
+wordCount: 257
 tags: ["stub"]
 ---
 
@@ -33,6 +33,8 @@ Basing our strategies and tactics on the work of scholarly research, we can beco
 -   [**Social Movement Studies Journal**](https://www.tandfonline.com/toc/csms20/current) ([Twitter](https://twitter.com/SocMovStudies))
     
 -   **Interface, Social Movements Journal:** [https://www.interfacejournal.net](https://www.interfacejournal.net)
+    
+-   **Social Change Lab:** [https://www.socialchangelab.org](https://www.socialchangelab.org)
     
 
 ## Inactive groups
