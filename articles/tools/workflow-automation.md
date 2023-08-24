@@ -6,9 +6,9 @@ description: >
 langCode: en
 articleID: ZiF6omrPDykHceZ75KS70PfGnJg67D0Y
 languageCollectionID: lcpxY7YdfmZQBHkL1bVIAEk9i3pQWg61
-updatedTimestamp: 1692858786314
+updatedTimestamp: 1692861960495
 createdTimestamp: 1624720274805
-wordCount: 867
+wordCount: 1137
 tags: ["tools","stub"]
 ---
 
@@ -65,6 +65,26 @@ This is what an API request could look like:
 >         "inactive"
 >       ]
 >     }
+
+## Common scenarios
+
+### Synchronising data with webhook
+
+In this scenario, we want to synchronise data between two apps. The app from which you want to send data offers a webhook. For example, you have a meeting scheduling tool, and every time someone schedules a meeting, you want to save this in your volunteer database.
+
+To achieve this, we can use a tool like n8n, or any of the other tools offered below. In App A (the meeting scheduling tool), we set up a webhook that triggers when someone schedules a meeting. We change the setting so the data is sent to a [specific URL](https://docs.n8n.io/integrations/builtin/core-nodes/n8n-nodes-base.webhook/?utm_source=activisthandbook.org) that we have created in n8n.
+
+n8n now automatically receives the data (in JSON format) every time someone schedules a meeting. This data might need [some editing](https://docs.n8n.io/data/transforming-data/?utm_source=activisthandbook.org), before it can be sent to App B (the volunteer database). And finally we send the transformed data to App B using an API request. We do this using the "[HTTP request](https://docs.n8n.io/integrations/builtin/core-nodes/n8n-nodes-base.httprequest/?utm_source=activisthandbook.org)" node.
+
+In this node, we specify the HTTP headers. This is where we include the API key, and specify the content type (we need to let App B know we are sending JSON data). The body will be the data formatted as JSON.
+
+<dynamic-image imageid="59b03919-f76a-463c-9484-1a585e770100" alt="Step 1: A webhook is triggered, data is sent from App A to n8n. Step 2: n8n sends the data to App B."><p>Instant data synchronisation using a webhook and API, by <a target="_blank" href="https://edit.activisthandbook.org/author/tzmE91SnnrbJJXuvQNBl9rt6HK63">Joppe</a></p></dynamic-image>
+
+### Synchronising without webhook
+
+If App A does not offer a webhook but does offer an API, the workflow looks slightly different. Now, we schedule de automation tool, for example n8n, to get the latest data every hour from App A. Then we send that data to App B.
+
+<dynamic-image imageid="4dbea05d-78c3-43ca-20cb-af17f365f800" alt="Step 1: Get data using API request from App A. Step 2: App A then responds with the data. Step 3: Send the data to App B"><p>Data synchronisation workflow without webhook, by <a target="_blank" href="https://edit.activisthandbook.org/author/tzmE91SnnrbJJXuvQNBl9rt6HK63">Joppe</a></p></dynamic-image>
 
 ## **Tools**
 
