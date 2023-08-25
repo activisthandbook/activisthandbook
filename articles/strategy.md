@@ -6,9 +6,9 @@ description: >
 langCode: en
 articleID: v7ONnIEx3he17_I-JD0CgqlZRX-75Zuy
 languageCollectionID: GEBMCoST8DAOBDN-LZdnxBWpOlQD18V2
-updatedTimestamp: 1692979116811
+updatedTimestamp: 1692979871735
 createdTimestamp: 1583509165087
-wordCount: 897
+wordCount: 923
 tags: ["tactics","chapters"]
 ---
 
@@ -22,6 +22,8 @@ With a good campaign strategy, your movement or campaign makes more impact. In t
     
 -   **📝** [**Develop your own strategy**](/strategy/develop)
     
+
+Prefer to watch a video? The first 1:30 minutes are only relevant to political party campaigns, but after that it also becomes useful for other activists:
 
 <div data-youtube-video=""><iframe width="640" height="480" allowfullscreen="true" src="https://www.youtube-nocookie.com/embed/JiOXP8B8nYA" start="0"></iframe></div>
 
