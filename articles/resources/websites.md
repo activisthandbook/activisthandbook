@@ -6,9 +6,9 @@ description: >
 langCode: en
 articleID: Z6uJY_SPlb4KGAjna9PThNsgiE0J98Ty
 languageCollectionID: fVhmN9s7AQ-loB2iM9of0SYyO7H3_eg2
-updatedTimestamp: 1681549067889
+updatedTimestamp: 1692969069589
 createdTimestamp: 1602591877175
-wordCount: 939
+wordCount: 945
 tags: []
 ---
 
@@ -126,6 +126,10 @@ The following websites about activism are not available under a creative commons
 -   [**Rebel Toolkit**](https://rebeltoolkit.extinctionrebellion.uk/?utm_source=activisthandbook.org): Guides for members of Extinction Rebellion, but also useful for other activists
     
 -   [**The Social Change Agency**](https://thesocialchangeagency.org/resources/?utm_source=activisthandbook.org)
+    
+-   [**Change My Community**](https://changemycommunity.ctb.ku.edu/)
+    
+-   [**CMC Campaign Toolkit**](http://www.stopclustermunitions.org/en-gb/resources/campaign-toolkit.aspx?utm_source=activisthandbook.org)
     
 
 ## Blogs, journals & magazines

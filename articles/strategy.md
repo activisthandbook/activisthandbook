@@ -6,9 +6,9 @@ description: >
 langCode: en
 articleID: v7ONnIEx3he17_I-JD0CgqlZRX-75Zuy
 languageCollectionID: GEBMCoST8DAOBDN-LZdnxBWpOlQD18V2
-updatedTimestamp: 1692359912235
+updatedTimestamp: 1692979116811
 createdTimestamp: 1583509165087
-wordCount: 705
+wordCount: 897
 tags: ["tactics","chapters"]
 ---
 
@@ -70,11 +70,47 @@ The local context across countries can impact activists trying to develop their 
 
 You can make this chapter about campaign strategies better!
 
-Some potential new sub-pages:
+Some potential new sub-pages/sections:
 
--   Interventions: things your movement can change about society/in a community (see more in ‘types of strategies’)
+-   **What is a campaign strategy?**
     
--   problem analysis (a workshop style article?)
+-   **Types of campaign strategies**:
+    
+    -   Different models of categorising strategies, for example:
+        
+        -   political/activist/nonprofit strategy
+            
+        -   aboveground/underground
+            
+        -   community/big organizing
+            
+        -   mobilizing/organizing
+            
+        -   working within the system/challenging the system
+            
+        -   violent or nonviolent?
+            
+-   **How do develop your own strategy?**
+    
+    -   Writing a strategy for a new initiative
+        
+    -   Improving your current strategy
+        
+-   **Workshops**
+    
+    -   Vision
+        
+        -   **💡 Vision gallery:** To help people to think big and find a common vision.
+            
+        -   **⚡️ Forcefield analysis:** To help you figure out what forces are working against you, and which are helping you move in the right direction.
+            
+        -   **🌳 Problem tree analysis (root cause analysis/problem analysis):** To find the root causes of problems.
+            
+        -   **🚶 Critical path analysis:** To find out what needs to happen to bring about change.
+            
+        -   **🏷 Naming political assumptions:** To create a better understanding in the different ways people view the world.
+            
+-   Interventions: things your movement can change about society/in a community (see more in ‘types of strategies’)
     
 
 Chapter organisation:
@@ -114,12 +150,16 @@ _\*According to Semrush_
     
 -   [Starting an initiative](https://citizenshandbook.org/1_01_begin.html?utm_source=activisthandbook.org) by the Citizen's Handbook
     
+-   [Website:](https://www.campaignstrategy.org/?utm_source=activisthandbook.org) [campaignstrategy.org](http://campaignstrategy.org)
+    
+-   [Campaign strategy](https://archive.informationactivism.org/en/basic1.html?utm_source=activisthandbook.org) by 10 Tactics
+    
 
 ### Copyright resources
 
--   Gene Sharp, [The Politics of Nonviolent Action](https://en.wikipedia.org/wiki/The_Politics_of_Nonviolent_Action) \[Book\].
+-   [Book: The Politics of Nonviolent Action](https://en.wikipedia.org/wiki/The_Politics_of_Nonviolent_Action) \[Book\] by Gene Sharp
     
--   [Thwink: Root problem analysis](https://www.thwink.org/index.htm)
+-   [Website: Thwink, root problem analysis](https://www.thwink.org/index.htm)
     
 -   [Video: Root Cause Analysis](https://www.youtube.com/watch?v=Ej73eqhO0Wg)
     
@@ -130,3 +170,13 @@ _\*According to Semrush_
 -   [Developing Strategic Campaigns: An ITF Manual for Trade Union Activists, Educators and Organisers](https://commonslibrary.org/developing-strategic-campaigns-an-itf-manual-for-trade-union-activists-educators-and-organisers/) by International Transport Workers' Union
     
 -   [The People Power Manual](https://commonslibrary.org/campaign-strategy-manual/) by The Change Agency
+    
+-   [Campaign strategy and planning](https://changemycommunity.ctb.ku.edu/campaign-strategy/?utm_source=activisthandbook.org) by Change My Community
+    
+-   [PDF: Research, Strategy and Targeting](https://www.ndi.org/sites/default/files/Module%203_Research%2C%20Strategy%20and%20Targeting_EN.pdf?utm_source=activisthandbook.org) from Campaign Skills Handbook by National Democratic Institute
+    
+-   [PDF: Building a campaign strategy](http://www.stopclustermunitions.org/media/330831/Campaign-Toolkit-Chapter-3-Building-a-Campaign-Strategy-low-res-.pdf?utm_source=activisthandbook.org) from CMC Campaign Toolkit by Cluster Munition Coalition
+    
+-   [Effective Political Campaign Strategies](https://www.ecanvasser.com/blog/campaign-strategies?utm_source=activisthandbook.org) by Brendan Finucane (2023)
+    
+-   [Political Campaign Strategies to Win an Election](https://www.linkedin.com/pulse/what-political-campaign-strategies-win-election-chunav-parchar?utm_source=activisthandbook.org) by Chunav Parchar (2023)

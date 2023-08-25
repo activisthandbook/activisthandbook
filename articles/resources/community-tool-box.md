@@ -6,9 +6,9 @@ description: >
 langCode: en
 articleID: L5Di9tdHLvUBwatKZzbF2Xu5UkatwoF0
 languageCollectionID: oTn4-mQ3q3JUF_l1rs5rV0CnGaeNU-xV
-updatedTimestamp: 1680089066064
+updatedTimestamp: 1692968471292
 createdTimestamp: 1654100921847
-wordCount: 1539
+wordCount: 1546
 tags: []
 ---
 
@@ -23,6 +23,13 @@ The Community Tool Box is a free, online resource for those working to build hea
 Want to learn about community assessment, planning, intervention, evaluation, advocacy, and other aspects of community practice? Then help yourself to over 300 educational modules and other free tools.
 
 Under continuous development since 1994, the Community Tool Box is widely used in teaching, training, and technical support. Currently available in English, Spanish, Arabic, and Farsi, and with millions of user sessions annually, it has reached those working in over 230 countries around the world.
+
+Websites:
+
+-   [Community Tool Box](https://ctb.ku.edu/en?utm_source=activisthandbook.org)
+    
+-   [Change My Community](https://changemycommunity.ctb.ku.edu/?utm_source=activisthandbook.org)
+    
 
 <div data-youtube-video=""><iframe width="100" height="100" allowfullscreen="true" src="https://www.youtube-nocookie.com/embed/l1X6eljD7GE" start="0"></iframe></div>
 
