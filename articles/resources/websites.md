@@ -6,9 +6,9 @@ description: >
 langCode: en
 articleID: Z6uJY_SPlb4KGAjna9PThNsgiE0J98Ty
 languageCollectionID: fVhmN9s7AQ-loB2iM9of0SYyO7H3_eg2
-updatedTimestamp: 1692969069589
+updatedTimestamp: 1692980332353
 createdTimestamp: 1602591877175
-wordCount: 945
+wordCount: 956
 tags: []
 ---
 
@@ -130,6 +130,8 @@ The following websites about activism are not available under a creative commons
 -   [**Change My Community**](https://changemycommunity.ctb.ku.edu/)
     
 -   [**CMC Campaign Toolkit**](http://www.stopclustermunitions.org/en-gb/resources/campaign-toolkit.aspx?utm_source=activisthandbook.org)
+    
+-   [**Arena Toolbox**](https://www.arena.run/toolbox/?utm_source=activisthandbook.org): US focussed agency that publishes guides for political campaigns
     
 
 ## Blogs, journals & magazines

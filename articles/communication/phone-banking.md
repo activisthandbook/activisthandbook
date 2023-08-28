@@ -6,13 +6,15 @@ description: >
 langCode: en
 articleID: SUUTlNt_FwBUIwtvKCNlUWvhOE1Sibsb
 languageCollectionID: 2YNm2PBNSyvF3s6uB-W0fT0kf3Gl5dEE
-updatedTimestamp: 1681548199254
+updatedTimestamp: 1692986071346
 createdTimestamp: 1634136511440
 wordCount: 3629
 tags: ["tools","communication"]
 ---
 
 **In this article, you will learn how to organise a phone bank for your activist movement. Firstly, we highlight a few examples of organisations that use this tactic to reach out to large groups of people. Secondly, we discuss a few reasons why a phone bank might (not) be useful for your movement. Thirdly, we talk about the resources that organising a phone bank will require. Finally, we explain the steps that you will need to take to set it up.**
+
+<div data-youtube-video=""><iframe width="640" height="480" allowfullscreen="true" src="https://www.youtube-nocookie.com/embed/nAqb9zRCUlo" start="0"></iframe></div>
 
 Volunteer-led phone banking uses campaign volunteers to reach out to voters and supporters through phone calls and is now most often supported by software that helps dispatch calls among volunteers and log progress. Phone banking is effective for supporter identification, voter persuasion, event invites, fundraising, volunteer recruitment, and Get Out The Vote (GOTV) efforts.
 

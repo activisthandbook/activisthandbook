@@ -6,12 +6,15 @@ description: >
 langCode: en
 articleID: zg8l2p35CbtIgSFg0dpxO8jVsu_kSqLr
 languageCollectionID: zc10aSe6XFW6ffyEQWGYcEhxiXFTH6XJ
-updatedTimestamp: 1621163444177
+updatedTimestamp: 1692985969285
 createdTimestamp: 1621162488611
+wordCount: 222
 tags: []
 ---
 
 ‘Going floppy’ refers to the technique of passively resisting arrest, by relaxing all muscles, making it harder for law enforcement to carry you away. By doing this, more police officers are needed to carry a protestor away. One may decide to go floppy until you are carried into a police van, or all the way to the police station. Extinction Rebellion has used this technique at their protests in the UK and the Netherlands.
+
+<div data-youtube-video=""><iframe width="640" height="480" allowfullscreen="true" src="https://www.youtube-nocookie.com/embed/qU19e3PNElA" start="0"></iframe></div>
 
 ## Local context
 
@@ -28,6 +31,7 @@ In the Netherlands, police may try to twist your arms or hands in painful positi
 ## Resources
 
 -   [https://www.theguardian.com/environment/2020/sep/16/extinction-rebellion-go-floppy-when-arrested-complains-senior-met-officer](https://www.theguardian.com/environment/2020/sep/16/extinction-rebellion-go-floppy-when-arrested-complains-senior-met-officer)
+    
 -   [https://news.sky.com/story/police-chief-calls-extinction-rebellion-a-nuisance-as-they-go-floppy-during-arrests-12073857](https://news.sky.com/story/police-chief-calls-extinction-rebellion-a-nuisance-as-they-go-floppy-during-arrests-12073857)
+    
 -   [https://www.vice.com/en/article/g5p7g4/xr-protesters-floppy-police](https://www.vice.com/en/article/g5p7g4/xr-protesters-floppy-police)
--   [https://www.youtube.com/watch?v=qU19e3PNElA](https://www.youtube.com/watch?v=qU19e3PNElA)

@@ -6,9 +6,9 @@ description: >
 langCode: en
 articleID: 0pyvmXBsK0CD53__pRHbdEpdldPTsXhw
 languageCollectionID: DzETy-5-H4GwWfZz0_ttl3fAPEBsSLBS
-updatedTimestamp: 1692979566621
+updatedTimestamp: 1693045309434
 createdTimestamp: 1647940783212
-wordCount: 1815
+wordCount: 1987
 tags: []
 ---
 
@@ -170,7 +170,7 @@ Learn more about the tactics that you can use for each of these strategies:
 
 You don’t necessarily have to stay within just one of the categories, but make sure that the strategies and tactics you chose don’t clash with each other. If you’re trying to build relationships with the people in your social environment, being seen as “radical” is not a good move. On the other hand, if you really want to make big and fast changes by building alternatives, you are wasting time if you focus primarily on policy making and lobbying, and expecting the government to introduce these alternatives.
 
-## **Six types of strategy**
+## **Seven types of strategy**
 
 ### **1\. Conventional activist strategy, including political / organisational / educational / NGO-type**
 
@@ -197,6 +197,10 @@ You don’t necessarily have to stay within just one of the categories, but make
 ### **6\. Dual Power, as pursued by Social Ecology theory**
 
 (‘Building the new society in the shell of the old, without permission’. Could include elements of 1-5, depending on application. **Examples:** EZLN / Rojava Revolution \[Democratic Confederation of Northern Syria\])
+
+### **7\. Political Non-cooperation**
+
+Oppressors feeds on the integrity of respected and popular activists that support their ambitions such as in politics where a people's activist can comment about his affiliation to a particular politician or political party, and as a result drive support for the party. When activist chooses to mobilize themselves and speak against the oppressive activities of a regime, it weakens the people support for such political party, which could lead to political transformation championed by a new and true political party. This idea could be limited in causing the expected political change if such activist is unpopular. Even the popular could need to work with chain of progressive group to effect such change. However, this strategy could weaken the power of an oppressive regime. Blacks Lives Matter activist helped undermine white supremacists and Trump negligence of amplifying support to proffer justice to the killing of Floyd. This weakened his regime and automatically became a political advantage to the democrats and Biden in the last election in the United States.
 
 * * *
 

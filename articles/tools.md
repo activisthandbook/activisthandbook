@@ -6,9 +6,9 @@ description: >
 langCode: en
 articleID: _FhS3DYPgN9p0h3elRVarmYTU8jQvcTA
 languageCollectionID: _umEWSFrid1WEvO8qO_6umUHhX8sIc49
-updatedTimestamp: 1688973112037
+updatedTimestamp: 1693202631867
 createdTimestamp: 1583509229031
-wordCount: 940
+wordCount: 953
 tags: ["tools","chapters"]
 ---
 
@@ -58,6 +58,8 @@ We also have guides on how to use social media platforms like [Instagram](/tools
 -   **✅** [**Project management**](/tools/project-management): Tools that help you keep track of projects and to-do's while working in teams.
     
 -   **📂** [**File storage**](/tools/file-storage): Solutions for storing and sharing documents.
+    
+-   📊 [**Data apps**](/tools/data-apps): modern spreadsheet apps for collecting, using and analysing any data
     
 -   📝 [**Documents**](/tools/documents): Modern text editors for collaborating online
     
