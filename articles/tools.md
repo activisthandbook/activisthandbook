@@ -2,13 +2,13 @@
 title: >
   Digital tools for activists 🛠️
 description: >
-  Free and affordable tools for nonprofits
+  Free and affordable tools for nonprofits 
 langCode: en
 articleID: _FhS3DYPgN9p0h3elRVarmYTU8jQvcTA
 languageCollectionID: _umEWSFrid1WEvO8qO_6umUHhX8sIc49
-updatedTimestamp: 1694069764708
+updatedTimestamp: 1694079904878
 createdTimestamp: 1583509229031
-wordCount: 961
+wordCount: 962
 tags: ["tools","chapters"]
 ---
 
@@ -82,7 +82,7 @@ We also have guides on how to use social media platforms like [Instagram](/tools
     
 -   **🎤** [**Podcasts**](/tools/podcasts): Publish your audio recordings with one of these tools. Podcasts are a great way to convey your message in a personal way.
     
--   **Giphy** : Giphy is a free website full of
+-   **Giphy** : Giphy is a free website full of gifs
     
 
 ## Acting
