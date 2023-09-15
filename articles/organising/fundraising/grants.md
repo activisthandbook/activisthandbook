@@ -6,9 +6,9 @@ description: >
 langCode: en
 articleID: nvYJUSvMYQBKbKUWEFjrFx2RM7h-rujy
 languageCollectionID: euxBKM_ggqL4ABereNx9siCJJULONX49
-updatedTimestamp: 1676199851110
+updatedTimestamp: 1694777360963
 createdTimestamp: 1653383403513
-wordCount: 311
+wordCount: 314
 tags: []
 ---
 
@@ -53,6 +53,8 @@ There are a number of grants available for activists who are working to make a d
 -   [Alert Fund](https://alertfonds.nl/en/) (Dutch)
     
 -   [Milieudefensie Fonds Lokale Initiatieven](https://milieudefensie.nl/doe-mee/initiatievenloket/fonds-lokale-initiatieven)
+    
+-   Fonds Burgerbewegingen: [https://fondsburgerbewegingen.nl](https://fondsburgerbewegingen.nl)
     
 
 ### United Kingdom
