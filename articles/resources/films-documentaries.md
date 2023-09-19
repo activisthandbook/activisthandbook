@@ -6,9 +6,9 @@ description: >
 langCode: en
 articleID: D_-vmEmgbMNOMHh2SXtvPoD5Dx79UDPN
 languageCollectionID: ohxe33cakE7W1G5ElMyFqUVF8T46mBBC
-updatedTimestamp: 1675597242371
+updatedTimestamp: 1695145342958
 createdTimestamp: 1629203579712
-wordCount: 496
+wordCount: 515
 tags: ["resources","films"]
 ---
 
@@ -23,6 +23,8 @@ tags: ["resources","films"]
 -   [**Disruption**](http://watchdisruption.com/): Documentary about climate activism by 350.org
     
 -   **Standing Rock (2016)**: A documentary about the Standing Rock Sioux Tribe's fight to stop the construction of the Dakota Access Pipeline.
+    
+-   [**How to blow up a pipeline**](/resources/how-to-blow-up-a-pipeline-film), loosely based on the book by Andreas Malm, directed by Daniel Goldhaber (2022)
     
 
 ## Films about people-power
