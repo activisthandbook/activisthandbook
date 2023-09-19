@@ -6,9 +6,9 @@ description: >
 langCode: en
 articleID: vkNnsXP9e5HKNdHVIZvIvLrOc5PN2ago
 languageCollectionID: rae1YQD9nVRsPJwwkbaoB56Go6aL8eXE
-updatedTimestamp: 1695154223053
+updatedTimestamp: 1695154381465
 createdTimestamp: 1695145354601
-wordCount: 2130
+wordCount: 2105
 ---
 
 In this article, we review the film "How to blow up a pipeline". We provide a summary and a critical analysis of this fictional movie.
@@ -99,7 +99,7 @@ Interestingly, perhaps the act of merely creating a movie about how to blow up a
 
 ### Reviews
 
-The YouTube channel Maxism Today has published an interesting review, criticising dangerous bomb building practices in the movie. The video unfortunately has a clickbait title and introduction suggesting the movie is a 'psy-op' (psychological operations by the US government). It is also suggested that the movie website shows a map of all oil pipelines, which it does not (it's a map of oil spills). It provides valuable insights nevertheless:
+The YouTube channel Maxism Today has published an interesting review, criticising dangerous bomb building practices in the movie. The video unfortunately has a clickbait title and introduction suggesting the movie is a 'psy-op' (psychological operations by the US government). It provides valuable insights nevertheless:
 
 <div data-youtube-video=""><iframe width="640" height="480" allowfullscreen="true" src="https://www.youtube-nocookie.com/embed/FXuW4mfxD8U" start="0"></iframe></div>
 
