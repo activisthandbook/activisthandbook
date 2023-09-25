@@ -1,11 +1,14 @@
 ---
 title: >
   Discussion: Violence
+description: >
+  Contribute to our discussion!
 langCode: en
 articleID: Fw5egyl8SRhDouUGEPuOfpYOc_mkJKCG
 languageCollectionID: fFLD-KTTm0M6YPSM_xJawSHlGEd1fYTd
-updatedTimestamp: 1611093336539
+updatedTimestamp: 1695154441776
 createdTimestamp: 1591807507113
+wordCount: 299
 tags: []
 ---
 
@@ -20,18 +23,25 @@ tags: []
 **Things to keep in mind:**
 
 -   There are many definitions of what 'violence' entails.
+    
 -   Various forms of violence are illegal in large parts of the world, which could have implications for the legality of Activist Handbook's content.
+    
 
 **Some possible answers:**
 
 -   We should not discuss violence at all.
+    
 -   We discuss how violence is being used by activists. However, we clearly condemn the use of violence.
+    
 -   We discuss how violence is being used by activists. We show all sides of the debate.
--   We should be allowed to discuss violent tactics, without any disclaimers.
+    
+-   We should be allowed to discuss violent tactics, including how-to instructions, without any disclaimers.
+    
 
 **Concrete examples:**
 
 -   In our references, we currently refer to _The Anarchist Cookbook_ by William Powell, a book which "provides instructions for making bombs, drugs, and operating firearms" ([Davis, 2019](https://bigthink.com/culture-religion/anarchist-cookbook)). Should we allow referencing to resources that provide instructions for violent tactics?
+    
 
 ## Resources
 
