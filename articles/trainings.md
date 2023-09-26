@@ -6,13 +6,13 @@ description: >
 langCode: en
 articleID: YUfVGkwMxm05zjEjl7vPQ9gPpUCItupH
 languageCollectionID: vijKrgNARghr6p534ZbiZ1HWioKFbDgl
-updatedTimestamp: 1691655071411
+updatedTimestamp: 1695736255869
 createdTimestamp: 1587834484219
-wordCount: 1926
+wordCount: 2147
 tags: ["training"]
 ---
 
-**In this article, you will find a list of more than 50 organisations around the globe that can provide IRL and online trainings, workshops and facilitation to your activist group. Also make sure to check out our** [**resources**](/resources) **chapter for a lists of useful websites, books and more.**
+**In this article, you will find a list of more than 50 organisations around the globe. They can provide IRL and online trainings, workshops and facilitation to your activist group.**
 
 On the Activist Handbook website, you can find [hundreds of guides](/) for activists. Sometimes though, it is nice to be able to get together in real life with fellow activists and get training from an experienced organiser. In this article we list training collectives that can provide various types of support to help make your campaign a success.
 
@@ -26,13 +26,9 @@ The following organisations have trainers in several countries:
     
 -   [**Training for Change**](/resources/training-for-change): “All of our workshops are rooted in our Direct Education approach. Our trainers center the group, building upon dynamics in the room and participants’ own experience to introduce new content and help the group access their own wisdom. Many of our public workshops are “training of trainers”.”
     
--   [**Organising for Change**](https://www.organisingforchange.org/our-training) ([Twitter](https://twitter.com/OrganiseChange)): "We offer a core three day ‘Organising for Change’ training for campaigners from grassroots groups and NGOs which focuses on: seeding the open, inclusive and liberatory culture we want to see in the world, the basics of organising, and putting organising at the heart of campaigns for change"
-    
 -   [**Beautiful Trouble**](/resources/beautiful-trouble): "Our global network includes a deep bench of seasoned trainers and facilitators, primed to deliver trainings and curricula in strategic planning, core organizing principles, nonviolent discipline and creative action design, all in a highly experiential framework built on Beautiful Rising’s core values of popular education. Trainings range from a two-hour introductory webinar to a week-long intensive, and are always tailored to the needs of the participating groups."
     
 -   [**Social Movement Technologies**](https://socialmovementtechnologies.org): "A non-profit/NGO providing organizing strategy, training and campaign support to build people power and win in the digital age."
-    
--   [**The Campaign Accelerator**](https://www.campaignaccelerator.org/): This organisation provides tailored consulting, a 3-day masterclass, a 3-month accelerator programme and a 3-hour workshop. They have experience with impact strategies, engagement paths, social network communication, participatory financing and volunteer communities.
     
 -   [**The Good Lobby**](https://www.thegoodlobby.eu): They provide free training and resources by matching your organisation by change-making experts, specifically tailored to your needs.
     
@@ -42,7 +38,7 @@ The following organisations have trainers in several countries:
     
 -   [**Institute for Change Leaders**](https://www.changeleaders.ca/training): Canada based organisation that “teaches the skills that organizers, activists and campaigners need to win social change. Our core curriculum comes from Marshall Ganz, a Harvard professor who codified the relationship-building organizational framework we teach after years of organizing with the Civil Rights and United Farm Workers movements.”
     
--   [**The Yes Men**](https://theyesmen.org/learn)
+-   [**The Yes Men**](https://theyesmen.org/learn): They work together with schools to train students to make a difference through creative tactics.
     
 -   [**Climate 2025**](https://www.climate2025.org/movement-building)
     
@@ -149,8 +145,6 @@ The following organisations have trainers in several countries:
 -   [**Momentum**](https://www.momentumcommunity.org/) ([Twitter](https://twitter.com/momentum_mvmts)): We train organizers in the craft of building+sustaining movements at scale.
     
 
-People learning about effective change-making - Generated using OpenAI
-
 ## Smaller initiatives
 
 These initiatives do not have a website, but are still interesting to check out:
@@ -159,6 +153,37 @@ These initiatives do not have a website, but are still interesting to check out:
     
 
 <action-smart-small></action-smart-small>
+
+## Archive
+
+The following organisations are not active any more, but we have kept them here for archiving purposes:
+
+-   [**Organising for Change**](https://web.archive.org/web/20220125202729/https://www.organisingforchange.org/our-training?utm_source=activisthandbook.org) ([Twitter](https://twitter.com/OrganiseChange)): "We offer a core three day ‘Organising for Change’ training for campaigners from grassroots groups and NGOs which focuses on: seeding the open, inclusive and liberatory culture we want to see in the world, the basics of organising, and putting organising at the heart of campaigns for change"
+    
+-   [**The Campaign Accelerator**](https://web.archive.org/web/20230326091936/https://www.campaignaccelerator.org/?utm_source=activisthandbook.org): This organisation provides tailored consulting, a 3-day masterclass, a 3-month accelerator programme and a 3-hour workshop. They have experience with impact strategies, engagement paths, social network communication, participatory financing and volunteer communities.
+    
+
+## Evaluation criteria
+
+To make it easier to find the training organisation you are looking for, we evaluate all of them through the following criteria. There are many types of training organisations. The one is not better than the other, just make sure to find the one that fits your specific needs:
+
+-   **Geography & language**: Progressive activist trainers are often internationally oriented, so they like to work together with change-makers across borders. However, this does not mean that these training organisations are always knowledgeable about local contexts. We especially see organisations from the Global South claiming they offer their services globally, while not investing in recruiting local trainers cross borders.
+    
+-   **Topics of expertise:** While many training organisations are quite flexible and can offer any training on demand, they each have things they are especially knowledgeable about.
+    
+-   **Format of training**: Some organisations offer one-off trainings for the duration of one evening, others offer month long courses. Another thing we evaluate is the degree to which support is personalised: some provide one-on-one personalised consultancy services, while others take a more scalable approach.
+    
+-   **Price:** Often, training organisations for activists offer some sort of flexible payment model. Large nonprofits pay more than small grassroots groups. Sometimes they even offer their time for free.
+    
+-   **Size**: Some training organisations are just two or three activists who come together in the weekends to share their knowledge with other change-makers. Other training organisations have more capacity.
+    
+
+In addition, we have collected the following information about these training organisations:
+
+-   **Contact information:** Website, social media, email address, phone number, contact form.
+    
+-   **Resources**: Some organisations also offer online training resources.
+    
 
 ## About this page
 
@@ -184,17 +209,9 @@ Experienced campaigners organise workshops for your organisation or help facilit
 
 At most universities, courses about activism are quite theoretical. Activist Handbook takes a different approach: we provide practical guides to teach you how to make a social impact. On this page, we have listed organisations around the globe that offer training and courses about change-making. Sometimes, the best way to learn more about effective advocacy is to get personalised support from experienced campaigners. We highly recommend you to reach out to
 
-People campaigning for climate justice - Generated using OpenAI
-
-## Rebel Academy
-
-This is our attempt at peer to peer education. We believe in sharing knowledge and learning from each other which is why our courses are freely available to anyone who wants to follow. On top of that, they are available in video format as well, all the handouts and materials needed for the courses at [Rebel Academy](/academy) are stored on our website.
-
 ## **How to improve**
 
-Do you know an organisation that provides trainings for activists? Add it to the list!
-
-This article overrepresents organisations in the Global North. We encourage you to look for training collectives in the Global South and add them to this page.
+Do you know an organisation that provides trainings for activists? Add it to the list! This article overrepresents organisations in the Global North. We encourage you to look for training collectives in the Global South and add them to this page.
 
 > Please only add organisations to the ‘international’ list, if they truly operate internationally. If they do not have trainers in multiple countries, do not add them to the international section.
 
@@ -205,6 +222,10 @@ We want as many activists as possible to find this article on Google. We did som
 <table><tbody><tr><th><p>Keywords</p></th><th><p>Global monthly searches</p></th><th><p>Relevancy</p></th></tr><tr><td><p>activism workshop</p></td><td><p>70</p></td><td><p>high</p></td></tr><tr><td><p>activism training</p></td><td><p>30</p></td><td><p>high</p></td></tr><tr><td><p>activist training</p></td><td><p>160</p></td><td><p>high</p></td></tr><tr><td><p>training for activists</p></td><td><p>0</p></td><td><p>high</p></td></tr><tr><td><p>political campaign training</p></td><td><p>400</p></td><td><p>high</p></td></tr><tr><td><p>nonviolent protest training</p></td><td><p>160</p></td><td><p>high</p></td></tr><tr><td><p>community activist training</p></td><td><p>10</p></td><td><p>high</p></td></tr><tr><td><p>activism courses</p></td><td><p></p></td><td><p></p></td></tr><tr><td><p>how to become an activist</p></td><td><p></p></td><td><p></p></td></tr></tbody></table>
 
 _Data based on Semrush_
+
+## Related articles
+
+Also make sure to check out our [resources](/resources) chapter for a lists of useful websites, books and more.
 
 ## External resources
 
