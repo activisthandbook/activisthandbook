@@ -6,9 +6,9 @@ description: >
 langCode: en
 articleID: y5lJ-VcsNzXpOePLIAq63fA62qNkJ0AY
 languageCollectionID: NgRZAH8Dvd769ZcUN-JmgJ-fd9tfCsVX
-updatedTimestamp: 1688222369298
+updatedTimestamp: 1695741110867
 createdTimestamp: 1643131835201
-wordCount: 686
+wordCount: 694
 tags: []
 ---
 
@@ -103,6 +103,8 @@ Example partnerships
 -   [Nuts and Bolts of Building an Alliance](https://commonslibrary.org/nuts-and-bolts-of-building-an-alliance/) by Movement Strategy Centre
     
 -   [How To Build Networked Coalitions](https://commonslibrary.org/how-to-building-networked-coalitions/) by Blueprints For Change
+    
+-   [Building coalitions](https://rfkhumanrights.org/our-programs/john-lewis-young-leaders/campaign-toolkits/building-coalitions?utm_source=activisthandbook.org) by Robert F. Kennedy Human Rights
     
 
 ### **Books**

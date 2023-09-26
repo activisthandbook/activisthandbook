@@ -6,9 +6,9 @@ description: >
 langCode: en
 articleID: YUfVGkwMxm05zjEjl7vPQ9gPpUCItupH
 languageCollectionID: vijKrgNARghr6p534ZbiZ1HWioKFbDgl
-updatedTimestamp: 1695736255869
+updatedTimestamp: 1695742579914
 createdTimestamp: 1587834484219
-wordCount: 2147
+wordCount: 2209
 tags: ["training"]
 ---
 
@@ -143,6 +143,8 @@ The following organisations have trainers in several countries:
 -   [**Center of Political Education, CPE**](https://politicaleducation.org/get-involved/programs/) ([Twitter](https://twitter.com/Center4PE)): A resource for political organizations on the left, progressive social movements, the working class, and people of color in California.
     
 -   [**Momentum**](https://www.momentumcommunity.org/) ([Twitter](https://twitter.com/momentum_mvmts)): We train organizers in the craft of building+sustaining movements at scale.
+    
+-   [**Becker Digital Strategies**](https://beckerdigitaltraining.com/about-us/?utm_source=activisthandbook.org): "Digital training firm that offers one on one coaching and conducts digital trainings across the globe on how to use digital tools like social media to engage with communities of committed activists to build and leverage political power. Our trainees include people from all over the Progressive Movement from legislative staff to labor organizers and non profits and activists."
     
 
 ## Smaller initiatives
