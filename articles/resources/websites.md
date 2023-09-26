@@ -6,9 +6,9 @@ description: >
 langCode: en
 articleID: Z6uJY_SPlb4KGAjna9PThNsgiE0J98Ty
 languageCollectionID: fVhmN9s7AQ-loB2iM9of0SYyO7H3_eg2
-updatedTimestamp: 1692980332353
+updatedTimestamp: 1695743817137
 createdTimestamp: 1602591877175
-wordCount: 956
+wordCount: 960
 tags: []
 ---
 
@@ -59,6 +59,8 @@ This means we can copy their articles to Activist Handbook as long as the approp
 -   [**The Citizen's Handbook**](/resources/the-citizens-handbook): Website with resources for activists
     
 -   [**Rhizome Network**](/resources/rhizome-network): Seem to be inactive since 2020, but their website still contains valuable Creative Commons resources
+    
+-   [**Organizing for Change**](https://ofalegacytrainings.com/home/?utm_source=activisthandbook.org)
     
 
 <action-smart-small></action-smart-small>
@@ -132,6 +134,8 @@ The following websites about activism are not available under a creative commons
 -   [**CMC Campaign Toolkit**](http://www.stopclustermunitions.org/en-gb/resources/campaign-toolkit.aspx?utm_source=activisthandbook.org)
     
 -   [**Arena Toolbox**](https://www.arena.run/toolbox/?utm_source=activisthandbook.org): US focussed agency that publishes guides for political campaigns
+    
+-   [**Re:power**](https://repower.org/classroom/resources/)
     
 
 ## Blogs, journals & magazines

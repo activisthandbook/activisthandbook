@@ -6,9 +6,9 @@ description: >
 langCode: en
 articleID: gz7-sKLP8XZf8B7ytC1LyeQBcwJ3PxYF
 languageCollectionID: 7RntqYH138QMBgdPt_0fYewurAx7Po2B
-updatedTimestamp: 1695742633213
+updatedTimestamp: 1695743832307
 createdTimestamp: 1695736860608
-wordCount: 960
+wordCount: 1003
 ---
 
 In this guide, you will learn all about digital organizing. We will teach you how to use tech to make more impact with your activist group.
@@ -77,6 +77,8 @@ Contact the following organisations for one-on-one support:
     
 -   [**Tectonica**](https://www.tectonica.co/?utm_source=activisthandbook.org): Movement building agency with tech focus
     
+-   [**Becker Digital Strategies**](https://beckerdigitaltraining.com/about-us/?utm_source=activisthandbook.org)
+    
 
 > There are many more [training & support organisations](/trainings) you can reach out to for help. The organisations above put their focus on digital organizing.
 > 
@@ -91,6 +93,8 @@ The awesome authors of these resources published their work under a Creative Com
 -   [Introduction to Digital Organizing](https://repower.org/wp-content/uploads/2020/10/ITDO-1_20201021.pdf) by Repower
     
 -   [Digital Organizing Strategies](https://www.coloradotrust.org/wp-content/uploads/2022/06/Digital-Organizing-Strategies-vF.pdf) by Siomara Valladares, Kate Somerville, Michelle Renée Valladares from the Research Hub for Youth Organizing, University of Colorado Boulder (2022)
+    
+-   [Slides: Digital organizing](https://ofalegacytrainings.com/wp-content/uploads/2019/07/PDF-slides-Digital-organizing-.pdf?utm_source=activisthandbook.org) by Alexis Conavay, Organizing for Action
     
 
 ### Copyright
@@ -131,24 +135,20 @@ The awesome authors of these resources published their work under a Creative Com
     
 -   [Digital Organizing Toolkit](https://andrewgoodman.org/wp-content/uploads/2020/08/Digital-Organizing-Toolkit-FINAL-Standard.pdf?utm_source=activisthandbook.org) by The Andrew Goodman Foundation (2020)
     
--   [https://beckerdigitaltraining.com/digital-resources/](https://beckerdigitaltraining.com/digital-resources/)
+-   [Collection: Digital Resources](https://beckerdigitaltraining.com/digital-resources/?utm_source=activisthandbook.org) by Becker Digital Strategies
     
--   [https://socialmovementtechnologies.org/free-digital-organizing-trainings/](https://socialmovementtechnologies.org/free-digital-organizing-trainings/)
+-   [Collection: Digital organizing resources](https://courses.socialmovementtechnologies.org/courses?utm_source=activisthandbook.org) by Social Movement Technologies
     
--   [https://www.wslc.org/wp-content/uploads/2019/07/2019-Hub-Digital-Organizing\_UPDATED-sm.pdf](https://www.wslc.org/wp-content/uploads/2019/07/2019-Hub-Digital-Organizing_UPDATED-sm.pdf)
+-   [Slides: Digital organizing](https://www.wslc.org/wp-content/uploads/2019/07/2019-Hub-Digital-Organizing_UPDATED-sm.pdf?utm_source=activisthandbook.org) by FuseWashington
     
--   [https://censuscounts.org/digital-organizing/social-media-101/](https://censuscounts.org/digital-organizing/social-media-101/)
+-   [Collection: Digital Organizing](https://censuscounts.org/category/digital-organizing/?utm_source=activisthandbook.org) by Census Counts
     
--   [https://ecpr.eu/Events/Event/PanelDetails/10022](https://ecpr.eu/Events/Event/PanelDetails/10022)
+-   [Collection: Digital Organizing](https://campaignsandelections.com/tag/digital-organizing/?utm_source=activisthandbook.org) by Campaigns & Elections
     
--   [https://fcyo.org/resources/digital-for-youth-power-how-to-use-digital-to-recruit-and-move-people-to-action](https://fcyo.org/resources/digital-for-youth-power-how-to-use-digital-to-recruit-and-move-people-to-action)
+-   [Communications vs. Digital Organizing](https://www.alisarivera.com/communications-vs-digital-organizing-whats-the-difference-and-why-it-matters/?utm_source=activisthandbook.org) by Alisa Rivera
     
--   [https://campaignsandelections.com/tag/digital-organizing/](https://campaignsandelections.com/tag/digital-organizing/)
-    
--   [https://www.alisarivera.com/communications-vs-digital-organizing-whats-the-difference-and-why-it-matters/](https://www.alisarivera.com/communications-vs-digital-organizing-whats-the-difference-and-why-it-matters/)
-    
--   [https://ofalegacytrainings.com/wp-content/uploads/2019/07/PDF-slides-Digital-organizing-.pdf](https://ofalegacytrainings.com/wp-content/uploads/2019/07/PDF-slides-Digital-organizing-.pdf)
-    
+
+<div data-youtube-video=""><iframe width="640" height="480" allowfullscreen="true" src="https://www.youtube-nocookie.com/embed/V8fOAwLdcDM" start="0"></iframe></div>
 
 ## Improve this page
 
