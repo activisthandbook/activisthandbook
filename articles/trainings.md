@@ -6,13 +6,13 @@ description: >
 langCode: en
 articleID: YUfVGkwMxm05zjEjl7vPQ9gPpUCItupH
 languageCollectionID: vijKrgNARghr6p534ZbiZ1HWioKFbDgl
-updatedTimestamp: 1695742579914
+updatedTimestamp: 1695919821062
 createdTimestamp: 1587834484219
-wordCount: 2209
+wordCount: 2487
 tags: ["training"]
 ---
 
-**In this article, you will find a list of more than 50 organisations around the globe. They can provide IRL and online trainings, workshops and facilitation to your activist group.**
+**In this article, you will find a list of more than 70 organisations around the globe. They can provide IRL and online trainings, workshops and facilitation to your activist group.**
 
 On the Activist Handbook website, you can find [hundreds of guides](/) for activists. Sometimes though, it is nice to be able to get together in real life with fellow activists and get training from an experienced organiser. In this article we list training collectives that can provide various types of support to help make your campaign a success.
 
@@ -86,7 +86,9 @@ The following organisations have trainers in several countries:
     
 -   [**Effective Collective**](https://www.effectivecollective.net/): Kavana Tree Bressen is an experienced trainer and facilitator for a wide range of groups oriented toward horizontal power; website includes an extensive library of articles and handouts.
     
--   **European Community Organizing Network (ECON)**: [https://organizeeurope.org/what-we-do/](https://organizeeurope.org/what-we-do/)
+-   [**European Community Organizing Network (ECON)**](https://organizeeurope.org/what-we-do/?utm_source=activisthandbook.org): We help community organizers and organizations develop their strategic practice.
+    
+-   [**Common Ecologies**](http://commonecologies.net/?utm_source=activisthandbook.org) ([Twitter](https://twitter.com/CommonEcologies?utm_source=activisthandbook.org)): "We organize courses, discussions, encounters, co-learning processes and programmes, and make podcasts. We work for people, groups and organizations that struggle (or want to struggle) for socio-ecological transformation and justice. Our work is based out of different locations in Europe (mostly Austria, Germany, Spain, Italy at the moment), linking to a network of allies."
     
 
 ### Australia 🇦🇺
@@ -94,13 +96,18 @@ The following organisations have trainers in several countries:
 -   [**Direct Action Movement**](https://www.thedirectactionmovement.com/nvda-book-and-training): This Australia-based organisation gives non-violent direct action trainings.
     
 
+### Canada 🇨🇦
+
+-   [**Tools for Change**](https://www.toolsforchange.net/?utm_source=activisthandbook.org) ([Twitter](https://twitter.com/Tools4ChangeTO?utm_source=activisthandbook.org)): "A project of OPIRG Toronto, Earthroots and Greenpeace CA, we help you develop skills to advocate for social change"
+    
+
 ### Germany 🇩🇪
 
-[Trainings organisations in Germany](/de/trainings) can be found on the German translation of this page.
+👉 [**Trainings organisations in Germany**](/de/trainings) can be found on the German translation of this page.
 
 ### Netherlands 🇳🇱
 
-[Trainings organisations in the Netherlands](/nl/trainings) can be found on the Dutch translation of this page.
+👉 [**Trainings organisations in the Netherlands**](/nl/trainings) can be found on the Dutch translation of this page.
 
 ### **Schotland 🏴󠁧󠁢󠁳󠁣󠁴󠁿**
 
@@ -146,6 +153,14 @@ The following organisations have trainers in several countries:
     
 -   [**Becker Digital Strategies**](https://beckerdigitaltraining.com/about-us/?utm_source=activisthandbook.org): "Digital training firm that offers one on one coaching and conducts digital trainings across the globe on how to use digital tools like social media to engage with communities of committed activists to build and leverage political power. Our trainees include people from all over the Progressive Movement from legislative staff to labor organizers and non profits and activists."
     
+-   [**The Campaign Workshop**](https://tcwadvocacy.com/?utm_source=activisthandbook.org) ([Twitter](https://twitter.com/cmpwrkshp?utm_source=activisthandbook.org)): "Our advocacy training is a complete guide to the ins and outs of effective advocacy. We use real-world examples and experienced trainers. This intensive, two-day course covers a range of topics such as defining your goals, fundraising, building a digital presence, and much more!"
+    
+-   [**Bully Pulpit Interactive**](https://www.bpimedia.com/?utm_source=activisthandbook.org) ([Twitter](https://twitter.com/BPIMedia?utm_source=activisthandbook.org)): A questionable agency in this list. Large nonprofits and political parties have worked together with them, but so did Goldman Sachs and McDonalds. If you can, work together with an organisation that has a better moral compass.
+    
+-   [**M+R**](https://www.mrss.com/?utm_source=activisthandbook.org) ([Twitter](https://twitter.com/MRcampaigns?utm_source=activisthandbook.org)): "We're communicators, marketers & fundraisers who unleash the power of people to do good. We only work with nonprofits fighting for a just and sustainable world."
+    
+-   [**Center for Artistic Activists**](https://c4aa.org/training/?utm_source=activisthandbook.org) ([Twitter](https://twitter.com/theC4AA?utm_source=activisthandbook.org)): "We offer a range of programs designed specifically for artists, activists, and organizations looking to deploy creativity with precision, skill, and expertise."
+    
 
 ## Smaller initiatives
 
@@ -155,6 +170,10 @@ These initiatives do not have a website, but are still interesting to check out:
     
 
 <action-smart-small></action-smart-small>
+
+## Freelancers
+
+> This section is a work in progress.
 
 ## Archive
 
@@ -182,10 +201,14 @@ To make it easier to find the training organisation you are looking for, we eval
 
 In addition, we have collected the following information about these training organisations:
 
--   **Contact information:** Website, social media, email address, phone number, contact form.
+-   **Contact information:** Website, social media, email address, phone number, contact form (only use publicly accessible information).
     
 -   **Resources**: Some organisations also offer online training resources.
     
+
+### Freelancers
+
+**Respect the privacy of individual activists**: Only add freelance activist trainers to this page if they have a publicly accessible website. Only share publicly available information on Activist Handbook.
 
 ## About this page
 

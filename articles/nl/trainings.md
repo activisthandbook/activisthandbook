@@ -6,9 +6,9 @@ description: >
 langCode: nl
 articleID: hmUp47pQ3DXCwFVLba02kuKrjiK5Oop2
 languageCollectionID: vijKrgNARghr6p534ZbiZ1HWioKFbDgl
-updatedTimestamp: 1680089468893
+updatedTimestamp: 1695919828314
 createdTimestamp: 1587913206504
-wordCount: 295
+wordCount: 398
 tags: []
 ---
 
@@ -22,7 +22,7 @@ tags: []
     
 -   [**Tractie**](https://www.tractie.be/) (België, [Twitter](https://twitter.com/Tractie1)): “_Tractie is het trainerscollectief van_ [_Vredesactie_](https://www.vredesactie.be)_. Wij ondersteunen groepen en organisaties die werken aan sociale en politieke verandering, door trainingen, workshops en begeleiding op maat._”
     
--   [**Lowlander Project**](https://www.lowlanderproject.nl/trainingen): _“Lowlander is een trainingscentrum voor iedereen die zich wil inzetten voor een eerlijk en duurzaam Nederland. Wij trainen mensen om hun leiderschap te ontdekken, ontwikkelen en in te zetten voor maatschappelijke verandering.”_
+-   [**Lowlander Project**](https://www.lowlanderproject.nl/trainingen): _“Lowlander is een trainingscentrum voor iedereen die zich wil inzetten voor een eerlijk en duurzaam Nederland. Wij trainen mensen om hun leiderschap te ontdekken, ontwikkelen en in te zetten voor maatschappelijke verandering.” - Opgericht door_ [_Sandra Ball_](https://www.m-powering.nl/en/home/?utm_source=activisthandbook.org) _(_[_Twitter_](https://twitter.com/ball_sandra?utm_source=activisthandbook.org)_) en Job van den Assem_
     
 -   [**Milieudefensie**](https://milieudefensie.nl/doe-mee/trainingen): Milieudefensie bied gratis trainingen aan over klimaatrechtvaardigheid, de inclusieve klimaatbeweging, organizing, klimaatprojectplanning en actietraining. De trainingen zijn bedoeld voor 8 tot 25 deelnemers, en kunnen zowel online als fysiek plaatsvinden.
     
@@ -34,6 +34,10 @@ tags: []
     
 -   [**Rebelwise**](https://rebelwise.com/?utm_source=activisthandbook.org) ([Linkedin](https://nl.linkedin.com/company/rebelwise?utm_source=activisthandbook.org)): Een organisatie die activisten leert hoe ze op niet-hiërarchisch manieren kunnen samenwerken
     
+-   [**Wallaard & Kusse**](https://wkpa.nl/training-en-coaching/?utm_source=activisthandbook.org) ([Twitter](https://twitter.com/WallaartKussePA?utm_source=activisthandbook.org)): "Wallaart & Kusse Public Affairs gelooft dat basiskennis van public affairs binnen een organisatie onmisbaar is voor de uitvoering van een goede strategie. Wij vertellen organisaties graag over de beginselen van public affairs. Ook geven wij trainingen over lokale belangenbehartiging, het functioneren van ministeries en de processen en politieke dynamiek van de Tweede Kamer. Daarnaast verzorgen wij mediatrainingen."
+    
+    -   [**Lobby Lokaal**](https://www.stichtinglobbylokaal.nl/lobbytrainingen/?utm_source=activisthandbook.org): "Wil je invloed hebben op het beleid in jouw gemeente, maar weet je niet waar je moet beginnen? Wij hebben verschillende workshops om je op weg te helpen."
+        
 
 ## Evenementen
 

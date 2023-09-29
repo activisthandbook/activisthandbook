@@ -6,9 +6,9 @@ description: >
 langCode: en
 articleID: -pE_5A3neuxTjz9faAjLDTXNCsLViTF0
 languageCollectionID: i-dke_X1syMKHOzN0O-HzLAc1Og8jHaQ
-updatedTimestamp: 1680019141804
+updatedTimestamp: 1695884004316
 createdTimestamp: 1602591928472
-wordCount: 1223
+wordCount: 1236
 tags: []
 ---
 
@@ -134,6 +134,10 @@ These books about activism are not freely available, but they are still a great 
     
 -   [**Organize for Social Change: Midwest Academy Manual for Activists**](https://organizingforsocialchange.com/?utm_source=activisthandbook.org) by Kimberley A. Bobo, Jackie Kendall and Steve Max (2001)
     
+-   [**Civil Resistance, What Everyone Needs to Know**](https://global.oup.com/academic/product/civil-resistance-9780190244408?lang=en&cc=us&utm_source=activisthandbook.org) by Erica Chenoweth (2021)
+    
+
+<action-smart-small></action-smart-small>
 
 ## Book libraries
 
@@ -148,6 +152,8 @@ If you are interested in reading more books, check out these websites, which als
 -   [**Books about activism**](https://en.wikipedia.org/wiki/Category:Books_about_activism) on Wikipedia ([Creative Commons Attribution-ShareAlike License 3.0](https://en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License))
     
 -   [**The Change Agency Books**](https://thechangeagency.org/toolkit/?_resource_type=book) ([Creative Commons Attribution-NonCommercial 4.0 International License](https://creativecommons.org/licenses/by-nc/4.0/))
+    
+-   [**Goodreads collection**](https://www.goodreads.com/shelf/show/activism?utm_source=activisthandbook.org)
     
 
 ## Q&A

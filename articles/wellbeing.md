@@ -6,9 +6,9 @@ description: >
 langCode: en
 articleID: ItlwwJfYopwgV4ZEnH653rUc1JbQ2GJj
 languageCollectionID: l8XZ2W25XNow2B1wFBSVg7-4T2S1LBn3
-updatedTimestamp: 1683453112032
+updatedTimestamp: 1695885693674
 createdTimestamp: 1583509148168
-wordCount: 1469
+wordCount: 1475
 tags: ["wellbeing","chapters"]
 ---
 
@@ -177,6 +177,8 @@ Please make sure to treat each other with respect and dignity. You are free to s
 -   [How to Give Psychological First Aid (PFA)](https://hub.ilga-europe.org/security/how-to-give-psychological-first-aid-pfa/?utm_source=activisthandbook.org) by ILGA-Europe Hub
     
 -   [Wellbeing during COVID-19](https://hub.ilga-europe.org/security/taking-care-of-our-security-and-wellbeing-in-the-new-covid-19-reality/?utm_source=activisthandbook.org) by ILGA-Europe Hub
+    
+-   [Plan to Thrive](https://plantothrive.net.au/?utm_source=activisthandbook.org) ([Twitter](https://twitter.com/PlanToThrive?utm_source=activisthandbook.org)): Activist doctors
     
 
 ### Spirituality and Community Building

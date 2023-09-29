@@ -2,13 +2,13 @@
 title: >
   Scientific research on activism
 description: >
-  Trusted sources for social change-making publications 
+  Trusted sources for social change-making publications
 langCode: en
 articleID: NbvpN7vyT-YZG2PgH_TqUgza-92xFSY8
 languageCollectionID: 8XR_3Id0ZXpXu-CI3Klije2pt9_UHzja
-updatedTimestamp: 1692894593100
+updatedTimestamp: 1695884012847
 createdTimestamp: 1602592134129
-wordCount: 257
+wordCount: 264
 tags: ["stub"]
 ---
 
@@ -18,7 +18,7 @@ Basing our strategies and tactics on the work of scholarly research, we can beco
 
 -   [**International Research Group on Authoritarianism and Counter-Strategies, IRGAC**](https://irgac.org) ([Twitter](https://twitter.com/rls_irgac)): an initiative of the Rosa Luxemburg Foundation that brings together scholar-activists to exchange research on the rise of the Right and responses from the Left
     
--   [**Nonviolent Action Lab**](https://carrcenter.hks.harvard.edu/nonviolent-action-lab-new) ([Twitter](https://twitter.com/NVActLab)): The Nonviolent Action Lab produces data & analysis on where & how nonviolent action works worldwide.
+-   [**Nonviolent Action Lab**](https://carrcenter.hks.harvard.edu/nonviolent-action-lab-new) ([Twitter](https://twitter.com/NVActLab)): The Nonviolent Action Lab produces data & analysis on where & how nonviolent action works worldwide by [Erica Chenoweth](https://twitter.com/EricaChenoweth?utm_source=activisthandbook.org) and [Jay Ulfelder](https://twitter.com/JayUlfelder?utm_source=activisthandbook.org)
     
 -   [**Activism Research Hub**](https://www.activismresearchhub.org) ([Twitter](https://twitter.com/ActivismHub)): Gathering, analysing and implementing activism research for rapid and effective environmental change.
     
@@ -32,9 +32,11 @@ Basing our strategies and tactics on the work of scholarly research, we can beco
     
 -   [**Social Movement Studies Journal**](https://www.tandfonline.com/toc/csms20/current) ([Twitter](https://twitter.com/SocMovStudies))
     
--   **Interface, Social Movements Journal:** [https://www.interfacejournal.net](https://www.interfacejournal.net)
+-   [**Interface, Social Movements Journal**](https://www.interfacejournal.net/?utm_source=activisthandbook.org)
     
--   **Social Change Lab:** [https://www.socialchangelab.org](https://www.socialchangelab.org)
+-   [**Social Change Lab**](https://www.socialchangelab.org/?utm_source=activisthandbook.org)
+    
+-   [**Crowd Counting Consortium**](https://sites.google.com/view/crowdcountingconsortium/home?utm_source=activisthandbook.org)
     
 
 ## Inactive groups

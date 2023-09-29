@@ -6,9 +6,9 @@ description: >
 langCode: en
 articleID: d751PVrcazMbnuFAYFpz4bwoSmoxlWGf
 languageCollectionID: f5__szGCr_PENHh-LmlZeb4ZCYRatk1E
-updatedTimestamp: 1676199398179
+updatedTimestamp: 1695919335583
 createdTimestamp: 1602592059921
-wordCount: 203
+wordCount: 216
 tags: []
 ---
 
@@ -36,7 +36,7 @@ Podcasts about activism allow us to listen to fellow change-makers that are livi
     
 -   [**Enemies of the People**](https://enemiesofthepeople.buzzsprout.com) ([Twitter](https://twitter.com/EnemiesPod)): Podcast about extremism in the 21st Century
     
--   [**Spadework Podcast**](https://twitter.com/SpadeworkPod) ([Website](https://roarmag.org/author/spadework/))
+-   [**Spadework Podcast**](https://twitter.com/SpadeworkPod) ([Website](https://roarmag.org/author/spadework/)): A podcast dedicated to organizing | Hosts: [@\_dierrez\_](https://twitter.com/_dierrez_) & [@\_a\_dieterich](https://twitter.com/_a_dieterich) | Production: [@bridgetEAnders](https://twitter.com/bridgetEAnders)
     
 -   [**Radikaal**](https://www.radikaalpodcast.com) ([Twitter](https://twitter.com/radikaalpodcast)): DIY podcast about radical aspects of politics, music & sports by Cas Mudde
     

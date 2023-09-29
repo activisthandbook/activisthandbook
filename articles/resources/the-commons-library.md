@@ -6,9 +6,9 @@ description: >
 langCode: en
 articleID: MVawwsRzb24Kk-J2PIdPuO2T1GFNQzab
 languageCollectionID: ra5zzhhdS53h3rqKdZ98WhjqSvuXbOf2
-updatedTimestamp: 1682524879235
+updatedTimestamp: 1695917776596
 createdTimestamp: 1653037424084
-wordCount: 2125
+wordCount: 2136
 tags: []
 ---
 
@@ -27,6 +27,17 @@ It seeks to collect and share the key lessons and resources of progressive movem
 Users can search for resources on the home page, browse topics and collections, use filters to refine their search, and access curated guides. The library also has a team of Librarians available to answer questions and provide recommendations.
 
 The Commons Library is a go-to resource for social change and activism. It is a comprehensive and user-friendly website that provides a wide range of tools, resources, and guides for those interested in social and ecological justice. The focus on intersectionality is particularly noteworthy. The Commons Library is free to use and is recommended by a number of organizations and individuals who have found it to be an invaluable resource for their work. Charlie Wood of Tipping Point, Maya Newell of In My Blood It Runs, Lexie Keller Sheard of TEAR Australia, Aliya Ahmad of Democracy in Colour, and Sarina Foulstone of Council on the Ageing NSW (COTA) have all spoken highly of the Commons Library and its usefulness in their work.
+
+### People
+
+-   [Holly Hammond](https://commonslibrary.org/author/hollytwo/?utm_source=activisthandbook.org) ([Twitter](https://twitter.com/Holly_PTW?utm_source=activisthandbook.org))
+    
+-   [Antje Dun](https://commonslibrary.org/author/antje/?utm_source=activisthandbook.org)
+    
+-   [Iain McIntyre](https://commonslibrary.org/author/iainmcintyre/?utm_source=activisthandbook.org)
+    
+-   Aoife Carli Hannan
+    
 
 ## **Types of resources**
 

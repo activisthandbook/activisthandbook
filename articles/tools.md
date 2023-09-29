@@ -6,9 +6,9 @@ description: >
 langCode: en
 articleID: _FhS3DYPgN9p0h3elRVarmYTU8jQvcTA
 languageCollectionID: _umEWSFrid1WEvO8qO_6umUHhX8sIc49
-updatedTimestamp: 1695742616585
+updatedTimestamp: 1695881948230
 createdTimestamp: 1583509229031
-wordCount: 977
+wordCount: 981
 tags: ["tools","chapters"]
 ---
 
@@ -67,6 +67,8 @@ We also have guides on how to use social media platforms like [Instagram](/tools
 -   **📂** [**File storage**](/tools/file-storage): Solutions for storing and sharing documents.
     
 -   📊 [**Data apps**](/tools/data-apps): modern spreadsheet apps for collecting, using and analysing any data
+    
+-   💽 [**People database (CRM)**](/tools/crm)
     
 -   📈 [**Website analytics**](/tools/website-analytics): keep track of website visitors
     
