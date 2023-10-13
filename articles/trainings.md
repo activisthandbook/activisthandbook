@@ -6,9 +6,9 @@ description: >
 langCode: en
 articleID: YUfVGkwMxm05zjEjl7vPQ9gPpUCItupH
 languageCollectionID: vijKrgNARghr6p534ZbiZ1HWioKFbDgl
-updatedTimestamp: 1695919821062
+updatedTimestamp: 1696064445590
 createdTimestamp: 1587834484219
-wordCount: 2487
+wordCount: 2543
 tags: ["training"]
 ---
 
@@ -64,7 +64,7 @@ The following organisations have trainers in several countries:
     
 -   [**International Center on Nonviolent Conflict, ICNC**](https://www.nonviolent-conflict.org/for-activists-and-organizers-landing/) ([Twitter](https://twitter.com/CivilResistance)): We support research, develop educational resources, & share knowledge about how nonviolent civil resistance movements win rights, freedom, & justice
     
--   [**Canvas**](https://canvasopedia.org/schedule-training-or-consultations/): Center for Applied NonViolent Actions and Strategies
+-   [**Canvas**](https://canvasopedia.org/schedule-training-or-consultations/) ([Twitter](https://twitter.com/CANVASNVS?utm_source=activisthandbook.org)): Center for Applied NonViolent Actions and Strategies - founded by [Srdja Popovic](https://twitter.com/SrdjaPopovic?utm_source=activisthandbook.org)
     
 -   [**The Social Change Agency**](https://thesocialchangeagency.org/?utm_source=activisthandbook.org): "From grassroots campaigns to established organisations, we’ll work with you to develop the tools, techniques and networks you need to create lasting social impact."
     
@@ -130,7 +130,7 @@ The following organisations have trainers in several countries:
     
 -   [**Act Build Change**](https://actbuildchange.com/training/) ([Twitter](https://twitter.com/actbuildchange))
     
--   [**Social Change Initiative**](https://www.socialchangeinitiative.com/what-we-do) ([Twitter](https://twitter.com/SCI_Belfast)) They collaborate with activists, policy makers and funders to deliver lasting social change in Northern Ireland.
+-   [**Social Change Initiative**](https://www.socialchangeinitiative.com/what-we-do) ([Twitter](https://twitter.com/SCI_Belfast)) They collaborate with activists, policy makers and funders to deliver lasting social change in Northern Ireland, [Martin O'Brien](https://twitter.com/MartinOBrien17?utm_source=activisthandbook.org) is director.
     
 -   [**M2 Consultants**](https://www.m2consultants.uk/how-we-do-it/) ([Twitter](https://twitter.com/m2consultants))
     
@@ -161,6 +161,8 @@ The following organisations have trainers in several countries:
     
 -   [**Center for Artistic Activists**](https://c4aa.org/training/?utm_source=activisthandbook.org) ([Twitter](https://twitter.com/theC4AA?utm_source=activisthandbook.org)): "We offer a range of programs designed specifically for artists, activists, and organizations looking to deploy creativity with precision, skill, and expertise."
     
+-   [**Change Lab**](https://www.changelabinfo.com/training-and-capacity-building/?utm_source=activisthandbook.org) ([Twitter](https://twitter.com/change_lab?utm_source=activisthandbook.org)): ChangeLab is a grassroots political lab that explores structural solutions to achieve racial justice.
+    
 
 ## Smaller initiatives
 
@@ -182,6 +184,8 @@ The following organisations are not active any more, but we have kept them here 
 -   [**Organising for Change**](https://web.archive.org/web/20220125202729/https://www.organisingforchange.org/our-training?utm_source=activisthandbook.org) ([Twitter](https://twitter.com/OrganiseChange)): "We offer a core three day ‘Organising for Change’ training for campaigners from grassroots groups and NGOs which focuses on: seeding the open, inclusive and liberatory culture we want to see in the world, the basics of organising, and putting organising at the heart of campaigns for change"
     
 -   [**The Campaign Accelerator**](https://web.archive.org/web/20230326091936/https://www.campaignaccelerator.org/?utm_source=activisthandbook.org): This organisation provides tailored consulting, a 3-day masterclass, a 3-month accelerator programme and a 3-hour workshop. They have experience with impact strategies, engagement paths, social network communication, participatory financing and volunteer communities.
+    
+-   [**Occupy Oakland, Nonviolent Caucus**](http://occupyoakland.org/generalassembly/committees/caucuses/nonviolent-caucus/?utm_source=activisthandbook.org) ([Twitter](https://twitter.com/OONV?utm_source=activisthandbook.org)): "A network of the Occupy movement focused on nonviolent education, training, support and direct action to build a broad-based movement representative of the 99%"
     
 
 ## Evaluation criteria

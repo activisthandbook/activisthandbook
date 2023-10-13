@@ -6,9 +6,9 @@ description: >
 langCode: en
 articleID: NbvpN7vyT-YZG2PgH_TqUgza-92xFSY8
 languageCollectionID: 8XR_3Id0ZXpXu-CI3Klije2pt9_UHzja
-updatedTimestamp: 1695884012847
+updatedTimestamp: 1696065433717
 createdTimestamp: 1602592134129
-wordCount: 264
+wordCount: 291
 tags: ["stub"]
 ---
 
@@ -37,6 +37,10 @@ Basing our strategies and tactics on the work of scholarly research, we can beco
 -   [**Social Change Lab**](https://www.socialchangelab.org/?utm_source=activisthandbook.org)
     
 -   [**Crowd Counting Consortium**](https://sites.google.com/view/crowdcountingconsortium/home?utm_source=activisthandbook.org)
+    
+-   [**Social Enterprise and Institutions for Collective Action**](https://collective-action.info/?utm_source=activisthandbook.org) ([Twitter](https://twitter.com/Collectiveactio?utm_source=activisthandbook.org))
+    
+-   [**Reframing Activism**](https://reframe.sussex.ac.uk/activistmedia/?utm_source=activisthandbook.org) ([Twitter](https://twitter.com/re_activism?utm_source=activisthandbook.org)): An interdisciplinary blog that brings together academic research, media practice and current news on mediated activism.
     
 
 ## Inactive groups

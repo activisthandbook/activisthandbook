@@ -6,9 +6,9 @@ description: >
 langCode: en
 articleID: HoOfo2tH3HucVjYIbZL9LtPorVEFZtI-
 languageCollectionID: 6U4kXo7qbzKkrfaO_cJnG9RkCS37n1Qz
-updatedTimestamp: 1679307111023
+updatedTimestamp: 1696505251255
 createdTimestamp: 1584809921964
-wordCount: 590
+wordCount: 598
 tags: ["about"]
 ---
 
@@ -75,3 +75,7 @@ Our writers never have to start with an empty page. Using artifical intelligence
 ## Our social media
 
 Follow us on [Youtube](https://www.youtube.com/channel/UCnaQQFVNV0eKc4j3-zwc09A), [Facebook](https://www.facebook.com/activisthandbook/), [Instagram](http://instagram.com/activisthandbook), [Twitter](https://twitter.com/activistbook) and [LinkedIn](https://www.linkedin.com/company/activist-handbook/).
+
+## Roadmap
+
+Check out the [roadmap](/about/roadmap) for Activist Handbook.

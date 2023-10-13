@@ -6,9 +6,9 @@ description: >
 langCode: en
 articleID: nvYJUSvMYQBKbKUWEFjrFx2RM7h-rujy
 languageCollectionID: euxBKM_ggqL4ABereNx9siCJJULONX49
-updatedTimestamp: 1694777360963
+updatedTimestamp: 1695990772037
 createdTimestamp: 1653383403513
-wordCount: 314
+wordCount: 457
 tags: []
 ---
 
@@ -18,53 +18,49 @@ There are a number of grants available for activists who are working to make a d
 
 ## List of activist grants
 
--   [Resist](http://resist.org/): “Resist is a foundation that supports people's movements for justice and liberation. We redistribute resources back to frontline communities at the forefront of change while amplifying their stories of building a better world.”
+-   [**Resist**](http://resist.org/): “Resist is a foundation that supports people's movements for justice and liberation. We redistribute resources back to frontline communities at the forefront of change while amplifying their stories of building a better world.”
     
--   [https://guerrillafoundation.org/what-we-do/grantmaking/](https://guerrillafoundation.org/what-we-do/grantmaking/)
+-   [**Guerrilla Foundation**](https://guerrillafoundation.org/what-we-do/grantmaking/): "True to our name, the Guerrilla Foundation resources activists & grassroots movements in building pockets of resistance while carrying out radical societal transformations needed to cultivate a living, circular economy with a deeply democratic society that prioritises social & ecological wellbeing."
     
--   [https://studentsforliberty.org/europe/group-activism-grants-2/](https://studentsforliberty.org/europe/group-activism-grants-2/)
+-   [**Students for Liberty**](https://studentsforliberty.org/group-activism-grants/) (_form not working_): "We offer student groups up to $250 in activism grants. This grant is meant to enable you to create a really great event or activity on campus that will help you educate students on some facet of the ideas of limited government."
     
--   [https://fundaction.eu/](https://fundaction.eu/)
+-   [**Fund Action**](https://fundaction.eu/): FundAction is an activist-led participatory grantmaking fund. We shift decision-making power over funding from funders to affected communities and activists working on the frontlines.
     
--   [https://www.patagonia.com/how-we-fund/](https://www.patagonia.com/how-we-fund/)
+-   [**Patagonia**](https://www.patagonia.com/how-we-fund/): "Patagonia supports environmental organizations with bold, direct-action agendas and a commitment to long-term change."
     
--   [CLIMA Fund](https://climasolutions.org) ([Twitter](https://twitter.com/grassrootsfund))
+-   [**CLIMA Fund**](https://climasolutions.org) ([Twitter](https://twitter.com/grassrootsfund)): "We mobilize philanthropy by investing in on-the-ground leaders behind the most sustainable and effective solutions to our global climate crisis."
     
 
 ### European Union
 
--   Overview for youth programmes:  
-    [https://ec.europa.eu/info/funding-tenders/how-eu-funding-works/who-eligible-funding/funding-opportunities-young-people\_en](https://ec.europa.eu/info/funding-tenders/how-eu-funding-works/who-eligible-funding/funding-opportunities-young-people_en)
+-   [**Overview for youth programmes**](https://ec.europa.eu/info/funding-tenders/how-eu-funding-works/who-eligible-funding/funding-opportunities-young-people_en?utm_source=activisthandbook.org)
     
--   European Youth Foundation:  
-    [https://www.coe.int/en/web/european-youth-foundation](https://www.coe.int/en/web/european-youth-foundation)
+-   [**European Youth Foundation**](https://www.coe.int/en/web/european-youth-foundation?utm_source=activisthandbook.org)
     
--   Education, Audiovisual and Culture Executive Agency:  
-    [https://eacea.ec.europa.eu/homepage\_en](https://eacea.ec.europa.eu/homepage_en)
+-   [**Education, Audiovisual and Culture Executive Agency**](https://eacea.ec.europa.eu/homepage_en?utm_source=activisthandbook.org)
     
--   Erasmus Plus:  
-    [https://ec.europa.eu/programmes/erasmus-plus/](https://ec.europa.eu/programmes/erasmus-plus/)
+-   [**Erasmus Plus**](https://ec.europa.eu/programmes/erasmus-plus/?utm_source=activisthandbook.org)
     
 
 ### Netherlands
 
--   [Het Actie Fonds](https://hetactiefonds.nl/en/homepage/)
+-   [**Het Actie Fonds**](https://hetactiefonds.nl/en/homepage/)
     
--   [Alert Fund](https://alertfonds.nl/en/) (Dutch)
+-   [**Alert Fund**](https://alertfonds.nl/en/) (Dutch)
     
--   [Milieudefensie Fonds Lokale Initiatieven](https://milieudefensie.nl/doe-mee/initiatievenloket/fonds-lokale-initiatieven)
+-   [**Milieudefensie Fonds Lokale Initiatieven**](https://milieudefensie.nl/doe-mee/initiatievenloket/fonds-lokale-initiatieven)
     
--   Fonds Burgerbewegingen: [https://fondsburgerbewegingen.nl](https://fondsburgerbewegingen.nl)
+-   [**Fonds Burger Bewegingen**](https://fondsburgerbewegingen.nl)
     
 
 ### United Kingdom
 
--   [Edge Fund](https://www.edgefund.org.uk) ([Twitter](https://twitter.com/theedgefund)): Member-run fund supporting work that challenges abuses of power & aims to bring an end to the systems that cause injustice
+-   [**Edge Fund**](https://www.edgefund.org.uk) ([Twitter](https://twitter.com/theedgefund)): Member-run fund supporting work that challenges abuses of power & aims to bring an end to the systems that cause injustice
     
 
 ### Australia
 
--   [Collection: Grant help sheets, books, tools, checklists](https://explore.fundingcentre.com.au/tools-resources/grants) by Funding Centre
+-   [**Collection: Grant help sheets, books, tools, checklists**](https://explore.fundingcentre.com.au/tools-resources/grants) by Funding Centre
     
 
 ## Grant writing

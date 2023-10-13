@@ -6,9 +6,9 @@ description: >
 langCode: en
 articleID: Z6uJY_SPlb4KGAjna9PThNsgiE0J98Ty
 languageCollectionID: fVhmN9s7AQ-loB2iM9of0SYyO7H3_eg2
-updatedTimestamp: 1695743817137
+updatedTimestamp: 1696065035112
 createdTimestamp: 1602591877175
-wordCount: 960
+wordCount: 1093
 tags: []
 ---
 
@@ -60,7 +60,9 @@ This means we can copy their articles to Activist Handbook as long as the approp
     
 -   [**Rhizome Network**](/resources/rhizome-network): Seem to be inactive since 2020, but their website still contains valuable Creative Commons resources
     
--   [**Organizing for Change**](https://ofalegacytrainings.com/home/?utm_source=activisthandbook.org)
+-   [**Organizing for Change**](https://ofalegacytrainings.com/home/?utm_source=activisthandbook.org): Inactive - Organizing for Action (OFA) was a national grassroots issues advocacy organization, founded in 2013 to support the policy agenda the American people voted for in the 2012 elections.
+    
+-   [**Global Nonviolent Action Database**](https://nvdatabase.swarthmore.edu/) ([Twitter](https://twitter.com/GNADatabase?utm_source=activisthandbook.org)): Swarthmore College's Global Nonviolent Action Database provides free access to information about hundreds of cases of nonviolent action for learning and change.
     
 
 <action-smart-small></action-smart-small>
@@ -137,6 +139,12 @@ The following websites about activism are not available under a creative commons
     
 -   [**Re:power**](https://repower.org/classroom/resources/)
     
+-   [**Albert Einstein Institution**](https://www.aeinstein.org/digital-library?utm_source=activisthandbook.org) ([Twitter](https://twitter.com/aeinstitution?utm_source=activisthandbook.org)): "Empowering humankind by advancing the study and use of strategic nonviolent action in conflicts since 1983."
+    
+-   [**Social Movement Technologies**](https://courses.socialmovementtechnologies.org/courses?utm_source=activisthandbook.org)
+    
+-   [**Leading Change Network**](https://leadingchangenetwork.org/resource-center/?utm_source=activisthandbook.org) ([Twitter](https://twitter.com/LeadingChangeNt?utm_source=activisthandbook.org)): We're a global community working for local and systemic change. We exist to develop civic leadership, organizations and campaigns to change the world.
+    
 
 ## Blogs, journals & magazines
 
@@ -149,6 +157,8 @@ We also collected a few blog authors that write about activism:
 -   [**Organizing for Power**](https://www.organizingforpower.org/): A blog built to provide “resources for organizers and trainers”.
     
 -   [**Interface Journal**](https://www.interfacejournal.net): Learning from each other's struggles: activist and academic research and theory on social movements from around the world. As multilingual as we can be!
+    
+-   [**Convergence Magazine**](https://convergencemag.com/?utm_source=activisthandbook.org) ([Twitter](https://twitter.com/_convergencemag?utm_source=activisthandbook.org), [Facebook](https://www.facebook.com/MovementConvergence?utm_source=activisthandbook.org), [Instagram](https://www.instagram.com/_convergencemag/?utm_source=activisthandbook.org)): "Convergence works with organizers and activists on the frontlines to produce content that sharpens our collective practice and promotes strategic debate."
     
 
 ## News

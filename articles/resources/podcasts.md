@@ -6,9 +6,9 @@ description: >
 langCode: en
 articleID: d751PVrcazMbnuFAYFpz4bwoSmoxlWGf
 languageCollectionID: f5__szGCr_PENHh-LmlZeb4ZCYRatk1E
-updatedTimestamp: 1695919335583
+updatedTimestamp: 1696063590421
 createdTimestamp: 1602592059921
-wordCount: 216
+wordCount: 263
 tags: []
 ---
 
@@ -43,3 +43,7 @@ Podcasts about activism allow us to listen to fellow change-makers that are livi
 -   [**Words to Win By**](https://wordstowinby-pod.com) ([Twitter](https://twitter.com/WordsToWinBy)): A podcast about winning for political insiders, outsiders and every progressive in between hosted by Anat Shenker-Osorio.
     
 -   [**Politics Theory Other**](https://soundcloud.com/poltheoryother) ([Twitter](https://twitter.com/poltheoryother)): A podcast from Tribune magazine on radical politics, critical theory, and culture. Hosted by Alex Doherty.
+    
+-   [**People vs Inequality**](https://podfollow.com/people-vs-inequality-podcast/view?utm_source=activisthandbook.org) ([Twitter](https://twitter.com/pplvsinequality)): In a time of crisis and fast change this podcast is a space to reflect and learn with changemakers on how to fight inequality, by [Barbara van Paassen](https://twitter.com/bvpaassen?utm_source=activisthandbook.org).
+    
+-   [**Waging Nonviolence**](https://wagingnonviolence.org/podcast/?utm_source=activisthandbook.org) ([Twitter](https://twitter.com/wagingnv?utm_source=activisthandbook.org)): They host three podcasts: City of Refuge, We Are Many, WNV Radio

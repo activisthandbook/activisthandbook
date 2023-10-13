@@ -6,9 +6,9 @@ description: >
 langCode: en
 articleID: XIgAxsDXgYVhs5ns90TUqOpCRJudip4A
 languageCollectionID: M4oQzM4kkLmmPBClRgocK1sL2BS2jXE2
-updatedTimestamp: 1692359780072
+updatedTimestamp: 1696065840198
 createdTimestamp: 1676567899135
-wordCount: 1998
+wordCount: 2009
 tags: []
 ---
 
@@ -221,6 +221,8 @@ This is a whole topic on its own, so we wrote a series of guides about [decision
 **Resource Manual for a Living Revolution,** Virginia Coover, Ellen Deacon, Charles Esser, Christopher Moore, New Society Publishers, 1981, ISBN: 0-86571-008-2
 
 **Working with Conflict,** Fisher et al, Zed Books, 2000. ISBN: 1-85649-837-9
+
+> **😄 Bonus resource**: Follow _Shit Facilitators Say_ on [Instagram](https://www.instagram.com/shitfacilitator/?utm_source=activisthandbook.org) or [Twitter](https://twitter.com/ShitFacilitator?utm_source=activisthandbook.org).
 
 ## Attribution
 

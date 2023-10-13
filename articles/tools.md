@@ -6,9 +6,9 @@ description: >
 langCode: en
 articleID: _FhS3DYPgN9p0h3elRVarmYTU8jQvcTA
 languageCollectionID: _umEWSFrid1WEvO8qO_6umUHhX8sIc49
-updatedTimestamp: 1695881948230
+updatedTimestamp: 1696064293625
 createdTimestamp: 1583509229031
-wordCount: 981
+wordCount: 985
 tags: ["tools","chapters"]
 ---
 
@@ -189,3 +189,5 @@ This article performs well in search engines**.** Lot's of people look up ‘too
 -   [Digital First Aid Kit](https://commonslibrary.org/digital-first-aid-kit/?utm_source=activisthandbook.org) by CiviCert/Rapid Response Network
     
 -   [What Campaigners Should be Considering About Artificial Intelligence](https://commonslibrary.org/what-campaigners-should-be-considering-about-artificial-intelligence-ai/?utm_source=activisthandbook.org) by Tectonica
+    
+-   [Social Movement Technologies, courses](https://courses.socialmovementtechnologies.org/courses?utm_source=activisthandbook.org)
