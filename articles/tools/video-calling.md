@@ -6,9 +6,9 @@ description: >
 langCode: en
 articleID: OIdzm4zCNy5uueuVtSGK-dWoAYJojt2l
 languageCollectionID: rOnRkqeKFocsL5LElVfQGPX5zRbZgjK8
-updatedTimestamp: 1679313534001
+updatedTimestamp: 1697755928160
 createdTimestamp: 1585060695885
-wordCount: 753
+wordCount: 783
 tags: []
 ---
 
@@ -18,7 +18,7 @@ With the current corona crisis going on, video calling tools have become essenti
 
 None of these video calling tools for large groups offer end-to-end encryption, but they do offer regular encryption. In other words: your call will be encrypted in transit to the server, but the company that offers the service will be able to have access to your video call. If you need more privacy for your organisation, consider looking at the tools for smaller groups.
 
--   [**Jitsi Meet**](https://meet.jit.si): Jitsi offers a free to use video calling service. There is no hard limit for the number of participants, although the experience may become laggy when calling with more people. If you have a very large group, you can also livestream the call to YouTube.
+-   [**Jitsi Meet**](https://meet.jit.si): Jitsi offers a free to use video calling service. There is no hard limit for the number of participants, although the experience may become laggy when calling with more people. If you have a very large group, you can also livestream the call to YouTube. If you want to use Jitsi anonymously, you can use other hosted versions of it like [meet.waag.org](http://meet.waag.org).
     
 -   [**Skype**](https://www.skype.com/en/): This is perhaps the best known platform. You can call with up to 50 people. It also offers the option to record video calls.
     
@@ -47,7 +47,7 @@ If you just want to call with your friends, these tools might be better suited f
     
 -   [**Houseparty**](https://houseparty.com): With this app you can call up to 8 people at the same time. Houseparty also offers a feature to share your screen and has built in games which you can play with your friends.
     
--   [**Signal**](https://signal.org): You can only call with one other person with Signal which is quite a limitation compared to the competition. However, if you really need privacy, this app might still be the best option for you. In addition to the use of end-to-end encryption, this app also collects almost no metadata. Where other services do store information about who you are calling, at what time and from what location, this app does not.
+-   [**Signal**](https://signal.org): You can video call groups on phone and desktop app. Sometimes the video connection is less stable than the likes of Zoom, and you can't send people links to only join the call. If you really need privacy, this app might still be the best option for you. In addition to the use of end-to-end encryption, this app also collects almost no metadata. Where other services do store information about who you are calling, at what time and from what location, this app does not.
     
 
 ## Related articles
