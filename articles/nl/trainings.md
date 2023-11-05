@@ -6,15 +6,15 @@ description: >
 langCode: nl
 articleID: hmUp47pQ3DXCwFVLba02kuKrjiK5Oop2
 languageCollectionID: vijKrgNARghr6p534ZbiZ1HWioKFbDgl
-updatedTimestamp: 1696066050583
+updatedTimestamp: 1699177471795
 createdTimestamp: 1587913206504
-wordCount: 474
+wordCount: 659
 tags: []
 ---
 
 **Deze pagina is gewijd aan de training en capaciteitsopbouw van activisten. Hier vind je alle trainingen die wij en andere organisaties aanbieden.**
 
-> Beschikbaar in andere talen: [Deutch](/de/trainings), [English](/trainings)
+> Op deze pagina staan alle trainingsorganisaties in Nederland en België. Bekijk ook onze [Engelse pagina](/trainings) voor een langere lijst van organisaties.
 
 ## Lijst met training organisaties
 
@@ -38,6 +38,12 @@ tags: []
         
 -   [**Bureau Tij**](http://www.bureau-tij.nl/?utm_source=activisthandbook.org#diensten) ([Twitter](https://twitter.com/BureauTij?utm_source=activisthandbook.org)): Bureau Tij helpt effectieve campagnes ontwikkelen met trainingen, coaching, evaluaties en advies. Bureau Tij zijn Agnes de Rooij en Ingrid van den Berg
     
+-   [**Greenpeace NL**](https://www.greenpeace.org/nl/word-actievoerder/?utm_source=activisthandbook.org): trainingen voor Greenpeace acties
+    
+-   [**FNV Academie**](https://www.fnv.nl/actief-voor-de-fnv/kaderacademie?utm_source=activisthandbook.org)**:** De FNV Academie is het expertisecentrum voor scholing en ontwikkeling van onze vakbondsvrijwilligers: de kaderleden. Ons doel: activerend vakbondswerk. Wij bieden op maat gemaakte trainingen, coaching, begeleiding, maar ook bemiddeling en materiaalontwikkeling.
+    
+-   [**Oxfam Novib**](https://www.oxfamnovib.nl/activistlab?utm_source=activisthandbook.org): "Wij steunen en helpen activisten die strijden voor een wereld die inclusief, eerlijk, veilig en groen is. Dat doen wij onder andere met Activist Lab, dé campagnetraining voor jongeren tot 30 jaar. Samen met andere wereldverbeteraars maak je kennis met de ingrediënten van een succesvolle campagne. Leer meer over acties die bijdragen aan wereldwijde en systematische verandering."
+    
 
 ### België
 
@@ -60,9 +66,13 @@ De volgende initiatieven hebben geen eigen website, maar zijn nog steeds goed om
 -   **Conflictbemiddeling Weerstand:** Mediation voor en door activisten, actief op [Twitter](https://twitter.com/Weerstandcon)
     
 
-## Archief
+## Archief 🪦
+
+Deze organisaties zijn niet meer actief:
 
 -   [**Build Your Movement**](https://web.archive.org/web/20190127081836/https://buildyourmovement.dudaone.com/?utm_source=activisthandbook.org) ([Twitter](https://twitter.com/BuildUrMovement)): We amplify the resilience of social movements by focusing on its core: people.
+    
+-   [**The Activist Hive**](https://activisthive.org/?utm_source=activisthandbook.org): "The Activist Hive is a place both offline and online where PAX brings together activists from different parts of the world.  At the heart of this concept is the goal of peaceful societal change through strategic, innovative and creative actions. Through the Activist Hive, we collectively aim to empower and strengthen the capacities of activists who are working for peaceful societal changes."
     
 
 ## Verbeter deze pagina

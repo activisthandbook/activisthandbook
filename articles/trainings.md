@@ -6,9 +6,9 @@ description: >
 langCode: en
 articleID: YUfVGkwMxm05zjEjl7vPQ9gPpUCItupH
 languageCollectionID: vijKrgNARghr6p534ZbiZ1HWioKFbDgl
-updatedTimestamp: 1696064445590
+updatedTimestamp: 1699178244180
 createdTimestamp: 1587834484219
-wordCount: 2543
+wordCount: 2815
 tags: ["training"]
 ---
 
@@ -90,6 +90,15 @@ The following organisations have trainers in several countries:
     
 -   [**Common Ecologies**](http://commonecologies.net/?utm_source=activisthandbook.org) ([Twitter](https://twitter.com/CommonEcologies?utm_source=activisthandbook.org)): "We organize courses, discussions, encounters, co-learning processes and programmes, and make podcasts. We work for people, groups and organizations that struggle (or want to struggle) for socio-ecological transformation and justice. Our work is based out of different locations in Europe (mostly Austria, Germany, Spain, Italy at the moment), linking to a network of allies."
     
+-   [**Leading Change Network**](https://leadingchangenetwork.org/our-programs/) ([Twitter](https://twitter.com/LeadingChangeNt?utm_source=activisthandbook.org)): We're a global community working for local and systemic change. We exist to develop civic leadership, organizations and campaigns to change the world.
+    
+
+### Europe 🇪🇺
+
+International training organisations with a focus on Europe:
+
+-   [**IGLYO Activist Academy**](https://www.activist-academy.org/?utm_source=activisthandbook.org)**:** "We offer a skills-based training programme for young people between 18 and 30 at the beginning of their activist careers who are passionate about activism, advocacy and learning, and have a strong interest in lesbian, gay, bisexual, transgender, queer and intersex (LGBTQI) rights."
+    
 
 ### Australia 🇦🇺
 
@@ -134,6 +143,10 @@ The following organisations have trainers in several countries:
     
 -   [**M2 Consultants**](https://www.m2consultants.uk/how-we-do-it/) ([Twitter](https://twitter.com/m2consultants))
     
+-   [**NEON**](https://www.neweconomyorganisers.org/work/training?utm_source=activisthandbook.org): "We offer hands-on support and training for campaigners, organisers, communications and operations teams working across social movements. Our programmes reach into the foundations, strategies, and outward functions of what makes organisations sustainable."
+    
+-   [**Sheila McKechnie Foundation (SMK)**](https://smk.org.uk/what-we-do/training/?utm_source=activisthandbook.org): "At SMK, we believe anyone can be a force for change. Our training courses are designed to give people the knowledge, skills and confidence to effect change as well as build stronger teams and organisations."
+    
 
 ### United States 🇺🇸
 
@@ -163,6 +176,10 @@ The following organisations have trainers in several countries:
     
 -   [**Change Lab**](https://www.changelabinfo.com/training-and-capacity-building/?utm_source=activisthandbook.org) ([Twitter](https://twitter.com/change_lab?utm_source=activisthandbook.org)): ChangeLab is a grassroots political lab that explores structural solutions to achieve racial justice.
     
+-   [**Ruckus**](https://ruckus.org/?utm_source=activisthandbook.org): "The Ruckus Society is a multi-racial network of trainers dedicated to providing the necessary tools, preparation, and support to build direct action capacity for ecological justice and social change movements. We work with Indigenous communities and other communities of color working to preserve their homes and environments and for climate justice."
+    
+-   [**Power Labs**](https://powerlabs.io/?utm_source=activisthandbook.org): "PowerLabs helps organizers design and run people-powered campaigns. We provide training, coaching and strategic planning support to build the capacity of organizations, leaders and networks."
+    
 
 ## Smaller initiatives
 
@@ -177,15 +194,21 @@ These initiatives do not have a website, but are still interesting to check out:
 
 > This section is a work in progress.
 
-## Archive
+## Archive 🪦
 
 The following organisations are not active any more, but we have kept them here for archiving purposes:
 
--   [**Organising for Change**](https://web.archive.org/web/20220125202729/https://www.organisingforchange.org/our-training?utm_source=activisthandbook.org) ([Twitter](https://twitter.com/OrganiseChange)): "We offer a core three day ‘Organising for Change’ training for campaigners from grassroots groups and NGOs which focuses on: seeding the open, inclusive and liberatory culture we want to see in the world, the basics of organising, and putting organising at the heart of campaigns for change"
+-   🪦 [**Organising for Change**](https://web.archive.org/web/20220125202729/https://www.organisingforchange.org/our-training?utm_source=activisthandbook.org) ([Twitter](https://twitter.com/OrganiseChange)): "We offer a core three day ‘Organising for Change’ training for campaigners from grassroots groups and NGOs which focuses on: seeding the open, inclusive and liberatory culture we want to see in the world, the basics of organising, and putting organising at the heart of campaigns for change"
     
--   [**The Campaign Accelerator**](https://web.archive.org/web/20230326091936/https://www.campaignaccelerator.org/?utm_source=activisthandbook.org): This organisation provides tailored consulting, a 3-day masterclass, a 3-month accelerator programme and a 3-hour workshop. They have experience with impact strategies, engagement paths, social network communication, participatory financing and volunteer communities.
+-   🪦 [**The Campaign Accelerator**](https://web.archive.org/web/20230326091936/https://www.campaignaccelerator.org/?utm_source=activisthandbook.org): This organisation provides tailored consulting, a 3-day masterclass, a 3-month accelerator programme and a 3-hour workshop. They have experience with impact strategies, engagement paths, social network communication, participatory financing and volunteer communities.
     
--   [**Occupy Oakland, Nonviolent Caucus**](http://occupyoakland.org/generalassembly/committees/caucuses/nonviolent-caucus/?utm_source=activisthandbook.org) ([Twitter](https://twitter.com/OONV?utm_source=activisthandbook.org)): "A network of the Occupy movement focused on nonviolent education, training, support and direct action to build a broad-based movement representative of the 99%"
+-   🪦 [**Occupy Oakland, Nonviolent Caucus**](http://occupyoakland.org/generalassembly/committees/caucuses/nonviolent-caucus/?utm_source=activisthandbook.org) ([Twitter](https://twitter.com/OONV?utm_source=activisthandbook.org)): "A network of the Occupy movement focused on nonviolent education, training, support and direct action to build a broad-based movement representative of the 99%"
+    
+-   🪦 [**activism2organizing**](http://activism2organizing.org/?utm_source=activisthandbook.org) ([Twitter](https://twitter.com/act2organize?utm_source=activisthandbook.org)): Build organizing capacity to win bigger victories
+    
+-   🪦 [**Build Your Movement**](https://web.archive.org/web/20171002182814/http://buildyourmovement.dudaone.com/?utm_source=activisthandbook.org) ([Facebook](https://www.facebook.com/buildyourmovement/?utm_source=activisthandbook.org)): "All around the world social movements are growing. Let's build."
+    
+-   🪦 [**Campaign Bootcamp**](https://campaignbootcamp.org/?utm_source=activisthandbook.org): Between 2013 and 2022, Campaign Bootcamp ran trainings in the UK on how to build effective, powerful campaigns.
     
 
 ## Evaluation criteria
