@@ -6,13 +6,15 @@ description: >
 langCode: en
 articleID: zcObjuif3fqmql1flUYTamZghpPgD1yY
 languageCollectionID: dHWPTkxr2P1ECXwrKT31KbAeaG5hQkkt
-updatedTimestamp: 1681547487330
+updatedTimestamp: 1699192963926
 createdTimestamp: 1583583586992
-wordCount: 1003
+wordCount: 1007
 tags: []
 ---
 
 In this guide, we explain how to start a social movement. From big organizing to distributed organizing, this guide will help you change the world.
+
+> **Article quality**: ⭐️⭐️ (2/5)
 
 <div data-youtube-video=""><iframe width="100" height="100" allowfullscreen="true" src="https://www.youtube-nocookie.com/embed/BVYbxOAy4kQ" start="0"></iframe></div>
 

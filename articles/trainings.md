@@ -6,13 +6,15 @@ description: >
 langCode: en
 articleID: YUfVGkwMxm05zjEjl7vPQ9gPpUCItupH
 languageCollectionID: vijKrgNARghr6p534ZbiZ1HWioKFbDgl
-updatedTimestamp: 1699178244180
+updatedTimestamp: 1699193997689
 createdTimestamp: 1587834484219
-wordCount: 2815
+wordCount: 2899
 tags: ["training"]
 ---
 
 **In this article, you will find a list of more than 70 organisations around the globe. They can provide IRL and online trainings, workshops and facilitation to your activist group.**
+
+> **Article quality**: ⭐️⭐️⭐️⭐️ (4/5)
 
 On the Activist Handbook website, you can find [hundreds of guides](/) for activists. Sometimes though, it is nice to be able to get together in real life with fellow activists and get training from an experienced organiser. In this article we list training collectives that can provide various types of support to help make your campaign a success.
 
@@ -68,13 +70,11 @@ The following organisations have trainers in several countries:
     
 -   [**The Social Change Agency**](https://thesocialchangeagency.org/?utm_source=activisthandbook.org): "From grassroots campaigns to established organisations, we’ll work with you to develop the tools, techniques and networks you need to create lasting social impact."
     
--   [**The Hum**](http://thehum.org/): provides practical guidance for decentralised organisations. (Disclaimer: this is Richard Bartlett’s company, who started this libary.)
+-   [**The Hum**](http://thehum.org/): provides practical guidance for decentralised organisations.
     
 -   [**AORTA**](https://aorta.coop/work-with-us): The Anti-Oppression Resource and Training Alliance is a worker-owned co-op supporting grassroots and social justice groups to grow their capacity.
     
 -   [**Organisational Misbehaviourists**](http://www.organisationalmisbehaviourists.com/): corporate trainers focussed on psychological safety and collective wisdom
-    
--   [**PowerLab**](https://powerlabs.io/): campaigning trainers
     
 -   [**RAD.cat**](http://RAD.cat): Research Action Design (RAD) uses community-led research, collaborative design of technology and media, and secure digital strategies to build the power of grassroots social movements.
     
@@ -179,6 +179,8 @@ International training organisations with a focus on Europe:
 -   [**Ruckus**](https://ruckus.org/?utm_source=activisthandbook.org): "The Ruckus Society is a multi-racial network of trainers dedicated to providing the necessary tools, preparation, and support to build direct action capacity for ecological justice and social change movements. We work with Indigenous communities and other communities of color working to preserve their homes and environments and for climate justice."
     
 -   [**Power Labs**](https://powerlabs.io/?utm_source=activisthandbook.org): "PowerLabs helps organizers design and run people-powered campaigns. We provide training, coaching and strategic planning support to build the capacity of organizations, leaders and networks."
+    
+-   [**Ayni School**](https://aynischool.com/?utm_source=activisthandbook.org): "We are living in a time of transformative change. We believe that the only way to change a system is through building a new one that can meet people’s needs at a higher level. There are many people working to create change; whether they are strong communities, alternative institutions, popular movements, training programs, and others. The Ayni Institute is looking to engage and support those which are creating something special that can bring our world towards reciprocity.  We are deeply guided by the wisdom of these areas: Memory, Alternative, and Movements."
     
 
 ## Smaller initiatives

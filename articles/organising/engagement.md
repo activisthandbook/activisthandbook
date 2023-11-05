@@ -6,13 +6,15 @@ description: >
 langCode: en
 articleID: lwXuStFPLIQwUu_yg2hsZwnl_MLJaQ6X
 languageCollectionID: KJDBDugCUogRlOSqDrfCc5k89fd-lkA5
-updatedTimestamp: 1681547575956
+updatedTimestamp: 1699193099073
 createdTimestamp: 1583671492658
-wordCount: 2116
+wordCount: 2120
 tags: []
 ---
 
 In this guide, you will learn how to get people to be more involved with your movement. And we explain how to make sure people stay involved in the long run.
+
+> **Article quality**: ⭐️ (1/5)
 
 Successful movements don’t overpower their opponents; they gradually undermine their opponents’ support. Start at the receptive end of your spectrum, working your way through higher and higher thresholds of resistance. In other words, begin by mobilizing your active allies and core supporters. Reach out to passive supporters, and then bring neutral groups over to your side. Once you start winning over the passive opposition, you’re on the brink of victory.
 

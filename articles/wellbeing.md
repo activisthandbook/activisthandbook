@@ -6,15 +6,17 @@ description: >
 langCode: en
 articleID: ItlwwJfYopwgV4ZEnH653rUc1JbQ2GJj
 languageCollectionID: l8XZ2W25XNow2B1wFBSVg7-4T2S1LBn3
-updatedTimestamp: 1695885693674
+updatedTimestamp: 1699193859170
 createdTimestamp: 1583509148168
-wordCount: 1475
+wordCount: 1479
 tags: ["wellbeing","chapters"]
 ---
 
 In this chapter, we explain how prevent burning out by taking care of yourself and others. We discuss group wellbeing, action wellbeing and self-help.
 
 🆘 _Need help now? Check out_ [**_Wellbeing Hotlines_**](/wellbeing/hotlines)
+
+> **Chapter quality**: ⭐️⭐️⭐️ (3/5)
 
 ## Introduction
 

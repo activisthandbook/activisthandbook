@@ -6,15 +6,17 @@ description: >
 langCode: en
 articleID: XIgAxsDXgYVhs5ns90TUqOpCRJudip4A
 languageCollectionID: M4oQzM4kkLmmPBClRgocK1sL2BS2jXE2
-updatedTimestamp: 1696065840198
+updatedTimestamp: 1699193383397
 createdTimestamp: 1676567899135
-wordCount: 2009
+wordCount: 2130
 tags: []
 ---
 
 In this guide, we explain how to facilitate meetings. Learn how to make your meetings effective, inclusive and enjoyable.
 
-> This is our short guide on facilitating. Also check out our [**free course**](#action-signup) and [**in-depth guides**](#in-depth-guides).
+> **Article quality**: ⭐️⭐️⭐️⭐️⭐️ (5/5)
+> 
+> **Related articles**: This is our short guide on facilitating. Also check out our [**free course**](#action-signup) and [**in-depth guides**](#in-depth-guides).
 
 ## Summary
 
@@ -165,11 +167,28 @@ Experienced facilitators use these techniques and solutions to address common ch
 -   💻 [**Online meetings**](/organising/facilitating/online)
     
 
+### Group conversation methods
+
+Check out '[**Liberating Structures**](https://www.liberatingstructures.com/ls-menu?utm_source=activisthandbook.org)'
+
 ### Decision making
 
 This is a whole topic on its own, so we wrote a series of guides about [decision making](/organising/decisions ).
 
 <dynamic-image imageid="47d4b791-440e-49e1-63cb-e98016f34c00" alt="People sitting at a table having a meeting"><p>Four activists making decisions, by <a target="_blank" href="https://edit.activisthandbook.org/author/tzmE91SnnrbJJXuvQNBl9rt6HK63">Joppe</a> | Generated using Dall-e</p></dynamic-image>
+
+## Improve this page
+
+You can make this guide on facilitating for activists better! Below are some suggestions:
+
+**There is a lot of content on facilitating!** It is a bit difficult to find the thing you're looking for, and it takes a lot of time taking in all the information.
+
+-   **🔍 Make the content easier to navigate:** We already took some steps (splitting up the content in this into article, our in-depth guides, and a course). Suggest ways we could make it even easier to navigate.
+    
+-   **📝 Summarise:** Make sure that every article contains a summary with the most important information.
+    
+-   **🎬 Make available in other formats:** not everyone likes reading. Make the information available in the form of illustrations, videos, quizes, etc.
+    
 
 ## External resources
 
@@ -177,13 +196,11 @@ This is a whole topic on its own, so we wrote a series of guides about [decision
 
 -   [Tools for In-person and Online Facilitation](https://www.trainingforchange.org/tools/?utm_source=activisthandbook.org) by Training for Change
     
--   [Short guide: Facilitating meetings](https://commonslibrary.org/facilitating-meetings-a-guide-to-making-your-meetings-effective-inclusive-and-enjoyable/) by Seeds for Change
-    
--   [Long guide: Facilitating meetings](https://www.seedsforchange.org.uk/facilitationmeeting?utm_source=activisthandbook.org) by Seeds for Change
-    
 -   [Facilitating meetings](https://citizenshandbook.org/1_10_facilitate.html?utm_source=activisthandbook.org) by Citizen's Handbook
     
 -   [Running a meeting and making decisions](https://citizenshandbook.org/1_09_meet_decide.html?utm_source=activisthandbook.org) by Citizen's Handbook
+    
+-   [Liberating Structures](https://www.liberatingstructures.com/?utm_source=activisthandbook.org)
     
 
 ### Copyright resources

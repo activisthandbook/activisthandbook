@@ -6,13 +6,15 @@ description: >
 langCode: en
 articleID: K0Qld3HRqVZOPQAo4HNcamdTubXfnbZU
 languageCollectionID: I-YpwczEWStif-VOD4LPxMApnw3oe250
-updatedTimestamp: 1688372128022
+updatedTimestamp: 1699193941014
 createdTimestamp: 1595863865377
-wordCount: 416
+wordCount: 420
 tags: []
 ---
 
 **In this chapter, you will learn what protections the law gives you as an activist. We discuss the legal right to protest. We also talk about how this right is protected in practice, by looking at common police practices.**
+
+> **Chapter quality**: ⭐️⭐️ (2/5)
 
 ## Local contexts
 

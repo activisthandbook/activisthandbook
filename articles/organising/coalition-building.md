@@ -6,15 +6,17 @@ description: >
 langCode: en
 articleID: y5lJ-VcsNzXpOePLIAq63fA62qNkJ0AY
 languageCollectionID: NgRZAH8Dvd769ZcUN-JmgJ-fd9tfCsVX
-updatedTimestamp: 1695741110867
+updatedTimestamp: 1699193170979
 createdTimestamp: 1643131835201
-wordCount: 694
+wordCount: 700
 tags: []
 ---
 
 **In this guide, we explain how to do coalition building. First, we explain what coalitions are. Secondly, we provide steps to start a new coalition. Thirdly, we help you maintain an existing coalition. Finally, we list some common challenges and explain how to address them.**
 
-> Also check out our guide on strengthening a [**movement of movements**](/organising/movement-of-movements). In that guide, we take a step back and look at the complex relations between social movements. In this guide, we focus on the practicalities of starting a collaboration in the form of a coalition.
+> **Article quality**: ⭐️⭐️⭐️⭐️ (4/5)
+> 
+> **Related articles**: Also check out our guide on strengthening a [**movement of movements**](/organising/movement-of-movements). In that guide, we take a step back and look at the complex relations between social movements. In this guide, we focus on the practicalities of starting a collaboration in the form of a coalition.
 
 ## **Summary**
 

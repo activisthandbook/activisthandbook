@@ -6,12 +6,14 @@ description: >
 langCode: en
 articleID: -zpi9oShVtU_WbTpakxws0eS4SQZi_C2
 languageCollectionID: ioqI9nZB9kPwpsUasSGM45IjJ-AjHawt
-updatedTimestamp: 1683452983077
+updatedTimestamp: 1699194262024
 createdTimestamp: 1683452563219
-wordCount: 2315
+wordCount: 2319
 ---
 
 **In this article, you will learn what wellbeing practices you can use in your activist movement. We focus on things you can do as a group, instead of as an individual.**
+
+> **Article quality**: ⭐️⭐️⭐️ (3/5)
 
 If you and your fellow activists are healthy, you can make a more positive impact. We recommend you to take these steps right now, and do not wait until you end up with an activist burnout. This guide is also useful for people already dealing with mental health issues. 
 

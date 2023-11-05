@@ -6,15 +6,17 @@ description: >
 langCode: en
 articleID: dqIEdknV4hO7Eqa1OZNQWeeF1D-KptVM
 languageCollectionID: WeIM7eSP9ovc2D_rh7HpCq26GW7AQRV-
-updatedTimestamp: 1681548296325
+updatedTimestamp: 1699193829671
 createdTimestamp: 1594650737037
-wordCount: 1635
+wordCount: 1634
 tags: []
 ---
 
 In this chapter, you will find a list of over 100 creative protest ideas for your next action. From nonviolent civil disobedience to political activism, we have a guide for your type of activism.
 
-> Also check out our guide on [how to organise a protest](/organising/protest).
+> **Chapter quality**: ⭐️⭐️ (2/5)
+> 
+> **Related**: Also check out our guide on [how to organise a protest](/organising/protest).
 
 ## Types of activism
 
@@ -71,7 +73,7 @@ I want to…
 -   **🏛** [**Work within institutions**](/tactics/institutional), through election campaigns, lobbying, legal action and financial pressure
     
 
-People marching - Generated using OpenAI
+<div data-youtube-video=""><iframe width="640" height="480" allowfullscreen="true" src="https://www.youtube-nocookie.com/embed/XOyHmAEPX4w" start="0"></iframe></div>
 
 ## List of tactics
 

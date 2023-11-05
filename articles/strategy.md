@@ -6,13 +6,15 @@ description: >
 langCode: en
 articleID: v7ONnIEx3he17_I-JD0CgqlZRX-75Zuy
 languageCollectionID: GEBMCoST8DAOBDN-LZdnxBWpOlQD18V2
-updatedTimestamp: 1692980116549
+updatedTimestamp: 1699193458293
 createdTimestamp: 1583509165087
-wordCount: 900
+wordCount: 904
 tags: ["tactics","chapters"]
 ---
 
 **In this chapter, we explain what a campaign strategy is. We show various examples of different types of campaign strategies that activists use, and we provide you with workshops to help you write your own!**
+
+> **Chapter quality**: ⭐️⭐️⭐️⭐️ (4/5)
 
 With a good campaign strategy, your movement or campaign makes more impact. In the articles below, we help you define what exactly the change is that you want to achieve, and what steps you need to take to get there.
 

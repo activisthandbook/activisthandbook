@@ -6,13 +6,15 @@ description: >
 langCode: en
 articleID: rjIKtYP4gLMvk-yjbZytrEgSqHaV_rvf
 languageCollectionID: ZYq0ZSIQGaY9tbE7YCWCYrklyrf5ZcrQ
-updatedTimestamp: 1677860094815
+updatedTimestamp: 1699194104535
 createdTimestamp: 1643198421398
-wordCount: 1490
+wordCount: 1494
 tags: []
 ---
 
 **In this article, you will learn how to organise a civil disobedience action. We will discuss whether it is an effective tactic, looking at the impact of civil disobedience actions in history. Then we explain in detailed steps how to organise your own civil disobedience action.**
+
+> **Article quality**: ⭐️⭐️ (2/5)
 
 Civil disobedience is the active, professed refusal of a citizen to obey certain laws, demands, orders or commands of a government. By some definitions, civil disobedience has to be nonviolent to be called 'civil'. Hence, civil disobedience is sometimes equated with peaceful protests or nonviolent resistance.
 

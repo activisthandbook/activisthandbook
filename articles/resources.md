@@ -6,13 +6,15 @@ description: >
 langCode: en
 articleID: p2JHElUNuhZ0836tywQzp55W8IFaKw55
 languageCollectionID: 1ZJn8NaxJ_WxKa_U1m9Xlf_1G93_IQ8u
-updatedTimestamp: 1682523087834
+updatedTimestamp: 1699194037506
 createdTimestamp: 1583508790126
-wordCount: 363
+wordCount: 367
 tags: ["resources"]
 ---
 
 **On this page, you find a list of resources for activists. We collected the best sites, books, podcasts, movies, academic articles and blogs related to social change-making. Brought to you by activists from around the globe.**
+
+> **Article quality**: ⭐️⭐️⭐️⭐️ (4/5)
 
 ## Resources for activists
 

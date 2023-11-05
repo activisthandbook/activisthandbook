@@ -6,17 +6,19 @@ description: >
 langCode: en
 articleID: yAYzcCOTjAmVsSAXXnmcRarsWt2nUqqQ
 languageCollectionID: ys9pUV4JgNDl6xp3zmTV2bnD1Vj1TkBW
-updatedTimestamp: 1679984921161
+updatedTimestamp: 1699193527548
 createdTimestamp: 1647940094296
-wordCount: 657
+wordCount: 662
 tags: []
 ---
 
 **In this article, we explain what exactly a campaign strategy is, and why it is important to think about it for your movement or campaign. We discuss the following aspects: vision, stakeholders, goals, objectives, tactics and evaluation.**
 
-The purpose of a strategy is to help you determine the best approach to achieving your goals based on the situation you’re in, your values, as well as your strengths and weaknesses.
+> **Article quality**: ⭐️⭐️⭐️ (3/5)
+> 
+> **Related**: Ready to get your hands dirty? [**Develop your own strategy**](/strategy/develop)
 
-> Ready to get your hands dirty? [**Develop your own strategy**](/strategy/develop)
+The purpose of a strategy is to help you determine the best approach to achieving your goals based on the situation you’re in, your values, as well as your strengths and weaknesses.
 
 <dynamic-image imageid="8b50c103-bdbf-479a-8d16-99d3f6020d00" alt="Two activists walking a long road towards their goal"><p>Two activists walking a long road towards their goal, by <a target="_blank" href="https://edit.activisthandbook.org/author/tzmE91SnnrbJJXuvQNBl9rt6HK63">Joppe</a> | Generated using Dall-e</p></dynamic-image>
 

@@ -6,13 +6,15 @@ description: >
 langCode: en
 articleID: KpSE6GZzWtgmL1uqgz-MGDkI0p43Y3tw
 languageCollectionID: 0i_-Q9v7ZVA3wxBRMxfhy5eJ5GSoLBKU
-updatedTimestamp: 1681547602487
+updatedTimestamp: 1699193313598
 createdTimestamp: 1598872029744
-wordCount: 1131
+wordCount: 1135
 tags: []
 ---
 
 **In this article, we explain how you can get funding for your activist campaigns or non-profit cause. We talk about various means of getting money. The also discuss how to make budgets for your projects.**
+
+> **Article quality**: ⭐️⭐️ (2/5)
 
 There are a lot of ways for activists to raise funds. Whether it's through online crowdfunding platforms, asking for donations, finding sponsors, or applying for grants from charitable foundations, there are many options available. We wrote detailed guides that discuss grant-writing and donor cultivation, and many other topics:
 
@@ -24,6 +26,8 @@ There are a lot of ways for activists to raise funds. Whether it's through onlin
     
 -   **💶** [**Sponsorship**](/organising/fundraising/sponsors)
     
+
+<div data-youtube-video=""><iframe width="640" height="480" allowfullscreen="true" src="https://www.youtube-nocookie.com/embed/SUvoBzjZv7E" start="0"></iframe></div>
 
 ## Managing funds
 

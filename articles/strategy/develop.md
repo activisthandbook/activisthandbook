@@ -6,20 +6,22 @@ description: >
 langCode: en
 articleID: UiN-av36Bsw9edgIC559yNN0v84ySJvv
 languageCollectionID: ohnJMWO7Yvl7P3QVfuZ8jv-HVl3RPpQl
-updatedTimestamp: 1676708660494
+updatedTimestamp: 1699193715231
 createdTimestamp: 1647946107588
-wordCount: 337
+wordCount: 341
 tags: []
 ---
 
 Here you will find articles and resources to help you write a strategy for your movement. We have added step-by-step guides for organising workshop sessions to start writing a strategy together with fellow rebels.
 
-### Methods for developing a strategy
+> **Article quality**: ⭐️⭐️ (2/5)
+
+## Methods for developing a strategy
 
 -   [**Theory of Change (ToC)**](/theory/change)**:** A methodology used for strategy and evaluation. The model of ToC starts by defining a long-term goal and then works backwards by identifying preconditions needed to achieve this goal.
     
 
-### **Templates & workgroup guides**
+## **Templates & workgroup guides**
 
 There is no “one right way” to capture and communicate all the elements of strategy. Some organisations have a preference for simple one-page tables. Others use longly narrative formats or complex documents that extend to 20 pages or more. Some templates we’ve seen used effectively are:
 

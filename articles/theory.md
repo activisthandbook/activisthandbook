@@ -6,20 +6,24 @@ description: >
 langCode: en
 articleID: YDhDPuRtRiSVyvpIQFEshkjwntMOHg2j
 languageCollectionID: J2Ob8I-vLt6F7hsqCHl_RhDVkGC1ybLs
-updatedTimestamp: 1682779883071
+updatedTimestamp: 1699193973580
 createdTimestamp: 1593095391290
-wordCount: 552
+wordCount: 559
 tags: []
 ---
 
 **This chapter is about theory of activism. You probably won't find much practical advice here, but you will learn the basic terminology about activism and other related concepts.**
 
-> **🧠 This is a background chapter:** At Activist Handbook, we focus on writing a practical guides for activists. Sometimes, theory is useful in explaining the emergence of the practices we write about in further chapters.
-> 
-> -   Want to take action now? Skip this chapter. We encourage you to explore our various other chapters, which can be found in the left sidebar.
->     
-> -   Want to improve your understanding of activism? This is the right place to start.
->     
+> **Chapter quality**: ⭐️ (1/5)
+
+## About this chapter
+
+**🧠 This is a background chapter:** At Activist Handbook, we focus on writing a practical guides for activists. Sometimes, theory is useful in explaining the emergence of the practices we write about in further chapters.
+
+-   Want to take action now? Skip this chapter. We encourage you to explore our various other chapters, which can be found in the left sidebar.
+    
+-   Want to improve your understanding of activism? This is the right place to start.
+    
 
 ## What is a ‘theory of change’?
 

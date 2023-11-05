@@ -6,13 +6,15 @@ description: >
 langCode: en
 articleID: uiDeJMFqhPgXNkUGHs935IpQ8UAPW__c
 languageCollectionID: QvjMKJSSgPKUYdzwj1yBI_3gdMmuuH6L
-updatedTimestamp: 1679946194461
+updatedTimestamp: 1699193775664
 createdTimestamp: 1672072174024
-wordCount: 324
+wordCount: 328
 tags: []
 ---
 
 In this guide, you will learn how to use power mapping to create more effective campaign strategies.
+
+> **Article quality**: ⭐️⭐️ (2/5)
 
 ## What is power mapping?
 

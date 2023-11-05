@@ -6,13 +6,15 @@ description: >
 langCode: en
 articleID: G3dkQL5r8VGH4qvFx-36zI4WDRCiNzwD
 languageCollectionID: 89ReOOyPrqQ0GJ5WjQzIIR_PP0aAErgn
-updatedTimestamp: 1688428260729
+updatedTimestamp: 1699192998342
 createdTimestamp: 1643132983527
-wordCount: 304
+wordCount: 308
 tags: ["stub","organising"]
 ---
 
 As your movement grows, you will likely find it becomes harder to make decisions quickly. You might lose track of who is responsible for certain tasks. You may lose motivation, because your goals seem so far out of reach. Setting up a good movement framework can help your organise better.
+
+> **Article quality**: ⭐️⭐️ (2/5)
 
 ## Movement types
 

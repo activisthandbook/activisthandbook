@@ -6,13 +6,15 @@ description: >
 langCode: en
 articleID: xNnscgpakG9vEGAl6B1H8gF0iRmnllHb
 languageCollectionID: vnkeR8PXExb5pqx3eAMjnmRXlog6MNcy
-updatedTimestamp: 1692359646570
+updatedTimestamp: 1699193058961
 createdTimestamp: 1643131462833
-wordCount: 369
+wordCount: 373
 tags: []
 ---
 
 In this article, we explain how to mobilize people for your movement. Use this guide to learn how to recruit volunteers for your nonprofit or mobilize a large group of people for a protest.
+
+> **Article quality**: ⭐️ (1/5)
 
 <div data-youtube-video=""><iframe width="640" height="480" allowfullscreen="true" src="https://www.youtube-nocookie.com/embed/oL1fP-8fM8E" start="0"></iframe></div>
 

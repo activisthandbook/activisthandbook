@@ -6,13 +6,15 @@ description: >
 langCode: en
 articleID: J3gTgLgqTAzHrap5en3ePR2GBmNRAg__
 languageCollectionID: Hm6ZaeMf02oXtZN2LlCr1NkH7Cxu6Il_
-updatedTimestamp: 1688353689553
+updatedTimestamp: 1699193883618
 createdTimestamp: 1583509188074
-wordCount: 1041
+wordCount: 1045
 tags: []
 ---
 
 **In this chapter we will discuss how to keep in touch with your fellow activists, how to formulate a message for your target audience and how to reach out to the press.**
+
+> **Chapter quality**: ⭐️ (1/5)
 
 ## Communication strategy
 

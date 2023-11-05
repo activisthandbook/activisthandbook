@@ -1,13 +1,18 @@
 ---
 title: >
   Tactics for alternative building
+description: >
+  Creating alternatives
 langCode: en
 articleID: m0drYFPxxlWak_Sx2KTqxI_TkLKCvGiK
 languageCollectionID: rv7EAKh1eg5K3qylPHgNUTdef0KqrGkm
-updatedTimestamp: 1667968646677
+updatedTimestamp: 1699194172055
 createdTimestamp: 1643202787656
+wordCount: 181
 tags: []
 ---
+
+> **Article quality**: ⭐️ (1/5)
 
 ## What is alternative building?
 
@@ -20,5 +25,7 @@ The aim of these strategies is to replace existing systems with new ones, or at 
 ## External resources
 
 -   [http://solidaritynyc.org/](http://solidaritynyc.org/)
+    
 -   [A Critical Guide for Just Recovery](https://commonslibrary.org/a-critical-framework-for-just-recovery/) by Movement Generation
+    
 -   [How to Make Your Community Space into a Hub for Local Resilience and Mutual Aid](https://commonslibrary.org/how-to-make-your-community-space-into-a-hub-for-local-resilience-and-mutual-aid/) by Shareable

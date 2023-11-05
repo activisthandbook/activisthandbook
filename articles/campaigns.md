@@ -6,15 +6,17 @@ description: >
 langCode: en
 articleID: c4L2x0pWlUtcQ6RyikLG9sE4KPBUkgNE
 languageCollectionID: GsUEXf9xjOCPs2pSe9JLVp0JaWIGjZ09
-updatedTimestamp: 1683374673611
+updatedTimestamp: 1699194063844
 createdTimestamp: 1639823695813
-wordCount: 400
+wordCount: 404
 tags: []
 ---
 
 No matter what cause you are fighting for, we've got a handbook for you. Activist Handbook brings intersectionality into practice by writing guides for all social, progressive and green campaigners.
 
 For each campaign, we have selected our most relevant resources. Select your cause and start learning!
+
+> **Chapter quality**: ⭐️ (1/5)
 
 ## List of campaigns
 

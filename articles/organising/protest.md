@@ -6,13 +6,15 @@ description: >
 langCode: en
 articleID: 6j6Jjxj6fW6JHwbbSKjEsOVqejxYkpRu
 languageCollectionID: Og8DHuouMtyNVNIn-Ho6sZwl7Jfos6XQ
-updatedTimestamp: 1684074277717
+updatedTimestamp: 1699192858392
 createdTimestamp: 1643184635101
-wordCount: 6922
+wordCount: 6926
 tags: []
 ---
 
 **In this guide, you will learn how to organise a protest or demonstration. This article for activists explains step by step how to organise an action to draw attention to your cause.**
+
+> **Article quality:** ⭐️⭐️⭐️⭐️ (4/5)
 
 This guide provides the [basics of organizing](/organising) your first protest and other useful tips. Following are ten suggested steps to organizing an effective protest and some suggestions for taking it to the next level. There are plenty of opinions about how to host a successful and inclusive protest so feel free to read critically and adapt these ideas freely to suit your goals.
 

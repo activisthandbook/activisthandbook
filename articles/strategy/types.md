@@ -6,21 +6,25 @@ description: >
 langCode: en
 articleID: 0pyvmXBsK0CD53__pRHbdEpdldPTsXhw
 languageCollectionID: DzETy-5-H4GwWfZz0_ttl3fAPEBsSLBS
-updatedTimestamp: 1693045309434
+updatedTimestamp: 1699193636628
 createdTimestamp: 1647940783212
-wordCount: 1987
+wordCount: 1992
 tags: []
 ---
 
 **In this article, we explain that there are many ways of fighting for change. It is important to choose a campaign strategy for your movement that helps you achieve your goals.**
 
+> **Article quality**: ⭐️⭐️⭐️ (3/5)
+
 There is a wide variety of strategies. Choosing a strategy is not an easy task. First, you need to determine what you want to achieve. Based on that, you need to develop a strategy that helps you get there.
 
-> The goal of Activist Handbook is not to promote one particular strategy. Instead, we aim to discuss each of them critically, to help you develop your own.
-> 
-> However, we are not completely impartial either. Based on the research of our contributors and the principles of Activist Handbook we do make certain recommendations.
-> 
-> We encourage you to edit and improve this page to add new perspectives!
+## Disclaimer
+
+The goal of Activist Handbook is not to promote one particular strategy. Instead, we aim to discuss each of them critically, to help you develop your own.
+
+However, we are not completely impartial either. Based on the research of our contributors and the principles of Activist Handbook we do make certain recommendations.
+
+We encourage you to edit and improve this page to add new perspectives!
 
 ## Which strategy works?
 

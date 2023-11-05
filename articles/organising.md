@@ -6,13 +6,15 @@ description: >
 langCode: en
 articleID: Jivvm_DITjwYHs0BtJuFs9SzsiRHfUlL
 languageCollectionID: 2iL5uLyfvLfLZc8ZAdnUzGAQX_cgwUc1
-updatedTimestamp: 1689049168976
+updatedTimestamp: 1699193434297
 createdTimestamp: 1583581575544
-wordCount: 958
+wordCount: 962
 tags: ["chapters"]
 ---
 
 **In this chapter, we explain how to get started with grassroots organizing. Our toolkit explains how to build a movement by looking at successful examples.**
+
+> **Chapter quality**: ⭐️⭐️⭐️⭐️ (4/5)
 
 ## Start organising
 
