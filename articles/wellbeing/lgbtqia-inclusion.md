@@ -6,25 +6,30 @@ description: >
 langCode: en
 articleID: SqKoPU6Fne5QV1928Yk4k3T9J72MAnbo
 languageCollectionID: T-1xOqiY86odLTIkRJ8hPZ0g3xRgm85t
-updatedTimestamp: 1644485772021
+updatedTimestamp: 1699450663906
 createdTimestamp: 1639650413693
+wordCount: 760
 tags: []
 ---
 
 **LGBTQIA+ people can face a high level of discrimination in their day-to-day life. If your organization works or engages with LGBTIQIA+ people, we will collect some tips to help you make your community space safer and more inclusive.**
 
-_When we use the term ‘LGBTQIA+’, we are referring to people who identify as Lesbian, Gay, Bisexual, Transgender, Intersex, Questioning, and other gender non-conforming identities. LGBTQIA+ does not cover the full range of sexualities that people identify as, but it is a helpful term for the broader community in the context of this discussion._
+> **Article quality**: ⭐️⭐️ (2/5)
 
-> This article was created during “[Pizza & Write-a-thon](/writeathon)” a joint project between Activist Handbook and [Federation of Young European Greens](https://fyeg.org/)
+_When we use the term ‘LGBTQIA+’, we are referring to people who identify as Lesbian, Gay, Bisexual, Transgender, Intersex, Questioning, and other gender non-conforming identities. LGBTQIA+ does not cover the full range of sexualities that people identify as, but it is a helpful term for the broader community in the context of this discussion._
 
 ## **The problems and solutions for activists in the LGBTQIA+ community**
 
 ### **What problems do LGBTQIA+ activists face?**
 
 -   The pressure for ‘’Coming out of the closet’’;
+    
 -   The lack of using gender-neutral terms in events and communities;
+    
 -   Violence in protests;
+    
 -   Assumptions from society about their gender identity or sexuality
+    
 
 ### **What solutions can we provide to stop the problems from occurring?**
 
@@ -49,5 +54,12 @@ Pride events are still controversial in a lot of European countries that have be
 ## **External resources**
 
 -   [_Tips for Creating a Safe Environment For LGBTIQ+ People in Your Organisation_](https://www.rw.org.au/creating-safe-environments-for-lgbtiq-people/) by RICHMOND WELLBEING (2020)
+    
 -   [_How to Use Gender-Neutral Language and Why Is It Important to Try_](https://www.capstan.be/how-to-use-gender-neutral-language-and-why-it-is-important-to-try/) by PISANA FERRARI (2020)
+    
 -   [_Why Is There Pressure To ’Come Out’ Before You Can Contribute To The Queer Movement?_](https://www.youthkiawaaz.com/2015/12/pressure-to-come-out-of-the-closet/)’’ by [Shambhavi Saxena](https://www.youthkiawaaz.com/author/shambhavi_saxena_1/) (2015)
+    
+
+## Attribution
+
+This article was created during “[Pizza & Write-a-thon](/writeathon)” a joint project between Activist Handbook and [Federation of Young European Greens](https://fyeg.org/)

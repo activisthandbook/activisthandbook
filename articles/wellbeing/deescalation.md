@@ -6,12 +6,14 @@ description: >
 langCode: en
 articleID: t-Z0eqL_L8XG0eNnDRNzz7OS-APNzEiY
 languageCollectionID: MWbGcfydRk2NhchLU91oJMHzcqbwzLze
-updatedTimestamp: 1683445939782
+updatedTimestamp: 1699450514089
 createdTimestamp: 1683445900708
-wordCount: 1278
+wordCount: 1395
 ---
 
 **In this guide, you will learn how to de-escalate tensions at a protest. Using these de-escalation tactics will help keep your protest non-violent.**
+
+> **Article quality**: ⭐️⭐️⭐️ (3/5)
 
 ## **Take the initiative to act**
 
@@ -56,8 +58,6 @@ The most important thing is this: **If a challenging and potentially violent sit
 -   Where the attention goes, the energy flows.
     
 
-  
-
 ## **Large Crowds**
 
 ### **Theatre, Fun, Music and Song**
@@ -82,11 +82,9 @@ Two methods: 
 2.  Project without shouting and say ‘Clap once if you can hear me’ and then clap once. Say ‘Clap twice if you can hear me’ and then clap twice. Say ‘Clap three times if you can hear me’ and then clap 3 times. Each time, more people around you should be joining in, until everyone has clapped 3 times and then fallen silent, waiting for what’s coming next.
     
 
-  
+You can then very briefly and calmly let people know what you’d like to do next and why (why nonviolence and de-escalation are important), invite people to join in with a song or use one of the tactics below. 
 
- You can then very briefly and calmly let people know what you’d like to do next and why (why nonviolence and de-escalation are important), invite people to join in with a song or use one of the tactics below. 
-
-Sit Down and Invite Others to Sit Down Too 
+### Sit Down and Invite Others to Sit Down Too 
 
 -   This can have a very calming effect. 
     
@@ -167,9 +165,23 @@ Related articles on Activist Handbook:
 
 ## **External resources**
 
-External resources like guides, books, videos:
-
--   _Add external resources here_
+-   [Safety, Security, Rights & Conflict Deescalation](https://indivisible.org/resource/safety-security-rights-conflict-deescalation?utm_source=activisthandbook.org) by Indivisible
+    
+-   [Collection: How to De-Escalate](https://nonviolence.rutgers.edu/s/digital/item?Search=&property%5B0%5D%5Bproperty%5D=3&property%5B0%5D%5Btype%5D=eq&property%5B0%5D%5Btext%5D=deescalation&utm_source=activisthandbook.org) by Digital Library of Nonviolence
+    
+-   [Academic: The Need for De-escalation Techniques in Civil Disturbances](https://scholarworks.waldenu.edu/cgi/viewcontent.cgi?article=7520&context=dissertations&utm_source=activisthandbook.org) by George Raymond McCord Jr (2018)
+    
+-   [News article: De-escalation Keeps Protesters And Police Safer. Departments Respond With Force Anyway](https://fivethirtyeight.com/features/de-escalation-keeps-protesters-and-police-safer-heres-why-departments-respond-with-force-anyway/?utm_source=activisthandbook.org) by Maggie Koerth and Jamiles Lartey
+    
+-   [De-escalation, bystander,and community safety training and resources](https://bridgingdivides.princeton.edu/community-resources/de-escalation-resources?utm_source=activisthandbook.org) by Bridging Divides Initiative, Princeton University
+    
+-   [Policing At Protests: Best Practices](https://constitutionalprotestguide.org/policing-at-protests-best-practices/?utm_source=activisthandbook.org) by Institute forConstitutional Advocacy and Protection
+    
+-   [Nonviolent de-escalation is a method of diffusing tension](https://crisisconsultantgroup.com/crisis-intervention-training/nonviolent-de-escalation-is-a-method-of-diffusing-tension/?utm_source=activisthandbook.org) by Crisis Consultant Group
+    
+-   [Guide to Trauma-Informed De-Escalation During Actions and Protests](http://opentablenashville.org/wp-content/uploads/2017/11/Guide-to-Trauma-Informed-De-Escalation-During-Actions-and-Protests-Updated-PDF-.pdf?utm_source=activisthandbook.org) by Open Table Nashville - ⚠️ Insecure connection
+    
+-   [PDF: De-escalation, How You Can Help Defuse Potentially Violent Situations](https://www.cisa.gov/sites/default/files/2022-11/De-Escalation_Final%20508%20%2809.21.21%29.pdf?utm_source=activisthandbook.org) by U.S. Department of Homeland Security - ⚠️ Government website
     
 
 ## **Attribution**

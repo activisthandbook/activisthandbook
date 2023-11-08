@@ -2,11 +2,11 @@
 title: >
   Organizational frameworks
 description: >
-  Templates for shaping your organisation 
+  Templates for shaping your organisation
 langCode: en
 articleID: G3dkQL5r8VGH4qvFx-36zI4WDRCiNzwD
 languageCollectionID: 89ReOOyPrqQ0GJ5WjQzIIR_PP0aAErgn
-updatedTimestamp: 1699439793730
+updatedTimestamp: 1699449321383
 createdTimestamp: 1643132983527
 wordCount: 1773
 tags: []
@@ -95,7 +95,7 @@ The most successful movements learn from movements before them. Not every moveme
 
 -   **🗺 Distributed organizing:** A decentralized approach that emphasizes empowering individuals and small groups to take initiative and create change. It is more grassroots in nature and relies on self-organization and communication.
     
--   **🐳 Big organizing:** Big organizing involves a centralized team that works together in a coordinated effort to achieve a goal. Often used by political parties and larger nonprofits.
+-   **🐳** [**Big organizing**](/resources/rules-for-revolutionaries)**:** Big organizing involves a centralized team that works together in a coordinated effort to achieve a goal. Often used by political parties and larger nonprofits.
     
 -   **🏡 Community organising**: Community organising centres around the local community. This model focuses on improving local life by mobilizing individuals to act on issues that concern them most. It is usually quite small-scale and does not address larger institutional injustices.
     
