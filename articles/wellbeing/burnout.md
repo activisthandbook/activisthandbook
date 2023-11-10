@@ -6,13 +6,15 @@ description: >
 langCode: en
 articleID: 6UiUBswaKAITBrGkEE1jwgqIIV26PzA4
 languageCollectionID: 01KynXdqPLMQsXxAsnE_kQNC9cTdp77F
-updatedTimestamp: 1692360202464
+updatedTimestamp: 1699450866022
 createdTimestamp: 1639823068358
-wordCount: 1211
+wordCount: 1215
 tags: []
 ---
 
 In this guide, we explain how to deal with an activist burnout and how to prevent it.
+
+> **Article quality**: ⭐️⭐️ (2/5)
 
 ## What is a burnout?
 

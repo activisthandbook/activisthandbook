@@ -6,13 +6,15 @@ description: >
 langCode: en
 articleID: Cj99lsXnI4PFCr6eSJrzI_gSyOh4_LBu
 languageCollectionID: JHwMD3R3tNOsF_oZPrULUAYCkxJEjZXi
-updatedTimestamp: 1681548014529
+updatedTimestamp: 1699451286494
 createdTimestamp: 1583670666349
-wordCount: 707
+wordCount: 711
 tags: ["tools","social media"]
 ---
 
 **Each social media platform serves a different purpose. Social media play an important role in the mobilisation of activists. This page explains how they can be used as tools for your activist organisation, taking into account downsides such as censorship.**
+
+> **Article quality:** ⭐️⭐️ (2/5)
 
 ## **Social media platforms**
 

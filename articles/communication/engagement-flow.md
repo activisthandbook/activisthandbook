@@ -6,13 +6,15 @@ description: >
 langCode: en
 articleID: R7hx8BgoPcn3d3Qkcwo7wRJijFqoVa1W
 languageCollectionID: 9GFfvJqI1sLYzUAl3sOl_rDVdfLpcgKB
-updatedTimestamp: 1688353093397
+updatedTimestamp: 1699451190719
 createdTimestamp: 1676394459446
-wordCount: 182
+wordCount: 186
 tags: ["stub"]
 ---
 
 In this guide, you will learn how to get more engaged with your movement. We will explain how you can define the engagement flow, also called engagement ladder, for your movement.
+
+> **Article quality**: ⭐️ (1/5)
 
 Engagement is a key goal for any nonprofit or activist organization, and having a solid engagement flow in place is essential for success. An engagement flow is a plan that outlines how you will engage with your audience, how you will build relationships with them, and how you will encourage them to take action.
 

@@ -6,13 +6,15 @@ description: >
 langCode: en
 articleID: -fJ6k_NCP0VVdS16c_J3md-Vz5UqMgeA
 languageCollectionID: f0sZEX5JvDTbZ3OOYuBk-ZmPMlP_a1Fy
-updatedTimestamp: 1676392812646
+updatedTimestamp: 1699451072605
 createdTimestamp: 1614764315693
-wordCount: 97
+wordCount: 101
 tags: []
 ---
 
 This is a list of sites and hotlines where you can get help. Please do not hesitate to reach out!
+
+> **Article quality**: ⭐️⭐️ (2/5)
 
 -   Check out [XR's Don't Panic guide](https://docs.google.com/document/d/10UbkxVAUVBJt0xtS_uE78LXCV8QeFwvW76BB6T_ZSok/edit?utm_source=activisthandbook.org)
     
