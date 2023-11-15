@@ -6,9 +6,9 @@ description: >
 langCode: en
 articleID: m0drYFPxxlWak_Sx2KTqxI_TkLKCvGiK
 languageCollectionID: rv7EAKh1eg5K3qylPHgNUTdef0KqrGkm
-updatedTimestamp: 1700045861179
+updatedTimestamp: 1700055096078
 createdTimestamp: 1643202787656
-wordCount: 2363
+wordCount: 2534
 tags: []
 ---
 
@@ -205,6 +205,12 @@ Religious congregations could focus their services and activities on social just
 ### New York
 
 Check out [SolidarityNYC](http://solidaritynyc.org/?utm_source=activisthandbook.org#/map) for a list of local initiatives.
+
+### Dependence on existing institutions
+
+The more the social safety net in your country is institutionalised, the less motivation people might have to organise themselves. Often, in 'developed'\* countries, citizens are used to the government being responsible for solving problems. People might be more likely to address their frustrations to the government, instead of working together with fellow citizens to come up with solutions. In other words: even if existing institutions do not work, people still expect those institutions to improve, rather than creating something new from scratch.
+
+'Developed' is deliberately between quotation marks here. It does not mean 'better'. Quite the opposite: People who live in countries where the government more regularly just does not function at all might be more inclined to take matters to their own hands And this is a good thing. It can be a better environment for alternative-building tactics to flourish. There is more room for new initiatives by citizens to succeed, as there is no competition with institutions that work for some (but not most).
 
 ## Q&A
 
