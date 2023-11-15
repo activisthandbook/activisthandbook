@@ -6,9 +6,9 @@ description: >
 langCode: en
 articleID: 0pyvmXBsK0CD53__pRHbdEpdldPTsXhw
 languageCollectionID: DzETy-5-H4GwWfZz0_ttl3fAPEBsSLBS
-updatedTimestamp: 1699193636628
+updatedTimestamp: 1700038733046
 createdTimestamp: 1647940783212
-wordCount: 1992
+wordCount: 1996
 tags: []
 ---
 
@@ -68,7 +68,7 @@ Do you decide to target aspects of the system, such as political institutions, o
 
 ### Reform society or build alternatives?
 
-Do you try to change society from within, or do you build alternatives that allow people to step out of society into a new one? An example of the former: ask the local municipality to build a community garden. An example of the latter: get some people from your neighbourhood together and turn an empty plot into a community garden yourself.
+Do you try to change society from within, or do you build alternatives that allow people to step out of society into a new one? An example of the former: organise a protest to pressure the local municipality to build a community garden. An example of the latter: get some people from your neighbourhood together and turn an empty plot into a community garden yourself.
 
 ### Decide top-down or bottom-up?
 
