@@ -6,9 +6,9 @@ description: >
 langCode: en
 articleID: m0drYFPxxlWak_Sx2KTqxI_TkLKCvGiK
 languageCollectionID: rv7EAKh1eg5K3qylPHgNUTdef0KqrGkm
-updatedTimestamp: 1700045360658
+updatedTimestamp: 1700045861179
 createdTimestamp: 1643202787656
-wordCount: 2291
+wordCount: 2363
 tags: []
 ---
 
@@ -252,6 +252,25 @@ Possible names:
 -   Solidarity economy
     
 -   _Feel free to suggest other names..._
+    
+
+### Make it more practical
+
+This article is still quite theoretical. We prefer practical 'how-to' guides at Activist Handbook. Examples:
+
+-   How to start a community kitchen?
+    
+-   How to scale up my alternative-building project?
+    
+-   How to get funding for my alternative-building project?
+    
+-   How to sustain my alternative-building project long-term?
+    
+-   How to deal with opposition when building alternatives?
+    
+-   How to make my alternative-building project more inclusive?
+    
+-   How to document lessons I learned while building alternatives?
     
 
 ## External resources
