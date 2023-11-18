@@ -6,9 +6,9 @@ description: >
 langCode: en
 articleID: J3gTgLgqTAzHrap5en3ePR2GBmNRAg__
 languageCollectionID: Hm6ZaeMf02oXtZN2LlCr1NkH7Cxu6Il_
-updatedTimestamp: 1699193883618
+updatedTimestamp: 1700318822771
 createdTimestamp: 1583509188074
-wordCount: 1045
+wordCount: 1121
 tags: []
 ---
 
@@ -82,6 +82,12 @@ The local context across countries can impact activists trying to communicate th
     
 
 <action-smart-small></action-smart-small>
+
+## Case studies
+
+> **This section still needs to be written.** How have / do activist groups communicate(d) amongst their members, and with potential new members and members of the public? What works? This can include technology and also human skills such as non-violent communication.
+> 
+> How has the established and independent media, as well as media platforms in general, such as the internet, including social media platforms, been used by activists? This can include case studies of **image.**
 
 ## Improve this page
 

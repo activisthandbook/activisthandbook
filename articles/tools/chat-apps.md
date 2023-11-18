@@ -6,9 +6,9 @@ description: >
 langCode: en
 articleID: m4uMcFhEZyoTvnn4zBDqd0RZwSnP7cNl
 languageCollectionID: KPVizBwWat4_W_BEiKmG-JlKkM_iQl99
-updatedTimestamp: 1699451352547
+updatedTimestamp: 1700215958775
 createdTimestamp: 1583664381534
-wordCount: 929
+wordCount: 930
 tags: ["tools","social media"]
 ---
 
@@ -67,6 +67,8 @@ The apps below are developed specifically for larger organisations and thus have
 3.  [**Mattermost**](/tools/chat-apps/mattermost)
     
 4.  [**Rocket Chat**](/tools/chat-apps/rocket-chat)
+    
+5.  [**Acter**](/tools/acter)
     
 
 ## How to contribute

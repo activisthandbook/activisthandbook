@@ -6,9 +6,9 @@ description: >
 langCode: en
 articleID: v7ONnIEx3he17_I-JD0CgqlZRX-75Zuy
 languageCollectionID: GEBMCoST8DAOBDN-LZdnxBWpOlQD18V2
-updatedTimestamp: 1699193458293
+updatedTimestamp: 1700319099537
 createdTimestamp: 1583509165087
-wordCount: 904
+wordCount: 944
 tags: ["tactics","chapters"]
 ---
 
@@ -69,6 +69,10 @@ The local context across countries can impact activists trying to develop their 
     
 
 <action-smart-small></action-smart-small>
+
+## Case studies
+
+> **This section still needs to be written!** What strategies have groups used, or are groups currently using? What has worked? How is success defined? What specific campaigns are worthy of study, for their success or ‘failure’ or ‘nearly-success’?
 
 ## Improve this chapter
 

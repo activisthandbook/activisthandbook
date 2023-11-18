@@ -6,9 +6,9 @@ description: >
 langCode: en
 articleID: Jivvm_DITjwYHs0BtJuFs9SzsiRHfUlL
 languageCollectionID: 2iL5uLyfvLfLZc8ZAdnUzGAQX_cgwUc1
-updatedTimestamp: 1699193434297
+updatedTimestamp: 1700318604306
 createdTimestamp: 1583581575544
-wordCount: 962
+wordCount: 1063
 tags: ["chapters"]
 ---
 
@@ -87,6 +87,10 @@ Community organizing is a form of activism and grassroots organizing that involv
 
 To start a grassroots movement, identify a cause that you are passionate about, gather a group of like-minded people, create a plan of action, and spread the word. Take a look at the many guides on Activist Handbook to get started.
 
+## Case studies
+
+> **This section still needs to be written.** What methods and types of organisation have been used, and why, and how successful have they been? Has direct democracy or some other form of horizontal organising method been used? If not, why? Includes studies of leadership.
+
 ## Improve this chapter
 
 You can make this chapter about organising better. Here are some things you can do:
@@ -109,6 +113,15 @@ You can make this chapter about organising better. Here are some things you can 
         
     -   Long-term sustainability of movement
         
+
+### New topics
+
+#### Life cycle of a movement
+
+-   **Beginnings;** case studies of how activist groups, political parties, NGO's, revolutionary civil disobedience movements or any other type of group, formed.
+    
+-   **Endings;** case studies of how different types of groups ended, either voluntarily or involuntarily. (And did they end because they succeeded, failed, or evolved into something else?)
+    
 
 ### Search queries
 

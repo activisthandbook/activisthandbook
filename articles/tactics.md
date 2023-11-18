@@ -6,9 +6,9 @@ description: >
 langCode: en
 articleID: dqIEdknV4hO7Eqa1OZNQWeeF1D-KptVM
 languageCollectionID: WeIM7eSP9ovc2D_rh7HpCq26GW7AQRV-
-updatedTimestamp: 1699193829671
+updatedTimestamp: 1700318545470
 createdTimestamp: 1594650737037
-wordCount: 1634
+wordCount: 1667
 tags: []
 ---
 
@@ -124,6 +124,10 @@ A tactic is a specific action or method that is used to achieve a goal or object
 ### What types of tactics exist?
 
 There are many tactics that activists use. To bring order into the chaos, we chose one particular categorisation based on search engine optimization research. In other words, we created our categories based on the terms people use to find various types of tactics on Google. However, other ways of categorising tactics are also possible. Read chapter 3 of [Civil Resistance in the 21st Century](https://www.nonviolent-conflict.org/wp-content/uploads/2021/03/Civil-Resistance-Tactics-in-the-21st-Century-Monograph.pdf?utm_source=activisthandbook.org) by ICNC for more context.
+
+## Case studies
+
+> **This section still needs to be written.** Add case studies of tactics that activists tried. What worked, and what didn't, and why? And what nearly worked? What else may have worked?
 
 ## Improve this page
 

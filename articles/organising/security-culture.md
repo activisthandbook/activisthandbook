@@ -6,8 +6,9 @@ description: >
 langCode: en
 articleID: 8QylNPmBxWU_Qv_ySTX_eZDKIsHOljTf
 languageCollectionID: SfdjBDYW0JyR3QmaPLexzIgY6BowFvnI
-updatedTimestamp: 1671329051101
+updatedTimestamp: 1700319064819
 createdTimestamp: 1643460828835
+wordCount: 3669
 tags: ["organising"]
 ---
 
@@ -61,7 +62,7 @@ _But what if no-one in your country uses Signal? You might be able to convice th
 
 An open approach in activism is often more effective.
 
-There is power in numbers: even if you are planning an illegal action completely in the open, police might not be able to stop all of you. Especially when you organise _**decentralised**_ on a large scale, in many cases, it is impossible to law enforcent to track down and stop every single small action.
+There is power in numbers: even if you are planning an illegal action completely in the open, police might not be able to stop all of you. Especially when you organise **_decentralised_** on a large scale, in many cases, it is impossible to law enforcent to track down and stop every single small action.
 
 Yes, law enforcement will know who you are. Yes, they will know what you are planning on organising. But so will everyone else. If you want to achieve big change, eventually, you want everyone to know about you and your message, and the only way to do so is by taking action out in the open.
 
@@ -78,8 +79,6 @@ This guide first outlines some general guidelines, and then offers some specific
 There’s no easy answer to the tough question, How securi- ty conscious should I be? The consequences of surveillance and harassment have the potential to be severe; however, being overly cautious and constantly preparing for the worst can be debilitating.
 
 Ask yourself, are you at high, low, or medium interest to law enforcement? The table below is a useful guide to help you assess where your group is at.
-
-<div></div>
 
 If your group has a combination of higher interest factors then you are more likely to be subject to surveillance and harassment.
 
@@ -98,7 +97,9 @@ To be able to decide whether it is worth accepting the risks of an open approach
 Here are two examples where it might be better to build small resistance communities with only people you fully trust:
 
 -   _If your government straight away imprisons anyone who speaks up._
+    
 -   _If it is a common police practice to infiltrate movements not just for the purpose of collecting intelligence, but also to destabilise your movement. For example, they do this by starting violence during a peaceful protest, to make you look bad or create an excuse to arrest you._
+    
 
 ### Weigh the “pros” and “cons”
 
@@ -190,33 +191,54 @@ It is also true that a consensus decision making process can make it easier for 
 
 Groups might also choose to transparently modify the decision-making process in some way, perhaps to consen- sus minus one (which means a proposal is approved even if one person objects) or an 80% voting majority. These measures might be necessary before mass actions where there is a big influx of new people.
 
+## Case studies
+
+> **This section has not been written yet.** Which groups and movements were infiltrated and / or surveilled by police and authorities, and did this matter, and could this infiltration have been prevented? Which ‘secure’ software (e.g. communications software) has helped or hindered groups?
+
 ## How to contribute
 
 You have stumbled upon quite an empty page. Contribute by working on the following:
 
 -   Discuss the risks of closing off your movement from the outside world (while the inclination to become more secretive to defend yourself against infiltration and surveilance is understandable, you should question whether this is not extactly doing what our oppressors want: hiding in a shell instead of challanging the status quo out in the open).
+    
 -   Discuss the open & transparent approach we take at Activist Handbook
+    
 -   Discuss local contexts (e.g. strong history of security culture in the US)
+    
 -   Discuss steps to take against infiltration & surveilance, take [this publication](http://nonviolence.rutgers.edu/document/IIP0310F07) as a starting point (published under Creative Commons licence). The section on protecting data should be added to [another page](/tools/security) of our website (also, it should be updated, not to included outdated software).
+    
 
 ## Related articles
 
 -   [Digital security for activists](/tools/security)
+    
 
 ## External resources
 
 -   [Security culture](https://en.wikipedia.org/wiki/Security_culture) by Wikipedia
+    
 -   [Insider Threats: A Closer Look at Infiltrators and Movement Security Culture](https://www.nonviolent-conflict.org/blog_post/insider-threats-a-closer-look-at-infiltrators-and-movement-security-culture/)
+    
 -   [How Agent Provocateurs Harm Our Movements](https://www.nonviolent-conflict.org/resource/how-agent-provocateurs-harm-our-movements/) by Steve Chase
+    
 -   [Security culture: handbook for activists](https://mutualaiddisasterreliefsite.files.wordpress.com/2017/04/security-culture-a-handbook-for-activists.pdf) \[[Archived version](https://ia800700.us.archive.org/19/items/SecurityCultureAHandbookForActivists/security_culture_handbook.pdf)\]
+    
 -   [Security culture](https://open.oregonstate.education/defenddissent/chapter/security-culture/) by Oregon State University
+    
 -   [Defending against Surveillance and Suppression](https://open.oregonstate.education/defenddissent/chapter/surveillance-and-suppression/) by Oregon State University
+    
 -   [Mechanisms of Social Movement Suppression](https://open.oregonstate.education/defenddissent/chapter/social-movement-suppression/) by Oregon State University
+    
 -   [Security culture](https://theyesmen.org/cookbook/nuts-and-bolts/security-culture) by The Yes Men
+    
 -   [Digital Security Guide for Everyone](https://commonslibrary.org/digital-security-guide-for-everyone/) by Action Skills
+    
 -   [Tools for More Secure Activism](https://commonslibrary.org/tools-for-more-secure-activism/) by Nicola Paris
+    
 -   [Staying Safe: Protective Strategies for Activists](https://commonslibrary.org/staying-safe-protective-strategies-for-activists/) by Melbourne Activist Legal Support
+    
 -   [What is security culture?](https://nl.crimethinc.com/2004/11/01/what-is-security-culture) by crimthinc
+    
 
 ## Attribution
 

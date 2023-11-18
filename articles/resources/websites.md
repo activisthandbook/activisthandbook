@@ -6,9 +6,9 @@ description: >
 langCode: en
 articleID: Z6uJY_SPlb4KGAjna9PThNsgiE0J98Ty
 languageCollectionID: fVhmN9s7AQ-loB2iM9of0SYyO7H3_eg2
-updatedTimestamp: 1699176952090
+updatedTimestamp: 1700317905876
 createdTimestamp: 1602591877175
-wordCount: 1119
+wordCount: 1160
 tags: []
 ---
 
@@ -161,6 +161,8 @@ We also collected a few blog authors that write about activism:
 -   [**Interface Journal**](https://www.interfacejournal.net): Learning from each other's struggles: activist and academic research and theory on social movements from around the world. As multilingual as we can be!
     
 -   [**Convergence Magazine**](https://convergencemag.com/?utm_source=activisthandbook.org) ([Twitter](https://twitter.com/_convergencemag?utm_source=activisthandbook.org), [Facebook](https://www.facebook.com/MovementConvergence?utm_source=activisthandbook.org), [Instagram](https://www.instagram.com/_convergencemag/?utm_source=activisthandbook.org)): "Convergence works with organizers and activists on the frontlines to produce content that sharpens our collective practice and promotes strategic debate."
+    
+-   [**(Dis)solution Magazine**](https://commonslibrary.org/dissolution-magazine/?utm_source=activisthandbook.org): an Australian online and print journal published in Naarm/Melbourne. It is born out of a need for radical, critical thought and expression, particularly from emerging writers, artists and activists which challenges the catastrophic, ecocidal structures of the 21st century.
     
 
 ## News

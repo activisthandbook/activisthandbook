@@ -6,15 +6,17 @@ description: >
 langCode: en
 articleID: m0drYFPxxlWak_Sx2KTqxI_TkLKCvGiK
 languageCollectionID: rv7EAKh1eg5K3qylPHgNUTdef0KqrGkm
-updatedTimestamp: 1700055096078
+updatedTimestamp: 1700122734484
 createdTimestamp: 1643202787656
-wordCount: 2534
+wordCount: 2865
 tags: []
 ---
 
 In this guide, we explain what 'alternative-building' entails. We provide examples for activists, and we give you some advice on how to make more impact within the solidarity economy.
 
 > **Article quality**: ⭐️⭐️ (2/5)
+> 
+> **🤔 Not to be confused with 'alternative buildings'**: We're creating alternatives for capitalism here, not looking for alternatives to regular brick & mortar buildings.
 
 ## What is alternative-building?
 
@@ -247,19 +249,6 @@ Write more about the following themes:
 -   **Power**: As long as you are not a threat to the status quo, law enforcement will happily let you grow your crops in your community garden. But what about when the economic interests of the agricultural industry are under threat? Probably, only then, your alternative-building actually becomes a meaningful form of activism, instead of a fun hobby. But what will happen when you challenge the status quo? How do you defend yourself against the police when your squatting activities are criminalised? Do you quietly do your alternative-building and hope those in power do not notice you, until it is too late to stop you? But how then do you tell others about your activities, so you can scale up?
     
 
-### Rename article
-
-We should probably rename this article. "Alternative-building" is not a widely known concept. Activist Handbook is not in the business of coining new terms. Instead, we try to use terms that other people already use, so our guides are found through search engines.
-
-Possible names:
-
--   Commons
-    
--   Solidarity economy
-    
--   _Feel free to suggest other names..._
-    
-
 ### Make it more practical
 
 This article is still quite theoretical. We prefer practical 'how-to' guides at Activist Handbook. Examples:
@@ -279,6 +268,55 @@ This article is still quite theoretical. We prefer practical 'how-to' guides at 
 -   How to document lessons I learned while building alternatives?
     
 
+### Rename article / add landing pages
+
+We should probably rename this article. "Alternative-building" is not a widely known concept. Activist Handbook is not really in the business of coining new terms. Instead, we try to use terms that other people already use, so our guides are found through search engines.
+
+One possibility is to rename the article to 'Commons' or 'Solidarity economy'. However, neither accurately reflects the perspective we want to take, with 'alternative-building' being a category of activists tactics and strategies. In addition, it seems like a reachable goal to get an article about 'alternative-building' high in the search results, even though the majority of people searching for it does not actually mean it in the context of activism. For those who do, they will be able to find us that way as well. So instead of remaining this page, it might be better to add two additional pages about those two more popular themes, and link to this page.
+
+-   **Commons**
+    
+    -   What does commons stand for?
+        
+    -   What is an example of a commons?
+        
+    -   What are the four commons?
+        
+    -   Why do we use commons?
+        
+    -   commons meaning in history
+        
+    -   tragedy of the commons
+        
+-   **Solidarity economy**
+    
+    -   What are examples of social economic?
+        
+    -   Why is the social economy important?
+        
+    -   What are the aims of social economy?
+        
+    -   What is an example of a social economic system?
+        
+    -   Social economy characteristics
+        
+    -   Social economy examples
+        
+    -   types of social economy
+        
+-   _Feel free to suggest other names..._
+    
+
+Check out search query popularity below to see which themes activists are looking up.
+
+### Search queries
+
+What information are activists looking up about alternative building?
+
+<table><tbody><tr><th><p>Keywords</p></th><th><p>Monthly searches</p></th><th><p>Relevancy</p></th><th><p>Difficulty</p></th></tr><tr><td><p>alternative building</p></td><td><p>420</p></td><td><p>low (shows results about houses)</p></td><td><p>39%</p></td></tr><tr><td><p>solidarity economy</p></td><td><p>2.2K</p></td><td><p>medium</p></td><td><p>42%</p></td></tr><tr><td><p>commons</p></td><td><p>239.4K</p></td><td><p>medium</p></td><td><p>89%</p></td></tr><tr><td><p>the commons</p></td><td><p>74.7K</p></td><td><p>medium</p></td><td><p>59%</p></td></tr><tr><td><p>solidarity economy principles</p></td><td><p>30</p></td><td><p>medium</p></td><td><p></p></td></tr><tr><td><p>social and solidarity economy</p></td><td><p>20</p></td><td><p>medium</p></td><td><p></p></td></tr><tr><td><p>social and solidarity economy beyond the fringe (book)</p></td><td><p>20</p></td><td><p>medium</p></td><td><p></p></td></tr><tr><td><p>encyclopedia of the social and solidarity economy (book)</p></td><td><p>20</p></td><td><p>medium</p></td><td><p></p></td></tr><tr><td><p>is welfare solidarity economy</p></td><td><p>0</p></td><td><p>low</p></td><td><p></p></td></tr><tr><td><p>what is a solidarity economy</p></td><td><p>20</p></td><td><p>medium</p></td><td><p></p></td></tr><tr><td><p>tragedy of the commons</p></td><td><p>33.1K</p></td><td><p></p></td><td><p>81%</p></td></tr><tr><td><p>social solidarity</p></td><td><p></p></td><td><p></p></td><td><p></p></td></tr><tr><td><p>social economy</p></td><td><p>12.5K</p></td><td><p></p></td><td><p>51%</p></td></tr><tr><td><p>what is solidarity</p></td><td><p></p></td><td><p></p></td><td><p></p></td></tr><tr><td><p>what is a social economy</p></td><td><p>140</p></td><td><p></p></td><td><p>29%</p></td></tr></tbody></table>
+
+Monthly search volume data from Semrush
+
 ## External resources
 
 -   [A Critical Guide for Just Recovery](https://commonslibrary.org/a-critical-framework-for-just-recovery/) by Movement Generation
@@ -288,130 +326,136 @@ This article is still quite theoretical. We prefer practical 'how-to' guides at 
 
 ### **Practices and Tools**
 
-[Solidarity Economy Principles and Practices](http://solidarityeconomyprinciples.org/)
+-   [Solidarity Economy Principles and Practices](http://solidarityeconomyprinciples.org/)
+    
 
 ### **Reports**
 
-[Growing a Resilient City: Possibilities for Collaboration in New York City’s Solidarity Economy](http://solidaritynyc.org/wp-content/uploads/2013/02/Growing-A-Resilient-City-SolidarityNYC-Report.pdf), _released 2/2013_
-
-[Cooperative Economics Alliance of New York City Summary of Findings](http://solidaritynyc.org/wp-content/uploads/2012/09/CEANYC-Final-Report.pdf), _released 4/2014_
-
-[A Map of the Heart: Building a Solidarity Economy Movement in NYC](https://geo.coop/story/map-heart)
-
-[Dismantling Patriarchy in NYC’s Solidarity Economy](https://geo.coop/story/dismantling-patriarchy-nyc%E2%80%99s-solidarity-economy-0)
-
-[#SolidarityCities: Upstate New York](https://geo.coop/story/solidaritycities-upstate-new-york)
-
-[#SolidarityCities: Montreal, Canada](https://geo.coop/story/solidaritycities-montr%C3%A9al)
-
-[#SolidarityCities: Philadelphia, PA](https://geo.coop/story/solidarity-cities-philadelphia)
+-   [Growing a Resilient City: Possibilities for Collaboration in New York City’s Solidarity Economy](http://solidaritynyc.org/wp-content/uploads/2013/02/Growing-A-Resilient-City-SolidarityNYC-Report.pdf), _released 2/2013_
+    
+-   [Cooperative Economics Alliance of New York City Summary of Findings](http://solidaritynyc.org/wp-content/uploads/2012/09/CEANYC-Final-Report.pdf), _released 4/2014_
+    
+-   [A Map of the Heart: Building a Solidarity Economy Movement in NYC](https://geo.coop/story/map-heart)
+    
+-   [Dismantling Patriarchy in NYC’s Solidarity Economy](https://geo.coop/story/dismantling-patriarchy-nyc%E2%80%99s-solidarity-economy-0)
+    
+-   [#SolidarityCities: Upstate New York](https://geo.coop/story/solidaritycities-upstate-new-york)
+    
+-   [#SolidarityCities: Montreal, Canada](https://geo.coop/story/solidaritycities-montr%C3%A9al)
+    
+-   [#SolidarityCities: Philadelphia, PA](https://geo.coop/story/solidarity-cities-philadelphia)
+    
 
 ### **Posters**
 
-Poster for Creatives  
-[Download the PDF, _11×17 in._](http://solidaritynyc.org/wp-content/uploads/2011/09/SolidarityNYC-Poster.pdf)
+-   Poster for Creatives, [Download the PDF, _11×17 in._](http://solidaritynyc.org/wp-content/uploads/2011/09/SolidarityNYC-Poster.pdf)
+    
 
 ### **Workshops and Talks**
 
-[This is How We Win](https://vimeo.com/219610058) panel discussion with Cooperative Economics Alliance of NYC
+-   [This is How We Win](https://vimeo.com/219610058) panel discussion with Cooperative Economics Alliance of NYC
+    
 
 ### **Books and Articles**
 
-[Other Economies Are Possible](http://www.google.com/url?sa=t&source=web&cd=4&ved=0CCoQFjAD&url=http%3A%2F%2Fwww.communityeconomies.org%2Fsite%2Fassets%2Fmedia%2FEthan_Miller%2FMiller_Other%2520Economies%2520Are%2520Possible%2520%282006%29.pdf&rct=j&q=ethan%20miller%20community%20economies%20collective%20other%20economies%20are%20possible&ei=dsolTsSuFsnV0QGc1d3rCg&usg=AFQjCNHC5w_Zo6tlox5m6i_-H6IBvE2E8Q&sig2=fYMICswaytlv0sD9Z6mRTQ&cad=rja) by Ethan Miller
-
-[Collective Courage: A History of African American Cooperative Economic Thought and Practice](http://www.psupress.org/books/titles/978-0-271-06216-7.html), Jessica Gordon-Nembhard
-
-[Cooperating to Replace Capitalism (Part One)](http://montreal.mediacoop.ca/story/occupy-workplace-democracy-part-i/10077) by Dru Oja Jay
-
-[Cooperating to Replace Capitalism (Part Two)](http://montreal.mediacoop.ca/story/occupy-workplace-democracy/10153) by Dru Oja Jay
-
-[Occupy! Connect! Create!](http://geo.coop/node/719) by Ethan Miller
-
-[Towards an Economy Worth Occupying](http://www.organizingupgrade.com/index.php/strategylabs/occupy-strategylab/item/38-towards-an-economy-worth-occupying) by Cheyenna Weber
-
-[A Solidarity Economy: An Overview and Some Definitions](http://www.geo.coop/node/15) by Julie Matthaei and Jenna Allred
-
-[Solidarity Economies: Key Concepts and Issues](http://www.communityeconomies.org/site/assets/media/Ethan_Miller/Miller_Solidarity_Economy_Key_Issues_2010.pdf) by Ethan Miller
-
-[An Ethics of the Local](http://www.unc.edu/courses/2005fall/geog/160/001/GEC'05/gibson-graham.pdf) by J.K. Gibson-Graham
-
-[Solidarity Economy I: Building Alternatives for People and Planet](http://www.lulu.com/product/paperback/solidarity-economy-i-building-alternatives-for-people-and-planet/11379276) by Emily Kawano, Thomas-Neal Masterson, and Jonathan Teller-Elsberg
-
-[Building a Solidarity Economy](http://www.yesmagazine.org/new-economy/building-a-solidarity-economy) by Annie McShiras
-
-[Sharing Power: Building a Solidarity Economy](http://www.shareable.net/blog/sharing-power-building-a-solidarity-economy) by Cheyenna Weber and Caroline Woolard
-
-[Resources for Solidarity Economy Researchers](http://cborowiak.haverford.edu/solidarityeconomy/) by Craig Borowiak
-
-[Oppose and Propose](http://www.akpress.org/opposeandpropose.html) by Andy Cornell
-
-[Beautiful Trouble](https://solutions.thischangeseverything.org/#module/solidaritynyc) entry on SolidarityNYC
-
-[Take Back the Economy](https://www.upress.umn.edu/book-division/books/take-back-the-economy) by J.K. Gibson-Graham, Stephen Healy, and Jenny Cameron
+-   [Other Economies Are Possible](http://www.google.com/url?sa=t&source=web&cd=4&ved=0CCoQFjAD&url=http%3A%2F%2Fwww.communityeconomies.org%2Fsite%2Fassets%2Fmedia%2FEthan_Miller%2FMiller_Other%2520Economies%2520Are%2520Possible%2520%282006%29.pdf&rct=j&q=ethan%20miller%20community%20economies%20collective%20other%20economies%20are%20possible&ei=dsolTsSuFsnV0QGc1d3rCg&usg=AFQjCNHC5w_Zo6tlox5m6i_-H6IBvE2E8Q&sig2=fYMICswaytlv0sD9Z6mRTQ&cad=rja) by Ethan Miller
+    
+-   [Collective Courage: A History of African American Cooperative Economic Thought and Practice](http://www.psupress.org/books/titles/978-0-271-06216-7.html), Jessica Gordon-Nembhard
+    
+-   [Cooperating to Replace Capitalism (Part One)](http://montreal.mediacoop.ca/story/occupy-workplace-democracy-part-i/10077) by Dru Oja Jay
+    
+-   [Cooperating to Replace Capitalism (Part Two)](http://montreal.mediacoop.ca/story/occupy-workplace-democracy/10153) by Dru Oja Jay
+    
+-   [Occupy! Connect! Create!](http://geo.coop/node/719) by Ethan Miller
+    
+-   [Towards an Economy Worth Occupying](http://www.organizingupgrade.com/index.php/strategylabs/occupy-strategylab/item/38-towards-an-economy-worth-occupying) by Cheyenna Weber
+    
+-   [A Solidarity Economy: An Overview and Some Definitions](http://www.geo.coop/node/15) by Julie Matthaei and Jenna Allred
+    
+-   [Solidarity Economies: Key Concepts and Issues](http://www.communityeconomies.org/site/assets/media/Ethan_Miller/Miller_Solidarity_Economy_Key_Issues_2010.pdf) by Ethan Miller
+    
+-   [An Ethics of the Local](http://www.unc.edu/courses/2005fall/geog/160/001/GEC'05/gibson-graham.pdf) by J.K. Gibson-Graham
+    
+-   [Solidarity Economy I: Building Alternatives for People and Planet](http://www.lulu.com/product/paperback/solidarity-economy-i-building-alternatives-for-people-and-planet/11379276) by Emily Kawano, Thomas-Neal Masterson, and Jonathan Teller-Elsberg
+    
+-   [Building a Solidarity Economy](http://www.yesmagazine.org/new-economy/building-a-solidarity-economy) by Annie McShiras
+    
+-   [Sharing Power: Building a Solidarity Economy](http://www.shareable.net/blog/sharing-power-building-a-solidarity-economy) by Cheyenna Weber and Caroline Woolard
+    
+-   [Resources for Solidarity Economy Researchers](http://cborowiak.haverford.edu/solidarityeconomy/) by Craig Borowiak
+    
+-   [Oppose and Propose](http://www.akpress.org/opposeandpropose.html) by Andy Cornell
+    
+-   [Beautiful Trouble](https://solutions.thischangeseverything.org/#module/solidaritynyc) entry on SolidarityNYC
+    
+-   [Take Back the Economy](https://www.upress.umn.edu/book-division/books/take-back-the-economy) by J.K. Gibson-Graham, Stephen Healy, and Jenny Cameron
+    
 
 Check out our [Press](http://solidaritynyc.org/#/about/press/) for additional information about our work.
 
 ### **Related Organizations**
 
-[AORTA Collective](http://www.aortacollective.org/)
-
-[Black Women’s Blueprint](http://www.blackwomensblueprint.org/)
-
-[Brooklyn Movement Center](http://brooklynmovementcenter.org/)
-
-[Le Chantier L’Economie Sociale (The Chantier)](http://www.chantier.qc.ca/)
-
-[Community Economies Collective](http://www.communityeconomies.org/Home)
-
-[Cooperative Economics Alliance of New York City](http://gocoopnyc.com/)
-
-[Cooperation Jackson](http://www.cooperationjackson.org/)
-
-[Data Commons Cooperative](http://datacommons.find.coop/)
-
-[Grassroots Economic Organizing (GEO) Collective](http://www.geo.coop/)
-
-[Mapping the Solidarity Economy](https://mappingthesolidarityeconomy.wordpress.com/)
-
-[National Federation of Community Development Credit Unions](http://www.cdcu.coop/)
-
-[New York City Community Gardens Coalition](http://nyccgc.org/)
-
-[New York City Network of Worker Cooperatives](http://www.nycworker.coop/#network)
-
-[On the Commons](http://www.onthecommons.org/)
-
-[Our](http://www.ourgoods.org/) [Goods.org](http://Goods.org)
-
-[Participatory Budgeting Project](http://www.participatorybudgeting.org/)
-
-[Philadelphia Area Cooperative Alliance](http://www.philadelphia.coop/)
-
-[Seikatsu Club Consumer’s Co-operative Union](http://www.geo.coop/node/322)
-
-[Shareable.net](http://Shareable.net)
-
-[The Sustainable Economy Law Center](http://www.theselc.org/)
-
-[Southern Grassroots Economies Project](http://sgeproject.org/)
-
-[U.S. Solidarity Economy Network](http://www.ussen.org/)
-
-[Training for Change](http://trainingforchange.org/)
-
-[Urban Homesteading Assistance Board](http://uhab.org/)
-
-[Worcester SAGE](http://www.worcestersagealliance.org/)
+-   [AORTA Collective](http://www.aortacollective.org/)
+    
+-   [Black Women’s Blueprint](http://www.blackwomensblueprint.org/)
+    
+-   [Brooklyn Movement Center](http://brooklynmovementcenter.org/)
+    
+-   [Le Chantier L’Economie Sociale (The Chantier)](http://www.chantier.qc.ca/)
+    
+-   [Community Economies Collective](http://www.communityeconomies.org/Home)
+    
+-   [Cooperative Economics Alliance of New York City](http://gocoopnyc.com/)
+    
+-   [Cooperation Jackson](http://www.cooperationjackson.org/)
+    
+-   [Data Commons Cooperative](http://datacommons.find.coop/)
+    
+-   [Grassroots Economic Organizing (GEO) Collective](http://www.geo.coop/)
+    
+-   [Mapping the Solidarity Economy](https://mappingthesolidarityeconomy.wordpress.com/)
+    
+-   [National Federation of Community Development Credit Unions](http://www.cdcu.coop/)
+    
+-   [New York City Community Gardens Coalition](http://nyccgc.org/)
+    
+-   [New York City Network of Worker Cooperatives](http://www.nycworker.coop/#network)
+    
+-   [On the Commons](http://www.onthecommons.org/)
+    
+-   [Our](http://www.ourgoods.org/) [Goods.org](http://Goods.org)
+    
+-   [Participatory Budgeting Project](http://www.participatorybudgeting.org/)
+    
+-   [Philadelphia Area Cooperative Alliance](http://www.philadelphia.coop/)
+    
+-   [Seikatsu Club Consumer’s Co-operative Union](http://www.geo.coop/node/322)
+    
+-   [Shareable.net](http://Shareable.net)
+    
+-   [The Sustainable Economy Law Center](http://www.theselc.org/)
+    
+-   [Southern Grassroots Economies Project](http://sgeproject.org/)
+    
+-   [U.S. Solidarity Economy Network](http://www.ussen.org/)
+    
+-   [Training for Change](http://trainingforchange.org/)
+    
+-   [Urban Homesteading Assistance Board](http://uhab.org/)
+    
+-   [Worcester SAGE](http://www.worcestersagealliance.org/)
+    
 
 ### **Media**
 
-[PBS Special: Fixing the Future video on local economies](https://streamingmoviesright.com/us/movie/fixing-the-future/)
-
-[TED talk: Investing in a Better World](http://www.ted.com/talks/lang/eng/geoff_mulgan_post_crash_investing_in_a_better_world_1.html) by Geoff Mulgan
-
-[TEDxHouston talk: Power of Vulnerability](http://www.ted.com/talks/lang/eng/brene_brown_on_vulnerability.html) by Brene Brown
-
-[Highlights from Collective Courage: A Conversation on Cooperation in African American Communities](https://www.youtube.com/watch?v=EpsZw6vsH4A) with Farah Tanis (Black Women’s Blueprint), Dr. Jessica Gordon Nembhard (professor John Jay College and author of Collective Courage), and Esteban Kelley (AORTA Collective) courtesy of GritTV.
+-   [PBS Special: Fixing the Future video on local economies](https://streamingmoviesright.com/us/movie/fixing-the-future/)
+    
+-   [TED talk: Investing in a Better World](http://www.ted.com/talks/lang/eng/geoff_mulgan_post_crash_investing_in_a_better_world_1.html) by Geoff Mulgan
+    
+-   [TEDxHouston talk: Power of Vulnerability](http://www.ted.com/talks/lang/eng/brene_brown_on_vulnerability.html) by Brene Brown
+    
+-   [Highlights from Collective Courage: A Conversation on Cooperation in African American Communities](https://www.youtube.com/watch?v=EpsZw6vsH4A) with Farah Tanis (Black Women’s Blueprint), Dr. Jessica Gordon Nembhard (professor John Jay College and author of Collective Courage), and Esteban Kelley (AORTA Collective) courtesy of GritTV.
+    
 
 ### **Occupy Workplace Democracy**
 
@@ -419,9 +463,10 @@ Occupy Workplace Democracy was an educational event held 1/8/12 for emerging Occ
 
 _Workshop Presentation and Worker-owner panel:_
 
-[Nuts and Bolts Workshop](http://solidaritynyc.org/wp-content/uploads/2012/01/Occupy_Workplace_Democracy.pdf) presentation by Joe Marraffino and Aaron Dawson of the Democracy At Work Network
-
-[Meso-level Cooperation and OWS](http://solidaritynyc.org/wp-content/uploads/2012/01/OWS-brief-presentation-1.8.12.pdf) presentation by Adam Trott of Collective Copies and the Valley Alliance for Worker Cooperatives
+-   [Nuts and Bolts Workshop](http://solidaritynyc.org/wp-content/uploads/2012/01/Occupy_Workplace_Democracy.pdf) presentation by Joe Marraffino and Aaron Dawson of the Democracy At Work Network
+    
+-   [Meso-level Cooperation and OWS](http://solidaritynyc.org/wp-content/uploads/2012/01/OWS-brief-presentation-1.8.12.pdf) presentation by Adam Trott of Collective Copies and the Valley Alliance for Worker Cooperatives
+    
 
 ## Attribution
 

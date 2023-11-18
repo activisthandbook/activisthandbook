@@ -6,7 +6,7 @@ description: >
 langCode: en
 articleID: rjIKtYP4gLMvk-yjbZytrEgSqHaV_rvf
 languageCollectionID: ZYq0ZSIQGaY9tbE7YCWCYrklyrf5ZcrQ
-updatedTimestamp: 1699194104535
+updatedTimestamp: 1700233055547
 createdTimestamp: 1643198421398
 wordCount: 1494
 tags: []
@@ -95,7 +95,7 @@ It is important that you engage in civil disobedience actions with as many peopl
 
 ### 5\. Organise your action
 
-Read more about [how to organise a protest action](/organising/action).
+Read more about [how to organise a protest action](/organising/protest).
 
 **Small groups of people, decentralised:** Action organisation is easiest with a relatively small group of people. The larger your group, the more risk-averse it will become. You need to be able to take a certain level of risk as an activist movement.
 
