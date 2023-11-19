@@ -6,19 +6,49 @@ description: >
 langCode: en
 articleID: tvO08rRa9AhOz9-bQk2MnsJmo3IxrqGt
 languageCollectionID: 8Z7ZJiFcy-pvsGmAE6ZVgHrjZvu8r4pl
-updatedTimestamp: 1699192921976
+updatedTimestamp: 1700384480609
 createdTimestamp: 1653837592592
-wordCount: 1739
+wordCount: 2313
 tags: []
 ---
 
 In this guide, we explain how to organise a campaign. Learn how to advocate your cause with the right campaign planning. Go beyond raising awareness and make change happen.
 
-> **Article quality**: ⭐️⭐️ (2/5)
+> **Article quality**: ⭐️⭐️⭐️ (3/5)
+> 
+> **Not to be confused with**: This guide is about activist campaigns that create social change, not marketing campaigns to sell more products.
+> 
+> Marketing, for example making use of an advertising campaign or a social media campaign, is part of activism though. Check out our [communications](/communication) chapter for more information about that.
+> 
+> **Related guides**: if you are looking to develop a campaign plan, also make sure to check out our [strategy chapter](/strategy).
 
-If you're an activist who wants to make a difference, you need to know how to organise a campaign. A well-organised campaign can be the key to success, and this guide will show you how to do it. From setting goals and targetting your audience, to choosing the right tactics and organising your team, we'll cover everything you need to know to make your campaign a success.
+## Introduction
+
+If you're an activist who wants to make a difference, you need to know how to organise a campaign. A well-organised campaign can be the key to success, and this guide will show you how to do it.
+
+From setting goals and targetting your audience, to choosing the right tactics and organising your team, we'll cover everything you need to know to make your campaign a success!
 
 <div data-youtube-video=""><iframe width="100" height="100" allowfullscreen="true" src="https://www.youtube-nocookie.com/embed/c_g1BMVFcuw" start="0"></iframe></div>
+
+## What is a campaign?
+
+A campaign a strategic plan devised to reach specific objectives within a specific time frame. It usually takes several months. You might need several campaigns to achieve your goals, especially when you are fighting for a big or complex issue.
+
+### Difference with a protest actions
+
+A campaign is different from a single protest action: A [**protest action**](/organising/protest) is a one-off event. A campaign consists of a series of actions over a longer period of time.
+
+Often, inexperienced activists will start by organising a single protest, after which they discover that it has not led to the desired result. Then, they continue to organise more protests, without strategically thinking about how all their actions are connected.
+
+This causes participants to be disappointed by the impact they are making with the first few protests, because they do not see how these are contributing towards the bigger picture. Effective campaigns strategically build up towards a goal.
+
+### Difference with a movement
+
+A campaign also differs from a [**social movement**](/organising/movement). A campaign usually consists of a series of actions over the span of a few months to a year, and focusses on a single issue. A movement exists for a longer period of time, and targets multiple issues within a bigger story.
+
+Often, the injustices we are fighting are complex. A campaign focusses on changing a single issue within that complex system. In many cases, when activists win their campaign, their group falls apart because the thing that bound them together is no longer there.
+
+This does not mean, however, that all injustices are gone. It would be a shame to let the change-making capacity you have built up with your group fall apart. This is where movements come into play. A movement communicates a message that helps people understand how various issues are connected. In addition, a movement invests more resources into building structures that allow people to work together for longer periods of time. For example, movements may put more time into community building, fundraising, coalition building and internal training programmes.
 
 ## Steps to organise a campaign
 
@@ -157,19 +187,7 @@ Once you start making impact, you will find that your opponents start using the 
 
 In addition, the law also often protects activists from being surveilled or spied on without a warrant. This is important because it means that the government cannot put you under surveillance without a valid reason. This protects your privacy and allows you to be able to organize and plan for your cause without fear of the government eavesdropping on your conversations or activities.
 
-<action-button buttonlink="/rights" buttonlabel="Legal info for activists"></action-button>
-
-## Q&A
-
-### What is the difference between a protest action and a campaign?
-
-A [protest action](/organising/protest) is a one-off event. A campaign consists of a series of actions over a longer period of time.
-
-Often, inexperienced activists will start by organising a single protest, after which they discover that it has not led to the desired result. Then, they continue to organise more protests, without strategically thinking about how all their actions are connected.
-
-This causes participants to be disappointed by the impact they are making with the first few protests, because they do not see how these are contributing towards the bigger picture. Effective campaigns strategically build up towards a goal.
-
-<action-smart-small></action-smart-small>
+<action-button buttonlink="/rights" buttonlabel="Legal info for activists"></action-button><action-smart-small></action-smart-small>
 
 ## Improve this page
 
@@ -181,17 +199,83 @@ You can make this guide on how to organize a campaign better!
     
 -   Many people are looking up information about campaigning in the context of online campaigning or marketing campaigns. Those topics do not fit in this article. However, your could create a guide on marketing campaigns in our communication chapter.
     
+-   Most of the external resources are about campaign _strategy_. Make sure that guides that are only about strategy are moved to our strategy chapter.
+    
 
 ### **Search keywords**
 
-<table><tbody><tr><th><p>Keywords</p></th><th><p>Monthly global searches</p></th><th><p>Relevancy</p></th></tr><tr><td><p>organise campaign</p></td><td><p>40</p></td><td><p>High</p></td></tr><tr><td><p>organise a campaign</p></td><td><p>30</p></td><td><p>High</p></td></tr><tr><td><p>how to organise a campaign</p></td><td><p>30</p></td><td><p></p></td></tr><tr><td><p>objectives of advocacy campaigns</p></td><td><p>30</p></td><td><p>high</p></td></tr><tr><td><p>awareness campaign</p></td><td><p>7.2K</p></td><td><p>low</p></td></tr><tr><td><p>online advocacy campaign</p></td><td><p>110</p></td><td><p>medium</p></td></tr></tbody></table>
+<table><tbody><tr><th><p>Keywords</p></th><th><p>Monthly searches</p></th><th><p>Relevancy</p></th></tr><tr><td><p>organise campaign</p></td><td><p>40</p></td><td><p>high</p></td></tr><tr><td><p>organise a campaign</p></td><td><p>30</p></td><td><p>high</p></td></tr><tr><td><p>how to organise a campaign</p></td><td><p>30</p></td><td><p>high</p></td></tr><tr><td><p>objectives of advocacy campaigns</p></td><td><p>30</p></td><td><p>high</p></td></tr><tr><td><p>awareness campaign</p></td><td><p>7.2K</p></td><td><p>low</p></td></tr><tr><td><p>online advocacy campaign</p></td><td><p>110</p></td><td><p>medium</p></td></tr></tbody></table>
 
 ## External resources
 
--   [Book: How to Win Campaigns, Communications for Change](https://www.routledge.com/How-to-Win-Campaigns-Communications-for-Change/Rose/p/book/9781849711142#) by Chris Rose
+### Reusable resources
+
+#### High quality **🤩**
+
+-   **Campaign strategy workshop**  
+    [Guide: Campaign Planning, How To Get Started](https://commonslibrary.org/campaign-planning-how-to-get-started/) by Anna Collins Nham and Campaign Bootcamp
     
--   [Article: Campaigning for Social Change- Beyond Just Protesting For It](https://commonslibrary.org/campaigning-for-social-change-beyond-just-protesting-for-it/) by Daniel Hunter
+-   **Extensive & elaborate guide**  
+    [Getting an Advocacy Campaign Off the Ground](https://ctb.ku.edu/en/table-of-contents/advocacy/advocacy-principles/overview/main?utm_source=activisthandbook.org) by Community Tool Box
     
--   [Article: Campaign Planning: How To Get Started](https://commonslibrary.org/campaign-planning-how-to-get-started/) by Anna Collins Nham and Campaign Bootcamp
+-   **Campaign planning template**  
+    [Planning Template, The Campaign Canvas](https://commonslibrary.org/the-campaign-canvas/) by Mobilization Labs
     
--   [Planning Template: The Campaign Canvas](https://commonslibrary.org/the-campaign-canvas/) by Mobilization Labs
+
+### Copyright resources
+
+#### High quality 🤩
+
+-   **Perspective Global South**  
+    [PDF: Planning an Advocacy Campaign](https://www.lac.org.na/projects/grap/Pdf/Advocacy1_Planning_an_Advocacy_Campaign.pdf?utm_source=activisthandbook.org) by MyDemocracyTree Namibia
+    
+-   **Extensive read**  
+    [Book: How to Win Campaigns, Communications for Change](https://www.routledge.com/How-to-Win-Campaigns-Communications-for-Change/Rose/p/book/9781849711142#) by Chris Rose
+    
+-   **Global feminist perspective & practical workshops**  
+    [PDF: Developing Effective Advocacy Campaigns](https://learningpartnership.org/sites/default/files/resources/pdfs/Guide_DevelopingEffectiveAdvocacyCampaigns.pdf?utm_source=activisthandbook.org) by Nancy Flowers Rakhee Goyal
+    
+-   **Campaign planning template**  
+    [PDF: Advocacy Campaign Planning](https://www.commongroundconsulting.org/wp-content/uploads/2020/02/CG-Advocacy-Campaign-Planning-Toolkit-1.pdf?utm_source=activisthandbook.org) by Common Ground
+    
+-   **Practical & easy to understand**  
+    [PDF: Making a Plan to Win, How to Run an Advocacy Campaign](https://autisticadvocacy.org/wp-content/uploads/2019/05/PADSA-How-To-Run-An-Advocacy-Campaign.pdf?utm_source=activisthandbook.org)
+    
+-   **Easy to understand advocacy strategy**  
+    [7-Step Advocacy Plan](https://www.ywca.org.au/news/7-step-advocacy-plan/?utm_source=activisthandbook.org) by YWCA
+    
+-   **Perspective Global South**  
+    [Planning an advocacy strategy](https://www.nohep.org/news-resources/planning-your-advocacy-strategy/?utm_source=activisthandbook.org) by NoHep
+    
+-   **Elaborate advocacy guide**  
+    [Collection: Making Research Evidence Matter, A Guide to Policy Advocacy in Transition Countries](https://advocacyguide.icpolicyadvocacy.org/?utm_source=activisthandbook.org) by Young, Eóin and Lisa Quinn (2012)
+    
+
+#### OK quality **🤔**
+
+-   **Experienced campaigner, but US focus**  
+    [Guide: Campaigning for Social Change- Beyond Just Protesting For It](https://commonslibrary.org/campaigning-for-social-change-beyond-just-protesting-for-it/) by Daniel Hunter
+    
+-   **Elaborate, but difficult language used**  
+    [13 Strategies for your Advocacy Campaign](https://www.civilsocietyacademy.org/post/13-strategies-for-your-advocacy-campaign-part-1?utm_source=activisthandbook.org) by Sohini Paul, Civil Society Academy
+    
+
+#### Meh quality 🫤
+
+-   [10 advocacy strategies for your organization’s next campaign](https://www.bonterratech.com/blog/advocacy-strategies?utm_source=activisthandbook.org) by Bonterra (2022)
+    
+-   [Advocacy Planning, Your 10-Step Plan](https://www.socialstudies.org/advocacy/advocacy-planning-your-10-step-plan-0?utm_source=activisthandbook.org) by National Council for the Social Studies
+    
+-   [How to write a campaign advocacy plan](https://www.cyclinguk.org/article/how-write-campaign-advocacy-plan?utm_source=activisthandbook.org) by Cycling UK
+    
+-   [Advocacy key steps](https://www.youthdoit.org/themes/advocacy/key-steps/?utm_source=activisthandbook.org) by YouthDoIt
+    
+-   [How to Build a Nonprofit Advocacy Campaign, Tips & Examples](https://www.quorum.us/blog/build-nonprofit-advocacy-campaign/?utm_source=activisthandbook.org) by Quorum
+    
+-   [Strategic Planning Tools for Successful Advocacy](https://prosperitynow.org/strategic-planning-tools-successful-advocacy?utm_source=activisthandbook.org) by ProsperityNow
+    
+-   [Advocacy Plan, Where do I begin](https://www.thecampaignworkshop.com/blog/advocacy-campaign/advocacy-plan?utm_source=activisthandbook.org) by Joe Fuld (2023)
+    
+-   [4 Quick Tips to Remember When Planning an Advocacy Campaign](https://topnonprofits.com/4-quick-tips-to-remember-when-planning-an-advocacy-campaign/?utm_source=activisthandbook.org) by TopNonprofits
+    
+-   [13 Advocacy Strategies for Running a Successful Campaign](https://info.votervoice.net/resources/13-advocacy-strategies-for-running-a-successful-campaign?utm_source=activisthandbook.org) by VoterVoice

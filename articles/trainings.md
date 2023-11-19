@@ -6,9 +6,9 @@ description: >
 langCode: en
 articleID: YUfVGkwMxm05zjEjl7vPQ9gPpUCItupH
 languageCollectionID: vijKrgNARghr6p534ZbiZ1HWioKFbDgl
-updatedTimestamp: 1699193997689
+updatedTimestamp: 1700383499666
 createdTimestamp: 1587834484219
-wordCount: 2899
+wordCount: 2917
 tags: ["training"]
 ---
 
@@ -92,6 +92,8 @@ The following organisations have trainers in several countries:
     
 -   [**Leading Change Network**](https://leadingchangenetwork.org/our-programs/) ([Twitter](https://twitter.com/LeadingChangeNt?utm_source=activisthandbook.org)): We're a global community working for local and systemic change. We exist to develop civic leadership, organizations and campaigns to change the world.
     
+-   [**Civil Society Academy**](https://www.civilsocietyacademy.org/impact-training?utm_source=activisthandbook.org): Based in Germany, Ethiopia and India, a network driven by a passion for social justice.
+    
 
 ### Europe 🇪🇺
 
@@ -166,7 +168,7 @@ International training organisations with a focus on Europe:
     
 -   [**Becker Digital Strategies**](https://beckerdigitaltraining.com/about-us/?utm_source=activisthandbook.org): "Digital training firm that offers one on one coaching and conducts digital trainings across the globe on how to use digital tools like social media to engage with communities of committed activists to build and leverage political power. Our trainees include people from all over the Progressive Movement from legislative staff to labor organizers and non profits and activists."
     
--   [**The Campaign Workshop**](https://tcwadvocacy.com/?utm_source=activisthandbook.org) ([Twitter](https://twitter.com/cmpwrkshp?utm_source=activisthandbook.org)): "Our advocacy training is a complete guide to the ins and outs of effective advocacy. We use real-world examples and experienced trainers. This intensive, two-day course covers a range of topics such as defining your goals, fundraising, building a digital presence, and much more!"
+-   [**The Campaign Workshop**](https://www.thecampaignworkshop.com/what-we-do/advocacy-trainings?utm_source=activisthandbook.org) ([Twitter](https://twitter.com/cmpwrkshp?utm_source=activisthandbook.org)): "Our advocacy training is a complete guide to the ins and outs of effective advocacy. We use real-world examples and experienced trainers. This intensive, two-day course covers a range of topics such as defining your goals, fundraising, building a digital presence, and much more!"
     
 -   [**Bully Pulpit Interactive**](https://www.bpimedia.com/?utm_source=activisthandbook.org) ([Twitter](https://twitter.com/BPIMedia?utm_source=activisthandbook.org)): A questionable agency in this list. Large nonprofits and political parties have worked together with them, but so did Goldman Sachs and McDonalds. If you can, work together with an organisation that has a better moral compass.
     
