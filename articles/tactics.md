@@ -6,7 +6,7 @@ description: >
 langCode: en
 articleID: dqIEdknV4hO7Eqa1OZNQWeeF1D-KptVM
 languageCollectionID: WeIM7eSP9ovc2D_rh7HpCq26GW7AQRV-
-updatedTimestamp: 1700318545470
+updatedTimestamp: 1700385114853
 createdTimestamp: 1594650737037
 wordCount: 1667
 tags: []
@@ -26,17 +26,17 @@ Before picking your protest tactic, you first need to decide what type of activi
     
 -   **🛠** [**Alternative building**](/tactics/alternative-building): envisioning a different future, for example by building community gardens, introducing alternative local currencies, and constructing off-grid homes - alse called constructive program.
     
--   **🎨** [**Cultural activism (artivism)**](/tactics/artivism): using creativity to draw attention to your cause, for example using theatre, music and brandalism.
+-   **🎨 Cultural activism (artivism)**: using creativity to draw attention to your cause, for example using theatre, music and brandalism.
     
--   **💻** [**Digital activism**](/tactics/digital-activism): making use of online platforms or using hacktivism to disrupt the digital world to make a point.
+-   **💻 Digital activism**: making use of online platforms or using hacktivism to disrupt the digital world to make a point.
     
--   **💬** [**Raising awareness**](/tactics/raising-awareness): Educating the public about the issues and solutions, for example using speeches, petitions, slogans, symbols and media campaigns.
+-   **💬 Raising awareness**: Educating the public about the issues and solutions, for example using speeches, petitions, slogans, symbols and media campaigns.
     
--   **🗳** [**Political activism**](/tactics/political-activism): acting within established political institutions to create change through policy, for example by running for office or organising succesful election campaigns.
+-   **🗳 Political activism**: acting within established political institutions to create change through policy, for example by running for office or organising succesful election campaigns.
     
--   **⚖️** [**Legal activism**](/tactics/legal-activism): forcing change by applying existing laws, for example through climate litigation (suing companies and governments based on environmental and human-right laws) .
+-   **⚖️ Legal activism**: forcing change by applying existing laws, for example through climate litigation (suing companies and governments based on environmental and human-right laws) .
     
--   **🤑** [**Financial activism**](/tactics/finanical-activism): using monetary pressure to create change, for example through boycotts or shareholder activism
+-   **🤑 Financial activism**: using monetary pressure to create change, for example through boycotts or shareholder activism
     
 
 ## Action toolbox

@@ -6,15 +6,17 @@ description: >
 langCode: en
 articleID: JtSFhpVrFe-abxXDXckXLEK6ZW2oABiT
 languageCollectionID: XMG01S8u1emdjY5flCBKcnVheCzPj0b9
-updatedTimestamp: 1688352533483
+updatedTimestamp: 1700385389306
 createdTimestamp: 1598874008704
-wordCount: 375
+wordCount: 379
 tags: []
 ---
 
+> **Article quality:** ⭐️ (1/5)
+
 ## Articles
 
--   🏳️‍🌈 [LGBTQIA+ inclusion](/wellbeing/lgbtqia_inclusion)
+-   🏳️‍🌈 [LGBTQIA+ inclusion](/wellbeing/lgbtqia-inclusion)
     
 
 ## **Improve this page**

@@ -6,15 +6,15 @@ description: >
 langCode: en
 articleID: AzUw-scgHRIrvTDTNoqdAK2XPFzRzz9D
 languageCollectionID: svLkaERWeqCNWd05RnNfVSNM44xO-cBn
-updatedTimestamp: 1679313644139
+updatedTimestamp: 1700385233511
 createdTimestamp: 1663877233897
-wordCount: 443
+wordCount: 421
 tags: []
 ---
 
 **The maternal mortality rate per year is considered to be around 23.8deaths per 100,000 live births. This can be avoided if we as activists could help in advocating for better maternal health care through various resources. This article will be a guide of how we as activists can help in improving maternal health thus reducing the maternal mortality rate.**
 
-> This article was written bij [Rebel Hub SRHR](https://www.instagram.com/__wanjikumwangi/?igshid=YmMyMTA2M2Y%3D) during “[The Interrnational Rebel Assembly](/rebelassembly/hub)”.
+> **Article quality:** ⭐️ (1/5)
 
 #### WAYS OF ADVOCATING FOR BETTER MATERNAL HEALTH
 
@@ -48,19 +48,11 @@ As activists we can search for sponsorships who are willing to invest on materna
 -   Adding example of articles written to enable the activists to have a guideline of how to write an article.
     
 
-## Related articles
-
-Related articles on the Activist Handbook website:
-
--   [Title of article A](/home/)
-    
--   [Title of article B](/home/)
-    
--   …
-    
-
 ## External resources
 
-External resources like guides, books, videos:
+-   Book: Improving maternal health through social accountability by C Campbell(2013)
+    
 
--   Book :Improving maternal health through social accountability [Titlte by Author (Year)](/support/content/reference): C Campbell(2013)
+## Attribution
+
+This article was written bij [Rebel Hub SRHR](https://www.instagram.com/__wanjikumwangi/?igshid=YmMyMTA2M2Y%3D) during “[The Interrnational Rebel Assembly](/rebelassembly/hub)”.

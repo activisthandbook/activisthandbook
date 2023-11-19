@@ -6,9 +6,9 @@ description: >
 langCode: en
 articleID: ItlwwJfYopwgV4ZEnH653rUc1JbQ2GJj
 languageCollectionID: l8XZ2W25XNow2B1wFBSVg7-4T2S1LBn3
-updatedTimestamp: 1699193859170
+updatedTimestamp: 1700385291879
 createdTimestamp: 1583509148168
-wordCount: 1479
+wordCount: 1529
 tags: ["wellbeing","chapters"]
 ---
 
@@ -30,9 +30,9 @@ Articles about wellbeing practices that you can implement as a group:
 
 -   **👉** [**Basics of group wellbeing**](/wellbeing/group)
     
--   **✋** [**Sexual harassment inside your group**](/wellbeing/sexual_harassement)
+-   **✋** [**Sexual harassment inside your group**](/wellbeing/sexual-harassement)
     
--   🏳️‍🌈 [**Health marginalised activists**](/wellbeing/lgbtqia_inclusion)
+-   🏳️‍🌈 [**Health marginalised activists**](/wellbeing/lgbtqia-inclusion)
     
 
 <dynamic-image imageid="a014428f-d59c-4369-ca5e-d74bbf80d100" alt="Three goats taking care of each other"><p>Together, we are more resilient, by <a target="_blank" href="https://edit.activisthandbook.org/author/tzmE91SnnrbJJXuvQNBl9rt6HK63">Joppe</a> | Generated using Dall-e</p></dynamic-image>
@@ -98,6 +98,10 @@ This chapter is meant as a guide on how to safeguard the wellbeing of activists.
 Many activists struggle with their mental and physical health, or see how the wellbeing of fellow change-makers is affected by activism. You might experience stress because you feel your contributions do not create any significant change. You might feel disappointed with yourself for not doing enough, or you feel helpless because others are not doing enough. You might fear being infiltrated by police or oppositional activists groups, and are not sure anymore who to trust.
 
 This chapter is about acknowledging those difficulties and providing help for those who need it. In addition, we will talk about how to prevent mental and physical health issues. As so well put by Håkan Geijer: “Be gentle with each other so we can be dangerous together.”
+
+## Case studies
+
+> **This section still needs to be written!** What case studies can you provide of real-life good and bad examples of activists taking care of themselves and others, and also more profoundly developing regenerative, supportive cultures in activist groups and movements? This can include good examples of conflict resolution.
 
 ## Improve this page
 
