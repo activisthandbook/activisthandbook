@@ -6,9 +6,9 @@ description: >
 langCode: en
 articleID: 1klKzE-SRt1neRdmh8ZSlLmI7-9scxxN
 languageCollectionID: 1rusRm6zp4Z-ZLQrE1rJHkEnATM7Rafp
-updatedTimestamp: 1681485978501
+updatedTimestamp: 1700389932292
 createdTimestamp: 1650719261892
-wordCount: 125
+wordCount: 131
 tags: []
 ---
 
@@ -41,4 +41,4 @@ Ready to learn more?
     
 -   🤖 [**Using ChatGPT**](/contribute/write/ai)**:** Learn how to use AI to write better guides.
     
--   **✔️** [Content requirements](/support/writers/requirements) (needs to be updated!)
+-   **✔️** [**Content guidelines**](/contribute/write/content-guidelines): Learn what kind of content to write for Activist Handbook
