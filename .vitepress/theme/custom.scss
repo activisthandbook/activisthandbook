@@ -1,9 +1,10 @@
 /* FONTS */
-body{
-    font-weight: 400 !important;
+body {
+  font-weight: 400;
 }
-.VPButton{
-    font-weight: 700 !important;
+
+.VPButton {
+  font-weight: 700 !important;
 }
 
 
@@ -11,119 +12,149 @@ body{
 .VPLocalNav {
   display: none !important
 }
-.VPNavBarTitle{
-    display: flex;
-    align-items: center;
-}
-.VPNav .title{
-    font-family: var(--vp-font-family-headings);
-    display: flex;
-    padding: 4px 8px;
-    background-color: var(--vp-c-bg-alt);
-    // color: var(--vp-c-white);
-    width: auto;
-    height: auto;
+
+.VPNavBarTitle {
+  display: flex;
+  align-items: center;
 }
 
-body:not(.hasHover) .title:hover{
+.VPNav .title {
+  font-family: var(--vp-font-family-headings);
+  font-weight: bold;
+  display: flex;
+  padding: 4px 8px;
+  background-color: var(--vp-c-bg-alt);
+  // color: var(--vp-c-white);
+  width: auto;
+  height: auto;
+}
+
+body:not(.hasHover) .title:hover {
   opacity: 1;
 }
 
-.VPNavBarTitle, .VPNavBar .content, .VPNavBar{
-    border-bottom: none !important;
+.VPNavBarTitle,
+.VPNavBar .content,
+.VPNavBar {
+  border-bottom: none !important;
 
 }
-.VPNavBarTitle{
-    background: none!important;
+
+.VPNavBarTitle {
+  background: none !important;
 }
-.VPNavBar .content, .VPNav.no-sidebar{
-    background-color: var(--vp-c-bg) !important;
+
+.VPNavBar .content,
+.VPNav.no-sidebar {
+  background-color: var(--vp-c-bg) !important;
 }
 
 .menu {
   right: auto !important;
+
   .VPMenu {
-      border-radius: 2px !important;
-      border: none !important;
-      padding: 16px 20px !important;
-      margin-top: 8px;
+    border-radius: 2px !important;
+    border: none !important;
+    padding: 16px 20px !important;
+    margin-top: 8px;
 
-      .VPLink {
-        padding: 8px 12px;
-        border-radius: 2px;
-        font-size: 20px;
-      }
+    .VPLink {
+      padding: 8px 12px;
+      border-radius: 2px;
+      font-size: 20px;
     }
+  }
 }
 
-.VPNavBarMenu, .focus-VPNavBarMenu{
-    margin-right: 16px;
+.VPNavBarMenu,
+.focus-VPNavBarMenu {
+  margin-right: 16px;
 
-    @media (min-width: 768px) {
-        align-items: center;
-    }
-    .text, .VPLink{
-        font-family: var(--vp-font-family-headings);
-        font-weight: 700;
-    }
-    .VPNavBarMenuLink{
-        line-height: 2.5;
-        padding: 0 16px;
-        margin-left: 8px
-    }
-    .VPNavBarMenuLink:last-of-type{
-        background-color: var(--vp-c-secondary);
-        color: var(--vp-c-white);
-        border-radius: 1px;
-        transition: .1s transform;
-        cursor: pointer;
+  @media (min-width: 768px) {
+    align-items: center;
+  }
 
-        &:hover{
-            transform: scale(1.05)
-        }
-        &:active {
-            transform: scale(1);
-            opacity: 0.8;
-        }
+  .text,
+  .VPLink {
+    font-family: var(--vp-font-family-headings);
+    font-weight: bold;
+  }
+
+  .VPNavBarMenuLink {
+    line-height: 2.5;
+    padding: 0 16px;
+    margin-left: 8px
+  }
+
+  .VPNavBarMenuLink:last-of-type {
+    background-color: var(--vp-c-secondary);
+    color: var(--vp-c-white);
+    border-radius: 1px;
+    transition: .1s transform;
+    cursor: pointer;
+
+    &:hover {
+      transform: scale(1.05)
     }
+
+    &:active {
+      transform: scale(1);
+      opacity: 0.8;
+    }
+  }
 }
-.focus-mode .VPNavBar  {
-  .VPNavBarMenu:not(.focus-menu), .search, .VPNavBarHamburger{
+
+.focus-mode .VPNavBar {
+
+  .VPNavBarMenu:not(.focus-menu),
+  .search,
+  .VPNavBarHamburger {
     display: none;
   }
-  .VPNavBarMenu{
+
+  .VPNavBarMenu {
     margin: 18.5px;
   }
 
 }
-.VPNavBarExtra, .VPNavBarAppearance, .VPNavScreenAppearance{
-    display: none !important;
+
+.VPNavBarExtra,
+.VPNavBarAppearance,
+.VPNavScreenAppearance {
+  display: none !important;
 }
 
-.VPNavScreen{
-  .VPNavScreenMenuLink, .VPNavScreenMenuGroup {
+.VPNavScreen {
+
+  .VPNavScreenMenuLink,
+  .VPNavScreenMenuGroup {
     margin: 8px 0 24px 0;
     // padding: 8px 0;
     height: 52px;
     border-bottom: none;
     font-family: var(--vp-font-family-headings);
-    font-weight: 700;
+    font-weight: bold;
 
   }
-  .VPNavScreenMenuLink, .VPNavScreenMenuGroup .button{
+
+  .VPNavScreenMenuLink,
+  .VPNavScreenMenuGroup .button {
     font-size: 22px;
   }
-  .VPNavScreenMenuGroup .items{
+
+  .VPNavScreenMenuGroup .items {
     margin-top: 16px;
-    .VPNavScreenMenuGroupLink{
+
+    .VPNavScreenMenuGroupLink {
       font-size: 20px;
       line-height: 2;
     }
 
   }
-  .VPNavScreenMenuLink:last-child{
+
+  .VPNavScreenMenuLink:last-child {
     background-color: var(--vp-c-secondary);
-    color:var(--vp-c-white);
+    color: var(--vp-c-white);
     display: flex;
     align-items: center;
     justify-content: center;
@@ -131,108 +162,121 @@ body:not(.hasHover) .title:hover{
 }
 
 // SIDEBAR
-.VPSidebar{
-    padding-bottom: 32px!important;
-    border-right:1px solid rgba(0,0,0,.2)
+.VPSidebar {
+  padding-bottom: 32px !important;
+  border-right: 1px solid rgba(0, 0, 0, .2)
 }
-.VPSidebarGroup{
-    .title-text, .link-text{
-        padding: 4px 8px
-    }
-    .title-text{
-        font-family: var(--vp-font-family-base) !important;
-        font-weight: 400 !important;
-    }
-    .link-text {
-        color: var(--vp-c-text-1);
-        font-family: var(--vp-font-family-headings);
-        font-weight: 700;
-        font-size:20px !important;
-        line-height: 32px!important;
-    }
-    .VPLink.active .link-text, .VPLink:hover .link-text{
-        background-color: var(--vp-c-secondary);
-        color: var(--vp-c-white);
-        border-radius: 1px;
-        // background-color: var(--vp-c-text-1);
-            // color: var(--vp-c-bg);
 
-    }
-    // .VPLink.active,
-    // .VPLink:hover {
-    //     border-left:px solid var(--vp-c-brand);
+.VPSidebarGroup {
 
-    // }
+  .title-text,
+  .link-text {
+    padding: 4px 8px
+  }
+
+  .title-text {
+    font-family: var(--vp-font-family-base) !important;
+    font-weight: 400 !important;
+  }
+
+  .link-text {
+    color: var(--vp-c-text-1);
+    font-family: var(--vp-font-family-headings);
+    font-weight: bold;
+    font-size: 20px !important;
+    line-height: 32px !important;
+  }
+
+  .VPLink.active .link-text,
+  .VPLink:hover .link-text {
+    background-color: var(--vp-c-secondary);
+    color: var(--vp-c-white);
+    border-radius: 1px;
+    // background-color: var(--vp-c-text-1);
+    // color: var(--vp-c-bg);
+
+  }
+
+  // .VPLink.active,
+  // .VPLink:hover {
+  //     border-left:px solid var(--vp-c-brand);
+
+  // }
 
 }
 
 
 // HOMEPAGE
 
-.VPHomeHero{
-    .name, .text {
-        font-family: var(--vp-font-family-headings);
-        // line-height: 64px;
-            // font-size: 64px;
-    }
-    .name{
-        font-size: calc(24px + 1vw);
-    }
-    .text{
-        margin: 12px 0;
-        font-size: calc(38px + 1vw);
-        line-height: 1;
-    }
+.VPHomeHero {
 
-    // .VPButton.medium{
-    //     font-family: var(--vp-font-family-headings);
-    //     border-radius: 32px;
-    //     padding: 0 32px;
-    //     line-height: 48px;
-    //     font-size: 24px;
+  .name,
+  .text {
+    font-family: var(--vp-font-family-headings);
+    font-weight: bold;
+    // line-height: 64px;
+    // font-size: 64px;
+  }
 
-    // }
+  .name {
+    font-size: calc(24px + 1vw);
+  }
+
+  .text {
+    margin: 12px 0;
+    font-size: calc(38px + 1vw);
+    line-height: 1;
+  }
+
+  // .VPButton.medium{
+  //     font-family: var(--vp-font-family-headings);
+  //     border-radius: 32px;
+  //     padding: 0 32px;
+  //     line-height: 48px;
+  //     font-size: 24px;
+
+  // }
 
 }
 
 
 @media (min-width: 768px) {
-    .VPNavBar {
-        padding: 0 8px 0 32px !important;
-    }
+  .VPNavBar {
+    padding: 0 8px 0 32px !important;
+  }
 }
 
 
 @media only screen and (max-width: 600px) {
-    .VPNavBar {
-        padding: 0 0 0 12px !important;
-    }
+  .VPNavBar {
+    padding: 0 0 0 12px !important;
+  }
 
-    .VPDoc {
-        padding: 8px 12px 12px 12px !important;
-    }
+  .VPDoc {
+    padding: 8px 12px 12px 12px !important;
+  }
 
 }
 
-.VPDoc > .container > .content{
+.VPDoc>.container>.content {
   padding: 0 !important;
 }
 
-.VPDocFooter{
+.VPDocFooter {
   display: none
 }
 
 
 
 // HOME
-.VPHero{
+.VPHero {
 
   @media (max-width: 960px) {
     padding: calc(var(--vp-nav-height) + 24px) 24px 48px !important;
   }
 
   @media (min-height:750px) and (min-width: 960px) {
-    .container{
+    .container {
       padding: 52px 0;
     }
   }
@@ -241,59 +285,64 @@ body:not(.hasHover) .title:hover{
     margin: -76px -24px -48px !important;
   }
 
-  .tagline{
+  .tagline {
     color: #333;
   }
 
-  .VPButton{
+  .VPButton {
     font-family: var(--vp-font-family-headings);
+    font-weight: bold;
     font-size: calc(15px + 0.7vw) !important;
     border-radius: 2px !important;
     padding: calc(0.6vw) calc(12px + 2vw) !important;
     transition: .1s transform;
 
-    &.alt{
-      color:var(--vp-c-brand) !important;
-      border-color:var(--vp-c-bg-alt) !important;
+    &.alt {
+      color: var(--vp-c-brand) !important;
+      border-color: var(--vp-c-bg-alt) !important;
     }
 
-    &:hover{
+    &:hover {
       transform: translateY(-2px);
     }
 
-    &:active{
+    &:active {
       transform: scale(0.99);
     }
   }
 }
 
-.VPFeatures{
+.VPFeatures {
   margin-bottom: calc(32px + 3vw);
+
   .VPFeature {
-      border-radius: 2px;
-    }
+    border-radius: 2px;
+  }
 
   @media (min-width: 640px) {
-      padding: 0 24px !important;
+    padding: 0 24px !important;
   }
+
   .icon {
-      font-size: 32px !important;
-      width: 52px;
-      height: 52px;
-      border-radius: 2px;
-    }
+    font-size: 32px !important;
+    width: 52px;
+    height: 52px;
+    border-radius: 2px;
+  }
+
   .title {
     font-size: 22px;
     // line-height: 1.5;
-    font-family: var(--vp-font-family-headings)
+    font-family: var(--vp-font-family-headings);
+    font-weight: bold;
   }
+
   .details {
     color: #333 !important;
   }
 }
 
-.primary-action{
+.primary-action {
   scroll-margin-top: 72px;
   outline: none;
 }
-

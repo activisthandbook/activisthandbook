@@ -667,6 +667,11 @@ sass@^1.53.0:
     immutable "^4.0.0"
     source-map-js ">=0.6.2 <2.0.0"
 
+search-insights@^2.4.0:
+  version "2.4.0"
+  resolved "https://registry.yarnpkg.com/search-insights/-/search-insights-2.4.0.tgz#7b6b19527dd186b459f6e2dd7e01f7a3de96ffe7"
+  integrity sha512-AqXxWFEIZTfOf0brQLvoAZcotrVX0xR/VoPCzBxsTZF/yO+izIH1eFCtKizR/dGI8NCMOTdc7l90hAOI68dBbg==
+
 shiki@^0.11.1:
   version "0.11.1"
   resolved "https://registry.yarnpkg.com/shiki/-/shiki-0.11.1.tgz#df0f719e7ab592c484d8b73ec10e215a503ab8cc"

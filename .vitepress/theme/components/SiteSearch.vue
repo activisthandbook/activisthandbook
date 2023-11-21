@@ -8,11 +8,20 @@ const router = useRouter();
 
 import algoliasearch from "algoliasearch/lite";
 
+import aa from "search-insights"
+
 // Connect and authenticate with your Algolia app
+const appID = "7G6S9ZTMJU"
+const apiKey = "78fc4828e167a2e0b19a4b7d3295e1d7"
 const client = algoliasearch(
-  "7G6S9ZTMJU", // Application ID
-  "78fc4828e167a2e0b19a4b7d3295e1d7" // Public search-only api key
+  appID, // Application ID
+  apiKey // Public search-only api key
 );
+
+aa('init', {
+  appId: appID,
+  apiKey: apiKey,
+});
 
 // Create a new index and add a record
 const articlesSearchIndex = client.initIndex("activisthandbook_articles");
@@ -26,9 +35,24 @@ const state = reactive({
   // cashedSearchResults: {},
   selectedResult: 0,
   noResults: false,
+  queryID: null
 });
 
 const search = ref(null);
+
+// Analytics
+function generateRandomString(length) {
+  var result = '';
+  var characters = 'ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789-_';
+  var charactersLength = characters.length;
+  for (var i = 0; i < length; i++) {
+    result += characters.charAt(Math.floor(Math.random() * charactersLength));
+  }
+  return result;
+}
+
+const userToken = generateRandomString(32);
+
 
 async function openSearchDialog() {
   state.showSearchDialog = true;
@@ -40,20 +64,26 @@ function closeSearchDialog() {
   state.searchQuery = null;
   state.searchResults = null;
   state.noResults = false;
+
 }
 function searchArticles() {
   // Search the index and print the results
   state.noResults = false;
 
-  if(state.searchQuery){
+  if (state.searchQuery) {
     // if (state.cashedSearchResults[state.searchQuery]) {
     //   state.searchResults = state.cashedSearchResults[state.searchQuery].hits;
     //   state.noResults = state.cashedSearchResults[state.searchQuery].noResults;
     // } else {
-    articlesSearchIndex.search(state.searchQuery).then(({ hits }) => {
+    articlesSearchIndex.search(state.searchQuery, {
+      userToken: userToken,
+      clickAnalytics: true
+    }).then(({ hits, queryID }) => {
       state.searchResults = hits;
+      state.queryID = queryID;
       // state.cashedSearchResults[state.searchQuery] = {};
       // state.cashedSearchResults[state.searchQuery].hits = hits;
+      dataLayer.push({ event: 'Hits Viewed' });
 
       if (!hits[0]) {
         state.noResults = true;
@@ -101,95 +131,79 @@ const throttledSearch = throttle(
 function goToArticle(publishedFullPath) {
   search.value.blur();
   router.go('/' + publishedFullPath);
+
+
+  // Analytics
+  let objectIDs = []
+  let positions = []
+  for (let index = 0; index < state.searchResults.length; index++) {
+    objectIDs.push(state.searchResults[index].objectIDs)
+    positions.push(index + 1)
+  }
+  aa('clickedObjectIDsAfterSearch', {
+    index: 'activisthandbook_articles',
+    eventName: 'Click item',
+    queryID: state.queryID,
+    objectIDs: objectIDs,
+    positions: positions,
+  });
+
   state.showSearchDialog = false;
   state.searchResults = null;
   state.noResults = false;
-  state.searchQuery = null
+  state.searchQuery = null;
 }
 </script>
 <template>
   <div class="search">
-    <span
-      class="search-button button"
-      @click="openSearchDialog()"
-      @keydown.enter="openSearchDialog()"
-      tabindex="0"
-    >
-      <svg
-        xmlns="http://www.w3.org/2000/svg"
-        width="26"
-        height="26"
-        preserveAspectRatio="xMidYMid meet"
-        viewBox="0 0 24 24"
-      >
-        <path
-          fill="currentColor"
-          d="M9.5 3A6.5 6.5 0 0 1 16 9.5c0 1.61-.59 3.09-1.56 4.23l.27.27h.79l5 5l-1.5 1.5l-5-5v-.79l-.27-.27A6.516 6.516 0 0 1 9.5 16A6.5 6.5 0 0 1 3 9.5A6.5 6.5 0 0 1 9.5 3m0 2C7 5 5 7 5 9.5S7 14 9.5 14S14 12 14 9.5S12 5 9.5 5Z"
-        />
+    <span class="search-button button" @click="openSearchDialog()" @keydown.enter="openSearchDialog()" tabindex="0">
+      <svg xmlns="http://www.w3.org/2000/svg" width="26" height="26" preserveAspectRatio="xMidYMid meet"
+        viewBox="0 0 24 24">
+        <path fill="currentColor"
+          d="M9.5 3A6.5 6.5 0 0 1 16 9.5c0 1.61-.59 3.09-1.56 4.23l.27.27h.79l5 5l-1.5 1.5l-5-5v-.79l-.27-.27A6.516 6.516 0 0 1 9.5 16A6.5 6.5 0 0 1 3 9.5A6.5 6.5 0 0 1 9.5 3m0 2C7 5 5 7 5 9.5S7 14 9.5 14S14 12 14 9.5S12 5 9.5 5Z" />
       </svg>
     </span>
 
     <div class="search-mobile" :class="{ show: state.showSearchDialog }">
       <div class="items-center">
         <div class="search-positioning">
-          <input
-            v-model="state.searchQuery"
-            placeholder="Search 450+ guides..."
-            ref="search"
-            @keydown.enter="handleEnter()"
-            @input="handleInput()"
-            @focus="$event.target.select()"
-          />
-          <div class="suggestions" v-if="!state.searchQuery">
+          <input v-model="state.searchQuery" placeholder="Search 450+ guides..." ref="search"
+            @keydown.enter="handleEnter()" @input="handleInput()" @focus="$event.target.select()" />
+          <div class="suggestions" v-show="!state.searchQuery">
             <div>
               <i>For example, look up how to <strong>organise protest</strong>,
-              <strong>manage social media</strong> or
-              <strong>prevent burnout</strong></i>
+                <strong>manage social media</strong> or
+                <strong>prevent burnout</strong></i>
             </div>
             <div class="impressive-numbers">
               450 guides | 4.7K external resources
             </div>
           </div>
-          <div class="results" v-else>
+          <div class="results" v-show="state.searchQuery" data-insights-index="activisthandbook_articles">
             <div v-if="!state.searchResults">
               <i>Hit enter to search.</i>
             </div>
             <div v-else-if="state.noResults">
               <i>Nothing found. Try using some different words.</i>
             </div>
-            <div
-              class="result"
-              v-for="(result, index) in state.searchResults"
-              :key="index"
-              @click="goToArticle(result.publishedFullPath)"
-              @keyup.enter="goToArticle(result.publishedFullPath)"
-              :class="{ selected: state.selectedResult === index }"
-              tabindex="0"
-            >
+            <div class="result" v-for="(result, index) in state.searchResults" :key="index"
+              @click="goToArticle(result.publishedFullPath)" @keyup.enter="goToArticle(result.publishedFullPath)"
+              :class="{ selected: state.selectedResult === index }" tabindex="0"
+              :data-insights-object-id="result.objectID" :data-insights-position="index + 1"
+              :data-insights-query-id="state.queryID">
               <div>
+
                 <strong>{{ result.title }}</strong>
                 <div>{{ result.description }}</div>
               </div>
             </div>
           </div>
         </div>
-        <span
-          class="close-button button"
-          @click="closeSearchDialog()"
-          @keydown.enter="closeSearchDialog()"
-          tabindex="0"
-        >
-          <svg
-            xmlns="http://www.w3.org/2000/svg"
-            width="26"
-            height="26"
-            preserveAspectRatio="xMidYMid meet"
-            viewBox="0 0 24 24"
-          >
-            <path
-              fill="currentColor"
-              d="M19 6.41L17.59 5L12 10.59L6.41 5L5 6.41L10.59 12L5 17.59L6.41 19L12 13.41L17.59 19L19 17.59L13.41 12L19 6.41Z"
-            />
+        <span class="close-button button" @click="closeSearchDialog()" @keydown.enter="closeSearchDialog()" tabindex="0">
+          <svg xmlns="http://www.w3.org/2000/svg" width="26" height="26" preserveAspectRatio="xMidYMid meet"
+            viewBox="0 0 24 24">
+            <path fill="currentColor"
+              d="M19 6.41L17.59 5L12 10.59L6.41 5L5 6.41L10.59 12L5 17.59L6.41 19L12 13.41L17.59 19L19 17.59L13.41 12L19 6.41Z" />
           </svg>
         </span>
       </div>
@@ -238,6 +252,7 @@ function goToArticle(publishedFullPath) {
 
   input {
     font-family: var(--vp-font-family-headings);
+    font-weight: bold;
     background-color: var(--vp-c-bg-alt);
     font-size: 16px;
     border: 2px solid rgba(0, 0, 0, 0.2);
@@ -250,12 +265,15 @@ function goToArticle(publishedFullPath) {
       color: black;
       opacity: 1;
     }
+
     &:hover {
       border-color: rgba(0, 0, 0, 0.5);
     }
+
     &:focus {
       border-color: var(--vp-c-secondary);
     }
+
     &:focus::placeholder {
       opacity: 0.5;
     }
@@ -272,22 +290,23 @@ function goToArticle(publishedFullPath) {
     background: var(--vp-c-bg);
     box-shadow: var(--vp-shadow-3);
   }
+
   .suggestions {
     display: none;
 
-    .impressive-numbers{
+    .impressive-numbers {
       margin-top: 8px;
       font-size: 12px;
       color: #555;
     }
   }
 
-  input:focus + .suggestions {
+  input:focus+.suggestions {
     display: block;
   }
 
   @media only screen and (min-width: 765px) and (max-width: 1030px),
-    (max-width: 570px) {
+  (max-width: 570px) {
     margin-right: 0 !important;
     flex-grow: 0 !important;
 
@@ -304,6 +323,7 @@ function goToArticle(publishedFullPath) {
       padding: 16px;
       background: var(--vp-c-white);
     }
+
     .search-mobile.show {
       display: block;
 
@@ -343,6 +363,7 @@ function goToArticle(publishedFullPath) {
         background: rgba(0, 0, 0, 0.1);
       }
     }
+
     &:has(.result:focus) .result.selected {
       background: none;
       color: black;

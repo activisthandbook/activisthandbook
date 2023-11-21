@@ -1,7 +1,7 @@
 <script setup>
 import DefaultTheme from "vitepress/theme";
 
-import {onMounted, ref, watch } from "vue"
+import { onMounted, ref, watch } from "vue"
 import { useRouter, useData } from "vitepress";
 const router = useRouter();
 const { frontmatter } = useData();
@@ -57,9 +57,9 @@ watch(
   },
   { deep: true }
 )
-function getLanguages(){
-  if(data.frontmatter.value.languageCollectionID) {
-  fetch("/languageCollections/" + data.frontmatter.value.languageCollectionID + ".json")
+function getLanguages() {
+  if (data.frontmatter.value.languageCollectionID) {
+    fetch("/languageCollections/" + data.frontmatter.value.languageCollectionID + ".json")
       .then((response) => response.json())
       .then((json) => {
         languageCollection.value = json
@@ -70,9 +70,9 @@ function getLanguages(){
 // DATA
 const { Layout } = DefaultTheme;
 
-function focusID(anchor){
+function focusID(anchor) {
   const elements = document.getElementsByClassName(anchor);
-  if(elements && elements[0]){
+  if (elements && elements[0]) {
     console.log(elements[0])
     elements[0].scrollIntoView({
       behavior: 'smooth'
@@ -81,7 +81,6 @@ function focusID(anchor){
 }
 </script>
 <template>
-
   <div :class="{ 'focus-mode': $frontmatter.focusMode?.isOn }">
     <Layout>
       <template #nav-bar-content-before>
@@ -90,17 +89,10 @@ function focusID(anchor){
         </ClientOnly>
       </template>
       <template #nav-bar-content-after>
-        <nav
-          aria-labelledby="main-nav-aria-label"
-          class="VPNavBarMenu menu focus-menu"
-          v-if="$frontmatter.focusMode?.isOn"
-        >
-          <a
-            class="VPLink link VPNavBarMenuLink"
-            @click="focusID($frontmatter.focusMode?.buttonAnchor)"
-            style="display: flex; font-size: 14px"
-            :href="$frontmatter.focusMode?.buttonLink"
-          >
+        <nav aria-labelledby="main-nav-aria-label" class="VPNavBarMenu menu focus-menu"
+          v-if="$frontmatter.focusMode?.isOn">
+          <a class="VPLink link VPNavBarMenuLink" @click="focusID($frontmatter.focusMode?.buttonAnchor)"
+            style="display: flex; font-size: 14px" :href="$frontmatter.focusMode?.buttonLink">
             {{ $frontmatter.focusMode?.buttonLabel }}
           </a>
         </nav>
@@ -112,17 +104,15 @@ function focusID(anchor){
         </div>
         <div class="hgroup">
           <ClientOnly>
-            <BreadCrumbs/>
+            <BreadCrumbs />
           </ClientOnly>
           <h1>{{ $frontmatter.title }}</h1>
 
           <div class="description">
             {{ $frontmatter.description }}
           </div>
-          <div
-            class="meta"
-            v-if="!$frontmatter.focusMode?.isOn && ($frontmatter.wordCount || $frontmatter.updatedTimestamp)"
-          >
+          <div class="meta"
+            v-if="!$frontmatter.focusMode?.isOn && ($frontmatter.wordCount || $frontmatter.updatedTimestamp)">
             <div class="reading-time" v-if="$frontmatter.wordCount">
               {{ 1 + Math.round($frontmatter.wordCount / 300) }} min read
             </div>
@@ -141,14 +131,13 @@ function focusID(anchor){
         <div class="languages" v-if="$frontmatter.languageCollectionID">
           Languages: <span v-if="languageCollection">
             <span v-for="(language, index) in languageCollection" :key="index">
-              <a :href="'/' + language.fullPublishedPath">{{language.localName}}</a>
+              <a :href="'/' + language.fullPublishedPath">{{ language.localName }}</a>
               <span v-if="languageCollection.length > 1 && languageCollection.length !== index + 1">, </span>
             </span> |
 
-          <a :href="
-              'https://edit.activisthandbook.org/translate/' +
+            <a :href="'https://edit.activisthandbook.org/translate/' +
               $frontmatter.languageCollectionID
-            " target="_blank"> Add translation </a></span>
+              " target="_blank"> Add translation </a></span>
         </div>
       </template>
       <template #doc-after>
@@ -168,21 +157,15 @@ function focusID(anchor){
         <ActionSmartLarge v-if="!$frontmatter.focusMode?.isOn" />
 
         <div v-if="!$frontmatter.focusMode?.isOn" class="licence">
-          <a
-              href="https://creativecommons.org/licenses/by-nc-sa/4.0/"
-              rel="license"
-              target="_blank"
-              ><img src="/by-nc-sa.svg" alt="Creative Commons Attribution-NonCommercial-ShareAlike logo" width="120" height="42" style="display:inline;margin-bottom:8px"/></a>
+          <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/" rel="license" target="_blank"><img
+              src="/by-nc-sa.svg" alt="Creative Commons Attribution-NonCommercial-ShareAlike logo" width="120" height="42"
+              style="display:inline;margin-bottom:8px" /></a>
           <div><strong>You can reuse this content!</strong></div>
           <div>
             Just make sure to give attribution to
             <a href="https://activisthandbook.org">Activist Handbook</a> and
-            <a
-              href="https://creativecommons.org/licenses/by-nc-sa/4.0/"
-              rel="license"
-              target="_blank"
-              >read our licence</a
-            >
+            <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/" rel="license" target="_blank">read our
+              licence</a>
             for the details. Want to use our logo? Read our
             <a href="/support/communication/design-guide">design guide</a>.
           </div>
@@ -193,9 +176,8 @@ function focusID(anchor){
           </div>
           <div class="actions">
             <a :href="'https://edit.activisthandbook.org/article/' +
-                $frontmatter.articleID">📝 Edit</a>
-            <a :href="
-              'https://edit.activisthandbook.org/translate/' +
+              $frontmatter.articleID">📝 Edit</a>
+            <a :href="'https://edit.activisthandbook.org/translate/' +
               $frontmatter.languageCollectionID" target="_blank">🌐 Add translation</a>
             <a href="https://edit.activisthandbook.org/new" target="_blank">➕ New article</a>
             <a href="https://edit.activisthandbook.org/authors" target="_blank">👋 Authors</a>
@@ -209,41 +191,25 @@ function focusID(anchor){
         <footer>
 
           <div v-if="!$frontmatter.focusMode?.isOn && $frontmatter.articleID">
-            <a
-              :href="
-                'https://edit.activisthandbook.org/article/' +
-                $frontmatter.articleID
-              "
-              class="edit-button"
-              aria-label="Edit article"
-            >
-              <svg
-                xmlns="http://www.w3.org/2000/svg"
-                aria-hidden="true"
-                role="img"
-                width="32"
-                height="32"
-                preserveAspectRatio="xMidYMid meet"
-                viewBox="0 0 24 24"
-              >
-                <path
-                  fill="currentColor"
-                  d="M20.71 7.04c.39-.39.39-1.04 0-1.41l-2.34-2.34c-.37-.39-1.02-.39-1.41 0l-1.84 1.83l3.75 3.75M3 17.25V21h3.75L17.81 9.93l-3.75-3.75L3 17.25Z"
-                />
+            <a :href="'https://edit.activisthandbook.org/article/' +
+              $frontmatter.articleID
+              " class="edit-button" aria-label="Edit article">
+              <svg xmlns="http://www.w3.org/2000/svg" aria-hidden="true" role="img" width="32" height="32"
+                preserveAspectRatio="xMidYMid meet" viewBox="0 0 24 24">
+                <path fill="currentColor"
+                  d="M20.71 7.04c.39-.39.39-1.04 0-1.41l-2.34-2.34c-.37-.39-1.02-.39-1.41 0l-1.84 1.83l3.75 3.75M3 17.25V21h3.75L17.81 9.93l-3.75-3.75L3 17.25Z" />
               </svg>
             </a>
-            <a class="edit-hint" :href="
-                'https://edit.activisthandbook.org/article/' +
-                $frontmatter.articleID
-              "
-              >Improve this page!</a>
+            <a class="edit-hint" :href="'https://edit.activisthandbook.org/article/' +
+              $frontmatter.articleID
+              ">Improve this page!</a>
           </div>
 
 
 
-          <ClientOnly>
-            <AnalyticsComponent />
-          </ClientOnly>
+
+          <AnalyticsComponent />
+
 
         </footer>
 
@@ -263,7 +229,7 @@ function focusID(anchor){
   border-radius: 2px;
   text-align: center;
 
-  span{
+  span {
     font-style: normal;
     display: inline-block;
     margin-right: 4px;
@@ -276,26 +242,29 @@ function focusID(anchor){
     border-bottom: 4px solid rgba(#D70057, 0.3);
 
     &:hover {
-        border-bottom-color: rgba(#D70057, 0.8);
-      }
+      border-bottom-color: rgba(#D70057, 0.8);
+    }
   }
 }
 
 @media (min-width: 960px) {
-  .has-sidebar + footer {
+  .has-sidebar+footer {
     margin-left: 300px;
   }
 }
+
 footer {
-  border-top:1px solid var(--vp-c-bg-alt);
+  border-top: 1px solid var(--vp-c-bg-alt);
   padding: 24px;
   text-align: center;
 
-  nav{
+  nav {
     margin-bottom: 8px;
     font-family: var(--vp-font-family-headings);
+    font-weight: bold;
   }
 }
+
 .licence {
   max-width: 688px;
   margin: 0 auto 32px auto;
@@ -319,19 +288,21 @@ footer {
     line-height: 1.5;
   }
 
-  .actions{
+  .actions {
     margin-top: 16px;
     font-size: 0.8rem;
-    a{
+
+    a {
       color: var(--vp-c-secondary);
-      font-family: var(--vp-font-family-headings) ;
+      font-family: var(--vp-font-family-headings);
+      font-weight: bold;
       text-decoration: none;
       padding: 4px 8px;
       border-radius: 1px;
-      margin:4px 8px;
+      margin: 4px 8px;
       display: inline-block;
 
-      &:hover{
+      &:hover {
         background: var(--vp-c-secondary);
         color: var(--vp-c-white)
       }
@@ -355,6 +326,7 @@ footer {
   &:hover {
     transform: scale(1.1);
   }
+
   &:active {
     transform: scale(1.05);
     opacity: 0.8;
@@ -372,13 +344,14 @@ footer {
     }
   }
 }
+
 .edit-hint {
   opacity: 0;
   transform: translateX(200%);
   font-family: var(--vp-font-family-headings);
-  font-weight: 700;
+  font-weight: bold;
   position: fixed;
-  animation: edit-hint 7s ease 6s forwards ;
+  animation: edit-hint 7s ease 6s forwards;
   z-index: 100;
   bottom: 30px;
   right: 90px;
@@ -401,38 +374,47 @@ footer {
     transform: scale(0.8);
 
   }
+
   70% {
     transform: scale(1.05);
   }
+
   80% {
     transform: scale(0.99);
   }
+
   100% {
     transform: scale(1);
   }
 }
+
 @keyframes edit-hint {
   0% {
     opacity: 0;
     transform: translateX(16px);
     visibility: show;
   }
+
   10% {
     opacity: 1;
     transform: translateX(0);
   }
+
   90% {
     opacity: 1;
     transform: translateX(0);
   }
+
   99% {
     opacity: 0;
     transform: translateX(12px);
   }
-  100%{
+
+  100% {
     transform: translateX(200%);
   }
 }
+
 // .Layout{
 // position:relative
 // }

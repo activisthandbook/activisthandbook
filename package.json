@@ -20,6 +20,7 @@
     "algoliasearch": "^4.14.2",
     "lodash": "^4.17.21",
     "party-js": "^2.2.0",
-    "sass": "^1.53.0"
+    "sass": "^1.53.0",
+    "search-insights": "^2.4.0"
   }
 }
