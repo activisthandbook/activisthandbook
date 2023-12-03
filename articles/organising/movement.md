@@ -6,9 +6,9 @@ description: >
 langCode: en
 articleID: zcObjuif3fqmql1flUYTamZghpPgD1yY
 languageCollectionID: dHWPTkxr2P1ECXwrKT31KbAeaG5hQkkt
-updatedTimestamp: 1699192963926
+updatedTimestamp: 1700886577496
 createdTimestamp: 1583583586992
-wordCount: 1007
+wordCount: 1044
 tags: []
 ---
 
@@ -111,3 +111,5 @@ This does not mean, however, that all injustices are gone. It would be a shame t
 -   [Social Activism Overview: How to Get Involved in Social Activism](https://www.masterclass.com/articles/social-activism?utm_source=activisthandbook.org) by Masterclass
     
 -   [How to: build and sustain a non-violent social movement](https://learn.landcoalition.org/en/manuals-toolkits/how-build-and-sustain-non-violent-social-movement/?utm_source=activisthandbook.org) by International Land Coalition
+    
+-   [Trust the People](https://www.trustthepeople.earth/?utm_source=activisthandbook.org) They offer a free online education course that takes you through different aspects of community building, from connecting with people one-to-one to running People's Assemblies, which harness the wisdom and power of the community.

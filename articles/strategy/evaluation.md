@@ -6,9 +6,9 @@ description: >
 langCode: en
 articleID: xkfGOltV7wEdr0ftGXjsXLLuQddbXdQ5
 languageCollectionID: VafQXipYsWpMOuchIo2PnHqWmDZ1pNwE
-updatedTimestamp: 1679985036688
+updatedTimestamp: 1701621266059
 createdTimestamp: 1629639548152
-wordCount: 232
+wordCount: 505
 tags: []
 ---
 
@@ -29,6 +29,27 @@ Success indicators need to be directly linked to your objectives and might inclu
 -   Details of how and when the campaign plan will be revised.
     
 -   Identify who will be responsible for gathering the data for monitoring success indicators, how they will do it and how regularly reports will be completed.
+    
+
+## Signs of failing strategy
+
+Despite your best intentions and genuine passion for change, your movement may be lacking a well-defined strategy if you notice the following symptoms:
+
+-   **Lack of stakeholder engagement:** If you're not actively engaging with all relevant stakeholders - your allies, opponents, and targets - your strategy might not be sufficiently inclusive.
+    
+-   **Inability to adapt:** If your strategy isn't flexible enough to adapt and adjust to changing circumstances or feedback, it may not be sufficiently robust or effective.
+    
+-   **Poor resource utilization:** If your movement is continually strapped for resources - time, money, or people - without seeing impactful results, this could be a sign your strategy isn't effective or efficient.
+    
+-   **No clear evaluation process:** If you don't have any processes in place to review and evaluate the effectiveness of your decisions, or if the metrics being used are not properly aligned with your objectives, this could be indicative of a lack of strategic planning.
+    
+-   **Passion fatigue:** If those involved in your movement are experiencing high levels of exhaustion or burnout, it could indicate that your movement lacks a sustainable strategy that considers the wellbeing of its team.
+    
+-   **Disunity among members:** If your movement's members are often in disagreement, not moving in the same direction, or not committed to the collective cause, this may signal a lack of effective strategic planning.
+    
+-   **Unclear identity or brand:** If your movement lacks a clear identity or brand, making it hard for others to understand what you stand for, this points to poor strategy.
+    
+-   **Limited influence:** If there has been little change or influence within your specific cause, this could mean a faulty strategy requiring reassessment.
     
 
 ## External resources

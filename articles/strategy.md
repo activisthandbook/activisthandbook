@@ -6,9 +6,9 @@ description: >
 langCode: en
 articleID: v7ONnIEx3he17_I-JD0CgqlZRX-75Zuy
 languageCollectionID: GEBMCoST8DAOBDN-LZdnxBWpOlQD18V2
-updatedTimestamp: 1700319099537
+updatedTimestamp: 1700895506429
 createdTimestamp: 1583509165087
-wordCount: 944
+wordCount: 961
 tags: ["tactics","chapters"]
 ---
 
@@ -188,3 +188,5 @@ _\*According to Semrush_
 -   [Effective Political Campaign Strategies](https://www.ecanvasser.com/blog/campaign-strategies?utm_source=activisthandbook.org) by Brendan Finucane (2023)
     
 -   [Political Campaign Strategies to Win an Election](https://www.linkedin.com/pulse/what-political-campaign-strategies-win-election-chunav-parchar?utm_source=activisthandbook.org) by Chunav Parchar (2023)
+    
+-   [Organizing: People, Power, Change](https://commonslibrary.org/organizing-people-power-change/?utm_source=activisthandbook.org) by Leading Change Network, Marshall Ganz, New Organizing Institute, Peter Gibbs, Shea Sinnott

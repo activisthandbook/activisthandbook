@@ -6,9 +6,9 @@ description: >
 langCode: en
 articleID: Z6uJY_SPlb4KGAjna9PThNsgiE0J98Ty
 languageCollectionID: fVhmN9s7AQ-loB2iM9of0SYyO7H3_eg2
-updatedTimestamp: 1700317905876
+updatedTimestamp: 1700885476663
 createdTimestamp: 1602591877175
-wordCount: 1160
+wordCount: 1216
 tags: []
 ---
 
@@ -75,6 +75,8 @@ The following websites about activism are not available under a creative commons
     
 -   [**350.org trainings**](https://trainings.350.org/): An elaborate list of guides for trainers, meeting facilitators and organisers. The website is primarily targeted at climate activists, but the articles provide useful insights for other activists as well.
     
+-   [**Act, Build, Change:**](https://actbuildchange.com) A learning community for change makers offering training on community organizing.
+    
 -   [**Social Justice Toolbox**](https://www.socialjusticetoolbox.com)**:** A collection of resources to help you organise diversity workshops and social justice trainings.
     
 -   [**Resources for organisers**](https://joshuakahnrussell.wordpress.com/resources-for-activists-and-organizers/) by Praxis Makes Perfect | [Archived](https://web.archive.org/web/20191208013159/https://joshuakahnrussell.wordpress.com/resources-for-activists-and-organizers/)
@@ -124,6 +126,8 @@ The following websites about activism are not available under a creative commons
 -   [**Toolkit for Climate Action**](http://www.networkforclimateaction.org.uk/index.html)
     
 -   [**Nonprofit Ready**](https://www.nonprofitready.org/volunteer-management-courses?utm_source=activisthandbook.org)
+    
+-   [**Get Fully Funded:**](https://getfullyfunded.com/) Get fully funded is an organization with over fifteen years experience in fundraising. It shares its expertise on raising funds through a range of resources, services and programs. Check out their guide on [How to Create a Volunteer Program](https://getfullyfunded.com/creating-a-volunteer-program/)
     
 -   [**Canvas**](https://canvasopedia.org/publications/?utm_source=activisthandbook.org): Center for Applied NonViolent Actions and Strategies
     
