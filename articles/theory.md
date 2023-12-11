@@ -6,9 +6,9 @@ description: >
 langCode: en
 articleID: YDhDPuRtRiSVyvpIQFEshkjwntMOHg2j
 languageCollectionID: J2Ob8I-vLt6F7hsqCHl_RhDVkGC1ybLs
-updatedTimestamp: 1699193973580
+updatedTimestamp: 1702317819236
 createdTimestamp: 1593095391290
-wordCount: 559
+wordCount: 570
 tags: []
 ---
 
@@ -44,6 +44,15 @@ To understand better what we mean with activism and why we are interested in it,
 -   [Does activism work](/theory/does-activism-work)
     
 -   [Why we do activism](/theory/why-do-activism)
+    
+
+### Fundaments of activism
+
+-   **🏡 Community**
+    
+-   **❤️ Social resilience**
+    
+-   **💪** [**People power**](/theory/people-power)
     
 
 ### About demonstrations
