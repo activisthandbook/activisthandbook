@@ -6,13 +6,15 @@ description: >
 langCode: en
 articleID: 1klKzE-SRt1neRdmh8ZSlLmI7-9scxxN
 languageCollectionID: 1rusRm6zp4Z-ZLQrE1rJHkEnATM7Rafp
-updatedTimestamp: 1703089677131
+updatedTimestamp: 1703090773832
 createdTimestamp: 1650719261892
-wordCount: 134
+wordCount: 150
 tags: []
 ---
 
 **Everyone can edit Activist Handbook. In this guide, we explain how you can improve existing content, translate or write new guides.**
+
+> _These guides are written for people who write for Activist Handbook. However, they can also be used by people writing guides for activists on other websites!_
 
 ## **The basics**
 
@@ -26,21 +28,19 @@ Want to start writing for Activist Handbook? We recommend you to start with thes
     
 -   📚 [**Add external resources**](/contribute/write/external-resources)
     
--   **💯** [**Quality guidelines**](/contribute/write/quality-guidelines)
-    
 
 ## Advanced guides
 
 Ready to learn more?
 
--   **🗂** [**Chapter organisation**](/support/writers/organisation)**:** Learn how our content is structured.
+-   **🗂** [**Chapter organisation**](/support/writers/organisation) _— How our website is organised_
     
--   **🔢** [**Structuring articles**](/contribute/write/structure)**:** Learn what sections to use in your articles.
+-   **🔢** [**Structuring articles**](/contribute/write/structure) _— What sections to use within guides_
     
--   **🎨** [**Styling articles**](/support/writers/style)**:** Learn how to make your articles easier to read with headings and emojis.
+-   **💯** [**Quality guidelines**](/contribute/write/quality-guidelines) _— How to give a star rating_
     
--   **📄** [**Reference guide**](/support/writers/reference): Learn how to reference external resources.
+-   **📄** [**Reference guide**](/support/writers/reference) _— Find and reference external resources_
     
--   🤖 [**Using ChatGPT**](/contribute/write/ai)**:** Learn how to use AI to write better guides.
+-   **🎨** [**Styling articles**](/support/writers/style) _— Make guides easier to read with headings and emoji_
     
--   **✔️** [**Content guidelines**](/contribute/write/content-guidelines): Learn what kind of content to write for Activist Handbook
+-   🤖 [**Using AI**](/contribute/write/ai) _— Use ChatGPT or Bard to write better guides_
