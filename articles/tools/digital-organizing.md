@@ -2,22 +2,22 @@
 title: >
   What is digital organizing?
 description: >
-  Guide for digital organizers
+  Guide for digital organizers 
 langCode: en
 articleID: gz7-sKLP8XZf8B7ytC1LyeQBcwJ3PxYF
 languageCollectionID: 7RntqYH138QMBgdPt_0fYewurAx7Po2B
-updatedTimestamp: 1695743832307
+updatedTimestamp: 1703073031663
 createdTimestamp: 1695736860608
-wordCount: 1003
+wordCount: 1545
 ---
 
 In this guide, you will learn all about digital organizing. We will teach you how to use tech to make more impact with your activist group.
 
-<div data-youtube-video=""><iframe width="640" height="480" allowfullscreen="true" src="https://www.youtube-nocookie.com/embed/36W3ehNVg0A" start="0"></iframe></div>
-
 ## Introduction
 
 Welcome to this beginner's guide to digital organising for the activist of the new era. It's a world where mobile screens create stronger bonds than physical spaces, notably in rallying activists to drive real-world change. This guide shines a spotlight on practical, effective methods of digital organising, methods that will transform your online presence into real-life impact.
+
+<div data-youtube-video=""><iframe width="640" height="480" allowfullscreen="true" src="https://www.youtube-nocookie.com/embed/36W3ehNVg0A" start="0"></iframe></div>
 
 Digital organising is not just about accumulating follower counts on social backdrops. It's about facilitating collective action. It's about shaping virtual platforms into springboards for impactful activism. It's about weaving a web of change-makers who come alive through keyboard taps and mouse clicks, later congregating offline to rock the cradle of existing norms.
 
@@ -43,6 +43,64 @@ Remember, our goal as activists is not just to exist in the digital sphere but t
     
 
 <div data-youtube-video=""><iframe width="640" height="480" allowfullscreen="true" src="https://www.youtube-nocookie.com/embed/5XtPmE9eM7k" start="0"></iframe></div>
+
+## Digital infrastructure
+
+The digital infrastructure that your activist organisation needs depends on the size of your group.
+
+### Level 1: Getting started
+
+If you are just getting started as an activist group, you will likely have very little capacity to invest in a high quality digital infrastructure. This is fine. You just need to make sure to determine your focus: what digital tools do we really need, and how can we use them most effectively?
+
+Small activist groups should focus on:
+
+-   **Internal communication:** What chat apps do you use to communicate internally (with your core team and with other volunteers)? For example, use a WhatsApp group for new people, and a Slack workspace for your most active volunteers.
+    
+-   **Basic website:** allow new people to learn more about your organisation, events you organize, and sign up as a volunteer or donate money. For example, set up a Wordpress website and embed an Action Network form.
+    
+-   **Email marketing:** Keep your supporters up-to-date by sending emails to large groups of people, or sending automatic welcome messages to new volunteers. For example, use Action Network.
+    
+-   **Social media accounts**: Create accounts on whatever social media platforms are popular among your target audience. You can level up by using a social media manager such as Meta Business Suite or Hootsuite.
+    
+
+### Level 2: Connecting tools
+
+As your organisation grows, you will start using more and more digital tools. For example, you might use an email marketing platform, a CRM to integrate new volunteers, and a fundraising tool for receiving donations. You might have information about individuals stored in different systems.
+
+Using tools such as Zapier or N8N you can synchronise data between tools. For example, you can automatically ask supporters to donate if they have not done so already. Or you can adapt your email marketing based on people's involvement as volunteers.
+
+You might also want to automatically export data from a certain tool to another, for example to make dashboards.
+
+### Level 3: Data warehouse
+
+As you set up more and more data synchronisations and automations, you might notice your digital infrastructure becomes too difficult to manage effectively. You might also notice that only a small number of people have the know-how to manage and use these systems. This prevents other people in your organisation from effectively making use of all data.
+
+A data warehouse can help you overcome these obstacles. For example, your data warehouse can look like this:
+
+-   **One central database**: A database in which you store data coming from different many different tools.
+    
+-   **Easy-to-use data apps:** A data app such as Directus allows you to make dashboards, manage data and set permissions, without needing technical expertise. Directus allows you to work directly with data from your central database.
+    
+-   **Custom app development platform**: You might discover that you need a user-friendly interface for a specific audience. Using an app development platform such as Supabase you can develop such (web) apps with relative ease, while working with the same central database.
+    
+-   **Extend your digital infrastructure using a synchronisation tool**: With a tool such as [Make.com](http://Make.com) or n8n, you can connect any tool. This allows you to fetch data from and send data to, for example, your:
+    
+    -   _CMS_
+        
+    -   _CRM_
+        
+    -   _Email marketing system_
+        
+    -   _Analytics_
+        
+    -   _Forms_
+        
+    -   _Fundraising platform_
+        
+    -   _Booking platform_
+        
+    -   _Ticketing system_
+        
 
 ## Skills digital organizers need
 

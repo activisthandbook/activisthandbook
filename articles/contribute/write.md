@@ -6,9 +6,9 @@ description: >
 langCode: en
 articleID: 1klKzE-SRt1neRdmh8ZSlLmI7-9scxxN
 languageCollectionID: 1rusRm6zp4Z-ZLQrE1rJHkEnATM7Rafp
-updatedTimestamp: 1700389932292
+updatedTimestamp: 1703089677131
 createdTimestamp: 1650719261892
-wordCount: 131
+wordCount: 134
 tags: []
 ---
 
@@ -26,6 +26,8 @@ Want to start writing for Activist Handbook? We recommend you to start with thes
     
 -   📚 [**Add external resources**](/contribute/write/external-resources)
     
+-   **💯** [**Quality guidelines**](/contribute/write/quality-guidelines)
+    
 
 ## Advanced guides
 
@@ -33,7 +35,7 @@ Ready to learn more?
 
 -   **🗂** [**Chapter organisation**](/support/writers/organisation)**:** Learn how our content is structured.
     
--   **🔢** [**Structuring articles**](/support/writers/structure)**:** Learn what sections to use in your articles.
+-   **🔢** [**Structuring articles**](/contribute/write/structure)**:** Learn what sections to use in your articles.
     
 -   **🎨** [**Styling articles**](/support/writers/style)**:** Learn how to make your articles easier to read with headings and emojis.
     
