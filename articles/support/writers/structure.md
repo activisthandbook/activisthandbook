@@ -6,17 +6,15 @@ description: >
 langCode: en
 articleID: eEKecoebboS2HQGod5MJ3UNWuYJQaQCO
 languageCollectionID: WRaQD7OlrxVG9VtkxGp8lxQ6207uqKmi
-updatedTimestamp: 1700326935407
+updatedTimestamp: 1703072678400
 createdTimestamp: 1638200058700
-wordCount: 1820
+wordCount: 2044
 tags: []
 ---
 
 In this guide, we explain what sections an article on Activist Handbook should include. You can also use these guidelines when writing guides for change-makers on other platform.
 
-> **Article quality**: ⭐️⭐️⭐️ (3/5)
-> 
-> **Related guides**:
+> **Article quality**: ⭐️⭐️⭐️⭐️ (4/5)
 
 ## Introduction
 
@@ -49,25 +47,19 @@ Make sure to include:
     
 5.  **Summary** (including subtopics)
     
-6.  **Content sections**
+6.  **_... content sections ..._**
     
-7.  **Inclusivity**
+7.  **Conclusion**
     
-8.  **Local context**
+8.  **Improve this page**
     
-9.  **Examples**
+9.  **Footnotes** (discouraged)
     
-10.  **Conclusion**
+10.  **Related guides**
     
-11.  **Improve this page**
+11.  **External resources**
     
-12.  **Footnotes** (discouraged)
-    
-13.  **Related guides**
-    
-14.  **External resources**
-    
-15.  **Attribution**
+12.  **Attribution**
     
 
 ## Recommended sections
@@ -121,36 +113,65 @@ Example:
 
 The purpose of the introduction is to motivate people to read the article. You can do this by writing a captivating introduction: use examples, a short engaging story, an illustration and/or a video.
 
-### 6\. Summary + subtopics
+> **🤖 AI prompt**:  
+> _Write an introduction for this guide. Include a real world example from activists in the Global South that illustrates the key learnings from this guide:  
+>   
+> \[insert article content\]_
+
+### 5\. Summary + subtopics
 
 A summary should contain the most important takeaways from the article.
 
 If the topic is too complex to fit in one page, make sure to break the article into multiple pages and link the related pages directly underneath the summary. Subtopics always use the following linking structure "activishandbook.org/main-topic/sub-topic".
 
-### 8\. Content sections
+> **🤖 AI prompt**:
+> 
+> _Summarize this guide:_
+> 
+> _\[insert article content\]_
 
-This is the main content of your article or page. You should split up your content into sections. The titles of these sections depend on your topic. You can make use of the following section patterns:
+### 6\. Content sections
 
--   **What is XYZ?**: Often, a logical first section is a simple definition of the topic at hand. For example: "What is a strategy?", "What is a grassroots movement?". You might think this to be obvious, but this is actually often the most frequently asked question about that topic! Answering the "What is XYZ?" question also helps set the stage for the rest of the article, introducing the topic and explaining how it differs from other articles.
+This is the main content of your article or page. You should split up your content into sections. The titles of these sections depend on your topic. You can make use of the section patterns below.
+
+-   The sections above are not included in the default template, because they cannot be used in every guide.
     
--   **Pros & cons:** Guides are mostly about _how_ to do something, not _if_. In many cases, however, activists might actually be looking up on how to do something without considering alternatives. A pros and cons section can help activists evaluate if the thing you're explaining how to do is actually what they need right now.
-    
--   **Steps to ... (1, 2, 3, etc)**: Organise your content into steps that people need to take chronologically. For example, create a section called "Steps to facilitate a meeting" with subsections for all the steps. You can also include a "Prerequisites" section: things you need before starting these steps.
-    
--   **Lifecycle:** You can use the lifecycle of the thing you are discussing as a starting point for your structure. For example: starting a coalition, maintaining a coalition, evaluating success.
-    
--   **Criticism:** Are you reviewing a book, movie, or something else? It is always good to include a 'criticism' section!
-    
--   **History:** Sometimes, a historical perspective is important to understand the topic. However, make sure to make it as concrete as possible: what can we learn from the past that applies to activists now?
+-   You might notice that a guide becomes too long if you include all of these sections. In that case, you can also create separate sub-pages for each of those sections.
     
 
-The sections above are not included in the default template, because they cannot be used in every guide.
+#### **What is XYZ?**
 
-### 8\. Inclusivity
+Often, a logical first section is a simple definition of the topic at hand. For example: "What is a strategy?", "What is a grassroots movement?". You might think this to be obvious, but this is actually often the most frequently asked question about that topic! Answering the "What is XYZ?" question also helps set the stage for the rest of the article, introducing the topic and explaining how it differs from other articles.
+
+#### **Pros & cons**
+
+Guides are mostly about _how_ to do something, not _if_. In many cases, however, activists might actually be looking up on how to do something without considering alternatives. A pros and cons section can help activists evaluate if the thing you're explaining how to do is actually what they need right now.
+
+#### **Steps to ... (1, 2, 3, etc)**
+
+Organise your content into steps that people need to take chronologically. For example, create a section called "Steps to facilitate a meeting" with subsections for all the steps. You can also include a "Prerequisites" section: things you need before starting these steps.
+
+#### **Lifecycle**
+
+You can use the lifecycle of the thing you are discussing as a starting point for your structure. For example: starting a coalition, maintaining a coalition, evaluating success.
+
+#### **Criticism**
+
+Are you reviewing a book, movie, or something else? It is always good to include a 'criticism' section!
+
+#### **History**
+
+Sometimes, a historical perspective is important to understand the topic. However, make sure to make it as concrete as possible: what can we learn from the past that applies to activists now?
+
+#### **Workshops**
+
+We try to make our guides as practical as possible. However, sometimes, there is no way around introducing the topic first with some theory. For example, if you are explaining the basic elements of an effective campaign strategy (vision, goals, objectives, etc.). In such cases, you can add section 'workshops', in which you add step-by-step outlines on how to facilitate a specific type of session for a group of a particular size.
+
+#### **Inclusivity**
 
 Look at the topic from the perspective of inclusivity.
 
-### 9\. Local context
+#### **Local context**
 
 At Activist Handbook, we write guides that help activists across the globe. Throughout our guides, we try to give general advice that is helpful for change-makers everywhere, because we believe there is a lot we can learn from each other, no matter our geographical location. However, widely varying local contexts require different approaches to activism, and thus also different guides.
 
@@ -158,33 +179,40 @@ Many of the resources we re-use were written by activists in the Global North, i
 
 To acknowledge our guides lacking on this front, we include a section 'local context'. Ideally, a more global and inclusive perspective would be integrated throughout our guides, and not limited to a single section. Adding this section is a first step towards that.
 
-### 10\. Examples
+#### Examples
 
 Provide case studies as examples to learn from.
 
-### 11\. Conclusion
+### 7\. Conclusion
 
 Briefly recap what people learned in the guide. Provide advice for next steps (for example, reading related guides).
 
-### 12\. Improve this page
+### 8\. Improve this page
 
 Encourage people to contribute to the page. Try to insert creative calls to actions when appropriate. Are we looking for more resources? Are we looking for a specific perspective on the topic? In what ways could people engage with the article you are writing?
 
-### 13\. Footnotes (discouraged)
+### 9\. Footnotes (discouraged)
 
 When you do not want to obstruct the main content with a comment, you can add it in the footnotes. Adding footnotes is strongly discouraged, as it does not provide a good user experience (having to scroll up and down).
 
-### 14\. Related guides
+### 10\. Related guides
 
 To make it easier for activists to find the information they are looking for on this site, add a list of related articles at the bottom of each page. These articles can be from a different chapter.
 
-### 15\. External resources
+Related guides are different from external resources (see below):
 
-This is a section where you can list all the external resources that are relevant to the topic but not yet covered in the article you are writing.
+-   Related guides are always articles _on Activist Handbook_. They discuss _distinct_ (though related) topics.
+    
+-   External resources are links to _other websites_. They cover the _same_ topic.
+    
 
-### 16\. Attribution
+### 11\. External resources
 
-In this section we give credit to authors. This is particularly useful when reusing Creative Commons articles, or when articles have been written in partnership with other organisations.
+This is a section where you can list all the external resources that are relevant to the topic but not yet covered in the article you are writing. Learn more about [how to find external resources](/contribute/write/external-resources) for your guide.
+
+### 12\. Attribution
+
+In this section we give credit to authors. This is particularly useful when reusing external Creative Commons resources, or when articles have been written in partnership with other organisations.
 
 ## Why use this template?
 
@@ -217,21 +245,25 @@ If you come across limitations of the sections template described on this page w
 
 You can also make this guide better by adding different media formats: a video, quiz, illustration, pictures, etc.
 
+## Related guides
+
+We have several other guides for people who want to write guides for activists: [**learn how to write for Activist Handbook**](/contribute/write).
+
 ## External resources
 
--   [Writing for the Commons Library](https://commonslibrary.org/writing-for-the-commons-social-change-library/?utm_source=activisthandbook.org)
+-   [Writing for the Commons Library](https://commonslibrary.org/writing-for-the-commons-social-change-library/?utm_source=activisthandbook.org) (2021)
     
--   [How to Write Engaging Articles](https://commonslibrary.org/writing-engaging-articles/)
+-   [How to Write Engaging Articles](https://commonslibrary.org/writing-engaging-articles/) by Sophie Hartley (2021)
     
--   [How to Write a Book Review](https://commonslibrary.org/the-noble-art-of-book-reviewing/)
+-   [How to Write a Book Review](https://commonslibrary.org/the-noble-art-of-book-reviewing/) by Joel Dignam (2022)
     
--   [How to Write a Case Study](https://commonslibrary.org/learning-from-peers-and-the-past-writing-case-studies/)
+-   [How to Write a Case Study](https://commonslibrary.org/learning-from-peers-and-the-past-writing-case-studies/) by Iain McIntyre (2022)
     
--   [How to Conduct Interviews for Articles, Research & More](https://commonslibrary.org/tips-for-interviews/)
+-   [How to Conduct Interviews for Articles, Research & More](https://commonslibrary.org/tips-for-interviews/) by Iain McIntyre (2022)
     
 
 ## Attribution
 
 Work from the following resources was reused on this page:
 
--   [Writing for the Commons Library](https://commonslibrary.org/writing-for-the-commons-social-change-library/?utm_source=activisthandbook.org)
+-   [Writing for the Commons Library](https://commonslibrary.org/writing-for-the-commons-social-change-library/?utm_source=activisthandbook.org) (2021)
