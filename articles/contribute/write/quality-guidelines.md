@@ -6,9 +6,9 @@ description: >
 langCode: en
 articleID: acf_VOyfwRUPBcbCxq_25i-gGYUE4Q8S
 languageCollectionID: xY24IzikHoolyMQqPJvQ4Ifa1JbxwUjj
-updatedTimestamp: 1704448877868
+updatedTimestamp: 1704627338062
 createdTimestamp: 1703075319059
-wordCount: 933
+wordCount: 911
 ---
 
 In this guide, we explain how Activist Handbook evaluates the quality of the guides on our website. We also use these same guidelines for external resources. As a writer, you can use these to write better guides.
@@ -19,7 +19,7 @@ Our quality guidelines help us clearly communicate with our readers what to expe
 
 ## How to use these guidelines?
 
-These guidelines are meant to allow you to **quickly** determine the quality of a guide. Each of these evaluation criteria are either **fail** or **pass**. Guides receive a 1 to 5 score based on the percentage of passing criteria.
+These guidelines are meant to allow you to determine the quality of a guide on Activist Handbook or an external resource. They receive a 1 to 5 score based on the 10 evaluation criteria below.
 
 > **⚠️ Important**:
 > 
@@ -52,6 +52,8 @@ These guidelines are meant to allow you to **quickly** determine the quality of 
     
 -   Short sentences (max 25 words)
     
+-   Uses emoji or other visual elements
+    
 
 > ✅ Your vision is your analysis of the root problem and your big ideas on how to make the world a better place.
 > 
@@ -82,11 +84,18 @@ These guidelines are meant to allow you to **quickly** determine the quality of 
 
 ### 🎓 Quality sources
 
--   The guide links to other high-quality sources relevant to the topic
+-   Links to other high-quality sources relevant to the topic
     
 -   Claims are supported by research
     
--   Author shares expertise
+-   Author offers expertise
+    
+
+### 💡 Innovative
+
+-   Offers creative new solutions
+    
+-   Addresses current challenges
     
 
 ### 🎬 Diverse media formats
@@ -101,18 +110,14 @@ These guidelines are meant to allow you to **quickly** determine the quality of 
 -   Helps empower marginalised people, or written by marginalised activist
     
 
-### ♿️ Accessible format\*
-
-**_\*Only for external resources! Our website is optimised to deliver guides in an accessible way by default._**
+### ♿️ Accessible format
 
 -   [Accessible website](https://www.w3.org/WAI/fundamentals/accessibility-intro/) (e.g. fast loading times, sufficient contrast)
     
--   Accessible media (e.g. videos include subtitles, alt-text for images)
+-   Accessible media (e.g. videos include subtitles, alt-text for images, not a PDF)
     
--   Not a PDF
+-   Inclusive language
     
-
-In this guide, we explain what kind of content we want to see on Activist Handbook.
 
 ## Allowed on Activist Handbook
 
