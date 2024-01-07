@@ -6,9 +6,9 @@ description: >
 langCode: en
 articleID: acf_VOyfwRUPBcbCxq_25i-gGYUE4Q8S
 languageCollectionID: xY24IzikHoolyMQqPJvQ4Ifa1JbxwUjj
-updatedTimestamp: 1703090357325
+updatedTimestamp: 1704448877868
 createdTimestamp: 1703075319059
-wordCount: 925
+wordCount: 933
 ---
 
 In this guide, we explain how Activist Handbook evaluates the quality of the guides on our website. We also use these same guidelines for external resources. As a writer, you can use these to write better guides.
@@ -36,6 +36,8 @@ These guidelines are meant to allow you to **quickly** determine the quality of 
 -   Answers a "how to..." question
     
 -   Covers a specific topic
+    
+-   Actionable: clear step-by-step instructions
     
 
 > ✅ How to write a strategy plan
@@ -78,16 +80,18 @@ These guidelines are meant to allow you to **quickly** determine the quality of 
 -   Best guide on the topic out there
     
 
-### 🎓 Quality resources
+### 🎓 Quality sources
 
 -   The guide links to other high-quality sources relevant to the topic
     
 -   Claims are supported by research
     
+-   Author shares expertise
+    
 
 ### 🎬 Diverse media formats
 
--   Includes videos, images, illustrations, quizes, etc. that offer additional value to (a subset of) users
+-   Includes videos, images, illustrations, podcasts, quizes, etc. that offer additional value to (a subset of) users
     
 
 ### 🌎 Marginalised perspective
