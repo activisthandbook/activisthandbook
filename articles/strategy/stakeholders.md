@@ -1,20 +1,31 @@
 ---
 title: >
-  Power mapping
-description: >
   Stakeholder analysis
+description: >
+  Spectrum of allies, power mapping and movement mapping
 langCode: en
 articleID: OlVwPVwwQLCky8LC3jDMDMTPA3mmqcZb
 languageCollectionID: -NM0-Um7oFGFsJ8FatKoWTzqV4S9g22l
-updatedTimestamp: 1680076107030
+updatedTimestamp: 1705747688016
 createdTimestamp: 1629632304561
-wordCount: 600
+wordCount: 703
 tags: ["easy to improve"]
 ---
 
-**In this article, we talk about how you can analyse the stakeholders in your activist campaign using power mapping.**
+**In this article, we talk about how you can analyse the stakeholders in your activist campaign using the spectrum of allies, power mapping and movement mapping.**
 
 > 📚 This guide is part of a series on [**campaign strategy**](/strategy).
+
+## Types of analyses
+
+There are a few different ways of analysing stakeholders:
+
+-   [**Spectrum of allies**](/strategy/stakeholders/spectrum-of-allies)**:** a strategy tool to examine the range of social forces and groups, spread across a spectrum, from those who are the most dedicated **_opponents_** to those who are the most active **_supporters_**.
+    
+-   [**Power mapping**](/strategy/stakeholders/power-mapping)**:** a process of identifying **_key decision-makers and influencers_** in a particular issue area or sector.
+    
+-   [**Movement mapping**](/strategy/stakeholders/movement-mapping)**:** is a process of analysing how **_key actors within a movement of movements_** relate to one another.
+    
 
 When you map out the stakeholders in your campaign, **allies** are the stakeholders you can work with, build alliances with, and share resources with. **Constituents** are “the community”: the people you want to side with your position and help apply pressure to your target. Your **target** is often a decision maker: someone who can give you the change you want. In representative democracies these are often politicians, ministers, or members of parliament. Sometimes we have limited capacity to influence our primary targets, so it can useful to identify secondary targets: stakeholders who have more direct influence with the primary target. If your primary target is the CEO of a corporation, then your secondary targets might include shareholders.
 
@@ -31,6 +42,11 @@ These are, in the context of strategy, always people. Whether the politicians wh
 ## External resources
 
 ### Creative Commons resources
+
+#### Stakeholder analysis
+
+-   [Stakeholder analysis](https://en.wikipedia.org/wiki/Stakeholder_analysis?utm_source=activisthandbook.org) by Wikipedia
+    
 
 #### Power mapping
 
@@ -94,6 +110,8 @@ These are, in the context of strategy, always people. Whether the politicians wh
 -   [Academic: The power mapping tool, a method for the empirical research of power relations](https://www.researchgate.net/publication/5056591_The_power_mapping_tool_a_method_for_the_empirical_research_of_power_relations?utm_source=activisthandbook.org) by Eva Schiffer
     
 -   [Using power mapping to campaign effectively for change](https://www.charitycomms.org.uk/using-power-mapping-to-campaign-effectively-for-change?utm_source=activisthandbook.org) by Aggie Taylor (2023)
+    
+-   [Collection: Map the power toolkit](https://littlesis.org/toolkit?utm_source=activisthandbook.org) by LittleSis
     
 
 ## Get training

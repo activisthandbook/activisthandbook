@@ -6,9 +6,9 @@ description: >
 langCode: en
 articleID: _FhS3DYPgN9p0h3elRVarmYTU8jQvcTA
 languageCollectionID: _umEWSFrid1WEvO8qO_6umUHhX8sIc49
-updatedTimestamp: 1702998074399
+updatedTimestamp: 1705745654930
 createdTimestamp: 1583509229031
-wordCount: 957
+wordCount: 961
 tags: ["tools","chapters"]
 ---
 
@@ -19,6 +19,8 @@ tags: ["tools","chapters"]
 ## Get started
 
 -   🧑‍💻 [**What is a digital organizer?**](/tools/digital-organizing)
+    
+-   **💯** [**Evaluating nonprofit tools**](evaluate)
     
 -   🛠️ **Choosing your tech stack (coming soon)**
     

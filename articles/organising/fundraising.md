@@ -6,9 +6,9 @@ description: >
 langCode: en
 articleID: KpSE6GZzWtgmL1uqgz-MGDkI0p43Y3tw
 languageCollectionID: 0i_-Q9v7ZVA3wxBRMxfhy5eJ5GSoLBKU
-updatedTimestamp: 1699193313598
+updatedTimestamp: 1705747780252
 createdTimestamp: 1598872029744
-wordCount: 1135
+wordCount: 1153
 tags: []
 ---
 
@@ -63,6 +63,10 @@ Some possible solutions to these challenges are:
     
 
 <action-smart-small></action-smart-small>
+
+## Case studies
+
+> **This section has not been written yet.** What fund-raising worked or didn't work in particular cases?
 
 ## Improve this page
 

@@ -6,11 +6,13 @@ description: >
 langCode: en
 articleID: e8-5UcsLpoZXX-fCfIxnA3bLRddNjudZ
 languageCollectionID: qvMUFu-6HNSoAXywb6xaJBkcb4OpV3b8
-updatedTimestamp: 1680599438555
+updatedTimestamp: 1705747797959
 createdTimestamp: 1586790886473
-wordCount: 123
+wordCount: 126
 tags: ["wellbeing"]
 ---
+
+> **Article quality:** ⭐️ (1/5)
 
 ## Resources
 
@@ -40,4 +42,4 @@ tags: ["wellbeing"]
     
 -   [Campaign Wellbeing Bingo](https://commonslibrary.org/campaign-wellbeing-bingo/) by Holly Hammond
     
--   [Mindful on Purpose: Inner Work for Leaders](https://www.ted.com/talks/paul_t_shattuck_mindful_on_purpose_inner_work_for_leaders?utm_source=activisthandbook.org) by Paul T. Shattuck • TEDxPenn
+-   [Mindful on Purpose: Inner Work for Leaders](https://www.ted.com/talks/paul_t_shattuck_mindful_on_purpose_inner_work_for_leaders?utm_source=activisthandbook.org) by Paul T. Shattuck (TEDxPenn)

@@ -6,12 +6,14 @@ description: >
 langCode: en
 articleID: DSVL_hMhNKXa_Pj78rHMMSKIBk_xNkAh
 languageCollectionID: ghKYqeq-errdEnMJAxkkhK8aDAUvhsNA
-updatedTimestamp: 1683458440189
+updatedTimestamp: 1705747709790
 createdTimestamp: 1683445672801
-wordCount: 999
+wordCount: 1003
 ---
 
 **Taking part in a protest can have a significant impact on your wellbeing. In this guide, we explain what you can do before, during and after a protest action to take care of everyone's wellbeing.**
+
+> **Article quality**: ⭐️⭐️⭐️ (3/5)
 
 ## **First aid at protests**
 
