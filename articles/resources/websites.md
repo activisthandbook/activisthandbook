@@ -6,9 +6,9 @@ description: >
 langCode: en
 articleID: Z6uJY_SPlb4KGAjna9PThNsgiE0J98Ty
 languageCollectionID: fVhmN9s7AQ-loB2iM9of0SYyO7H3_eg2
-updatedTimestamp: 1700885476663
+updatedTimestamp: 1705853959364
 createdTimestamp: 1602591877175
-wordCount: 1216
+wordCount: 1273
 tags: []
 ---
 
@@ -150,6 +150,8 @@ The following websites about activism are not available under a creative commons
 -   [**Leading Change Network**](https://leadingchangenetwork.org/resource-center/?utm_source=activisthandbook.org) ([Twitter](https://twitter.com/LeadingChangeNt?utm_source=activisthandbook.org)): We're a global community working for local and systemic change. We exist to develop civic leadership, organizations and campaigns to change the world.
     
 -   [**NEON**](https://www.neweconomyorganisers.org/work/support-resources/toolkits?utm_source=activisthandbook.org): "We offer hands-on support and training for campaigners, organisers, communications and operations teams working across social movements." Also check out their [webinars](https://www.neweconomyorganisers.org/work/support-resources/webinars-skillshares?utm_source=activisthandbook.org) and [messaging guides](https://www.neweconomyorganisers.org/work/support-resources/webinars-skillshares?utm_source=activisthandbook.org).
+    
+-   [**WeRise**](https://werise-toolkit.org/en/toolkit?utm_source=activisthandbook.org): "We Rise is a Resource For Anyone Who Wants to Change the World. You will learn from living movement building stories, the strategic choices on which they are built, and hear the voices of those involved. You can download tools and related material for use in your own work wherever you are and whatever your needs."
     
 
 ## Blogs, journals & magazines

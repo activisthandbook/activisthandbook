@@ -6,9 +6,9 @@ description: >
 langCode: en
 articleID: _FhS3DYPgN9p0h3elRVarmYTU8jQvcTA
 languageCollectionID: _umEWSFrid1WEvO8qO_6umUHhX8sIc49
-updatedTimestamp: 1705839740147
+updatedTimestamp: 1705850633371
 createdTimestamp: 1583509229031
-wordCount: 960
+wordCount: 958
 tags: ["tools","chapters"]
 ---
 
@@ -20,9 +20,9 @@ tags: ["tools","chapters"]
 
 -   🧑‍💻 [**What is a digital organizer?**](/tools/digital-organizing)
     
--   **💯** [**Evaluating tools**](/tools/evaluating)
+-   🛠️ [**Choosing your tech stack**](/tools/tech-stack)
     
--   🛠️ **Choosing your tech stack (coming soon)**
+-   **💯** [**Evaluating tools**](/tools/evaluating)
     
 
 ## Communication tools
