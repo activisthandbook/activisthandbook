@@ -6,9 +6,9 @@ description: >
 langCode: en
 articleID: 1klKzE-SRt1neRdmh8ZSlLmI7-9scxxN
 languageCollectionID: 1rusRm6zp4Z-ZLQrE1rJHkEnATM7Rafp
-updatedTimestamp: 1703090773832
+updatedTimestamp: 1706379885165
 createdTimestamp: 1650719261892
-wordCount: 150
+wordCount: 158
 tags: []
 ---
 
@@ -38,6 +38,8 @@ Ready to learn more?
 -   **🔢** [**Structuring articles**](/contribute/write/structure) _— What sections to use within guides_
     
 -   **💯** [**Quality guidelines**](/contribute/write/quality-guidelines) _— How to give a star rating_
+    
+-   _🏞️_ [**Image guidelines**](/contribute/write/images) _— Understand our visual language_
     
 -   **📄** [**Reference guide**](/support/writers/reference) _— Find and reference external resources_
     

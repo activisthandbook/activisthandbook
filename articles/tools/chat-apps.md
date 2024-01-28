@@ -6,9 +6,9 @@ description: >
 langCode: en
 articleID: m4uMcFhEZyoTvnn4zBDqd0RZwSnP7cNl
 languageCollectionID: KPVizBwWat4_W_BEiKmG-JlKkM_iQl99
-updatedTimestamp: 1700215958775
+updatedTimestamp: 1706402266078
 createdTimestamp: 1583664381534
-wordCount: 930
+wordCount: 1122
 tags: ["tools","social media"]
 ---
 
@@ -47,9 +47,16 @@ The chat apps below are best suited for small to medium sized groups. It is also
     
 -   [**Telegram**](/tools/chat-apps/telegram) **(best for functionality)**_:_ This app is popular in some activist groups, because it provides quite a bit of functionality for medium sized groups without becoming too complex. However, this app does not use [end-to-end encryption](/end-to-end-encryption) in group chats, and in private chats only if you specifically turn it on. Consider alternatives if you need more privacy and security.
     
--   [**Signal**](/tools/chat-apps/signal) **(best for security & privacy):** This app is not the most popular, but if you need privacy and security, Signal is definitely the way to go. Signal is remarkably easy to use, open source and trusted by security experts.
+-   [**Signal**](/tools/chat-apps/signal) **(2nd best for security & privacy):** This app is not the most popular, but if you need privacy and security, Signal is definitely the way to go. Signal is remarkably easy to use, open source and trusted by security experts.
     
 -   [**iMessage**](/tools/chat-apps/imessage): iMessage only works on iPhone, so for many activist movements it is unsuitable. The app does quite well on privacy and security aspects, but is not open source.
+    
+-   [**Matrix network apps / Element App**](https://matrix.org/?utm_source=activisthandbook.org) **(Decentralized Top for Security and Privacy)**: An open network for secure, decentralized communication.  
+    The network is decentralized and enables secure and interoperable messaging across different platforms. The protocol is designed to make messaging apps interoperable, which means that users can communicate with each other regardless of the app they use and anyone can build their own messaging app.  
+    Based on open protocols, the ecosystem already includes 21 software [clients](https://matrix.org/ecosystem/clients/?utm_source=activisthandbook.org), 5 [software servers](https://matrix.org/ecosystem/servers/?utm_source=activisthandbook.org), 26 software [bridges](https://matrix.org/ecosystem/bridges/?utm_source=activisthandbook.org) to other communication platforms, and hundreds of [severs to connect](https://servers.joinmatrix.org/?utm_source=activisthandbook.org) or install your own server.  
+    Matrix system is being used by Mozilla, Automatic Wordpress, French Public Sector, German Army etc.  
+    Element one of the secure messaging and collaboration apps that operates on the open Matrix network and was build by Matrix network developers. It supports end-to-end encryption and offers both private and public groups, voice over IP, videotelephony and conference.  
+    [**Element**](https://element.io/?utm_source=activisthandbook.org) is decentralized, allowing for digital sovereign self-hosting or through a hosting service. This puts users in control of their data, ensuring privacy and security. Element is available on various platforms including Android, iOS, Web Browser, macOS, Windows, and Linux.
     
 
 ## Solutions for large groups

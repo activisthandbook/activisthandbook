@@ -6,9 +6,9 @@ description: >
 langCode: en
 articleID: q2VAxSYX2-K8hGJTQAQZQITM_jaCYyPQ
 languageCollectionID: _bB-CaiczNwYich3btZ22rvXITFC90uh
-updatedTimestamp: 1706283304946
+updatedTimestamp: 1706288851695
 createdTimestamp: 1695881958659
-wordCount: 4011
+wordCount: 4032
 ---
 
 In this guide, we will help you find the right tools to keep track of volunteers, supporters and partner organisations using a nonprofit CRM (a people database).
@@ -130,6 +130,10 @@ Some CRMs offer the option to assign contacts to one or more local groups. That 
 ### Assign an integrator
 
 Integrating is the proces of welcoming new members, and helping them get started as active volunteers. If you have lots of new people signing up for your movement, you will likely want to divide the work of integrating them among multiple people. Many CRMs offer the option to assign an integrator to a contact person. In commercial CRMs, these integrators might be called 'owners'.
+
+### Tasks
+
+Creating tasks for integrators and other admins that are linked to contact properties. For example: "Call to welcome new volunteer".
 
 ### Manually updating contacts
 
