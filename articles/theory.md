@@ -6,9 +6,9 @@ description: >
 langCode: en
 articleID: YDhDPuRtRiSVyvpIQFEshkjwntMOHg2j
 languageCollectionID: J2Ob8I-vLt6F7hsqCHl_RhDVkGC1ybLs
-updatedTimestamp: 1702317819236
+updatedTimestamp: 1706966443820
 createdTimestamp: 1593095391290
-wordCount: 570
+wordCount: 567
 tags: []
 ---
 
@@ -68,26 +68,26 @@ As an activist, there are probably lots of things that you would like to change.
 
 We discuss terms that are frequently used in the context of change-making and investigate their meaning:
 
--   Dignity of life
+-   **Dignity of life**
     
--   [Democracy](/theory/democracy)
+-   **🗳️** [**Democracy**](/theory/democracy)
     
--   [Ecology](/theory/ecology)
+-   **🐝** [**Ecology**](/theory/ecology)
     
--   Justice
+-   **⚖️ Justice**
     
--   Power
+-   **💪 Power**
     
--   [Intersectionality](/theory/intersectionality)
+-   **♾️** [**Intersectionality**](/theory/intersectionality)
     
--   [Environmental activism and religions](/theory/activism_and_religions)
+-   **🙏** [**Environmental activism and religions**](/theory/activism_and_religions)
     
--   [Overton window](/theory/overton-window)
+-   **🪟** [**Overton window**](/theory/overton-window)
     
--   [Performative activism](/theory/performative-activism)
+-   **🎭** [**Performative activism**](/theory/performative-activism)
     
-
-People theorising what a better world could look like - Generated using OpenAI
+-   **🔥** [**Revolution**](/theory/revolution)
+    
 
 ## Improve this page
 

@@ -6,9 +6,9 @@ description: >
 langCode: en
 articleID: 0pyvmXBsK0CD53__pRHbdEpdldPTsXhw
 languageCollectionID: DzETy-5-H4GwWfZz0_ttl3fAPEBsSLBS
-updatedTimestamp: 1700038733046
+updatedTimestamp: 1706965861318
 createdTimestamp: 1647940783212
-wordCount: 1996
+wordCount: 2316
 tags: []
 ---
 
@@ -18,7 +18,7 @@ tags: []
 
 There is a wide variety of strategies. Choosing a strategy is not an easy task. First, you need to determine what you want to achieve. Based on that, you need to develop a strategy that helps you get there.
 
-## Disclaimer
+## Our recommendations
 
 The goal of Activist Handbook is not to promote one particular strategy. Instead, we aim to discuss each of them critically, to help you develop your own.
 
@@ -44,6 +44,12 @@ Each of these models focusses on questions that their respective authors found e
 
 Once you start answering some questions, you will notice that answers to other questions will logically follow. For example, if you would have moderate goals and choose to use constructive actions, it would not make sense to start doing civil disobedience.
 
+### Individual or collective?
+
+To kick things off, we start we start with a very opiniated recommendation. As an individual, you can try to change your own behaviour to make a positive impact. But the impact you can make grows significantly if you decide to act together. The more people who join your campaign, the bigger of a dent you can make. Given the fucked up state of the world we think it is important to do as much good as fast as possible. For that reason, all guides on Activist Handbook are about collective action, not individual action. Read more about this in our guide: [what is activism?](/theory/what-is-activism)
+
+From a strategic perspective, it is important to design scalable campaigns. Scalable campaigns are not about you telling lots of people what to do. They are about building structures that empower as many people as possible.
+
 ### Moderate or radical goals?
 
 Based on your vision, you know where you want to go. But it is a strategic choice for your campaign to either aim for small incremental change or for big change that addresses problems at their roots. In [Rules for Revolutionaries](/resources/rules-for-revolutionaries) (Rule 1), Bond and Exley argue that movements need big goals that match the scale of our challenges.
@@ -51,6 +57,10 @@ Based on your vision, you know where you want to go. But it is a strategic choic
 ### Constructive or disruptive actions?
 
 Do you want to bring about change through disruption, or through constructive actions (such as persuasion and innovation). Carrot or stick? How disruptive do you want to be? Do you disrupt by not doing something (noncooperation) or by doing something?
+
+Some degree of conflict is inherrent to activism. If it is in the interest of those in power to change something for the better, they will (given that there are no technical obstacles). Since activism is all about empowering marginalised people, whose interests are often different than those with power, you are bound to clash. Constructive forms of activism play an important contribution to the ecosystem of all different types change-makers, but do not confuse being constructive with avoiding conflict.
+
+Also make sure to show solidarity with other forms of activism: 'radical' activists are clearing the way for moderate activists, shifting the Overton window. Disruptive activists are fighting on the frontlines and are hit first by state repression. Do not stand by as they are being criminalised, because you will be next.
 
 ### Legal or civil disobedience?
 
@@ -60,7 +70,7 @@ In other countries, however, all or many forms of activism are criminalised. In 
 
 ### Direct or indirect action?
 
-Read the chapter 'Tactics and Targets' from the Deep Green Resistance book to learn more about [direct and indirect forms of action](https://deepgreenresistance.net/en/strategy-tactics/tactics-targets/tactics-operations-categories/?utm_source=activisthandbook.org).
+Direct actions are things you can do that immediately create the change you want to see. Indirect actions are things that help to create the conditions necessary for success. Read the chapter 'Tactics and Targets' from the Deep Green Resistance book to learn more about [direct and indirect forms of action](https://deepgreenresistance.net/en/strategy-tactics/tactics-targets/tactics-operations-categories/?utm_source=activisthandbook.org).
 
 ### Target the system or culture?
 
@@ -92,12 +102,10 @@ Do you act in full transparency, or do you do things secretly? Do invest energy 
 
 Defensive or offensive? Against things (sabotage) or people? Verbal or physical? Or not at all? And why? Because of strategic (does it work?) or moral reasons (should we do it?).
 
-> **_Please note_**_, there is an ongoing discussion on Activist Handbook of whether violence as a strategic activist approach or tactic should be considered at all, or even acknowledged / discussed as a historic reality. To contribute to this discussion please use the comments section on_ [_this page._](/discussion/violence)
+> **_Please note_**_, there is an ongoing discussion on Activist Handbook of whether violence as a strategic activist approach or tactic should be considered, or just acknowledged / discussed as a historic reality. To contribute to this discussion please use the comments section on_ [_this page._](/discussion/violence)
 
 ## External resources
 
--   Gene Sharp, [_‘From Dictatorship to Democracy’_](http://www.cfic.org.uk/media/From%20dictatorship%20to%20democracy.pdf)
-    
 -   [Frameworks for Winning Change](https://commonslibrary.org/frameworks-for-winning-change/) by Holly Hammond
     
 -   [Networked Change: How Progressive Campaigns are Won in the 21st Century](https://commonslibrary.org/networked-change/) by NetChange
@@ -107,6 +115,10 @@ Defensive or offensive? Against things (sabotage) or people? Verbal or physical?
 -   [Engaging in Elections and Building Community Power](https://commonslibrary.org/engaging-in-elections-and-building-community-power/) by Community Organising Fellowship
     
 -   [Deciding Whether to do Electoral Organizing](https://commonslibrary.org/deciding-whether-to-do-electoral-organizing/) by Joan Minieri and Paul Getsos
+    
+-   [The Social Change Grid: A Framework for Understanding Social Change](https://commonslibrary.org/the-social-change-grid-a-framework-for-understanding-social-change/?utm_source=activisthandbook.org) by Sheila McKechnie Foundation
+    
+-   [Book: From Dictatorship to Democracy](https://web.archive.org/web/20230312045743/https://www.cfic.org.uk/media/From%20dictatorship%20to%20democracy.pdf?utm_source=activisthandbook.org) by Gene Sharp
     
 
 ### Interventions

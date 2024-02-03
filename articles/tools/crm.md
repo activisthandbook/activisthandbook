@@ -6,9 +6,9 @@ description: >
 langCode: en
 articleID: q2VAxSYX2-K8hGJTQAQZQITM_jaCYyPQ
 languageCollectionID: _bB-CaiczNwYich3btZ22rvXITFC90uh
-updatedTimestamp: 1706288851695
+updatedTimestamp: 1706544347351
 createdTimestamp: 1695881958659
-wordCount: 4032
+wordCount: 4033
 ---
 
 In this guide, we will help you find the right tools to keep track of volunteers, supporters and partner organisations using a nonprofit CRM (a people database).
@@ -346,6 +346,8 @@ These CRMs were specifically built for and by activists:
 -   **NGP VAN** (only in United States)
     
 -   **Neon CRM**
+    
+-   **Citipo**
     
 
 ### Open source CRMs

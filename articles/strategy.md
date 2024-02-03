@@ -6,9 +6,9 @@ description: >
 langCode: en
 articleID: v7ONnIEx3he17_I-JD0CgqlZRX-75Zuy
 languageCollectionID: GEBMCoST8DAOBDN-LZdnxBWpOlQD18V2
-updatedTimestamp: 1700895506429
+updatedTimestamp: 1706964842533
 createdTimestamp: 1583509165087
-wordCount: 961
+wordCount: 1001
 tags: ["tactics","chapters"]
 ---
 
@@ -44,8 +44,27 @@ Before you can start to define your strategy, you need to get a group of likemin
 
 <dynamic-image imageid="58ca68ee-d1fe-40c7-aa14-5854b90c5900" alt="A dart hitting a dart board right in the center"><p>Stay focused on your goal, by <a target="_blank" href="https://edit.activisthandbook.org/author/tzmE91SnnrbJJXuvQNBl9rt6HK63">Joppe</a> | Generated using Dall-e</p></dynamic-image>
 
+## Strategic principles
+
+-   **Conflict is good**
+    
+    -   [Book: The Neutrality Trap, Disrupting and Connecting for Social Change](https://commonslibrary.org/the-neutrality-trap-disrupting-and-connecting-for-social-change-book/?utm_source=activisthandbook.org) by Bernie Mayer, Jacqueline N. Font-Guzmán
+        
+-   **Make it scalable**
+    
+-   **Build people power**
+    
+-   **Always act strategically**
+    
+-   **Dare to take risks**
+    
+-   **Take time to reflect**
+    
+
 ## Other strategy guides
 
+-   [Revolution strategy](/theory/revolution)
+    
 -   [Dealing with opposition](/strategy/opposition)
     
 -   [Power mapping](/strategy/power-mappig)
