@@ -6,9 +6,9 @@ description: >
 langCode: en
 articleID: v7ONnIEx3he17_I-JD0CgqlZRX-75Zuy
 languageCollectionID: GEBMCoST8DAOBDN-LZdnxBWpOlQD18V2
-updatedTimestamp: 1706964842533
+updatedTimestamp: 1707754827488
 createdTimestamp: 1583509165087
-wordCount: 1001
+wordCount: 1510
 tags: ["tactics","chapters"]
 ---
 
@@ -16,36 +16,43 @@ tags: ["tactics","chapters"]
 
 > **Chapter quality**: ⭐️⭐️⭐️⭐️ (4/5)
 
-With a good campaign strategy, your movement or campaign makes more impact. In the articles below, we help you define what exactly the change is that you want to achieve, and what steps you need to take to get there.
+## Introduction
 
--   **🎓** [**Strategy basics 101**](/strategy/basics)
+A campaign strategy is a **plan or roadmap** **that helps you achieve your goal** of creating some form of change in the world.
+
+This is **a series of guides** for people who have a strong drive to bring about change but do not know where to begin. With a good campaign strategy, you will make more impact. In the articles below, we help you define what exactly the change is that you want to achieve, and what steps you need to take to get there.
+
+-   **🎓** [**Basic elements**](/strategy/basics)
     
--   **📢** [**Types of campaign strategies**](/strategy/types)
+    -   _💡_ [_Vision_](/strategy/vision)
+        
+    -   _🌐_ [_Stakeholders_](/strategy/stakeholders)
+        
+    -   _🎯_ [_Goals_](/strategy/goals)
+        
+    -   _✅_ [_Objectives_](/strategy/objectives)
+        
+    -   _⚡️_ [_Tactics_](/tactics)
+        
+    -   _❓_ [_Evaluation_](/strategy/evaluation)
+        
+-   **🌊** [**Inspiration other movements**](/strategy/types)
     
--   **📝** [**Develop your own strategy**](/strategy/develop)
+-   **⭐️** [**Key principles**](#key-principles)
+    
+-   **🐘** [**Strategy sizes**](#strategy-sizes) (campaigns, movements, revolutions)
+    
+-   **📝** [**Write your own**](/strategy/develop)
     
 
-Before you can start to define your strategy, you need to get a group of likeminded people together and [organise yourselves](/organising). After you have defined your strategy, we recommend you to browse through our [list of tactics](/tactics) to get inspiration.
-
-## Write your strategy
-
--   **💡** [**Vision**](/strategy/vision)
-    
--   **🌐** [**Stakeholders**](/strategy/stakeholders)
-    
--   **🎯** [**Goals**](/strategy/goals)
-    
--   **✅** [**Objectives**](/strategy/objectives)
-    
--   **⚡️** [**Tactics**](/tactics)
-    
--   **❓** [**Evaluation**](/strategy/evaluation)
-    
+> Before you can start to define your strategy, you need to get a group of likeminded people together and [organise yourselves](/organising). After you have defined your strategy, we recommend you to browse through our [list of tactics](/tactics) to get inspiration.
 
 <dynamic-image imageid="58ca68ee-d1fe-40c7-aa14-5854b90c5900" alt="A dart hitting a dart board right in the center"><p>Stay focused on your goal, by <a target="_blank" href="https://edit.activisthandbook.org/author/tzmE91SnnrbJJXuvQNBl9rt6HK63">Joppe</a> | Generated using Dall-e</p></dynamic-image>
 
-## Strategic principles
+## Key principles
 
+-   **Context is key:** A strategy is a roadmap that helps you get from A to B. Where are you now? Where do you want to go? What obstacles will you come across trying to reach your goal?
+    
 -   **Conflict is good**
     
     -   [Book: The Neutrality Trap, Disrupting and Connecting for Social Change](https://commonslibrary.org/the-neutrality-trap-disrupting-and-connecting-for-social-change-book/?utm_source=activisthandbook.org) by Bernie Mayer, Jacqueline N. Font-Guzmán
@@ -61,10 +68,32 @@ Before you can start to define your strategy, you need to get a group of likemin
 -   **Take time to reflect**
     
 
+## Strategy sizes
+
+Strategies come in different sizes: there are small plans to bring about small change, and big plans to bring about big change.
+
+Some activists like to make small plans, because they feel that they have more control over things that are close to them. Other activists like to think about big plans, because they want to see big change. As an effective change-maker, you need to learn to do both, and balance them:
+
+-   **Develop small, actionable, plans:** While dreaming about big plans to create a better world is valuable, it can also be a bit too theoretical. Small strategies enable you to determine what you are going to do today, tomorrow, and the few next months.
+    
+-   **Understand how small actions fit within bigger stories:** While taking action is good, it can be a bit demotivating to compare the small footprint of your actions with the scale of the fucked-up-ness of the world. For your mental health, it is essential to understand your role within the bigger picture. Dare to dream big, because you are not alone, and together big change is possible.
+    
+
+The smaller the plan, the more concrete things become for you as an individual player within that strategy. The bigger the plan, the better you understand the way the world works.
+
+### Campaigns, movements & revolutions
+
+To make our guides a bit more concrete, instead of talking about 'small' and 'big' strategies, Activist Handbook discusses the following three levels of strategies:
+
+1.  **Campaign strategy:** a plan for a few months that helps you achieve relatively small but meaningful change. You cannot change the world with a single campaign, but many campaigns can. Your campaign can be the tipping point.
+    
+2.  **Movement strategy:** a bigger story that keeps people involved with your organisation over the span of multiple campaigns. The more persistent your activism, the bigger issues you can address. Movements stay around much longer than campaigns and can thus bring about more fundamental change, but they also come with their own unique challenges.
+    
+3.  [**Revolution strategy**](/theory/revolution): a story that tells how power is redistributed on a societal level, as the result of the collective effort of many activist groups and organisations. It is not possible for an individual to develop a strategy for a revolution, but it is possible to understand their workings and redefine their workings by introducing new perspectives. The most visible part of a revolution (the short moment big change suddenly happens) is not the most interesting thing from the perspective of strategies (all the things that happen before and after are).
+    
+
 ## Other strategy guides
 
--   [Revolution strategy](/theory/revolution)
-    
 -   [Dealing with opposition](/strategy/opposition)
     
 -   [Power mapping](/strategy/power-mappig)
