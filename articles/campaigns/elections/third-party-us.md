@@ -6,9 +6,9 @@ description: >
 langCode: en
 articleID: HMK5sJ5HJI1eGM_Lf0SY61DAv8KQC-Ao
 languageCollectionID: H2SCW8af0Lk95U82jblwaPiyMLxVN5V8
-updatedTimestamp: 1703551075270
+updatedTimestamp: 1707853086764
 createdTimestamp: 1702596551251
-wordCount: 1212
+wordCount: 1756
 ---
 
 ## Short-term goals
@@ -21,14 +21,14 @@ Many voters feel that the two major US political parties (Democrat and Republica
     
 2.  **Single Issue Voter:** Whereas established political parties must appeal to a wide base of voters, third-party candidates are free to ardently champion for specific policies and priorities. This may lead to _principle over pragmatism_, when a voter chooses to vote for a candidate who truly represents their values even if that candidate has a lower chance of winning. 
     
-3.  **Centrist Voter**: Alternatively, third-party candidates may position themselves as more centrist. By offering a middle ground instead of strictly aligning with the ideologies of a major party, they may appeal to voters who agree with some aspects of both establishment parties but not all aspects of either one. 
+3.  **Centrist Voter**: Alternatively, third-party candidates may position themselves as more centrist. By offering a middle ground instead of strictly aligning with the ideologies of a major party, they may appeal to voters who agree with some aspects of both establishment parties but not all aspects of either one.
     
-    ### Breaking the Two-Party Duopoly
-    
-    Critics argue that the dominance of the two major parties limits political competition, stifles alternative voices, and guarantees the continuation of the status quo.
-    
-    Voting for a third-party candidate is seen as a way to break this duopoly and encourage a more diverse political landscape. Advocates argue that a more diverse political landscape could potentially lead to a broader range of policy options and increase accountability among politicians and civil servants. 
-    
+
+### Breaking the Two-Party Duopoly
+
+Critics argue that the dominance of the two major parties limits political competition, stifles alternative voices, and guarantees the continuation of the status quo.
+
+Voting for a third-party candidate is seen as a way to break this duopoly and encourage a more diverse political landscape. Advocates argue that a more diverse political landscape could potentially lead to a broader range of policy options and increase accountability among politicians and civil servants. 
 
 ## Long-term goals
 
@@ -58,31 +58,31 @@ Third-party movements often emphasize grassroots organizing and community engage
 
 ### Yes! These are the alternative political parties in the USA
 
-### Libertarian
+#### Libertarian
 
 This party tends to lean conservative. It advocates for limited government, individual freedoms, and free-market capitalism.
 
-### Green
+#### Green
 
 This party tends to lean progressive. It emphasizes environmentalism, social justice, and grassroots organization.
 
-### Constitution
+#### Constitution
 
 This party is conservative and focuses on a strict adherence to the US Constitution along with limited government.
 
-### Working Families
+#### Working Families
 
 This party is progressive and often cross-endorses Democratic candidates.
 
-### Socialist (PSL)
+#### Socialist (PSL)
 
 This party advocates for socialist and progressive policies. They may cross-endorse with Working Families candidates and/or Democratic candidates.
 
-### Independent
+#### Independent
 
 This is a catch-all designation for any candidate who chooses not to affiliate with any of the above political parties. Because of this, the platform of this "party,"
 
-### State-Specific Parties
+#### State-Specific Parties
 
 Alaskan Independence Party: Advocates for the state's independence from the United States.
 
@@ -137,6 +137,29 @@ Both of these political parties have primary processes that mimic the process of
 
 ### Below, we will provide an overview of each step. We will also provide charts that include state specific rules and regulations as we go.
 
-\*\*
+#### A third-party candidate can appear on the ballot of a given state in one of three ways:
 
-This guide is still in-progress. Future pages will discuss US 3rd parties, their nomination processes, the steps to getting a 3rd party candidate on the ballot, and challenges with strategies to overcome them.
+1: The candidate can run as a "write in."
+
+1.  The candidate can run as the nominated candidate for a pre-existing third party political entity.
+    
+2.  The candidate can, with help, create a third party political entity and, once that entity has gained recognition, run as its nominated candidate.
+    
+
+#### For the purposes of this guide, we will focus on the second and third options.
+
+**Before we discuss the regulations for forming a new political party,** **here is a chart to indicate _which parties currently exist_ in each of the 50 United States.** Note that each of these parties will have a slightly different nomination process and that process may vary from state to state. If you are interested in garnering the nomination from an existing third-party political entity, you should reach out to them directly.
+
+This portion of the guide is still in progress and will be updated with the remainder of states as the authors are able.
+
+<table><tbody><tr><th><p>Abbreviation Key</p></th></tr><tr><td><p>A: active</p><p>NA: not active</p><p>R: recognized as a political party with ballot privileges</p><p>NR: not recognized</p><p>NR*: these parties have requested recognition, but it has not gone through as of the time this article was written</p></td></tr></tbody></table>
+
+<table><tbody><tr><th><p>state</p></th><th><p>Libertarian</p></th><th><p>Green</p></th><th><p>Party for Socialism and Liberty</p></th><th><p>Working Families</p></th><th><p>Constitution</p></th></tr><tr><td><p>Alabama</p></td><td><p>A/R</p></td><td><p>A/NR</p></td><td><p>NA/NR</p></td><td><p>NA/NR</p></td><td><p>NA/NR</p></td></tr><tr><td><p>Alaska</p></td><td><p>A/R</p></td><td><p>NA/NR</p></td><td><p>NA/NR</p></td><td><p>NA/NR</p></td><td><p>NA/NR</p></td></tr><tr><td><p>Arizona</p></td><td><p>A/R</p></td><td><p>A/NR</p></td><td><p>NA/NR</p></td><td><p>NA/NR</p></td><td><p>NA/NR</p></td></tr><tr><td><p>Arkansas</p></td><td><p>A/R</p></td><td><p>A/NR</p></td><td><p>A</p></td><td><p>NA/NR</p></td><td><p>NA/NR</p></td></tr><tr><td><p>California</p></td><td><p>A/R</p></td><td><p>A/R</p></td><td><p>NA/NR</p></td><td><p>NA/NR</p></td><td><p>NA/NR</p></td></tr><tr><td><p>Colorado</p></td><td><p>A/R</p></td><td><p>A/R</p></td><td><p>A</p></td><td><p>NA/NR</p></td><td><p>A/R</p></td></tr><tr><td><p>Connecticut</p></td><td><p>A/R</p></td><td><p>A/R</p></td><td><p>NA/NR</p></td><td><p>A/R</p></td><td><p>NA/NR</p></td></tr><tr><td><p>Delaware</p></td><td><p>A/R</p></td><td><p>A/R</p></td><td><p>NA/NR</p></td><td><p>NA/NR</p></td><td><p>NA/NR</p></td></tr><tr><td><p>Florida</p></td><td><p>A/R</p></td><td><p>A/R</p></td><td><p>A/R</p></td><td><p>NA/NR</p></td><td><p>A/R</p></td></tr><tr><td><p>Georgia</p></td><td><p>no</p></td><td><p>NA/NR</p></td><td><p>NA/NR</p></td><td><p>NA/NR</p></td><td><p>NA/NR</p></td></tr><tr><td><p>Hawaii</p></td><td><p>A/R</p></td><td><p>A/NR*</p></td><td><p>A/NC*</p></td><td><p>NA/NR</p></td><td><p>NA/NR</p></td></tr><tr><td><p>Idaho</p></td><td><p>A/R</p></td><td><p>NA/NR</p></td><td><p>NA/NR</p></td><td><p>NA/NR</p></td><td><p>A/R</p></td></tr><tr><td><p>Illinois</p></td><td><p>A/NR</p></td><td><p>A/NR</p></td><td><p>NA/NR</p></td><td><p>NA/NR</p></td><td><p>NA/NR</p></td></tr><tr><td><p>Indiana</p></td><td><p>A/R</p></td><td><p>A/NR</p></td><td><p>NA/NR</p></td><td><p>NA/NR</p></td><td><p>NA/NR</p></td></tr><tr><td><p>Iowa</p></td><td><p>A/R</p></td><td><p>A/NR</p></td><td><p>NA/NR</p></td><td><p>NA/NR</p></td><td><p>NA/NR</p></td></tr><tr><td><p>Kansas</p></td><td><p>A/R</p></td><td><p>A/NR</p></td><td><p>NA/NR</p></td><td><p>NA/NR</p></td><td><p>NA/NR</p></td></tr><tr><td><p>Kentucky</p></td><td><p>A/NR</p></td><td><p>A/NR</p></td><td><p>NA/NR</p></td><td><p>NA/NR</p></td><td><p>NA/NR</p></td></tr><tr><td><p>Louisiana</p></td><td><p>A/R</p></td><td><p>A/R</p></td><td><p>A/NR</p></td><td><p>NA/NR</p></td><td><p>NA/NR</p></td></tr><tr><td><p>Maine</p></td><td><p>A/R</p></td><td><p>A/NR</p></td><td><p>NA/NR</p></td><td><p>NA/NR</p></td><td><p>NA/NR</p></td></tr><tr><td><p>Maryland</p></td><td><p>A/R</p></td><td><p>NA/NR</p></td><td><p>NA/NR</p></td><td><p>NA/NR</p></td><td><p>A/R</p></td></tr><tr><td><p>Massachusettes</p></td><td><p>A/R</p></td><td><p>A/NR*</p></td><td><p>NA/NR</p></td><td><p>A/NR*</p></td><td><p>A/NR*</p></td></tr></tbody></table>
+
+The following states have additional recognized independent parties (an \* indicates that a party has petitioned for recognition but has not received it as of the writing of this guide):
+
+<table><tbody><tr><th><p>State</p></th><th><p>Party Name</p></th></tr><tr><td><p>Alaska</p></td><td><p>Alaska Independent Party</p></td></tr><tr><td><p>California</p></td><td><p>Peace and Freedom, American Independent</p></td></tr><tr><td><p>Colorado</p></td><td><p>Approval Voting, Colorado Center, No Labels, Unity</p></td></tr><tr><td><p>Connecticut</p></td><td><p>Independent</p></td></tr><tr><td><p>Delaware</p></td><td><p>Independent, Non-Partisan Delaware</p></td></tr><tr><td><p>Florida</p></td><td><p>Boricu, Coalition with a Purpose, Conservative, Ecology, Florida Forward, No Labels, People's Party</p></td></tr><tr><td><p>Hawaii</p></td><td><p>No Labels, Solidarity Party (the following have petitioned but are not yet approved: 1787 National Committee, Aloha Aina, American Shopping, Free Will, New Republican, Royal Hawaiian</p></td></tr><tr><td><p>Indiana</p></td><td><p>Disability*</p></td></tr><tr><td><p>Louisiana</p></td><td><p>Independent</p></td></tr><tr><td><p>Maine</p></td><td><p>No Labels, Forward, People's All*</p></td></tr><tr><td><p>Maryland</p></td><td><p>American's Elect, Bread and Roses, Independent</p></td></tr><tr><td><p>Massachusetts</p></td><td><p>The following parties are recognized, but not eligible for primaries. Additionally, they are considered "non-party" for ballot designations:</p><p></p><p>America First, American Independent Party, American Term Limits, Conservative Party, Constitution Party, Green Party, Green-Rainbow, Interdependent 3rd party, Latino-Vote, Massachusetts Independent, Natural Law, New Alliance, New World Council, Pirate, Pizza Party, Prohibition, Rainbow Coalition, Reform, Socialist, The People's Party, Twelve Visions, Timesizing Not Downsizing, United Independent, Unity, Veterans, We The People, Workers, Working Families, World Citizens</p></td></tr></tbody></table>
+
+## Improve this page
+
+This guide is still in-progress. You can help! Future pages will discuss US 3rd parties, their nomination processes, the steps to getting a 3rd party candidate on the ballot, and challenges with strategies to overcome them.
