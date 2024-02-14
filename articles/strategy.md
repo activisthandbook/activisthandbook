@@ -6,9 +6,9 @@ description: >
 langCode: en
 articleID: v7ONnIEx3he17_I-JD0CgqlZRX-75Zuy
 languageCollectionID: GEBMCoST8DAOBDN-LZdnxBWpOlQD18V2
-updatedTimestamp: 1707912759795
+updatedTimestamp: 1707919923217
 createdTimestamp: 1583509165087
-wordCount: 2343
+wordCount: 3425
 tags: ["tactics","chapters"]
 ---
 
@@ -18,7 +18,7 @@ tags: ["tactics","chapters"]
 
 ## Introduction
 
-This is **a series of guides** for people who have a strong drive to bring about change but do not know where to begin. With a good campaign strategy, you will make more impact. In these guides, we help you define what exactly the change is that you want to achieve, and what steps you need to take to get there:
+This is **a series of guides** for groups and organisations that want to know how to act more strategically and make more impact. After reading these guides, you will understand better what exactly the change is that you want to achieve, and what steps you need to take to get there:
 
 -   🎯 [**What is a campaign strategy?**](#what-is-a-campaign-strategy)
     
@@ -41,7 +41,11 @@ This is **a series of guides** for people who have a strong drive to bring about
 
 ## What is a campaign strategy?
 
-A campaign strategy is a **plan or roadmap** **that helps you achieve your goal** of creating some form of change in the world. It is made up out of these basic elements:
+A campaign strategy is a **plan or roadmap** **that helps you achieve your goal.** It helps you take smart actions to make more impact.
+
+Strategies can be used for anything. In the commercial sector, business strategies are used to make more profit. Activists use campaign strategies to bring about positive social change.
+
+A campaign strategy is made up out of these basic elements:
 
 ### **1\. Vision 💡**
 
@@ -80,7 +84,9 @@ The best way of understanding [**objectives**](https://activisthandbook.org/stra
 
 ### 5\. Tactics 📢
 
-[**Tactics**](https://activisthandbook.org/tactics) are something we have an entire chapter about. They are, in a nutshell, concrete series of actions that we plan and execute in order to meet our strategic goals. Depending on your strategies some tactics might be more relevant than others. Different tactics attract people with different values and have varying degrees of success. Make sure not to confuse tactics and values. _Solidarity_ or _youth participation_are not tactics, those are values that tactics such as cooperatives or student parliaments might help strengthen.
+[**Tactics**](https://activisthandbook.org/tactics) are something we have an entire chapter about. They are, in a nutshell, concrete series of actions that we plan and execute in order to meet our strategic objectives and goals. Depending on your strategies some tactics might be more relevant than others.
+
+Different tactics attract people with different values and have varying degrees of success. Make sure not to confuse tactics and values. _Solidarity_ or _youth participation_ are not tactics, those are values that tactics such as cooperatives or student parliaments might help strengthen.
 
 > **_Example:_** _You want all major news media to write about your idea of a citizens assembly. To achieve that, you want to use the tactic of putting up posters. Your plan is to distribute 5.000 large posters throughout the country with a controversial statement on it, in the hope of getting lots of media attention._
 
@@ -92,22 +98,72 @@ The [**evaluation**](https://activisthandbook.org/strategy/evaluation) is import
 
 ## Key principles
 
--   **Context is key:** A strategy is a roadmap that helps you get from A to B. Where are you now? Where do you want to go? What obstacles will you come across trying to reach your goal?
+Developing a campaign strategy from zero can be a bit overwhelming. So we identified some key principles based on campaigns organised by experienced change-makers. Build your campaign strategy upon these foundations:
+
+### **Conflict is good**
+
+Many people do not like standing out, going against the current. They like being 'in the middle' or 'neutral'. If you want to become effective as a change-maker, you need to learn **swimming against the current**. Being an activist is like being a hero: you do things that many other people do not dare to. Activists do things others think are impossible. Be brave.
+
+Activism is about **making trouble**. You are unhappy about the way things are, so you say and do things to bring about change. There will always be people that benefit from the status quo (how things are right now). They will not like you trying to change things, so they will try to stop you. These are usually people with lots of power and money. They will try to convince other people that they should also be angry at you, even if the change you want is actually in their interest (for example, by publishing negative news about you in the outlets they own).
+
+Being 'neutral' is like saying: I am ok with the way things are, I will not disrupt. Activism is the opposite. Impactful campaign strategies make use of disruption: you make noise, stand in the way or build alternatives that make the status quo irrelevant. Effective campaign strategies also take into account backlash.
+
+**Those in power do not listen to reason, information or moral arguments** when it comes to things that are against their interests. They listen to material disruption of their interests. For example, most employers will only give their employees higher wages and fair working conditions if they go on strike. Democracy, women's voting rights, the end of segregation: all the result of people deciding to disrupt until they got what they demanded.
+
+**The degree to which you make trouble can vary**: from changing the system 'from the inside' (for example, by going into politics), to blowing up pipelines. But there will always be a certain level of conflict. If there is no conflict, the change you are bringing about is too small for anyone to care about. [Learn more about neutrality, disruption and social change](https://commonslibrary.org/the-neutrality-trap-disrupting-and-connecting-for-social-change-book/?utm_source=activisthandbook.org) in the book written by Bernie Mayer, Jacqueline N. Font-Guzmán.
+
+### **Build people power**
+
+[People power](/theory/people-power), or collective citizen action, can drive social and political change through voting, protests, strikes, and other forms of direct action. Impactful campaign strategies make use of people power to bring about social change.
+
+History shows its power to challenge authority, fight for equality, and spark significant societal shifts. It also empowers communities to shape their future by acting together, bypassing reliance on external factors. It works in two ways:
+
+#### **Make decisions together**
+
+Engage your community in productive dialogue and shared decision-making. This strengthens internal democracy and challenges the need for external authority figures. This is how to incorporate people power through collective decision-making into your campaign strategy:
+
+-   **Gather diverse perspectives:** Involve marginalized groups directly in shaping the campaign goals, strategies, and messaging. Organize workshops, surveys, and discussions to ensure all voices are heard.
     
--   **Conflict is good**
+-   **Facilitate inclusive decision-making processes:** Use tools like consensus-building or ranked-choice voting to reach decisions that represent the collective will, not just the loudest voices.
     
-    -   [Book: The Neutrality Trap, Disrupting and Connecting for Social Change](https://commonslibrary.org/the-neutrality-trap-disrupting-and-connecting-for-social-change-book/?utm_source=activisthandbook.org) by Bernie Mayer, Jacqueline N. Font-Guzmán
-        
--   **Make it scalable**
+-   **Empower community ownership:** Train and equip individuals within the movement to take on leadership roles and responsibilities.
     
--   **Build people power**
+
+#### **Directly challenge existing power structures**
+
+Create effective plans to transform individuals into a powerful collective that demands attention. Develop clear goals and define the best courses of action to achieve them. Design a campaign strategy that leverages group strength:
+
+-   **Organize direct actions:** Utilise protests, strikes, boycotts, or civil disobedience to draw attention to your cause and disrupt the status quo.
     
--   **Always act strategically**
+-   **Build alternatives:** Strengthen your community by building alternatives to a state-provided social safety net. Decrease dependance on commercial and government solutions, and challenge their existence by making them irrelevant.
     
--   **Dare to take risks**
+
+### **Make it scalable**
+
+A good change-maker is never satisfied. No matter the positive impact you are making, there is always more to be done. The most impactful campaign strategies are scalable. That means that the strategy is designed in such a way that there is no limit to the growth of your movement or campaign.
+
+Grassroots movements do this by turning their strategy into a template that anyone can reuse and adapt (see for example Extinction Rebellion: anyone can start a new local group just by reading their [online guides](https://extinctionrebellion.uk/act-now/resources/?utm_source=activisthandbook.org)). More institutionalised organisations do this by making use of a form of organising called '[big organising](/resources/rules-for-revolutionaries)'.
+
+An important factor in the scalability of your strategy is the way you make use of your resources (for example: money, paid staff, buildings). For example:
+
+-   If every group of 10 volunteers needs one paid staffer for support, you need to hire a new employee for every 10 new volunteers. That is not scalable.
     
--   **Take time to reflect**
+-   If you make use of publicly available buildings to meet up, such as libraries, you can have people meet up anywhere without worrying about the costs of renting locations. That is scalable.
     
+
+### **Dare to take risks**
+
+Nobody ever changed society by doing things the way they have always been done. Big wins are only possible by taking big risks. Obviously, you do not want to take risks where it is not absolutely necessary. But as an example of a case where taking risk is a no-brainer: if we do not radically transform our society right now, we will face definite climate collapse, with disastrous impacts for people around the globe.
+
+We need lots of people trying out lots of things. Most strategies will fail to bring about any significant change, but we only need one successful campaign to win.
+
+Taking risks does not mean doing anything, including stupid things. We still need to be smart and strategic. Actions of one group can negatively impact a social movement as a whole. But they can also be beneficial for each other in unexpected ways. For example, some [research](https://academic.oup.com/pnasnexus/article/1/3/pgac110/6633666?utm_source=activisthandbook.org) has shown that actions of the radical flanks of social movements can actually increase support for more the moderate flanks, even if the radical groups themselves were unpopular due.
+
+### **Take time to reflect**
+
+Many activist movements struggle to make enough time to reflect. People are always so busy taking action, they have little time to think about whether their actions are actually creating the desired effect. Activist like to act, and that is a good thing: that is much better than politicians only talking, never actually doing anything. However, it is important to find the right balance. Acting without thinking does not make much sense either.
+
+Do not complain about being too busy. Having time for things is a matter of priorities. Reflecting is vital, so just make time for it. That means frequently deciding not to do other things. Also remember: urgency is not the same as importance.
 
 ## Strategy sizes
 
@@ -185,32 +241,9 @@ The local context across countries can impact activists trying to develop their 
 
 You can make this chapter about campaign strategies better!
 
-Some potential new sub-pages/sections:
+**Some potential new sub-pages/sections:**
 
--   **What is a campaign strategy?**
-    
--   **Types of campaign strategies**:
-    
-    -   Different models of categorising strategies, for example:
-        
-        -   political/activist/nonprofit strategy
-            
-        -   aboveground/underground
-            
-        -   community/big organizing
-            
-        -   mobilizing/organizing
-            
-        -   working within the system/challenging the system
-            
-        -   violent or nonviolent?
-            
 -   Interventions: things your movement can change about society/in a community (see more in ‘types of strategies’)
-    
-
-Chapter organisation:
-
--   Add link to ‘power mapping’ guide on ‘stakeholders’ page
     
 -   Dealing with backlash
     
@@ -220,6 +253,11 @@ Chapter organisation:
         
     -   Responding
         
+
+**Chapter organisation:**
+
+-   Add link to ‘power mapping’ guide on ‘stakeholders’ page
+    
 
 ### Search keywords
 
