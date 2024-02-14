@@ -6,48 +6,89 @@ description: >
 langCode: en
 articleID: v7ONnIEx3he17_I-JD0CgqlZRX-75Zuy
 languageCollectionID: GEBMCoST8DAOBDN-LZdnxBWpOlQD18V2
-updatedTimestamp: 1707754827488
+updatedTimestamp: 1707912759795
 createdTimestamp: 1583509165087
-wordCount: 1510
+wordCount: 2343
 tags: ["tactics","chapters"]
 ---
 
-**In this chapter, we explain what a campaign strategy is. We show various examples of different types of campaign strategies that activists use, and we provide you with workshops to help you write your own!**
+**In this chapter, we explain what a campaign strategy is. We give examples of different types of campaign strategies that activists use. And we provide templates and workshops to develop your own strategy.**
 
 > **Chapter quality**: ⭐️⭐️⭐️⭐️ (4/5)
 
 ## Introduction
 
-A campaign strategy is a **plan or roadmap** **that helps you achieve your goal** of creating some form of change in the world.
+This is **a series of guides** for people who have a strong drive to bring about change but do not know where to begin. With a good campaign strategy, you will make more impact. In these guides, we help you define what exactly the change is that you want to achieve, and what steps you need to take to get there:
 
-This is **a series of guides** for people who have a strong drive to bring about change but do not know where to begin. With a good campaign strategy, you will make more impact. In the articles below, we help you define what exactly the change is that you want to achieve, and what steps you need to take to get there.
-
--   **🎓** [**Basic elements**](/strategy/basics)
+-   🎯 [**What is a campaign strategy?**](#what-is-a-campaign-strategy)
     
-    -   _💡_ [_Vision_](/strategy/vision)
-        
-    -   _🌐_ [_Stakeholders_](/strategy/stakeholders)
-        
-    -   _🎯_ [_Goals_](/strategy/goals)
-        
-    -   _✅_ [_Objectives_](/strategy/objectives)
-        
-    -   _⚡️_ [_Tactics_](/tactics)
-        
-    -   _❓_ [_Evaluation_](/strategy/evaluation)
-        
 -   **🌊** [**Inspiration other movements**](/strategy/types)
     
 -   **⭐️** [**Key principles**](#key-principles)
     
--   **🐘** [**Strategy sizes**](#strategy-sizes) (campaigns, movements, revolutions)
+-   **🐘** [**Strategy levels**](#strategy-sizes): campaigns, organisations & revolution
     
--   **📝** [**Write your own**](/strategy/develop)
+-   **📝** [**Develop your own strategy**](/strategy/develop)
     
+    -   📄 [Templates](/strategy/develop#templates)
+        
+    -   💬 [Workshops](/strategy/develop#workshops)
+        
 
-> Before you can start to define your strategy, you need to get a group of likeminded people together and [organise yourselves](/organising). After you have defined your strategy, we recommend you to browse through our [list of tactics](/tactics) to get inspiration.
+> Before you can start to define your strategy, you need to get a group of likeminded people together and [organise yourselves](/organising). After you have defined your strategy, we recommend you to browse through our [list of tactics](/tactics) to get inspiration for actions to organise.
 
 <dynamic-image imageid="58ca68ee-d1fe-40c7-aa14-5854b90c5900" alt="A dart hitting a dart board right in the center"><p>Stay focused on your goal, by <a target="_blank" href="https://edit.activisthandbook.org/author/tzmE91SnnrbJJXuvQNBl9rt6HK63">Joppe</a> | Generated using Dall-e</p></dynamic-image>
+
+## What is a campaign strategy?
+
+A campaign strategy is a **plan or roadmap** **that helps you achieve your goal** of creating some form of change in the world. It is made up out of these basic elements:
+
+### **1\. Vision 💡**
+
+Your [**vision**](https://activisthandbook.org/strategy/vision) is your analysis of the root problem and your big ideas on how to make the world a better place.
+
+> **_Example_**_: You might argue that the climate crisis is caused by a political system that gives more power to people with lots of money. However, you still believe there is the possibility_ of _changing this unfair system, by getting together enough people. You want to build a new political system that gives a voice to everyone, especially those impacted most by the climate crisis._
+
+### 2\. Stakeholders 🌐
+
+[**Stakeholders**](https://activisthandbook.org/strategy/stakeholders) are all the individuals, groups of people and organisations that are relevant to your movement.
+
+> **_Example:_** _You might want to analyse who are the stakeholders for your climate justice campaign. First of all, there are the people who are impacted by the climate crisis. Secondly, you have a list of allies, such as other environmental organisations. Thirdly, you have opponents because they profit from the current system, such as fossil fuel companies and politicians that get funded by them. Finally, you have targets, such as political parties that usually get a lot of votes from people who care about the climate._
+
+### 3\. Goals 🎯
+
+Your [**goals**](https://activisthandbook.org/strategy/goals) are the concrete things that you want to achieve with your movement. Your goals define the scope of what your movement focuses on, within your broader vision.
+
+> **_Example:_** _Your movement has the goal of letting people decide about the future of our planet, instead of the lobbyists of fossil fuel companies._ _You want to do so by demanding from your politicians to organise a citizens assembly that has the power to implement new environmental policies._
+
+### 4\. Objectives ✅
+
+The best way of understanding [**objectives**](https://activisthandbook.org/strategy/objectives) without confusing them with goals is to identify them as specific tasks that explain exactly how the goals are achieved. Objectives are the most specific elements of strategies and are mostly used to decide on action plans. Ideally, they are SMART:
+
+-   Specific and Strategic
+    
+-   Measurable
+    
+-   Achievable
+    
+-   Realistic
+    
+-   Time bound.
+    
+
+> **_Example_**_: You want your national parliament to organise a citizens assembly about the climate crisis. As a first step, you set the following objective: you want all major news media to write about your idea of a citizens assembly in the coming month because you think this will help create public support._
+
+### 5\. Tactics 📢
+
+[**Tactics**](https://activisthandbook.org/tactics) are something we have an entire chapter about. They are, in a nutshell, concrete series of actions that we plan and execute in order to meet our strategic goals. Depending on your strategies some tactics might be more relevant than others. Different tactics attract people with different values and have varying degrees of success. Make sure not to confuse tactics and values. _Solidarity_ or _youth participation_are not tactics, those are values that tactics such as cooperatives or student parliaments might help strengthen.
+
+> **_Example:_** _You want all major news media to write about your idea of a citizens assembly. To achieve that, you want to use the tactic of putting up posters. Your plan is to distribute 5.000 large posters throughout the country with a controversial statement on it, in the hope of getting lots of media attention._
+
+### 6\. Evaluation 📊
+
+The [**evaluation**](https://activisthandbook.org/strategy/evaluation) is important to reflect on what you are doing and determine whether it is effective. We want to have reliable ways of evaluating our own success and that can help us see our weak spots so we can improve them. Metrics play a very important role in this type of measurement.
+
+> **_Example:_** _Putting up posters was only your first step in getting closer to a citizens assembly. You want to know if using posters as a means to get media attention worked: How many news media wrote about your action? Do you now have enough public support so you can move on to the next phase in your campaign strategy, or do you still have some work to do there first?_
 
 ## Key principles
 
@@ -92,16 +133,34 @@ To make our guides a bit more concrete, instead of talking about 'small' and 'bi
 3.  [**Revolution strategy**](/theory/revolution): a story that tells how power is redistributed on a societal level, as the result of the collective effort of many activist groups and organisations. It is not possible for an individual to develop a strategy for a revolution, but it is possible to understand their workings and redefine their workings by introducing new perspectives. The most visible part of a revolution (the short moment big change suddenly happens) is not the most interesting thing from the perspective of strategies (all the things that happen before and after are).
     
 
+## Common challenges
+
+### Balancing urgency and strategy
+
+Activists are often driven by deep passion and urgency about their cause. This sense of urgency can sometimes lead to hastily planned strategies that may not be as effective in the long run.
+
+### Conflict within the group
+
+Differences in opinion on campaign strategies can lead to internal conflicts within the activist group. This can result in time and energy spent on dealing with internal issues rather than focusing on the campaign itself.
+
+### Goal setting
+
+Defining clear, achievable goals can be difficult, especially in movements that aim for significant systemic change. Without clear goals, it can be hard to maintain motivation or measure progress.
+
+## Strategy is not everything
+
+Organising a successful campaign is about more than just having a good strategy. We recommend you to read our guide on [**how to organise a campaign**](https://activisthandbook.org/organising/campaign) to learn about all other aspects, such as communicating your message, taking care of the wellbeing of your volunteers, your legal rights, and much more.
+
+## Conclusion
+
+Now you know what basic elements make up a campaign strategy. Make sure to dive into our in-depth guides that we have linked above, so you can learn how to put your theoretical knowledge into practice.
+
 ## Other strategy guides
 
 -   [Dealing with opposition](/strategy/opposition)
     
 -   [Power mapping](/strategy/power-mappig)
     
-
-## Political party strategy
-
-<div data-youtube-video=""><iframe width="640" height="480" allowfullscreen="true" src="https://www.youtube-nocookie.com/embed/JiOXP8B8nYA" start="0"></iframe></div>
 
 ## Local context
 
@@ -146,26 +205,6 @@ Some potential new sub-pages/sections:
             
         -   violent or nonviolent?
             
--   **How do develop your own strategy?**
-    
-    -   Writing a strategy for a new initiative
-        
-    -   Improving your current strategy
-        
--   **Workshops**
-    
-    -   Vision
-        
-        -   **💡 Vision gallery:** To help people to think big and find a common vision.
-            
-        -   **⚡️ Forcefield analysis:** To help you figure out what forces are working against you, and which are helping you move in the right direction.
-            
-        -   **🌳 Problem tree analysis (root cause analysis/problem analysis):** To find the root causes of problems.
-            
-        -   **🚶 Critical path analysis:** To find out what needs to happen to bring about change.
-            
-        -   **🏷 Naming political assumptions:** To create a better understanding in the different ways people view the world.
-            
 -   Interventions: things your movement can change about society/in a community (see more in ‘types of strategies’)
     
 
@@ -173,12 +212,20 @@ Chapter organisation:
 
 -   Add link to ‘power mapping’ guide on ‘stakeholders’ page
     
+-   Dealing with backlash
+    
+    -   What to expect
+        
+    -   Prepare
+        
+    -   Responding
+        
 
 ### Search keywords
 
 People are searching for:
 
-<table><tbody><tr><th><p>Keywords</p></th><th><p>Monthly global searches*</p></th><th><p>Relevancy</p></th></tr><tr><td><p>strategy activism</p></td><td><p>0</p></td><td><p>high</p></td></tr><tr><td><p>activist strategy</p></td><td><p>70</p></td><td><p>medium</p></td></tr><tr><td><p>activist strategies</p></td><td><p>160</p></td><td><p>high</p></td></tr><tr><td><p>campaign strategy</p></td><td><p>2.7K</p></td><td><p>high</p></td></tr><tr><td><p>forms of activism</p></td><td><p>330</p></td><td><p>high</p></td></tr><tr><td><p>types of activism</p></td><td><p>1.3K</p></td><td><p>high</p></td></tr><tr><td><p>How to deal with opposition</p></td><td><p>140</p></td><td><p>high</p></td></tr><tr><td><p>problem analysis</p></td><td><p>6.6K</p></td><td><p>low</p></td></tr><tr><td><p>root cause analysis</p></td><td><p>90.5K</p></td><td><p>low</p></td></tr><tr><td><p>5why analysis</p></td><td><p>14.8K</p></td><td><p>low</p></td></tr><tr><td><p>How to be an effective ally</p></td><td><p>30</p></td><td><p>high</p></td></tr><tr><td><p>How to run an effective campaign</p></td><td><p>20</p></td><td><p>medium</p></td></tr><tr><td><p>How to make your activism more effective</p></td><td><p>0</p></td><td><p>high</p></td></tr><tr><td><p>power mapping (overlap with irrelevant ‘power outage map’)</p></td><td><p>9.9K</p></td><td><p>medium</p></td></tr></tbody></table>
+<table><tbody><tr><th><p>Keywords</p></th><th><p>Monthly global searches*</p></th><th><p>Relevancy</p></th></tr><tr><td><p>strategy activism</p></td><td><p>0</p></td><td><p>high</p></td></tr><tr><td><p>activist strategy</p></td><td><p>70</p></td><td><p>medium</p></td></tr><tr><td><p>activist strategies</p></td><td><p>160</p></td><td><p>high</p></td></tr><tr><td><p>campaign strategy</p></td><td><p>2.7K</p></td><td><p>high</p></td></tr><tr><td><p>forms of activism</p></td><td><p>330</p></td><td><p>high</p></td></tr><tr><td><p>types of activism</p></td><td><p>1.3K</p></td><td><p>high</p></td></tr><tr><td><p>How to deal with opposition</p></td><td><p>140</p></td><td><p>high</p></td></tr><tr><td><p>problem analysis</p></td><td><p>6.6K</p></td><td><p>low</p></td></tr><tr><td><p>root cause analysis</p></td><td><p>90.5K</p></td><td><p>low</p></td></tr><tr><td><p>5why analysis</p></td><td><p>14.8K</p></td><td><p>low</p></td></tr><tr><td><p>How to be an effective ally</p></td><td><p>30</p></td><td><p>high</p></td></tr><tr><td><p>How to run an effective campaign</p></td><td><p>20</p></td><td><p>medium</p></td></tr><tr><td><p>How to make your activism more effective</p></td><td><p>0</p></td><td><p>high</p></td></tr><tr><td><p>power mapping (overlap with irrelevant ‘power outage map’)</p></td><td><p>9.9K</p></td><td><p>medium</p></td></tr><tr><td><p>political party strategy</p></td><td><p></p></td><td><p></p></td></tr></tbody></table>
 
 _\*According to Semrush_
 
@@ -238,3 +285,24 @@ _\*According to Semrush_
 -   [Political Campaign Strategies to Win an Election](https://www.linkedin.com/pulse/what-political-campaign-strategies-win-election-chunav-parchar?utm_source=activisthandbook.org) by Chunav Parchar (2023)
     
 -   [Organizing: People, Power, Change](https://commonslibrary.org/organizing-people-power-change/?utm_source=activisthandbook.org) by Leading Change Network, Marshall Ganz, New Organizing Institute, Peter Gibbs, Shea Sinnott
+    
+-   [Building a campaign strategy](http://www.stopclustermunitions.org/media/330831/Campaign-Toolkit-Chapter-3-Building-a-Campaign-Strategy-low-res-.pdf) by Stop Cluster Munitions \[PDF\]
+    
+-   [Campaign strategies](https://archive.informationactivism.org/basic1.html) by 10 Tactics
+    
+-   [Election Campaign Strategies](https://www.ecanvasser.com/blog/campaign-strategies) by Ecanvasser
+    
+-   [Campaigning for Social Change: Beyond Just Protesting For It](https://commonslibrary.org/campaigning-for-social-change-beyond-just-protesting-for-it/) by Daniel Hunter
+    
+-   [The Building Power Guide](https://commonslibrary.org/building-power/) by Original Power
+    
+-   [Research for your strategy](https://citizenshandbook.org/1_02_research.html?utm_source=activisthandbook.org) by Citizen's Handbook
+    
+-   [Planning a Grassroot's Action](https://citizenshandbook.org/1_03_plan_act.html?utm_source=activisthandbook.org) by Citizen's Handbook
+    
+
+## Attribution
+
+The following sources were reused:
+
+-   [Elements of Campaign Strategy](https://commonslibrary.org/elements-of-campaign-strategy/?utm_source=activisthandbook.org) by James Whelan

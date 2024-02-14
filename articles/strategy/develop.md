@@ -6,9 +6,9 @@ description: >
 langCode: en
 articleID: UiN-av36Bsw9edgIC559yNN0v84ySJvv
 languageCollectionID: ohnJMWO7Yvl7P3QVfuZ8jv-HVl3RPpQl
-updatedTimestamp: 1707906249594
+updatedTimestamp: 1707912283154
 createdTimestamp: 1647946107588
-wordCount: 8207
+wordCount: 8404
 tags: []
 ---
 
@@ -120,6 +120,15 @@ You might have a strategy, but you or other people might not agree with it. You 
     
 
 -   _You might not get everyone on the same page. Ask yourselves: what is it that binds us together? Can we form different subgroups that each do their own thing, but strengthen each other as a whole? If there is not enough to bind you together as a single organisation, it might be better to split up. Do not let conflict be the reason for you to split up: good facilitation can address that. But it is completely fine to have fundamental disagreements on goals and tactics (in which case you should not be one organisation)._
+    
+
+## Prerequisites
+
+Before you can start developing a campaign strategy you need:
+
+-   **People to work together with:** You cannot develop a good campaign strategy alone. Check out our [**organising chapter**](https://activisthandbook.org/organising) for information on how to get together with other people.
+    
+-   **Time**: If you are in the heat of the moment, you are probably not writing campaign strategy plans. You need some time to analyse your context, reflect, and come up well-thought-out plans. That does not mean you should not write a strategy if you are busy! Activists are always busy. You need to _make_ time, because doing activism without a strategy is useless.
     
 
 ## **Planning as a group**
@@ -327,23 +336,54 @@ One key question is at what stage to do a review. It is important to honour the 
 
 Make sure to recognise the work you have done, and the things you have achieved. If you aren’t having an immediate impact on your goals, morale may be low and people may be feeling sensitive to criticism. Dedicate time to noticing what has gone well and what you appreciate about each other and the group.
 
-## **Templates & workshops**
+## **Templates**
 
-The following activities can be used in a group meeting to analyse your situation or explore different ways forward. They are designed to enable more people to participate and engage with the process.
-
-The tools are listed in a rough chronological order, following our suggested process above, though you may vary this depending on the needs of your group. Some tools provide alternative ‘ways in’ to the same end point – for example ‘pyramid of goal’ and ‘visual aim setting’ are both ways for lots of people to get involved in shaping your campaign goals.
-
-See also our _Tools for Meetings and Workshops_ guide for more general facilitation tools.
+These **templates** help you write a good strategy plan. These are documents that you can fill out or use as a guide in writing your strategy. We highly recommend you to also look at the **workshops** below, for a more collaborative approach.
 
 There is no “one right way” to capture and communicate all the elements of strategy. Some organisations have a preference for simple one-page tables. Others use longly narrative formats or complex documents that extend to 20 pages or more. Some templates we’ve seen used effectively are:
 
--   [**Strategy chart**](https://thechangeagency.org/tca-strategy-chart/): This chart shows the anatomy of a campaign strategy. It provides a compact overview of different elements of strategizing and suggestions for processes your group can use to develop them.
+-   [**PDF: Template outline**](https://thechangeagency.org/tca-strategy-chart/): This template lists suggested sections for your strategy document. For each section, this outline provides a list of suggested workshops you can use that can help to write that section.
     
--   [**Campaign strategy template**](https://thechangeagency.org/tca-campaign-strategy-template/): a template incorporating elements of strategy and suggested processes to develop each element with members of your group
+-   [**DOCX: Key strategy questions**](https://thechangeagency.org/tca-campaign-strategy-template/?utm_source=activisthandbook.org)**:** Open this document and write down the questions to develop your own strategy. You will need to find your own method of coming up with answers to these questions as a group.
     
--   [**Basic strategy grid**](https://thechangeagency.org/basic-strategy-grid/): An adapted version of the Midwest Academy’s community organising grid, this simple table provides one way of developing and integrating key pieces of a strategy in a logical sequence.
+-   [**PDF: Basic strategy grid (for printing)**](https://thechangeagency.org/basic-strategy-grid/?utm_source=activisthandbook.org): Print this document, and hand it out during a brainstorm. Small groups can write down some ideas by filling out the grid. Only suitable for strategy basics.
     
--   [**Strategic planning template**](https://thechangeagency.org/strategic-planning-template-2/): This format has been used by medium-sized environment groups in their annual planning cycle. A simple table requiring vision, objectives, resources and performance indicators. The table is also useful for evaluation purposes.
+-   [**DOCX: Strategy performance indicators**](https://thechangeagency.org/strategic-planning-template-2/?utm_source=activisthandbook.org)**:** Fill out this document to keep track of your objectives and progress made to achieve those objectives. Useful if you are a medium sized organisation, less useful for smaller groups.
+    
+
+## **Workshops**
+
+The following activities can be used in a group meeting to analyse your situation or explore different ways forward. They are designed to enable more people to participate and engage with the process. Also make sure to check out our guide on [**facilitating meetings**](/organising/facilitating).
+
+The tools are listed in a rough chronological order, following our suggested process above, though you may vary this depending on the needs of your group. Some tools provide alternative ‘ways in’ to the same end point – for example ‘pyramid of goal’ and ‘visual aim setting’ are both ways for lots of people to get involved in shaping your campaign goals:
+
+-   **Visual aim setting**
+    
+-   **Campaign goals spectrum line**
+    
+-   **Research**
+    
+-   **Spectrum of support**
+    
+-   **Power mapping**
+    
+-   **Appreciative enquiry**
+    
+-   **SWOT analysis**
+    
+-   **Pillars of power**
+    
+-   **Skills-task match**
+    
+-   **Ideastorm**
+    
+-   **Impact spectrum lines**
+    
+-   **Capacity check**
+    
+-   **Timelines**
+    
+-   **Campaign plan pyramid**
     
 
 ### **Visual aim setting**
@@ -534,6 +574,16 @@ Go through the same process to work out the next level down. For example, in ord
 ## Methods for developing a strategy
 
 -   [**Theory of Change (ToC)**](/theory/change)**:** A methodology used for strategy and evaluation. The model of ToC starts by defining a long-term goal and then works backwards by identifying preconditions needed to achieve this goal.
+    
+-   [Logic model](https://en.wikipedia.org/wiki/Logic_model)
+    
+-   [Backcasting](https://en.wikipedia.org/wiki/Backcasting)
+    
+-   [Critical theory](https://en.wikipedia.org/wiki/Critical_theory)
+    
+-   [Scenario planning](https://en.wikipedia.org/wiki/Scenario_planning)
+    
+-   [Thought experiment](https://en.wikipedia.org/wiki/Thought_experiment)
     
 
 ## External resources
