@@ -6,9 +6,9 @@ description: >
 langCode: en
 articleID: v7ONnIEx3he17_I-JD0CgqlZRX-75Zuy
 languageCollectionID: GEBMCoST8DAOBDN-LZdnxBWpOlQD18V2
-updatedTimestamp: 1707919923217
+updatedTimestamp: 1707920522303
 createdTimestamp: 1583509165087
-wordCount: 3425
+wordCount: 3424
 tags: ["tactics","chapters"]
 ---
 
@@ -157,7 +157,7 @@ Nobody ever changed society by doing things the way they have always been done. 
 
 We need lots of people trying out lots of things. Most strategies will fail to bring about any significant change, but we only need one successful campaign to win.
 
-Taking risks does not mean doing anything, including stupid things. We still need to be smart and strategic. Actions of one group can negatively impact a social movement as a whole. But they can also be beneficial for each other in unexpected ways. For example, some [research](https://academic.oup.com/pnasnexus/article/1/3/pgac110/6633666?utm_source=activisthandbook.org) has shown that actions of the radical flanks of social movements can actually increase support for more the moderate flanks, even if the radical groups themselves were unpopular due.
+Taking risks does not mean doing anything, including stupid things. We still need to be smart and strategic. Actions of one group can negatively impact a social movement as a whole. But they can also be beneficial for each other in unexpected ways. For example, some [research](https://academic.oup.com/pnasnexus/article/1/3/pgac110/6633666?utm_source=activisthandbook.org) has shown that actions of the radical flanks of social movements can actually increase support for more the moderate flanks, even if the radical groups themselves were unpopular.
 
 ### **Take time to reflect**
 
