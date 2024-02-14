@@ -6,7 +6,7 @@ description: >
 langCode: en
 articleID: v7ONnIEx3he17_I-JD0CgqlZRX-75Zuy
 languageCollectionID: GEBMCoST8DAOBDN-LZdnxBWpOlQD18V2
-updatedTimestamp: 1707920522303
+updatedTimestamp: 1707931481963
 createdTimestamp: 1583509165087
 wordCount: 3424
 tags: ["tactics","chapters"]
@@ -32,7 +32,7 @@ This is **a series of guides** for groups and organisations that want to know ho
     
     -   📄 [Templates](/strategy/develop#templates)
         
-    -   💬 [Workshops](/strategy/develop#workshops)
+    -   💬 [Workshops](/strategy/workshops)
         
 
 > Before you can start to define your strategy, you need to get a group of likeminded people together and [organise yourselves](/organising). After you have defined your strategy, we recommend you to browse through our [list of tactics](/tactics) to get inspiration for actions to organise.
