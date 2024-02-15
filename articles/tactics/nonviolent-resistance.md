@@ -6,9 +6,9 @@ description: >
 langCode: en
 articleID: q_XXWOPJD7LxCoe7DBkRdXIMLfc8c8B0
 languageCollectionID: uMzqvZQ30M9mf5t6Se0sVhx1_8rY2xhC
-updatedTimestamp: 1688973248422
+updatedTimestamp: 1708006080988
 createdTimestamp: 1677846394492
-wordCount: 799
+wordCount: 919
 tags: ["stub"]
 ---
 
@@ -28,6 +28,18 @@ You can make this page better! Here are some suggestions:
     
 -   **Move the external resources to more relevant articles:** The external resources list below contains lots of valuable information. However, not all of it is directly relevant to nonviolent resistance. We have more specific pages that those guides would fit better on.
     
+
+### (Non-)violence in activism
+
+#### **Satyagraha; 'holding firmly to truth' / moral or ‘principled’ non-violence.**
+
+Satyagraha is a form of non-violent resistance that was conceptualised and practised by Gandhi. Please add links.
+
+#### **Non-violent property destruction and sabotage / the Shambala Warrior prophesy.**
+
+Is it possible to cause property destruction and / or sabotage from a deep place of peace and compassion for those that would benefit from the damage?
+
+Here is one perspective: [the Shambala Warrior prophesy.](https://www.youtube.com/watch?v=wt-j-nhej8E&t=568s&ab_channel=FacingFuture) The essence of this Tibetan Buddhist prophesy is that deeply compassionate and well-trained people will enter the centres of power and dismantle the ‘weapons’ that are destroying the planet (these don't have to be literal weapons; they could be destructive machines related to fossil fuels).
 
 ## External resources
 

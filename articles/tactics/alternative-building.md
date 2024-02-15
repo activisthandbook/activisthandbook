@@ -6,9 +6,9 @@ description: >
 langCode: en
 articleID: m0drYFPxxlWak_Sx2KTqxI_TkLKCvGiK
 languageCollectionID: rv7EAKh1eg5K3qylPHgNUTdef0KqrGkm
-updatedTimestamp: 1700122734484
+updatedTimestamp: 1708005895285
 createdTimestamp: 1643202787656
-wordCount: 2865
+wordCount: 2903
 tags: []
 ---
 
@@ -247,6 +247,8 @@ Write more about the following themes:
 -   **Privilege:** How do we make alternative-building work for everyone? What is the point of a community kitchen if only privileged hipsters visit the place? How do we avoid 'helping the needy', and empower marginalised people instead?
     
 -   **Power**: As long as you are not a threat to the status quo, law enforcement will happily let you grow your crops in your community garden. But what about when the economic interests of the agricultural industry are under threat? Probably, only then, your alternative-building actually becomes a meaningful form of activism, instead of a fun hobby. But what will happen when you challenge the status quo? How do you defend yourself against the police when your squatting activities are criminalised? Do you quietly do your alternative-building and hope those in power do not notice you, until it is too late to stop you? But how then do you tell others about your activities, so you can scale up?
+    
+-   **Dual Power, as pursued by Social Ecology theory,** (‘Building the new society in the shell of the old, without permission’. Could include elements of 1-5, depending on application. **Examples:** EZLN / Rojava Revolution \[Democratic Confederation of Northern Syria\])
     
 
 ### Make it more practical
