@@ -6,9 +6,9 @@ description: >
 langCode: en
 articleID: OlVwPVwwQLCky8LC3jDMDMTPA3mmqcZb
 languageCollectionID: -NM0-Um7oFGFsJ8FatKoWTzqV4S9g22l
-updatedTimestamp: 1705747688016
+updatedTimestamp: 1707988485718
 createdTimestamp: 1629632304561
-wordCount: 703
+wordCount: 694
 tags: ["easy to improve"]
 ---
 
@@ -59,11 +59,6 @@ These are, in the context of strategy, always people. Whether the politicians wh
 -   [Power mapping](https://thechangeagency.org/power-mapping/?utm_source=activisthandbook.org) by The Change Agency
     
 -   [Power mapping template](https://thechangeagency.org/power-mapping-template/?utm_source=activisthandbook.org) by The Change Agency
-    
-
-#### Spectrum of allies
-
--   [Spectrum of Allies](https://commonslibrary.org/spectrum-of-allies/) by Nadine Bloch
     
 
 #### Other guides
