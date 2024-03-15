@@ -6,9 +6,9 @@ description: >
 langCode: en
 articleID: HLY1aif1-CENFMq6Xyaa0nQWsyUiN19D
 languageCollectionID: lN43xnzY_WmuhxXPfDwULKe0JOC9soA1
-updatedTimestamp: 1681548103159
+updatedTimestamp: 1709511170869
 createdTimestamp: 1646992621769
-wordCount: 230
+wordCount: 248
 tags: []
 ---
 
@@ -33,6 +33,8 @@ tags: []
 -   [**Wikimedia Commons Images**](https://commons.wikimedia.org/wiki/Category:Images)
     
 -   [**FreeImages**](https://www.freeimages.com/)
+    
+-   [**Finding images and illustrations reflecting diversity**](https://commonslibrary.org/where-do-i-find-images-reflecting-diversity/?utm_source=activisthandbook.org) This article includes a list of image libraries that reflect greater diversity.
     
 
 ## Art archives

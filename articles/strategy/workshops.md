@@ -6,9 +6,9 @@ description: >
 langCode: en
 articleID: GXkwgOzXgRVr8QPs6wOSXN31vXOvJKcz
 languageCollectionID: WXSEznsmNJCISsvt1aB5_6qZYZG9yQb4
-updatedTimestamp: 1708001074727
+updatedTimestamp: 1708852121037
 createdTimestamp: 1707922804754
-wordCount: 2254
+wordCount: 2357
 ---
 
 On this page, we list all strategy workshops. Use these instructions to host your own sessions and develop a strategy with your fellow change-makers.
@@ -21,11 +21,21 @@ Some workshops have similar outcomes, but just use different methods of getting 
 
 ## Facilitating
 
+### Learn how to facilitate
+
 Before diving into all the workshops you can use to develop your strategy: make sure you know [**how to facilitate**](/organising/facilitating)!
 
 A facilitator plays a vital role in helping activist groups craft campaign strategies. They foster a safe and inclusive space by ensuring everyone feels valued and empowered to participate, while respectfully managing discussions and conflicts. This allows diverse perspectives and solutions to flourish.
 
 The facilitator guides the strategic process by setting agendas, introducing facilitation tools, and ensuring clear communication through summarising and documenting key points. They guide the group process and support them in reaching their own informed decisions. Overall, the facilitator acts as a catalyst for collaborative and effective campaign strategy development.
+
+### Get an experienced facilitator
+
+Each group and each context is unique. These ‘off-the-shelf’ outlines for generic workshops may have to be adapted to the context you are working in and the needs of the group. An [experienced facilitator](/trainings) can help you with get.
+
+<action-button buttonlink="/trainings" buttonlabel="Find a facilitator"></action-button>
+
+An experienced facilitator can develop a workshop plan based on a dialogue with the group they are working with. They seek to understand participants’ own contexts and their specific needs before they design a workshop. As a result each workshop schedule is different. Even during the session itself they can decide to depart from their plan.
 
 ## List of workshops
 

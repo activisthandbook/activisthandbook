@@ -6,9 +6,9 @@ description: >
 langCode: en
 articleID: UiN-av36Bsw9edgIC559yNN0v84ySJvv
 languageCollectionID: ohnJMWO7Yvl7P3QVfuZ8jv-HVl3RPpQl
-updatedTimestamp: 1708006269634
+updatedTimestamp: 1708792131719
 createdTimestamp: 1647946107588
-wordCount: 5467
+wordCount: 5585
 tags: []
 ---
 
@@ -344,11 +344,19 @@ There is no “one right way” to capture and communicate all the elements of s
 
 -   [**PDF: Template outline**](https://thechangeagency.org/tca-strategy-chart/): This template lists suggested sections for your strategy document. For each section, this outline provides a list of suggested workshops you can use that can help to write that section.
     
--   [**DOCX: Key strategy questions**](https://thechangeagency.org/tca-campaign-strategy-template/?utm_source=activisthandbook.org)**:** Open this document and write down the questions to develop your own strategy. You will need to find your own method of coming up with answers to these questions as a group.
+-   [**DOCX: Key strategy questions**](https://thechangeagency.org/tca-campaign-strategy-template/?utm_source=activisthandbook.org)**:** Open this document and write down the questions to develop your own strategy. You will need to find your own method of coming up with answers to these questions as a group. (Also available as [webpage](https://commonslibrary.org/campaign-strategy-planning-template/?utm_source=activisthandbook.org))
     
 -   [**PDF: Basic strategy grid (for printing)**](https://thechangeagency.org/basic-strategy-grid/?utm_source=activisthandbook.org): Print this document, and hand it out during a brainstorm. Small groups can write down some ideas by filling out the grid. Only suitable for strategy basics.
     
 -   [**DOCX: Strategy performance indicators**](https://thechangeagency.org/strategic-planning-template-2/?utm_source=activisthandbook.org)**:** Fill out this document to keep track of your objectives and progress made to achieve those objectives. Useful if you are a medium sized organisation, less useful for smaller groups.
+    
+-   [**The Campaign Canvas**](https://commonslibrary.org/the-campaign-canvas/?utm_source=activisthandbook.org) by Mobilisation Lab: From vision and strategy to storytelling and metrics, the canvas ensures you’ve touched on all the essentials of an effective campaign. Inspired by the Business Model Canvas, working through each element of this canvas will ensure your bases are covered for a solid campaign. We recommend printing it out as a poster and using post-it notes to fill in your best thinking for each box. Then you can regularly check in with your team to update your strategy and tactics based on real-world inputs from your campaigning.
+    
+-   [**Movement Building Canvas**](https://commonslibrary.org/movement-building-canvas/?utm_source=activisthandbook.org) by By Social Change Agency
+    
+-   [**Advocacy Campaign Strategy**](https://commonslibrary.org/campaign-strategy-presentation/?utm_source=activisthandbook.org) by Owen Wareham
+    
+-   [**Template Log Frame Matrix**](https://commonslibrary.org/guide-log-frame-matrix/) by WWF Australia
     
 
 ## **Workshops**

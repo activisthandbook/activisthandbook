@@ -2,13 +2,13 @@
 title: >
   Trainings for activists
 description: >
-  Training, workshops, consulting for activist movements
+  Trainers, facilitators &amp; consultants for change-makers and nonprofits
 langCode: en
 articleID: YUfVGkwMxm05zjEjl7vPQ9gPpUCItupH
 languageCollectionID: vijKrgNARghr6p534ZbiZ1HWioKFbDgl
-updatedTimestamp: 1700383499666
+updatedTimestamp: 1708850485542
 createdTimestamp: 1587834484219
-wordCount: 2917
+wordCount: 2982
 tags: ["training"]
 ---
 
@@ -16,7 +16,11 @@ tags: ["training"]
 
 > **Article quality**: ⭐️⭐️⭐️⭐️ (4/5)
 
-On the Activist Handbook website, you can find [hundreds of guides](/) for activists. Sometimes though, it is nice to be able to get together in real life with fellow activists and get training from an experienced organiser. In this article we list training collectives that can provide various types of support to help make your campaign a success.
+## Introduction
+
+On the Activist Handbook website, you can find [hundreds of guides](/) for activists. We even provide session outline templates that you can reuse to facilitate your own workshops that you can use for free. So why would you need to hire a trainer, facilitator or agency?
+
+Our guides are generic: they are written for _any_ activist. We cannot take into account your unique context. Experienced campaigners can help you come up with creative new solutions that fit your context. [Facilitating](/organising/facilitating) effectively requires experiences and skills that you might not have yet. An experienced facilitator helps to create a sense of safety and trust in a group, responds to the needs of participants, and creatively adapts and designs new processes on the fly.
 
 ## List of training organisations
 

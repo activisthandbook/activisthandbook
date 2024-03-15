@@ -2,13 +2,13 @@
 title: >
   People power
 description: >
-  Definition and guide for activists 
+  Definition and guide for activists
 langCode: en
 articleID: VqsCDNnnZ1usGTbp-Jh0bPUzxpAXboZt
 languageCollectionID: aYqVmuGg_maetmzqPsnRGHmj78sfKVAa
-updatedTimestamp: 1702321596241
+updatedTimestamp: 1708789109489
 createdTimestamp: 1702317826354
-wordCount: 880
+wordCount: 912
 ---
 
 In this guide, we explain what people power is, and how it can help you to take back control over your life. We help you get started building people power through inclusive decision-making and strategic campaigning. Finally, we discuss a few common challenges.
@@ -66,6 +66,8 @@ How does social media and digital platforms assist in mobilizing people power?
 
 ...
 
+How are people power and
+
 ## **Common challenges**
 
 What are the common challenges faced when mobilizing people power?
@@ -87,3 +89,16 @@ Fundraising is critical for driving a movement. Relying heavily on few or just o
 ### Resistance from established power structures
 
 The people in power or established institutions might resist movements that pose a threat to their status or operations. This resistance can take various forms, such as legal action, repression, or propaganda.
+
+## External resources
+
+### Reusable
+
+The following resources were made available under a creative commons licence:
+
+-   [People power](https://en.wikipedia.org/wiki/People_power) by Wikipedia
+    
+-   [Power & power mapping](https://commonslibrary.org/power-and-power-mapping-start-here/?utm_source=activisthandbook.org) by the Commons Library
+    
+
+### Copyright

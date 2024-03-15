@@ -6,9 +6,9 @@ description: >
 langCode: en
 articleID: 7w7tygtXhS5UljIFB5e7
 languageCollectionID: oeU2LXIfqc9t2aFsgu7n
-updatedTimestamp: 1679305204793
+updatedTimestamp: 1709584987856
 createdTimestamp: 1675513049772
-wordCount: 364
+wordCount: 365
 ---
 
 Activist Handbook is the Wikipedia for activists. On this website, you will find over 450+ guides and 4.7K external resources. On this page, we explain how Activist Handbook is organised.
@@ -33,7 +33,7 @@ Our guides are written by people like you. Everyone can edit Activist Handbook. 
     
 -   **🛠** [**Digital tools**](/tools): We made a toolkit to help you create and communicate. You will find tools for editing videos, designing graphics, managing social media, developing websites and much more.
     
--   🧑‍⚖️ [**Legal rights**](/rights): Learn about your legal rights as rebel & find out more about common police practices in your country.
+-   🧑‍⚖️ [**Legal rights**](/rights): Learn about your legal rights as an activist & find out more about common police practices in your country.
     
 -   **⏳**[**Theory of change**](/theory)**:** Here we explain what activism is. We argue anyone can be an activist. Even though you might not refer to yourself as an ‘activist’, we believe this handbook can be useful for anyone who would like to achieve societal change.
     

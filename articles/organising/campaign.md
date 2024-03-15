@@ -6,9 +6,9 @@ description: >
 langCode: en
 articleID: tvO08rRa9AhOz9-bQk2MnsJmo3IxrqGt
 languageCollectionID: 8Z7ZJiFcy-pvsGmAE6ZVgHrjZvu8r4pl
-updatedTimestamp: 1700384480609
+updatedTimestamp: 1708790848016
 createdTimestamp: 1653837592592
-wordCount: 2313
+wordCount: 4783
 tags: []
 ---
 
@@ -26,13 +26,17 @@ In this guide, we explain how to organise a campaign. Learn how to advocate your
 
 If you're an activist who wants to make a difference, you need to know how to organise a campaign. A well-organised campaign can be the key to success, and this guide will show you how to do it.
 
+Campaigns have been used throughout history by large and small social movements for everything from overthrowing dictators to getting recycling in a city.
+
 From setting goals and targetting your audience, to choosing the right tactics and organising your team, we'll cover everything you need to know to make your campaign a success!
 
 <div data-youtube-video=""><iframe width="100" height="100" allowfullscreen="true" src="https://www.youtube-nocookie.com/embed/c_g1BMVFcuw" start="0"></iframe></div>
 
 ## What is a campaign?
 
-A campaign a strategic plan devised to reach specific objectives within a specific time frame. It usually takes several months. You might need several campaigns to achieve your goals, especially when you are fighting for a big or complex issue.
+A campaign is a strategic plan devised to reach specific objectives within a specific time frame. It usually takes several months. You might need several campaigns to achieve your goals, especially when you are fighting for a big or complex issue.
+
+Campaigns are sustained efforts at a specific social justice goal. Campaigns are a powerful way of strategically building the capacity, developing experience, and laying the groundwork for future movements. Simultaneously, campaigns win solid victories for social justice.
 
 ### Difference with a protest actions
 
@@ -42,6 +46,11 @@ Often, inexperienced activists will start by organising a single protest, after 
 
 This causes participants to be disappointed by the impact they are making with the first few protests, because they do not see how these are contributing towards the bigger picture. Effective campaigns strategically build up towards a goal.
 
+_Read more:_
+
+-   [_Why campaigns, not protests, get the goods_](https://commonslibrary.org/why-campaigns-not-protests-get-the-goods/?utm_source=activisthandbook.org) _by George Lakey (2016)_
+    
+
 ### Difference with a movement
 
 A campaign also differs from a [**social movement**](/organising/movement). A campaign usually consists of a series of actions over the span of a few months to a year, and focusses on a single issue. A movement exists for a longer period of time, and targets multiple issues within a bigger story.
@@ -49,6 +58,104 @@ A campaign also differs from a [**social movement**](/organising/movement). A ca
 Often, the injustices we are fighting are complex. A campaign focusses on changing a single issue within that complex system. In many cases, when activists win their campaign, their group falls apart because the thing that bound them together is no longer there.
 
 This does not mean, however, that all injustices are gone. It would be a shame to let the change-making capacity you have built up with your group fall apart. This is where movements come into play. A movement communicates a message that helps people understand how various issues are connected. In addition, a movement invests more resources into building structures that allow people to work together for longer periods of time. For example, movements may put more time into community building, fundraising, coalition building and internal training programmes.
+
+## More about campaigns
+
+### Campaigns have a goal
+
+Campaigns are defined by their objectives: winning a particular housing reform; overthrowing a dictator; convincing the city council to undo a repressive ordinance; or getting sweatshop multinationals to allow unionization in their factories.
+
+> Goals require having someone or a group of someones who are “targets” – the people who can make that change.
+
+This is different from a future vision of “economic justice” in which no single  individual or group of individuals can make the vision come true. Campaigns take a piece of those large visions and demand implementation. So a campaign goal under economic justice might be “universal health care” (and the target would be the national government). In a local context it might be “five new affordable housing developments in an area” – the target would be the private developers,  or the government which gives out housing contracts.
+
+### Campaigns have an attainable goal
+
+Some goals are also more useful than others. Unattainable goals aren’t as useful as attainable goals (it doesn’t build the movement to set ourselves up for failure!). To be attainable, the goals need to consider the group’s capacity (a local group would, before a national movement shows up, take on a local-sized goal, though it might be a goal with national/international implication).
+
+To combat sweatshops, United Students Against Sweatshops (USAS) used students’ schools as the location to wage local campaigns. In schools across the country, students forced their administration to sign contracts requiring full disclosure of where the various products were made. With that information in hand, students could make and get others to make visits to the sweatshops to inquire about human rights violations, the ability of workers to unionize, wages and other notorious conditions (like no bathroom breaks). Workers in sweatshops in Indonesia, China, Haiti and territories of the United States would no longer be fired in secret.
+
+Nike and other apparel companies said information about their factories was a “trade secret” and could not be shared without ruining business. After months of organizing on dozens of campuses, the campaign paid off with the largest apparel leader – Nike – doing partial and then ultimately full disclosure of its factory sites. Other apparel industries followed suit.
+
+So that gives a glimpse of another aspect of goals: Goals that have more meaning and impact on people’s lives can be more useful than goals that have less impact.
+
+> _"I personally went on a speaking tour during the USAS campaign with a union organizer named Haryanto, who had been fired for passing out Nike’s Code of Conduct in a factory. Because of the pressure mounting against Nike for full disclosure, when his factory got exposed to the public, he become the first union organizer in a Nike sweatshop to be reinstated through international pressure." -_ [_Daniel Hunter_](https://commonslibrary.org/by/daniel-hunter/)
+
+Goals that set up the movement for future wins are more useful than goals that prove to be dead-ends. (Does that new achievement encourage more activism? Does it lead to a practical next step?). In the case of full disclosure of sweatshops, it led naturally to a campaign to create and get campuses to endorse using a monitoring organization, now called the Workers Right Consortium.
+
+### Campaigns may be made up by many different tactics
+
+Blockades, sit-ins, strikes, marches, street speak-outs are all tactics that might show up in campaigns. In the case of the USAS, all of those tactics were used, plus many creative ones like the sweatshop-in (sewing all night and day in a public square).
+
+> In campaigns, the tactics are designed to keep the pressure on. Throughout the campaign the pressure on the target keeps being applied until they accept or can no longer oppose.
+
+Otpor, the student movement organization in Yugoslavia, understood this when they built their successful campaign to oust the brutal dictator Slobodan Milosevic. They picked tactics that kept escalating the pressure on Milosevic. They started with creative forms of popular education and guerilla theatre, and moved to illegal public protests combined with other tactics. (One highly effective tactic was “stalking police officers” – getting the names of police officers who brutalised students on the streets, and then showing up in their neighborhoods with signs saying, “This police officer beats up peaceful protestors.” It was so effective at shaming police officers in front of their neighbors/families, that Milosevic could no longer count on them to follow orders.) As the public pressure mounted, Otpor eventually shut down the capital city, literally stormed the parliament building, and forced Milosevic into exile.
+
+Different tactics are used to do education and outreach to specific allies/ally groups.  Petitions and marches mobilise support and show power, and build towards mass noncooperation with the system (like boycotting campus sweatshop apparel).
+
+### Campaigns take time to build
+
+In this way, they differ from one-time actions. They are sustained and involve building pressure over time. While a one-time march might scare the politicians, they want to know if they can “stay cool till the heat blows over.”
+
+> Campaigns make sure the temperature on politicians (or whoever the targets are) stays hot. They keep escalating tactics until a win is gained.
+
+This also distinguishes campaigns. They have an end-point: when the campaign wins. Campaign groups can clap their hands, celebrate, and then tic off a checkmark on that campaign! (In some cases, like that of USAS, there may be a need for monitoring to protect the win from rollback.)
+
+If they choose, campaign organizations can lay themselves down and free up individuals to work on the next campaign. That’s different from building an action organization that protests every month for years, with no end in sight. (Organization building is also valuable! But one advantage of campaigns is they do not always need a wide organizational base to win.) Indian National Congress provided another model: doing an “all out” campaign every couple of years, and returning to their “regular” political activity in between.
+
+### Why do campaigns work?
+
+The movement needs leadership and experience at the grassroots.
+
+In order to carry out effective national campaigns, we cannot rely solely on national or international leadership. King, Gandhi and Che may be great: but the real power of social change lies in the grassroots.
+
+> Campaigns build local capacity and local leadership in a natural, decentralized way. With local victories come increased self-confidence and readiness to take on more and more. With experience, groups make smarter and more sophisticated decisions.
+
+Campaigns are also radicalising processes: people who get deep into one issue are likely to learn – not at a book-reading level but via personal experience – the ways issues connect. When campaigning about local housing issues, for example, people naturally run into environmental, economic, and political issues, too. As local activists get smarter and more experienced, they are  less caught up in useless political skirmishes or sidetracked by negotiated settlements with the opposition (bargaining for higher wages but breaking the union). Reflected upon experience creates wisdom, which is a pool we will have to draw from again and again.
+
+### Local campaigns can be replicable
+
+As local organizations explore issues and try out new tactics, they are more likely to run across tactics that are replicable. The national sit-in movement, for example, began with four students in Greensboro, NC who decided to take on their local Woolworth. They popularized the tactic we now know as the sit-in.
+
+The innovation was the tactic – and the implicit campaign goal. It was local, so it could happen in hundreds of other locations. Out of one local action came a national movement. So even while the national/international organizations and coalitions argue out details, we can change the agenda by our combined local actions.
+
+A more recent example of that occurred in the struggle against the US’s domestic war on Muslims, Arabs and other marginalized groups. Hundreds of cities passed city council resolutions against the so-called USA PATRIOT Act. For a long time this growing movement went unnoticed by the mainstream until a New York Times reporter in Flagstaff, Arizona, (a fairly conservative city) found that the city passed a resolution against the USA PATRIOT Act. Thinking it was a fluke, he investigated, and broke the story that dozens of cities had passed such resolutions! Some of the resolutions were symbolic statements, while others pushed the envelope and constrained local officers to not be involved in any USA PATRIOT Act-related round-up.
+
+Though each resolution resulted from a local campaign, the impact of so many cities passing such resolutions amounts to a groundswell of opposition to the PATRIOT Act. In fact, resistance was so high that just recently John Ashcroft tried to take back the offensive by launching a major publicity campaign and doing speaking tours on the PATRIOT Act around the country. The campaign has provided communities with a voice:  they don’t have to act powerless in the face of oppression. In fact, it has resulted in a major scaling back of plans to launch a PATRIOT Act II.  (Senators who authored the document recently claimed they had never even heard of it!).
+
+### Campaigns take the offensive
+
+As in the case of the PATRIOT Act, campaigns reclaim the initiative. It puts the oppressors in the mode they should stay in: defensive.
+
+Protests often keep us on the defensive: responding to the last war, bemoaning the most recent destroyed housing, attacking the latest action by our mayor/Senator/Governor, or doing mass actions when and where powerholders meet. Campaigns are about achieving goals – and therefore are inherently on the offense. We set the goal and we push for that goal. Local sit-ins put those who would enforce the Jim Crow laws on the defensive.
+
+> Campaigns pull the foundation of society – the grassroots – out from underneath the structure of oppression. As more campaigns win, more and more people are ready to resist and non-cooperate with the oppressive patterns of society. A building cannot support itself without its foundations.
+
+### Campaigns bring in new energy and form new allies
+
+Many of us work towards a meaningful social revolution with a new paradigm. We are not content with single isolated victories.
+
+Campaigns mobilize new constituencies. People like winning, and people like being part of a movement that is headed somewhere. “What’s your goal?” people so often want to know. By being in a campaign, you can bring in people interested in achieving meaningful goals, but who are  not yet ready for the revolution (unlike trying to convert them to Marxism, and then tell them to protest the war). New people provide new energy and help radicalize stale organizations.
+
+Furthermore, in a campaign you may be able to engage passive allies. While some political allies may not be ready to sign up for a lifetime of activism, more are ready to work for a specific campaign (which has a limited duration). Campaigns can be key radicalizing processes for such potential armchair activists or isolated allies.
+
+For a grassroots revolution to take place we need a radicalized grassroots base. Without a grassroots ready to challenge the system, confident enough to take on leadership, and experienced enough to make wise decisions, we cannot gain our larger social justice aims.
+
+Targeting specific key allies can also be the difference between victory in a campaign. George Lakey writes of an example of this:
+
+A small group of activists once threw a monkey wrench into a U.S. foreign policy objective by correctly figuring out who to influence through direct action. The U.S. was supporting, as it often does, a military dictatorship that was killing thousands of people. In fact, Pakistani dictator Yayah Khan was killing hundreds of thousands of people in East Bengal who wanted independence. The U.S. government lied about its support, but the activists learned that Pakistani ships were on their way to U.S. ports to pick up military supplies for the continuing massacre. The group also realized that if longshoremen refused to load the ships, the U.S. government would be foiled.
+
+The problem was, the East Coast longshoremen were, if anything, politically inclined to support the government, and wanted to feed their families. The activists repeatedly tried to persuade the longshoremen to act in solidarity with the East Bengalis, without success. It was time for direct action. The group announced a blockade of the port which was expecting the next Pakistani freighter, and began practicing “naval maneuvers” with sailboats, rowboats and the rest of its motley fleet. The media gave ongoing coverage, and longshoremen witnessed on television as well as in person the strange antics of protesters who seemed to believe they could stop a big freighter with tiny boats. The tactic raised the longshoremen’s motivation to listen and discuss, and they agreed that, if the activists created a picket line, the longshoremen would refuse to cross it!
+
+When the campaign succeeded in that city, the activists took it to other port cities, and finally the International Longshoremen’s union agreed workers would not load Pakistan-bound weapons anywhere in the U.S.! The blockade, initiated by a small group, succeeded because the group crafted direct action tactics specifically geared toward the part of the public that most needed to be influenced.
+
+> Through campaigns we can involve constituencies who are ready to be moved into action and move those who are merely passive spectators into participants! Rather than waiting for groups to agree with our vision, we can use tactics to engage with them: and in the context of a clear objective, help them see the reasons why they should support that goal.
+
+Ultimately, campaigns are strategic in that they are headed somewhere. They are a series of tactics, headed toward an attainable goal, which build skills for resistance and grassroots leadership. They can bring in new allies and activate others that have become passive.
+
+The question now is: what campaigns are we ready to take on in our contexts? Already movements around the world use campaigns – Otpor in Serbia, Nagas in India, farmers in Thailand, pro-democracy activists in Kenya and innumerable others. As we act in solidarity with them, what campaign goals will help our movements? How can your group/organization/collective integrate campaign thinking into its work? What campaigns can we imagine – locally, nationally, internationally – and build?
+
+So: let’s wage campaigns for social justice, not just protest for it!
 
 ## Steps to organise a campaign
 
@@ -221,6 +328,9 @@ You can make this guide on how to organize a campaign better!
 -   **Campaign planning template**  
     [Planning Template, The Campaign Canvas](https://commonslibrary.org/the-campaign-canvas/) by Mobilization Labs
     
+-   **Perspective Aboriginal and Torres Strait Islander**  
+    [Building Power Guide](https://commonslibrary.org/campaigning-to-solve-our-issues/?utm_source=activisthandbook.org) by Original Power (2018)
+    
 
 ### Copyright resources
 
@@ -279,3 +389,10 @@ You can make this guide on how to organize a campaign better!
 -   [4 Quick Tips to Remember When Planning an Advocacy Campaign](https://topnonprofits.com/4-quick-tips-to-remember-when-planning-an-advocacy-campaign/?utm_source=activisthandbook.org) by TopNonprofits
     
 -   [13 Advocacy Strategies for Running a Successful Campaign](https://info.votervoice.net/resources/13-advocacy-strategies-for-running-a-successful-campaign?utm_source=activisthandbook.org) by VoterVoice
+    
+
+## Attribution
+
+The following resources were reused:
+
+-   [Campaigning for Social Change, Beyond just protesting for it!](https://commonslibrary.org/campaigning-for-social-change-beyond-just-protesting-for-it/?utm_source=activisthandbook.org) by Daniel Hunter (Creative Commons Attribution-NonCommercial BY-NC)
