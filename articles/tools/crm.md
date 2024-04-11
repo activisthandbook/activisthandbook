@@ -6,9 +6,9 @@ description: >
 langCode: en
 articleID: q2VAxSYX2-K8hGJTQAQZQITM_jaCYyPQ
 languageCollectionID: _bB-CaiczNwYich3btZ22rvXITFC90uh
-updatedTimestamp: 1706544347351
+updatedTimestamp: 1712821563065
 createdTimestamp: 1695881958659
-wordCount: 4033
+wordCount: 4038
 ---
 
 In this guide, we will help you find the right tools to keep track of volunteers, supporters and partner organisations using a nonprofit CRM (a people database).
@@ -374,6 +374,8 @@ These CRMs were specifically built for and by activists:
     
 -   **Crust CRM**
     
+-   [**Twenty**](https://twenty.com/?utm_source=activisthandbook.org) **(early access)**
+    
 
 Learn more about [open source CRMs](https://crm.org/crmland/open-source-crm?utm_source=activisthandbook.org).
 
@@ -420,6 +422,10 @@ There are many commercial CRMs available, check out a list of [CRMs with a free 
 -   **Agile CRM**
     
 -   **Flowlu**
+    
+-   [**Folk**](https://www.folk.app/?utm_source=activisthandbook.org)
+    
+-   [**Attio**](https://attio.com/?utm_source=activisthandbook.org)
     
 
 ### Related tools
