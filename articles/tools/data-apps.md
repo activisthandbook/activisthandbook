@@ -6,9 +6,9 @@ description: >
 langCode: en
 articleID: yXjpCi2189sWZo4270tQitqE-pSv8PGx
 languageCollectionID: wrYnVnFPcp1h2fPJ2mkMcamlomG34VjT
-updatedTimestamp: 1693206370292
+updatedTimestamp: 1712859118405
 createdTimestamp: 1693202638154
-wordCount: 539
+wordCount: 543
 ---
 
 In this guide, we will teach you how to use modern data apps beyond Google Sheets and Excel. We explain how to use tools like Airtable and their open source alternatives.
@@ -105,10 +105,19 @@ Budibase is a data app focussed on building internal tools.
 
 #### Rowy (open source)
 
-manage backend database as spreadsheet
+Manage backend database as spreadsheet
 
 **Pricing**:
 
 -   _Self hosting_: Free ([one-click install on Google Cloud](https://github.com/rowyio/rowy?utm_source=activisthandbook.org))
     
 -   _As a service_: Free or $12 per user for additional functionality
+    
+
+#### Coda
+
+[https://coda.io/](https://coda.io/)
+
+#### Notion
+
+[https://www.notion.so/](https://www.notion.so/)

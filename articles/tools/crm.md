@@ -6,9 +6,9 @@ description: >
 langCode: en
 articleID: q2VAxSYX2-K8hGJTQAQZQITM_jaCYyPQ
 languageCollectionID: _bB-CaiczNwYich3btZ22rvXITFC90uh
-updatedTimestamp: 1712821563065
+updatedTimestamp: 1712854665316
 createdTimestamp: 1695881958659
-wordCount: 4038
+wordCount: 4044
 ---
 
 In this guide, we will help you find the right tools to keep track of volunteers, supporters and partner organisations using a nonprofit CRM (a people database).
@@ -341,7 +341,7 @@ The list of CRMs is endless. So how do you find the right one? Well, we do not k
 
 These CRMs were specifically built for and by activists:
 
--   **Action Network** (focussed on mailing) and **Action Builder** (focussed on organizing)
+-   **Action Network** (focussed on mailing) and **Action Builder** (focussed on organizing, only available in the United States)
     
 -   **NGP VAN** (only in United States)
     
