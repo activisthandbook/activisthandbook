@@ -6,9 +6,9 @@ description: >
 langCode: en
 articleID: VqsCDNnnZ1usGTbp-Jh0bPUzxpAXboZt
 languageCollectionID: aYqVmuGg_maetmzqPsnRGHmj78sfKVAa
-updatedTimestamp: 1713983550844
+updatedTimestamp: 1714026955216
 createdTimestamp: 1702317826354
-wordCount: 1479
+wordCount: 2099
 ---
 
 In this guide, we explain what people power is, and how it can help you to take back control over your life. We help you get started building people power through inclusive decision-making and strategic campaigning. Finally, we discuss a few common challenges.
@@ -29,11 +29,31 @@ In this guide, we show you the potential of people power: when people work toget
 
 ## What is people power?
 
-People power is the ability of grassroots communities to (1) **collective determine** **the change they want to see**, and (2) to **make the desired change reality**. People power allows individuals to take control over their lives by acting together with many other individuals. It gives strength to groups of people to challenge oppression. It is also known as popular power or power of the people.
+People power is the ability of grassroots communities to (1) **collective and deliberatively determine** **the change they want to see**, and (2) to **make the desired change reality**. People power allows individuals to take control over their lives by acting together with many other individuals. It gives strength to groups of people to challenge oppression. It is also known as popular power or power of the people.
 
 An important part of people power is **collective action**: doing something together with as many other people as possible. For example, people may come together for a protest to challenge an injustice. Organizing your own public assembly to make decisions together is another example. Or you can participate in community gardening to become independent from the agricultural industry.
 
 People power can start with a very small group of people, even two or three individuals. However, the bigger the group becomes, the more power it holds. That is why **scalable** forms of collective action hold more potential for big social change.
+
+### Who are the 'people' in people power?
+
+The 'people' in people power refers to all humans on this planet. Importantly, it includes everyone: inclusivity is an inherent part of people power. A mass movement that builds power at the cost of marginalised communities can never claim to build people power.
+
+The principle of inclusivity can be stretched out even further: one might argue that although animals other than human are not people, they too deserve to be included. Latest research says animals on this planet have [a sense of awareness](https://sites.google.com/nyu.edu/nydeclaration/declaration?utm_source=activisthandbook.org) more often than not. Even though they may not always be able to represent themselves, they too ought to be given power.
+
+### What is 'power' in people power?
+
+Power is often defined as the ability to direct or influence the behaviour of people and the course of events. It is about being in control. Power often has a **negative connotation**: you might think of oppressing people, authoritarian leaders, and manipulation. We see power as a **two sided coin**. If it is in the hands of a few, it will be abused. If power is in the hands of all, it empowers us to collectively be in control over our own lives.
+
+Importantly, **'the people' are not automatically one cohesive group**. Every individual has a will of their own. So when you put together a random group of people, the chance is low people will automatically agree on what change they want to see, or what tactics to use to bring about that change. In order to build people power, you need to build **cohesion through dialogue**.
+
+However, **there are also other ways to build cohesion that do not create people power**. For example, an authoritarian leader may manipulate large groups of people into thinking the same way through propaganda or manipulation. Even though these people all want to see the same change and are able to bring it about, the people do not actually have any power. Why? Well, because it is the politician who holds all the power: he (lets be honest, its always a he) is able to decide what change he wants to see, and he can realise it by manipulating others into thinking it is in their own interest.
+
+We chose the example of authoritarian leader because it is extreme and thus makes the difference between real and fake people power really easy to see. However, this also applies to political parties, large nonprofits and other campaigning organisations.
+
+Have a think if the following applies to your organisation or movement: a small group of people decides what to campaign on. You mobilise large groups of people to participate in your campaign, but these people do not have much of a say about what you are campaigning for or what tactics you use to get there. **If this applies to your organisation, you are not building true people power.** You are giving power to the small group of people who make all the decisions, by mobilising others to realise the will of this small group of people.
+
+Of course, you could argue that people do have a say: they can decide not to participate in your campaign. However, this assumes that there are infinite campaigns out there that individuals can freely choose from. If you are a large nonprofit with a significant advertising budget, you immediately have an advantage over another campaign that might alight better with someone's values. And again: dialogue is super important to create a collective will. It allows individuals to change their individual will based on conversations they have with people around them. As long as there is no dialogue, no collective will is being built, and thus no people power.
 
 ## The potential of people power
 
