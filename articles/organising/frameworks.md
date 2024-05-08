@@ -6,9 +6,9 @@ description: >
 langCode: en
 articleID: G3dkQL5r8VGH4qvFx-36zI4WDRCiNzwD
 languageCollectionID: 89ReOOyPrqQ0GJ5WjQzIIR_PP0aAErgn
-updatedTimestamp: 1699449321383
+updatedTimestamp: 1715163326606
 createdTimestamp: 1643132983527
-wordCount: 1773
+wordCount: 1942
 tags: []
 ---
 
@@ -183,7 +183,11 @@ If it does not check all these boxes, that is fine! You can come up with a name 
 
 ### Search keywords
 
--   **organizational frameworks** (630 monthly searches globally, high relevancy)
+We would like to find a better title for this page.
+
+-   **organizational framework** (970 monthly searches globally, medium relevancy)
+    
+-   **organizing model** (70, high relevancy): often used in the context of labor unions, and contrasted with the "[servicing model](https://en.wikipedia.org/wiki/Service_model?utm_source=activisthandbook.org)" - Perhaps nice to name the article "organizing models" to illustrate there is not a single way of doing organizing, while also being easily found by our target audience?
     
 -   **smart objectives** (69.2K monthly searches globally, low relevancy)
     
@@ -197,6 +201,24 @@ If it does not check all these boxes, that is fine! You can come up with a name 
 
 ## External resources
 
+-   [Organizing model](https://en.wikipedia.org/wiki/Organizing_model) by Wikipedia
+    
+-   [**Collection: Organising Models Mapping Project**](https://commonslibrary.org/collection/organising-models-mapping-project/) by Commons Library and Australian Progress
+    
+    -   [Survey: Influences, Challenges and Opportunities](https://commonslibrary.org/organising-model-structures-influences-challenges-and-opportunities/?utm_source=activisthandbook.org) by Australian Progress, Commons Librarian, Robyn Gulliver (no date)
+        
+    -   [The Shape of Organising Models](https://commonslibrary.org/the-shape-of-organising-models/?utm_source=activisthandbook.org) by Australian Progress, Commons Librarian and Robyn Gulliver (2022)
+        
+    -   [People Within Organising Models](https://commonslibrary.org/people-within-organising-models/) by Australian Progress, Commons Librarian, Robyn Gulliver (2022)
+        
+    -   [Autonomy, Flexibility and Accountability in Organising Models](https://commonslibrary.org/autonomy-flexibility-and-accountability-in-organising-models/?utm_source=activisthandbook.org) by Australian Progress, Commons Librarian, Robyn Gulliver (2022)
+        
+    -   [Support and Leadership in Organising Models](https://commonslibrary.org/support-and-leadership-in-organising-models/?utm_source=activisthandbook.org) by Australian Progress, Commons Librarian, Robyn Gulliver (2022)
+        
+    -   [Home Grown: Mapping Australian Organising Models](https://commonslibrary.org/home-grown-mapping-australian-organising-models/) by Amanda Atlee, Bethany Koch, Holly Hammond, Jawoon Kim (2021)
+        
+-   [Approaches to Organising: The Ganz Model](https://commonslibrary.org/approaches-to-organising-the-ganz-model/?utm_source=activisthandbook.org) by Robyn Gulliver (2023)
+    
 -   [Leadership and Leaderful Organizing: Research on Building Leaderful Movements in Europe](https://commonslibrary.org/leadership-and-leaderful-organizing-research-on-building-leaderful-movements-in-europe/?utm_source=activisthandbook.org) by Aleksandra Schindler Ljutak, Ana-Marija Mileusnić, Dora Sivka, European Community Organizing Network ECON, Gee, Jeroen Robbe, Marina Tota, Neus, Steve Hughes, Zóra Molnár
     
 -   [Report: Networked Change: How Progressive Campaigns are Won in the 21st Century](https://commonslibrary.org/networked-change/) by Jason Mogus and Tom Liacas

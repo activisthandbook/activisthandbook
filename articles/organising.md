@@ -6,9 +6,9 @@ description: >
 langCode: en
 articleID: Jivvm_DITjwYHs0BtJuFs9SzsiRHfUlL
 languageCollectionID: 2iL5uLyfvLfLZc8ZAdnUzGAQX_cgwUc1
-updatedTimestamp: 1700318604306
+updatedTimestamp: 1715158523897
 createdTimestamp: 1583581575544
-wordCount: 1063
+wordCount: 1088
 tags: ["chapters"]
 ---
 
@@ -116,6 +116,13 @@ You can make this chapter about organising better. Here are some things you can 
 
 ### New topics
 
+-   Leadership
+    
+-   Coaching
+    
+-   Snowflake model
+    
+
 #### Life cycle of a movement
 
 -   **Beginnings;** case studies of how activist groups, political parties, NGO's, revolutionary civil disobedience movements or any other type of group, formed.
@@ -147,6 +154,8 @@ The authors of these materials want you to reuse them! They are available under 
 -   [Organizing: Start Here](https://commonslibrary.org/organising-start-here/) by Commons Library
     
 -   [Collection: Organizing](https://commonslibrary.org/topic/organising/) by Commons Library
+    
+-   [What is Organizing?](https://commonslibrary.org/what-is-organizing-an-introduction-based-on-the-work-of-marshall-ganz/?utm_source=activisthandbook.org) by Leading Change Network, Marshall Ganz, New Organizing Institute
     
 
 **Roles and structure:**
@@ -194,3 +203,5 @@ The authors of these materials want you to reuse them! They are available under 
 -   [Book: Building a movement to end](https://sustainableequityorgresources.files.wordpress.com/2017/01/building-a-movement-to-end-the-new-jim-crow.pdf) by Marshall Ganz (2015) \[PDF\]
     
 -   [Six building blocks of distributed organizing campaigns](http://netchange.co/distributed-organizing) by NetChange
+    
+-   [Course: Global Organizing and Leadership Development](https://commonslibrary.org/interactive-self-paced-mini-courses-on-organising-global-organizing-and-leadership-development-gold/) by ActionAid (2023)
