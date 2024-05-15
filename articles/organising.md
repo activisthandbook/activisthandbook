@@ -6,9 +6,9 @@ description: >
 langCode: en
 articleID: Jivvm_DITjwYHs0BtJuFs9SzsiRHfUlL
 languageCollectionID: 2iL5uLyfvLfLZc8ZAdnUzGAQX_cgwUc1
-updatedTimestamp: 1715158523897
+updatedTimestamp: 1715758214885
 createdTimestamp: 1583581575544
-wordCount: 1088
+wordCount: 1031
 tags: ["chapters"]
 ---
 
@@ -116,11 +116,13 @@ You can make this chapter about organising better. Here are some things you can 
 
 ### New topics
 
--   Leadership
+-   [Leadership](/organising/leadership)
     
 -   Coaching
     
--   Snowflake model
+-   [Snowflake model](/organising/frameworks/snowflake)
+    
+-   [Storytelling](/communication/storytelling) (under communication chapter)
     
 
 #### Life cycle of a movement
@@ -142,65 +144,48 @@ People want to learn more about the following topics. Focus on the most popular 
 
 ### Creative Commons resources
 
-The authors of these materials want you to reuse them! They are available under a Creative Commons licence or similar:
+The authors of these materials want you to reuse them! They are available under a Creative Commons licence or similar.
 
-**Introduction articles:**
+**Recommended**
 
--   [Why Community Organizing Matters](https://citizenshandbook.org/0_01_Intro.html?utm_source=activisthandbook.org) by Citizen's Handbook
+-   ⭐️ [Organizing: Start Here](https://commonslibrary.org/organising-start-here/) by Commons Library
+    
+-   ⭐️ [What is Organizing?](https://commonslibrary.org/what-is-organizing-an-introduction-based-on-the-work-of-marshall-ganz/?utm_source=activisthandbook.org) by Leading Change Network, Marshall Ganz, New Organizing Institute
+    
+-   ⭐️ [Book: Organising - People, power, change](https://actionnetwork.org/user_files/user_files/000/041/455/original/organizing_people_power_changeadaptedfromMarshallGanz.pdf) by Marshall Ganz \[PDF\]
+    
+-   ⭐️ [Workshop: Organizing](https://projects.iq.harvard.edu/files/ganzorganizing/files/seed_organizing_manual_final_2015_ok_coaching_appendix.pdf) by Marshall Ganz \[PDF\]
+    
+
+**Read more about organizing**
+
+-   [Collection: Organizing](https://commonslibrary.org/topic/organising/) by Commons Library
     
 -   [Thinking about Organizing Your Community?](https://citizenshandbook.org/1_00_intro_organizing.html?utm_source=activisthandbook.org) by Citizen's Handbook
     
-
--   [Organizing: Start Here](https://commonslibrary.org/organising-start-here/) by Commons Library
-    
--   [Collection: Organizing](https://commonslibrary.org/topic/organising/) by Commons Library
-    
--   [What is Organizing?](https://commonslibrary.org/what-is-organizing-an-introduction-based-on-the-work-of-marshall-ganz/?utm_source=activisthandbook.org) by Leading Change Network, Marshall Ganz, New Organizing Institute
+-   [Why Community Organizing Matters](https://citizenshandbook.org/0_01_Intro.html?utm_source=activisthandbook.org) by Citizen's Handbook
     
 
-**Roles and structure:**
+**Useful resources, but not quite sure where to put them:**
 
--   [Grassroots leaders](https://citizenshandbook.org/1_08_lead.html?utm_source=activisthandbook.org) by Citizen's Handbook
+-   [Academic: Arranging for Community Mobilizers](https://ctb.ku.edu/en/best-change-processes/arranging-for-community-mobilizers/overview) by Community Tool Box
     
--   [Group structure](https://citizenshandbook.org/1_12_group_structure.html?utm_source=activisthandbook.org) by Citizen's Handbook
+-   [Random advice 1](https://citizenshandbook.org/thinkcity.html?utm_source=activisthandbook.org) by Citizen's Handbook
+    
+-   [Random advice 2](https://citizenshandbook.org/organize-top11.html?utm_source=activisthandbook.org) by Citizen's Handbook
+    
+-   [Random advice 3](https://citizenshandbook.org/wilt.html?utm_source=activisthandbook.org) by Citizen's Handbook
+    
+-   [Dealing with bad apples](https://citizenshandbook.org/bad_apples.html?utm_source=activisthandbook.org) by Citizen's Handbook
     
 -   [Forming a core group](https://citizenshandbook.org/core-group.html?utm_source=activisthandbook.org) by Citizen's Handbook
     
 
-**Other:**
-
--   [Guide: Distributed organising](https://blueprintsfc.org/guide/distributed-organizing/) by Blueprints for Change
-    
--   [Collection: Developing an Organizational Structure for the Initiative](https://ctb.ku.edu/en/table-of-contents/structure/organizational-structure) by Community Tool Box
-    
--   [Guide: Improving Organizational Management and Development](https://ctb.ku.edu/en/improve-organizational-management-and-development) by Community Tool Box
-    
--   [Academic: Arranging for Community Mobilizers](https://ctb.ku.edu/en/best-change-processes/arranging-for-community-mobilizers/overview) by Community Tool Box
-    
--   [Academic: Defining Organizational Structure and Operating Mechanisms](https://ctb.ku.edu/en/best-change-processes/defining-organizational-structure/overview) by Community Tool Box
-    
--   [Book: Organising - People, power, change](https://actionnetwork.org/user_files/user_files/000/041/455/original/organizing_people_power_changeadaptedfromMarshallGanz.pdf) by Marshall Ganz \[PDF\]
-    
--   [Workshop: Organizing](https://projects.iq.harvard.edu/files/ganzorganizing/files/seed_organizing_manual_final_2015_ok_coaching_appendix.pdf) by Marshall Ganz \[PDF\]
-    
--   [Block by block organizing](https://citizenshandbook.org/2_14_block_organizing.html?utm_source=activisthandbook.org) by Citizen's Handbook
-    
--   [The Skinny for Local Community](https://citizenshandbook.org/thinkcity.html?utm_source=activisthandbook.org) by Citizen's Handbook
-    
--   [Top 11 Guidelines for Community Organizing](https://citizenshandbook.org/organize-top11.html?utm_source=activisthandbook.org) by Citizen's Handbook
-    
--   [Grassroots Rot: How citizen's groups destroy themselves](https://citizenshandbook.org/wilt.html?utm_source=activisthandbook.org) by Citizen's Handbook
-    
--   [Dealing with bad apples](https://citizenshandbook.org/bad_apples.html?utm_source=activisthandbook.org) by Citizen's Handbook
-    
-
 ### Copyright resources
 
--   [Collection: Resources for Organisers](https://trainings.350.org/for/organisers/) by 350.org
+-   ⭐️ [Collection: Resources for Organisers](https://trainings.350.org/for/organisers/) by 350.org
     
--   [Why stories matter: The art and craft of social change](https://commonslibrary.org/why-stories-matter-the-art-and-craft-of-social-change/) by Marshall Ganz (2009)
-    
--   [Book: Building a movement to end](https://sustainableequityorgresources.files.wordpress.com/2017/01/building-a-movement-to-end-the-new-jim-crow.pdf) by Marshall Ganz (2015) \[PDF\]
+-   ⭐️ [Book: Building a movement to end the New Jim Crow](https://sustainableequityorgresources.files.wordpress.com/2017/01/building-a-movement-to-end-the-new-jim-crow.pdf) by Marshall Ganz (2015) \[PDF\]
     
 -   [Six building blocks of distributed organizing campaigns](http://netchange.co/distributed-organizing) by NetChange
     

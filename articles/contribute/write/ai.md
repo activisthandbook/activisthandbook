@@ -1,28 +1,55 @@
 ---
 title: >
-  Using ChatGPT to write guides
+  Using AI to write guides
 description: >
   Guide for Activist Handbook writers
 langCode: en
 articleID: 0_yoxWYXGbjaX-v5RE1qlL72Cr4FItvP
 languageCollectionID: LUihcdG6bhR12zU73D-VtKU92Xv1OlQX
-updatedTimestamp: 1681541144664
+updatedTimestamp: 1715758040384
 createdTimestamp: 1681485991902
-wordCount: 423
+wordCount: 914
 ---
 
-In this guide, we explain how you can use ChatGPT and similar tools to write better guides for activists. We show you what prompts to use and warn for its limitations.
+In this guide, we explain how you can use generative artificial intelligence (AI) to write better guides for activists. We show you what prompts to use and warn for its limitations.
 
-## Using ChatGPT
+## Why we need humans
 
-We recommend you to download the Edge browser to use ChatGPT for free (unlimited).
+This article explains how AI can be used as a **_tool_** for humans who want to write better guides for activists. In a relatively short time, AI has proven to be capable to do things we previously thought could never be done by computers. At Activist Handbook, we use AI a lot.
 
-In the top right corner of your Edge browser window, you will find a blue chat button. Once you have clicked that button, a sidebar will appear on the right side of the window.
+However, as AI develops, we will continue to find new shortcomings. Below are some key shortcomings that are currently present in AI tools.
 
--   Use the **chat** feature if you want Edge get information from the web, or to use the page you are currently viewing.
-    
--   Use the **compose** feature if you want to generate text (usually works best for the prompts on this page).
-    
+### Physical human experience
+
+Large language models, and even multimodel models, are trained on data that is available on the web. They cannot _feel_, they can only _predict_ the most logical response. It works the same way computers do not _understand_ the weather, yet they can _predict_ whether it will be raining based on historical data.
+
+This means that the capabilities of AI models are limited by the data that they were trained on. Not all of the human experience has been documented into data that computers can read. For example, an AI model can only understand how emotions feel physically insofar these have been accurately documented.
+
+When humans are put into new contexts, an AI can only guess what that experience must be like. Importantly, as AI models develop, it will become very hard to tell that AI models does not have the ability to feel the physical human experience, as they will be able to confidently pretend like they do. However, this distinction is important, because it tells us that the output of an AI might be similar to that of a human, the inner workings are not.
+
+### A free will
+
+An AI works the way its developers have designed it to. Even though an AI may do things the developers did not intend, they are alway _directly_ the result of the input given by its developers.
+
+A human is not moulded in the same way. Of course, we try to educate children, but we cannot control their entire human experience. And through our human experience, over time, our personalities and free will are formed.
+
+As stated before, AI models _only_ base their output on the input that its developers have decided it should and should not be trained on. This gives a lot of power to the designers of AI models.
+
+An AI model can pretend to have a free will, but only if its developers designed it that way.
+
+### Translation versus localisation
+
+The introduction of large language models has dramatically brought down costs to translate text into different languages. For many purposes, especially in the case of literal translation, AI is already good enough to replace human translators. It will only get better.
+
+This has huge consequences for humans working in the translation industry. Many translators will lose their jobs and with that livelihoods.
+
+Assume you will soon be able to read any text, regardless of what language it is written in. Locally-run in-browser translation will become good and fast enough that they will be turned on by default. Humans will be able to provide little additional value to machine-generated literal translations.
+
+However, humans will likely continue to be able to provide value by providing **local context** (for example, cultural differences). AIs are only as good as the data they were trained on, and fact is, not all local contexts are equally represented on the internet.
+
+### Marginalised perspectives
+
+The same goes for marginalised perspectives: communities that are not well-represented on the internet will not be understood well by AI model.
 
 ## Recommended prompts
 

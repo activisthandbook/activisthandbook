@@ -6,9 +6,9 @@ description: >
 langCode: en
 articleID: v7ONnIEx3he17_I-JD0CgqlZRX-75Zuy
 languageCollectionID: GEBMCoST8DAOBDN-LZdnxBWpOlQD18V2
-updatedTimestamp: 1714309908081
+updatedTimestamp: 1715186947507
 createdTimestamp: 1583509165087
-wordCount: 3301
+wordCount: 3319
 tags: ["tactics","chapters"]
 ---
 
@@ -302,6 +302,8 @@ This chapter is written by people like you. Read our guide on [how to improve th
 -   [Planning a Grassroot's Action](https://citizenshandbook.org/1_03_plan_act.html?utm_source=activisthandbook.org) by Citizen's Handbook
     
 -   [Campaign Strategy Workbook](https://trainingforchange.notion.site/e5672b8cb67a4ed6b5e51a2492aa463e?v=85a4a577c6304902aa38414671c9d558) by Training for Change
+    
+-   [Book: The Path of Most Resistance: A Step by Step Guide to Planning Nonviolent Campaigns](https://commonslibrary.org/the-path-of-most-resistance-a-step-by-step-guide-to-planning-nonviolent-campaigns/) by Ivan Marovic
     
 
 ### Books on campaign strategy

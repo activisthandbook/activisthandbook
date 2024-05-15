@@ -6,7 +6,7 @@ description: >
 langCode: en
 articleID: YDhDPuRtRiSVyvpIQFEshkjwntMOHg2j
 languageCollectionID: J2Ob8I-vLt6F7hsqCHl_RhDVkGC1ybLs
-updatedTimestamp: 1709507179149
+updatedTimestamp: 1714214380498
 createdTimestamp: 1593095391290
 wordCount: 562
 tags: []
@@ -48,7 +48,7 @@ To understand better what we mean by activism and why we are interested in it, w
 
 -   **🏡 Community**
     
--   **❤️ Social resilience**
+-   **❤️** [**Social resilience**](/theory/social-resilience)
     
 -   **💪** [**People power**](/theory/people-power)
     
