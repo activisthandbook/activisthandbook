@@ -6,9 +6,9 @@ description: >
 langCode: en
 articleID: Jivvm_DITjwYHs0BtJuFs9SzsiRHfUlL
 languageCollectionID: 2iL5uLyfvLfLZc8ZAdnUzGAQX_cgwUc1
-updatedTimestamp: 1715758214885
+updatedTimestamp: 1719402190945
 createdTimestamp: 1583581575544
-wordCount: 1031
+wordCount: 1034
 tags: ["chapters"]
 ---
 
@@ -16,9 +16,9 @@ tags: ["chapters"]
 
 > **Chapter quality**: ⭐️⭐️⭐️⭐️ (4/5)
 
-## Start organising
+## Start organizing
 
-To build an impactful grassroots movement, start small. Organise a protest action that helps you to grow your group. Next, plan a campaign: a series of actions to pressure decision makers. Then scale up by building a decentralised movement. Finally, improve your teamwork by learning from other movements.
+To build an impactful grassroots movement, start small. Organize a protest action that helps you to grow your group. Next, plan a campaign: a series of actions to pressure decision-makers. Then scale up by building a decentralized movement. Finally, improve your teamwork by learning from other movements.
 
 1.  ✊ [**Organise a protest**](/organising/protest) — Take action today
     
@@ -26,16 +26,16 @@ To build an impactful grassroots movement, start small. Organise a protest actio
     
 3.  **🌊** [**Build a movement**](/organising/movement) — Scale up your campaign
     
-4.  **📄** [**Organisation frameworks**](/organising/frameworks) — Better teamwork
+4.  **📄** [**Organisation models**](/organising/models) — Better teamwork
     
 5.  🔥 [**Movement of movements**](/organising/movement-of-movements) - Intersectional & international activism
     
 
-<dynamic-image imageid="354b51f4-5e7e-4272-c227-c829b1244c00" alt="Ants are organising at the grassroots"><p>Ants are organising at the grassroots, by <a target="_blank" href="https://edit.activisthandbook.org/author/tzmE91SnnrbJJXuvQNBl9rt6HK63">Joppe</a> | Generated using Dall-e</p></dynamic-image>
+<dynamic-image imageid="354b51f4-5e7e-4272-c227-c829b1244c00" alt="Ants are organising at the grassroots"><p>Ants are organizing at the grassroots, by <a target="_blank" href="https://edit.activisthandbook.org/author/tzmE91SnnrbJJXuvQNBl9rt6HK63">Joppe</a> | Generated using Dall-e</p></dynamic-image>
 
 ## Capacity building
 
-You want to make a big impact. But you have a limited access to resources needed to get there. This section focuses on building capacity to bring about change:
+You want to make a big impact. But you have limited access to the resources needed to get there. This section focuses on building capacity to bring about change:
 
 -   **📢** [**Outreach & mobilisation**](/organising/mobilising)
     
@@ -48,7 +48,7 @@ You want to make a big impact. But you have a limited access to resources needed
 -   **🤑** [**Fundraising**](/organising/fundraising)
     
 
-<dynamic-image imageid="9d1a59a1-320d-4dcc-a80d-9a0a3330a600" alt="Hedgehogs organising a rebellion"><p>Hedgehogs organising a rebellion, by <a target="_blank" href="https://edit.activisthandbook.org/author/tzmE91SnnrbJJXuvQNBl9rt6HK63">Joppe</a> | Generated using Dall-e</p></dynamic-image>
+<dynamic-image imageid="9d1a59a1-320d-4dcc-a80d-9a0a3330a600" alt="Hedgehogs organising a rebellion"><p>Hedgehogs Organising a rebellion, by <a target="_blank" href="https://edit.activisthandbook.org/author/tzmE91SnnrbJJXuvQNBl9rt6HK63">Joppe</a> | Generated using Dall-e</p></dynamic-image>
 
 ## Team building
 
@@ -64,7 +64,7 @@ Organizing is all about bringing people together and building strong teams. Lear
     
 -   **🏳️‍🌈** [**Diversity and intersectionality**](/organising/diversity)
     
--   **💻** [**Online organising**](/organising/online)
+-   **💻** [**Online organizing**](/organising/online)
     
 -   **💬** [**Internal communication**](/organising/internal-communication)
     
@@ -81,11 +81,11 @@ Grassroots organizing is a way of working with communities to create change from
 
 ### What is community organizing?
 
-Community organizing is a form of activism and grassroots organizing that involves bringing people together to work on a shared goal or cause. It involves engaging people in their local community to identify common issues and goals, and then taking action together to address those issues and achieve those goals.
+Community organizing is a form of activism and grassroots organizing that involves bringing people together to work on a shared goal or cause. It involves engaging people in their local community to identify common issues and goals and then taking action together to address those issues and achieve said goals.
 
 ### How to start a grassroots movement?
 
-To start a grassroots movement, identify a cause that you are passionate about, gather a group of like-minded people, create a plan of action, and spread the word. Take a look at the many guides on Activist Handbook to get started.
+To start a grassroots movement, identify a cause you are passionate about, gather like-minded people, create a plan of action, and spread the word. Take a look at the many guides in the Activist Handbook to get started.
 
 ## Case studies
 
@@ -93,17 +93,17 @@ To start a grassroots movement, identify a cause that you are passionate about, 
 
 ## Improve this chapter
 
-You can make this chapter about organising better. Here are some things you can do:
+You can make this chapter about organizing better. Here are some things you can do:
 
 -   **Make this chapter better by reusing existing resources.** Check out the ‘Creative Commons’ materials in the external resources section below - we can freely reuse those as long as we give attribution to the original author. Merge them with existing guides or create a new page.
     
 -   **Translate our best articles.** See a high-quality article? Make it available in other languages!
     
--   **Add more resources.** We already have a lot of awesome resources for this chapter, but if you find some more valuable material, definitely add it to the _External resources_ section below. Also check out the subpages of this chapter to see if there are any with a small number of external resources.
+-   **Add more resources.** We already have a lot of awesome resources for this chapter, but if you find some more valuable material, add it to the _External Resources_ section below. Also, check out the subpages of this chapter to see if there are any with a small number of external resources.
     
--   **Improve the contents of this chapter using these suggestions, or add some suggestions below:**
+-   **Improve the contents of this chapter using these suggestions, or add some tips below:**
     
-    -   Presenting the content of this guide through examples of good practices (or failures!) coming from across the globe. Form to do that: podcast with interviews (in english); illustrated book/pamphlet; posts on IG.
+    -   Presenting the content of this guide through examples of good practices (or failures!) coming from across the globe. Form to do that: podcast with interviews (in English); illustrated book/pamphlet; posts on IG.
         
     -   How to keep your movement inclusive
         
@@ -111,7 +111,7 @@ You can make this chapter about organising better. Here are some things you can 
         
     -   How to be an effective leader
         
-    -   Long-term sustainability of movement
+    -   Long-term sustainability of the movement
         
 
 ### New topics
@@ -122,12 +122,12 @@ You can make this chapter about organising better. Here are some things you can 
     
 -   [Snowflake model](/organising/frameworks/snowflake)
     
--   [Storytelling](/communication/storytelling) (under communication chapter)
+-   [Storytelling](/communication/storytelling) (under the communication chapter)
     
 
 #### Life cycle of a movement
 
--   **Beginnings;** case studies of how activist groups, political parties, NGO's, revolutionary civil disobedience movements or any other type of group, formed.
+-   **Beginnings;** case studies of how activist groups, political parties, NGOs, revolutionary civil disobedience movements, or any other type of group, formed.
     
 -   **Endings;** case studies of how different types of groups ended, either voluntarily or involuntarily. (And did they end because they succeeded, failed, or evolved into something else?)
     
@@ -136,7 +136,7 @@ You can make this chapter about organising better. Here are some things you can 
 
 People want to learn more about the following topics. Focus on the most popular ones to help as many activists as possible.
 
-<table><tbody><tr><th><p>Keywords</p></th><th><p>Monthly global searches</p></th><th><p>Relevancy</p></th></tr><tr><td><p>grassroots activism</p></td><td><p>1.6K</p></td><td><p>high</p></td></tr><tr><td><p>movement building</p></td><td><p>480</p></td><td><p>high</p></td></tr><tr><td><p>creating a movement</p></td><td><p>320</p></td><td><p>high</p></td></tr><tr><td><p>creating a social movement</p></td><td><p>20</p></td><td><p>high</p></td></tr><tr><td><p>creating a social movement for change</p></td><td><p>20</p></td><td><p>high</p></td></tr><tr><td><p>creating a movement for change</p></td><td><p>10</p></td><td><p>high</p></td></tr><tr><td><p>meeting facilitation training / workshop</p></td><td><p>850</p></td><td><p>medium</p></td></tr><tr><td><p>icebreakers</p></td><td><p>390</p></td><td><p>medium</p></td></tr><tr><td><p>minutes of a meeting sample pdf</p></td><td><p>20</p></td><td><p>medium</p></td></tr><tr><td><p>The great wind blows</p></td><td><p>390</p></td><td><p>medium</p></td></tr><tr><td><p>distributed organising</p></td><td><p>0</p></td><td><p>high</p></td></tr><tr><td><p>organizing blueprints</p></td><td><p>110</p></td><td><p>high</p></td></tr><tr><td><p>distributed organising</p></td><td><p>0</p></td><td><p>high</p></td></tr><tr><td><p>change blueprint</p></td><td><p>110</p></td><td><p>medium</p></td></tr><tr><td><p>relational organizing</p></td><td><p>390</p></td><td><p>high</p></td></tr><tr><td><p>activist groups near me</p></td><td><p>90</p></td><td><p>medium</p></td></tr><tr><td><p>popular activist groups</p></td><td><p>20</p></td><td><p>medium</p></td></tr><tr><td><p>organizing while undocumented</p></td><td><p>30</p></td><td><p>high</p></td></tr></tbody></table>
+<table><tbody><tr><th><p>Keywords</p></th><th><p>Monthly global searches</p></th><th><p>Relevancy</p></th></tr><tr><td><p>grassroots activism</p></td><td><p>1.6K</p></td><td><p>high</p></td></tr><tr><td><p>movement building</p></td><td><p>480</p></td><td><p>high</p></td></tr><tr><td><p>creating a movement</p></td><td><p>320</p></td><td><p>high</p></td></tr><tr><td><p>creating a social movement</p></td><td><p>20</p></td><td><p>high</p></td></tr><tr><td><p>creating a social movement for change</p></td><td><p>20</p></td><td><p>high</p></td></tr><tr><td><p>creating a movement for change</p></td><td><p>10</p></td><td><p>high</p></td></tr><tr><td><p>meeting facilitation training/workshop</p></td><td><p>850</p></td><td><p>medium</p></td></tr><tr><td><p>icebreakers</p></td><td><p>390</p></td><td><p>medium</p></td></tr><tr><td><p>minutes of a meeting sample pdf</p></td><td><p>20</p></td><td><p>medium</p></td></tr><tr><td><p>The great wind blows</p></td><td><p>390</p></td><td><p>medium</p></td></tr><tr><td><p>distributed organizing</p></td><td><p>0</p></td><td><p>high</p></td></tr><tr><td><p>organizing blueprints</p></td><td><p>110</p></td><td><p>high</p></td></tr><tr><td><p>distributed organizing</p></td><td><p>0</p></td><td><p>high</p></td></tr><tr><td><p>change blueprint</p></td><td><p>110</p></td><td><p>medium</p></td></tr><tr><td><p>relational organizing</p></td><td><p>390</p></td><td><p>high</p></td></tr><tr><td><p>activist groups near me</p></td><td><p>90</p></td><td><p>medium</p></td></tr><tr><td><p>popular activist groups</p></td><td><p>20</p></td><td><p>medium</p></td></tr><tr><td><p>organizing while undocumented</p></td><td><p>30</p></td><td><p>high</p></td></tr></tbody></table>
 
 \*According to Semrush
 
@@ -144,7 +144,7 @@ People want to learn more about the following topics. Focus on the most popular 
 
 ### Creative Commons resources
 
-The authors of these materials want you to reuse them! They are available under a Creative Commons licence or similar.
+The authors of these materials want you to reuse them! They are available under a Creative Commons license or similar.
 
 **Recommended**
 
@@ -165,16 +165,18 @@ The authors of these materials want you to reuse them! They are available under 
     
 -   [Why Community Organizing Matters](https://citizenshandbook.org/0_01_Intro.html?utm_source=activisthandbook.org) by Citizen's Handbook
     
+-   [How to Take Effective Political Action](https://represent.us/resource-library/how-to-take-effective-political-action/?utm_source=activisthandbook.org) by RepresentUs
+    
 
 **Useful resources, but not quite sure where to put them:**
 
 -   [Academic: Arranging for Community Mobilizers](https://ctb.ku.edu/en/best-change-processes/arranging-for-community-mobilizers/overview) by Community Tool Box
     
--   [Random advice 1](https://citizenshandbook.org/thinkcity.html?utm_source=activisthandbook.org) by Citizen's Handbook
+-   [Random Advice 1](https://citizenshandbook.org/thinkcity.html?utm_source=activisthandbook.org) by Citizen's Handbook
     
--   [Random advice 2](https://citizenshandbook.org/organize-top11.html?utm_source=activisthandbook.org) by Citizen's Handbook
+-   [Random Advice 2](https://citizenshandbook.org/organize-top11.html?utm_source=activisthandbook.org) by Citizen's Handbook
     
--   [Random advice 3](https://citizenshandbook.org/wilt.html?utm_source=activisthandbook.org) by Citizen's Handbook
+-   [Random Advice 3](https://citizenshandbook.org/wilt.html?utm_source=activisthandbook.org) by Citizen's Handbook
     
 -   [Dealing with bad apples](https://citizenshandbook.org/bad_apples.html?utm_source=activisthandbook.org) by Citizen's Handbook
     

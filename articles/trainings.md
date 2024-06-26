@@ -6,9 +6,9 @@ description: >
 langCode: en
 articleID: YUfVGkwMxm05zjEjl7vPQ9gPpUCItupH
 languageCollectionID: vijKrgNARghr6p534ZbiZ1HWioKFbDgl
-updatedTimestamp: 1708850485542
+updatedTimestamp: 1718048319412
 createdTimestamp: 1587834484219
-wordCount: 2982
+wordCount: 3042
 tags: ["training"]
 ---
 
@@ -187,6 +187,8 @@ International training organisations with a focus on Europe:
 -   [**Power Labs**](https://powerlabs.io/?utm_source=activisthandbook.org): "PowerLabs helps organizers design and run people-powered campaigns. We provide training, coaching and strategic planning support to build the capacity of organizations, leaders and networks."
     
 -   [**Ayni School**](https://aynischool.com/?utm_source=activisthandbook.org): "We are living in a time of transformative change. We believe that the only way to change a system is through building a new one that can meet people’s needs at a higher level. There are many people working to create change; whether they are strong communities, alternative institutions, popular movements, training programs, and others. The Ayni Institute is looking to engage and support those which are creating something special that can bring our world towards reciprocity.  We are deeply guided by the wisdom of these areas: Memory, Alternative, and Movements."
+    
+-   [**RepresentUs Campaign Catalyst**](https://represent.us/campaign-catalyst/?utm_source=activisthandbook.org): A series of free, live, online trainings hosted by RepresentUs devoted to equipping volunteers with knowledge & skills to effectively advocate in campaigns; teaching campaigners, organizers, and communicators everything they need to do to run, lead, and win campaigns; and bringing together campaign executives so they can connect with each other to troubleshoot and share winning strategies.
     
 
 ## Smaller initiatives
