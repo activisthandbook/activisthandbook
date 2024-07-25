@@ -6,9 +6,9 @@ description: >
 langCode: en
 articleID: q2VAxSYX2-K8hGJTQAQZQITM_jaCYyPQ
 languageCollectionID: _bB-CaiczNwYich3btZ22rvXITFC90uh
-updatedTimestamp: 1712854665316
+updatedTimestamp: 1721844287223
 createdTimestamp: 1695881958659
-wordCount: 4044
+wordCount: 4046
 ---
 
 In this guide, we will help you find the right tools to keep track of volunteers, supporters and partner organisations using a nonprofit CRM (a people database).
@@ -348,6 +348,8 @@ These CRMs were specifically built for and by activists:
 -   **Neon CRM**
     
 -   **Citipo**
+    
+-   [**Solidarity Tech**](https://www.solidarity.tech/?utm_source=activisthandbook.org)
     
 
 ### Open source CRMs

@@ -6,9 +6,9 @@ description: >
 langCode: en
 articleID: kBbGQXaa03vJgcrBubs0i-FANg_-JC7M
 languageCollectionID: EeruxjJwBEMAWUAFpOMPeCedxuVDOl5n
-updatedTimestamp: 1705856777321
+updatedTimestamp: 1721544046520
 createdTimestamp: 1705850645217
-wordCount: 606
+wordCount: 672
 ---
 
 In this guide, we explain how to design a digital infrastructure for your nonprofit or activist movement. We go over various categories of tools, with advice for organisations of different sizes.
@@ -123,3 +123,26 @@ Turn your mailing list into an organizing and fundraising tool by selecting the 
 -   **✏️** [**Vector illustration libraries**](https://activisthandbook.org/tools/vector-libraries)
     
 -   **🎞** [**Video footage libraries**](https://activisthandbook.org/tools/video-libraries)
+    
+
+## Quick & dirty tech stack
+
+Want to get started fast? These are our recommendations:
+
+-   **Wordpress website & Action Network forms:** about €20 per month
+    
+    -   General signup form
+        
+    -   Events RSVPs
+        
+    -   Petitions
+        
+    -   Send out mass emails using Action Network
+        
+-   **WhatsApp Community**: free
+    
+    -   Add invite link to your website or in your e-mails
+        
+    -   Create group chats for different teams or local groups
+        
+    -   Use the announcement channel for important updates
