@@ -6,12 +6,16 @@ description: >
 langCode: en
 articleID: q2VAxSYX2-K8hGJTQAQZQITM_jaCYyPQ
 languageCollectionID: _bB-CaiczNwYich3btZ22rvXITFC90uh
-updatedTimestamp: 1721844287223
+updatedTimestamp: 1721909540874
 createdTimestamp: 1695881958659
-wordCount: 4046
+wordCount: 4114
 ---
 
 In this guide, we will help you find the right tools to keep track of volunteers, supporters and partner organisations using a nonprofit CRM (a people database).
+
+> **Our honest approach**
+> 
+> Activist Handbook is written by volunteers. We do not get paid anything for talking about any of the CRMs we discuss. No affiliate links, no sponsored content. Our website stays online thanks to people who [**donate**](https://activisthandbook.org/donate).
 
 ## Summary
 
@@ -341,45 +345,48 @@ The list of CRMs is endless. So how do you find the right one? Well, we do not k
 
 These CRMs were specifically built for and by activists:
 
--   **Action Network** (focussed on mailing) and **Action Builder** (focussed on organizing, only available in the United States)
+-   [**Action Network**](https://actionnetwork.org/?utm_source=activisthandbook.org) (focussed on mailing) and [**Action Builder**](https://www.actionbuilder.org/?utm_source=activisthandbook.org) (focussed on organizing, only available in the United States)
     
--   **NGP VAN** (only in United States)
+-   [**NGP VAN**](https://www.ngpvan.com/?utm_source=activisthandbook.org) (only in United States for the Democratic party)
     
--   **Neon CRM**
+-   [**Neon CRM**](https://neonone.com/?utm_source=activisthandbook.org)
     
--   **Citipo**
+-   [**Citipo**](https://citipo.com/en?utm_source=activisthandbook.org)
     
 -   [**Solidarity Tech**](https://www.solidarity.tech/?utm_source=activisthandbook.org)
     
 
 ### Open source CRMs
 
--   **CiviCRM**
+Learn more about [open source CRMs](https://crm.org/crmland/open-source-crm?utm_source=activisthandbook.org).
+
+-   [**CiviCRM**](https://civicrm.org/?utm_source=activisthandbook.org)
     
--   **Odoo**
+-   [**Odoo**](https://www.odoo.com/?utm_source=activisthandbook.org)
     
--   **Bottle CRM**
+-   [**SuiteCRM**](https://suitecrm.com/?utm_source=activisthandbook.org)
     
--   **SuiteCRM**
+-   [**X2CRM**](https://github.com/X2Engine/X2CRM?utm_source=activisthandbook.org)
     
--   **OroCRM**
+-   [**Vtiger CRM**](https://www.vtiger.com/?utm_source=activisthandbook.org)
     
--   **X2CRM**
+-   [**EspoCRM**](https://www.espocrm.com/?utm_source=activisthandbook.org)
     
--   **Vtiger CRM**
-    
--   **EspoCRM**
-    
--   **ConcourseSuite CRM**
-    
--   **Axelor CRM**
-    
--   **Crust CRM**
+-   [**Axelor CRM**](https://axelor.com/crm/?utm_source=activisthandbook.org)
     
 -   [**Twenty**](https://twenty.com/?utm_source=activisthandbook.org) **(early access)**
     
 
-Learn more about [open source CRMs](https://crm.org/crmland/open-source-crm?utm_source=activisthandbook.org).
+Not recommended:
+
+-   [**Django CRM**](https://github.com/MicroPyramid/Django-CRM?utm_source=activisthandbook.org) (website offline, Github repository still available)
+    
+-   [**OroCRM**](https://github.com/oroinc/crm?utm_source=activisthandbook.org) (small number of Github stars)
+    
+-   [**ConcourseSuite CRM**](https://github.com/Concursive/concoursesuitecrm-community?utm_source=activisthandbook.org) (very small number of Github stars)
+    
+-   [**Crust CRM**](https://github.com/crusttech/crust-server?utm_source=activisthandbook.org) (no longer active, for archiving purposes)
+    
 
 ### Commercial CRMs
 
