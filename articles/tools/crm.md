@@ -6,7 +6,7 @@ description: >
 langCode: en
 articleID: q2VAxSYX2-K8hGJTQAQZQITM_jaCYyPQ
 languageCollectionID: _bB-CaiczNwYich3btZ22rvXITFC90uh
-updatedTimestamp: 1721984745512
+updatedTimestamp: 1721985352621
 createdTimestamp: 1695881958659
 wordCount: 4348
 ---
@@ -347,7 +347,7 @@ These CRMs were specifically built for and by activists:
 
 -   ⭐️ [**Action Network**](https://actionnetwork.org/?utm_source=activisthandbook.org) is a very affordable email marketing and automation tool). It is a great pairing with [**Action Builder**](https://www.actionbuilder.org/?utm_source=activisthandbook.org), their grassroots organizing CRM. The latter is only available in the United States.
     
--   [**Solidarity Tech**](https://www.solidarity.tech/?utm_source=activisthandbook.org): Relatively new CRM built for organizers. It includes tools for managing event signups, phone banking, texting broadcasting, and mass mailing.
+-   [**Solidarity Tech**](/tools/solidarity-tech): Relatively new CRM built for organizers. It includes tools for managing event signups, phone banking, texting broadcasting, and mass mailing.
     
 -   [**NGP VAN**](https://www.ngpvan.com/?utm_source=activisthandbook.org) (only in United States for the Democratic party)
     
