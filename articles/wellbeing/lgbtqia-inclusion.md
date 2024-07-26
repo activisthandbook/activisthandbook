@@ -1,16 +1,20 @@
 ---
 title: >
-  LGBTQIA+ inclusion
+  LGBTQIA2S+, Disabled, &amp; Neurodivergent inclusion
 description: >
-  Tools for creating a safe space for LGBTQIA+ activists
+  Tools for creating a safe space for LGBTQIA2S+, Disabled, &amp; Neurodivergent activists
 langCode: en
 articleID: SqKoPU6Fne5QV1928Yk4k3T9J72MAnbo
 languageCollectionID: T-1xOqiY86odLTIkRJ8hPZ0g3xRgm85t
-updatedTimestamp: 1699450663906
+updatedTimestamp: 1713393117599
 createdTimestamp: 1639650413693
-wordCount: 760
+wordCount: 1452
 tags: []
 ---
+
+> _think of the most vulnerable person you know..._
+> 
+> _and organize in their best interests._
 
 **LGBTQIA+ people can face a high level of discrimination in their day-to-day life. If your organization works or engages with LGBTIQIA+ people, we will collect some tips to help you make your community space safer and more inclusive.**
 
@@ -63,3 +67,54 @@ Pride events are still controversial in a lot of European countries that have be
 ## Attribution
 
 This article was created during “[Pizza & Write-a-thon](/writeathon)” a joint project between Activist Handbook and [Federation of Young European Greens](https://fyeg.org/)
+
+## Disabled Activists
+
+The World Health Organization (WHO) estimates that 1.3 billion people, or 16% of the world's population, have a significant disability. This number is increasing due to population growth, medical advances, and the aging process. ([source](https://www.who.int/news-room/fact-sheets/detail/disability-and-health?utm_source=activisthandbook.org))
+
+-   **Disability is not just a medical condition, but also a social, cultural, and political identity**
+    
+-   Discrimination against people with disabilities is a violation of human rights. It’s not just an unfortunate fact of life. ([source](https://www.forbes.com/sites/andrewpulrang/2021/04/22/7-core-arguments-of-disability-rights/?sh=d1acc9954714&utm_source=activisthandbook.org))
+    
+-   Physical limitation, mental limiation, emotional limiation, and blocked opportunities are not unavoidable consequences of having disabilities. They are products of ableist beliefs about disability, and failure to take steps to ensure equal access and opportunity. We know how to fix or significantly lessen most of the practical problems that make life harder for disabled people. If these problems aren’t fixed or improved, it’s because we have directly or indirectly decided not to.
+    
+
+### What you can do for your comrades:
+
+-   Meeting in person? Consider meeting location, parking, stairs, distance from curb to room, types of seating for all sizes and shapes of bodies
+    
+-   Meeting online? Enable recording, eliminate background noises, provide CART captions, and send out resources ahead of time in either large, simple font, or in a document that can be edited to fit the user's needs
+    
+-   Most of all: ask questions! Many disabilities are invisible. Many disabilities are acquired with age, and many worsen with age. You may not always see someone with a mobility aid, a sensory tool, a magnifying glass, or other accommodations they have provided themselves to cope with a **life and a world that was not built for them**.
+    
+-   Be a person who encourages and allows their disabled comrade's energy to go to their advocacy for the cause they believe in, not always having to be the sole advocate for themselves.
+    
+-   Ask and learn! What do your people need to feel safe and open to contribute and show up fully themselves? Their presence is vital, and we get to our goals together or not at all - so let's make sure our disabled friends feel like they belong.
+    
+
+## Neurodivergent Activists
+
+-   Many neurodivergencies fall under disability - so please read above!
+    
+-   A core theme and motto for the ND and AuDHD (autistic and ADHD) community is "_nothing about us without us_" - which resounds throughout organizing and community building, right?
+    
+-   Remember that a lot of what you might have learned from TV or TikTok about generalizations and stereotypes may not be true of your new friend. The saying goes, if you've met one autistic person, you've met one autistic person.
+    
+
+### What you can do for your comrades:
+
+-   Educate yourself!
+    
+    -   "You don't look autistic!", "But you seem so focused, I wouldn't have guessed you had ADHD", "You always venmo me the right amount, your dyscalculia can't be _that_ bad!" "Everyone's a little on the spectrum!"
+        
+    -   These statements increase emotional labor and put the impetus of teaching you on the ND or disabled person, and puts them on the defensive of justifying the validity and severity of their condition.
+        
+    -   Instead, ask how it affects their day-to-day life. What does a good day look like, and what does it take for them to get there? What do bad days look like, and what kind of support would they like during those times?
+        
+    -   Anticipate communication and sensory needs.
+        
+        -   Present information in more than one way. Orally, written, or with a metaphor, image, or story. Be prepared to send a synopsis after each meeting as a follow-up, and letting people know the agenda, attire, and expectations ahead of time is always a bonus. This helps with emotional, mental, and nervous system regulation to keep all cylinders firing.
+            
+        -   Meeting in person: hold expectations loosely as far as seating, and have low lighting and white noise options available should they become beneficial.
+            
+-   Ask and learn! What do your people need to feel safe and open to contribute and show up fully themselves? Their presence is vital, and we get to our goals together or not at all - so let's make sure our neurodiverse friends feel like they belong.

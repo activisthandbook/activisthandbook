@@ -6,9 +6,9 @@ description: >
 langCode: en
 articleID: ItlwwJfYopwgV4ZEnH653rUc1JbQ2GJj
 languageCollectionID: l8XZ2W25XNow2B1wFBSVg7-4T2S1LBn3
-updatedTimestamp: 1700385291879
+updatedTimestamp: 1713390985597
 createdTimestamp: 1583509148168
-wordCount: 1529
+wordCount: 1532
 tags: ["wellbeing","chapters"]
 ---
 
@@ -32,7 +32,7 @@ Articles about wellbeing practices that you can implement as a group:
     
 -   **✋** [**Sexual harassment inside your group**](/wellbeing/sexual-harassement)
     
--   🏳️‍🌈 [**Health marginalised activists**](/wellbeing/lgbtqia-inclusion)
+-   🏳️‍🌈 [**Health marginalised activists (LGBTQIA2S+, Disabled, Neurodivergent)**](/wellbeing/lgbtqia-inclusion)
     
 
 <dynamic-image imageid="a014428f-d59c-4369-ca5e-d74bbf80d100" alt="Three goats taking care of each other"><p>Together, we are more resilient, by <a target="_blank" href="https://edit.activisthandbook.org/author/tzmE91SnnrbJJXuvQNBl9rt6HK63">Joppe</a> | Generated using Dall-e</p></dynamic-image>

@@ -6,9 +6,9 @@ description: >
 langCode: en
 articleID: HMK5sJ5HJI1eGM_Lf0SY61DAv8KQC-Ao
 languageCollectionID: H2SCW8af0Lk95U82jblwaPiyMLxVN5V8
-updatedTimestamp: 1708734397752
+updatedTimestamp: 1713226502913
 createdTimestamp: 1702596551251
-wordCount: 2393
+wordCount: 3589
 ---
 
 ## Short-term goals
@@ -174,13 +174,145 @@ Depending on the state, this might be classified as "independent" or "write in."
 
 ### If you would like to register a new political party, here are the regulations by state:
 
-<table><tbody><tr><th><p>state</p></th><th><p>process</p></th><th><p>signatures</p></th><th><p>deadline</p></th></tr><tr><td><p>Alabama</p></td><td><p></p></td><td><p></p></td><td><p></p></td></tr><tr><td><p>Alaska</p></td><td><p></p></td><td><p></p></td><td><p></p></td></tr><tr><td><p>Arizona</p></td><td><p></p></td><td><p></p></td><td><p></p></td></tr><tr><td><p>Arkansas</p></td><td><p></p></td><td><p></p></td><td><p></p></td></tr><tr><td><p>California</p></td><td><p></p></td><td><p></p></td><td><p></p></td></tr><tr><td><p>Colorado</p></td><td><p></p></td><td><p></p></td><td><p></p></td></tr><tr><td><p>Connecticut</p></td><td><p></p></td><td><p></p></td><td><p></p></td></tr><tr><td><p>Delaware</p></td><td><p></p></td><td><p></p></td><td><p></p></td></tr><tr><td><p>Florida</p></td><td><p></p></td><td><p></p></td><td><p></p></td></tr><tr><td><p>Georgia</p></td><td><p></p></td><td><p></p></td><td><p></p></td></tr><tr><td><p>Hawaii</p></td><td><p></p></td><td><p></p></td><td><p></p></td></tr><tr><td><p>Idaho</p></td><td><p></p></td><td><p></p></td><td><p></p></td></tr><tr><td><p>Illinois</p></td><td><p></p></td><td><p></p></td><td><p></p></td></tr><tr><td><p>Indiana</p></td><td><p></p></td><td><p></p></td><td><p></p></td></tr><tr><td><p>Iowa</p></td><td><p></p></td><td><p></p></td><td><p></p></td></tr><tr><td><p>Kansas</p></td><td><p></p></td><td><p></p></td><td><p></p></td></tr><tr><td><p>Kentucky</p></td><td><p></p></td><td><p></p></td><td><p></p></td></tr><tr><td><p>Louisiana</p></td><td><p></p></td><td><p></p></td><td><p></p></td></tr><tr><td><p>Maine</p></td><td><p></p></td><td><p></p></td><td><p></p></td></tr><tr><td><p>Maryland</p></td><td><p></p></td><td><p></p></td><td><p></p></td></tr><tr><td><p>Massachusettes</p></td><td><p></p></td><td><p></p></td><td><p></p></td></tr></tbody></table>
+<table><tbody><tr><th><p>state</p></th><th><p>process</p></th><th><p>signatures</p></th><th><p>deadline</p></th></tr><tr><td><p>Alabama</p></td><td><p>File a petition with the secretary of state Both a paper copy and digital copy must be submitted.</p></td><td><p>42458</p></td><td><p>60 days before election</p></td></tr><tr><td><p>Alaska</p></td><td><p>file an application with the director of the Division of Elections, requesting that the number of registered voters for their group be tracked. Or, a group may file a petition to become a limited political party, and maintains this status if its presidential candidate receives at least three percent of the votes.</p></td><td><p>3614</p></td><td><p>90 days before election</p></td></tr><tr><td><p>Arizona</p></td><td><p>Collect signatures, complete an affidavit of 10 qualified electors, then request appointment. Email <a target="_blank" href="mailto:candidate@azsos.gov">candidate@azsos.gov</a>(link sends e-mail)</p></td><td><p></p></td><td><p></p></td></tr><tr><td><p>Arkansas</p></td><td><p>complete signatures, send petition no later than 3 weeks before primary. can take up to 30 days for approval. if approved, will need to nominate candidate by convention for the first election after approval, and file a political practices pledge. conventions must be held by march of election year.</p></td><td><p>10,000</p></td><td><p>february prior to election</p></td></tr><tr><td><p>California</p></td><td><p>Hold a caucus/convention at which temporary officers are elected and a party name designated. File notice with Secretary of State that the party is formed and you intended to try to qualify for elections. For petition: can contact the Secretary of State Elections Division to obtain voter registration cards.</p></td><td><p>1,114,662</p></td><td><p>135th day prior to primary election or presidential general election</p></td></tr><tr><td><p>Colorado</p></td><td><p>To file for a QPO, File proof of organization with secretary of state, meet at least once a year, identify at least one candidate to the general election ballot every election .</p></td><td><p>10,000</p></td><td><p>2nd friday in january of election year</p></td></tr><tr><td><p>Connecticut</p></td><td><p>1. run a candidate with nomination petition and party designation. 2. if the candidate garners 1% of the vote, then a minor party for that office is born. 3. file party rules.</p></td><td><p>1% of total votes cast for position in last election</p></td><td><p></p></td></tr><tr><td><p>Delaware</p></td><td><p>at least 21 days prior to election, there must be proof that at least .1 of 1% of the total number of votes by Dec 31 of the previous year were registered for the minor party</p></td><td><p>.1 of 1% of the total number of registered voters</p></td><td><p>dec 31 of the previous year</p></td></tr><tr><td><p>Florida</p></td><td><p>filing with the department a certificate showing the name of the organization, the names and addresses of its current officers, including the members of its executive committee, including a chair, vice chair, secretary, and treasurer (along with proof of voter registration for each). There must be proof electors will have meaningful participation in buisness and affairs of the group viaa a constitution, bylaws, etc.</p></td><td><p></p></td><td><p></p></td></tr><tr><td><p>Georgia</p></td><td><p>A new political organization must file a registration statement with the Georgia Secretary of State, along with a $10 filing fee, within 60 days of its organization. The registration statement must contain the following information:[2]<br><br>name of the political organization<br>date and location of the organization's creation<br>general purposes for which the organization was created<br>address of the main office<br>certified copies of any charters, bylaws, rules, regulations, or other operational documents<br>names, addresses, and titles of officers and members of governing committees</p></td><td><p>1% of registered voters</p></td><td><p></p></td></tr><tr><td><p>Hawaii</p></td><td><p>petition must be accompanied by names/addresses of the central committee officers and of the respective county committee officers</p></td><td><p>862</p></td><td><p>february prior to election</p></td></tr><tr><td><p>Idaho</p></td><td><p>** can't seem to find information on how to get a minor party recognized unless it's with a candidate</p></td><td><p></p></td><td><p></p></td></tr><tr><td><p>Illinois</p></td><td><p>** can't seem to find information on how to get a minor party recognized unless it's with a candidate</p></td><td><p></p></td><td><p></p></td></tr><tr><td><p>Indiana</p></td><td><p>at this time, minor parties can only be declared in conjunction with a candidate and would be considered "write in" please refer to candidate ballot requirements</p></td><td><p></p></td><td><p></p></td></tr><tr><td><p>Iowa</p></td><td><p>1. an organization must have a candidate 2. that candidate must receive at least 2% of total vote 3. file application</p></td><td><p></p></td><td><p></p></td></tr><tr><td><p>Kansas</p></td><td><p>** can't seem to find information on how to get a minor party recognized unless it's with a candidate</p></td><td><p></p></td><td><p></p></td></tr><tr><td><p>Kentucky</p></td><td><p>** can't seem to find information on how to get a minor party recognized unless it's with a candidate</p></td><td><p></p></td><td><p></p></td></tr><tr><td><p>Louisiana</p></td><td><p>R.S. 18:441.B authorizes political parties (other than Democratic and Republican) to become recognized if: • At least 1,000 registered voters are registered as being affiliated with the party. • The party files a notarized registration statement with Secretary of State. (form available on website: <a target="_blank" href="http://sos.la.gov">sos.la.gov</a>) • The party pays a registration fee of $1,000 to Secretary of State. Restrictions on newly-recognized political parties: • Party is not entitled to representation on Parish Board of Election Supervisors, unless 5% of the registered voters in the state are registered as being affiliated with the party. • When qualifying for office, candidates pay only the state qualifying fee and do not pay any party fees. R.S. 18:441(D)(1) • Party cannot have Presidential Preference Primary party candidates for presidential nominee; must have 40,000 registered vote</p></td><td><p>At least 1,000 registered voters (see further details to the left)</p></td><td><p></p></td></tr><tr><td><p>Maine</p></td><td><p>at this time, minor parties can only be declared in conjunction with a candidate and would be considered "write in" please refer to candidate ballot requirements</p></td><td><p></p></td><td><p></p></td></tr><tr><td><p>Maryland</p></td><td><p><a target="_blank" href="https://www.elections.maryland.gov/pdf/6-201-1B.pdf">https://www.elections.maryland.gov/pdf/6-201-1B.pdf</a></p></td><td><p>10000</p></td><td><p></p></td></tr><tr><td><p>Massachusettes</p></td><td><p>To be recognized as a political designation in Massachusetts, fifty registered voters must file a document with the state seeking this status.</p></td><td><p>3% of the vote for any state-wide office at the preceding biennial state election, or have enrolled at least 1% of all registered voters</p></td><td><p></p></td></tr></tbody></table>
 
 ## So, how do we build a coalition large enough to succeed in getting someone on the ballot?
 
 (Note: elaboration will be provided as this page is updated)
 
--   Establish the party in each state
+### Establish the party in each state
+
+**(taken/adapted from Project 2024)**
+
+-   **Step 1** is to find your community within your congressional district. 
+    
+    There are several ways to do this:
+    
+    1. [Join the Discord](https://discord.gg/vf7znVFC)
+    
+    2\. Reach out to local labor unions.
+    
+    3\. Reach out to local organizers as they have been leading the resistant and revolution for many years. An example would be the [Party for Socialism and Liberation](https://pslweb.org) (PSL). Ask these leaders how you can help. Ask if they have a candidate in mind.
+    
+    4\. Unite under the goal of putting an independent into U. S. House of Representatives.
+    
+    5\. Become a real part of this newfound community, lending a hand in whatever capacity is available to you.
+    
+-   **Step 2** is to find your candidate.
+    
+    As stated in the previous chapter, try to find local unions/third party groups in your area and see if they already have candidates in mind. 
+    
+    If there are no candidates, find one along with the help of your newfound community.
+    
+    Below are some resources to help you get started.
+    
+    [TheGreenPapers.com](http://TheGreenPapers.com) is a great resource. It updates regularly, and lets you see registered candidates, important political events, and deadlines.
+    
+    Follow this link to find the candidates that have registered to have their names on the ballot in 2024:
+    
+    [https://www.thegreenpapers.com/G24/](https://www.thegreenpapers.com/G24/)
+    
+    Click your state to find your congressional district. (You can also just Google “What U. S. congressional district is \[insert town/city name\] in?)
+    
+    [1\. Alabama](https://ballotpedia.org/United_States_House_of_Representatives_elections_in_Alabama,_2024)
+    
+    [2\. Alaska](https://ballotpedia.org/United_States_House_of_Representatives_election_in_Alaska,_2024)
+    
+    [3\. Arizona](https://ballotpedia.org/United_States_House_of_Representatives_elections_in_Arizona,_2024)
+    
+    [4\. Arkansas](https://ballotpedia.org/United_States_House_of_Representatives_elections_in_Arkansas,_2024)
+    
+    [5\. California](https://ballotpedia.org/United_States_House_of_Representatives_elections_in_California,_2024)
+    
+    [6\. Colorado](https://ballotpedia.org/United_States_House_of_Representatives_elections_in_Colorado,_2024)
+    
+    [7\. Connecticut](https://ballotpedia.org/United_States_House_of_Representatives_elections_in_Connecticut,_2024)
+    
+    [8\. Delaware](https://ballotpedia.org/United_States_House_of_Representatives_election_in_Delaware,_2024)
+    
+    [9\. Florida](https://ballotpedia.org/United_States_House_of_Representatives_elections_in_Florida,_2024)
+    
+    [10\. Georgia](https://ballotpedia.org/United_States_House_of_Representatives_elections_in_Georgia,_2024)
+    
+    [11\. Hawaii](https://ballotpedia.org/United_States_House_of_Representatives_elections_in_Hawaii,_2024)
+    
+    [12\. Idaho](https://ballotpedia.org/United_States_House_of_Representatives_elections_in_Idaho,_2024)
+    
+    [13\. Illinois](https://ballotpedia.org/United_States_House_of_Representatives_elections_in_Illinois,_2024)
+    
+    [14\. Indiana](https://ballotpedia.org/United_States_House_of_Representatives_elections_in_Indiana,_2024)
+    
+    [15\. Iowa](https://ballotpedia.org/United_States_House_of_Representatives_elections_in_Iowa,_2024)
+    
+    [16\. Kansas](https://ballotpedia.org/United_States_House_of_Representatives_elections_in_Kansas,_2024)
+    
+    [17\. Kentucky](https://ballotpedia.org/United_States_House_of_Representatives_elections_in_Kentucky,_2024)
+    
+    [18\. Louisiana](https://ballotpedia.org/United_States_House_of_Representatives_elections_in_Louisiana,_2024)
+    
+    [19\. Maine](https://ballotpedia.org/United_States_House_of_Representatives_elections_in_Maine,_2024)
+    
+    [20\. Maryland](https://ballotpedia.org/United_States_House_of_Representatives_elections_in_Maryland,_2024)
+    
+    [21\. Massachusetts](https://ballotpedia.org/United_States_House_of_Representatives_elections_in_Massachusetts,_2024)
+    
+    [22\. Michigan](https://ballotpedia.org/United_States_House_of_Representatives_elections_in_Michigan,_2024)
+    
+    [23\. Minnesota](https://ballotpedia.org/United_States_House_of_Representatives_elections_in_Minnesota,_2024)
+    
+    [24\. Mississippi](https://ballotpedia.org/United_States_House_of_Representatives_elections_in_Mississippi,_2024)
+    
+    [25\. Missouri](https://ballotpedia.org/United_States_House_of_Representatives_elections_in_Missouri,_2024)
+    
+    [26\. Montana](https://ballotpedia.org/United_States_House_of_Representatives_elections_in_Montana,_2024)
+    
+    [27\. Nebraska](https://ballotpedia.org/United_States_House_of_Representatives_elections_in_Nebraska,_2024)
+    
+    [28\. Nevada](https://ballotpedia.org/United_States_House_of_Representatives_elections_in_Nevada,_2024)
+    
+    [29\. New Hampshire](https://ballotpedia.org/United_States_House_of_Representatives_elections_in_New_Hampshire,_2024)
+    
+    [30\. New Jersey](https://ballotpedia.org/United_States_House_of_Representatives_elections_in_New_Jersey,_2024)
+    
+    [31\. New Mexico](https://ballotpedia.org/United_States_House_of_Representatives_elections_in_New_Mexico,_2024)
+    
+    [32\. New York](https://ballotpedia.org/United_States_House_of_Representatives_elections_in_New_York,_2024)
+    
+    [33\. North Carolina](https://ballotpedia.org/United_States_House_of_Representatives_elections_in_North_Carolina,_2024)
+    
+    [34\. North Dakota](https://ballotpedia.org/United_States_House_of_Representatives_election_in_North_Dakota,_2024)
+    
+    [35\. Ohio](https://ballotpedia.org/United_States_House_of_Representatives_elections_in_Ohio,_2024)
+    
+    [36\. Oklahoma](https://ballotpedia.org/United_States_House_of_Representatives_elections_in_Oklahoma,_2024)
+    
+    [37\. Oregon](https://ballotpedia.org/United_States_House_of_Representatives_elections_in_Oregon,_2024)
+    
+    [38\. Pennsylvania](https://ballotpedia.org/United_States_House_of_Representatives_elections_in_Pennsylvania,_2024)
+    
+    [39\. Rhode Island](https://ballotpedia.org/United_States_House_of_Representatives_elections_in_Rhode_Island,_2024)
+    
+    [40\. South Carolina](https://ballotpedia.org/United_States_House_of_Representatives_elections_in_South_Carolina,_2024)
+    
+    [41\. South Dakota](https://ballotpedia.org/United_States_House_of_Representatives_election_in_South_Dakota,_2024)
+    
+    [42\. Tennessee](https://ballotpedia.org/United_States_House_of_Representatives_elections_in_Tennessee,_2024)
+    
+    [43\. Texas](https://ballotpedia.org/United_States_House_of_Representatives_elections_in_Texas,_2024)
+    
+    [44\. Utah](https://ballotpedia.org/United_States_House_of_Representatives_elections_in_Utah,_2024)
+    
+    [45\. Vermont](https://ballotpedia.org/United_States_House_of_Representatives_election_in_Vermont,_2024)
+    
+    [46\. Virginia](https://ballotpedia.org/United_States_House_of_Representatives_elections_in_Virginia,_2024)
+    
+    [47\. Washington](https://ballotpedia.org/United_States_House_of_Representatives_elections_in_Washington,_2024)
+    
+    [48\. West Virginia](https://ballotpedia.org/United_States_House_of_Representatives_elections_in_West_Virginia,_2024)
+    
+    [49\. Wisconsin](https://ballotpedia.org/United_States_House_of_Representatives_elections_in_Wisconsin,_2024)
+    
+    [50\. Wyoming](https://ballotpedia.org/United_States_House_of_Representatives_election_in_Wyoming,_2024)
     
 -   begin signature collection plan
     

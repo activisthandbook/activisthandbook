@@ -6,9 +6,9 @@ description: >
 langCode: en
 articleID: _FhS3DYPgN9p0h3elRVarmYTU8jQvcTA
 languageCollectionID: _umEWSFrid1WEvO8qO_6umUHhX8sIc49
-updatedTimestamp: 1705850633371
+updatedTimestamp: 1721918024185
 createdTimestamp: 1583509229031
-wordCount: 958
+wordCount: 960
 tags: ["tools","chapters"]
 ---
 
@@ -148,8 +148,10 @@ This article performs well in search engines**.** Lot's of people look up ‘too
 
 <table><tbody><tr><th><p>Searches</p></th><th><p>Monthly frequency (global)</p></th><th><p>Relevancy</p></th></tr><tr><td><p>nonprofit tools</p></td><td><p>220</p></td><td><p>high</p></td></tr><tr><td><p>tools for activists</p></td><td><p>280</p></td><td><p>high</p></td></tr><tr><td><p>social movement technologies</p></td><td><p></p></td><td><p></p></td></tr></tbody></table>
 
-## Related resources
+## External resources
 
+-   [StacLabs Index](https://index.staclabs.io/tools?utm_source=activisthandbook.org)
+    
 -   [Common Knowledge](https://commonknowledge.coop)
     
 -   [Apps and digital platforms for organizers](https://blueprintsfc.org/guide/apps-and-digital-platforms-for-organizers-tools-roundup/) by Blueprints for Change
