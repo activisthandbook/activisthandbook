@@ -6,7 +6,7 @@ description: >
 langCode: en
 articleID: v7ONnIEx3he17_I-JD0CgqlZRX-75Zuy
 languageCollectionID: GEBMCoST8DAOBDN-LZdnxBWpOlQD18V2
-updatedTimestamp: 1715186947507
+updatedTimestamp: 1723798357528
 createdTimestamp: 1583509165087
 wordCount: 3319
 tags: ["tactics","chapters"]
@@ -314,4 +314,4 @@ Check out our list of [books on campaign strategy](/strategy/books).
 
 The following resources were reused throughout this chapter:
 
--   [People Power Manual, Campaign Strategy](https://thechangeagency.org/people-power-manual/?utm_source=activisthandbook.org) edited by Jason MacLeod, Pasifika and James Whelan, published by The Change Agency (2020) - Creative Commons Attribution-Non Commercial-Share Alike License
+-   [People Power Manual, Campaign Strategy](https://thechangeagency.org/people-power-manual/?utm_source=activisthandbook.org) edited by Jason MacLeod, Pasifika and James Whelan, published by The Change Agency (2020) - Creative Commons Attribution-Non Commercial-Share Alike License.
