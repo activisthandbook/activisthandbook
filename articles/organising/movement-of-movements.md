@@ -6,9 +6,9 @@ description: >
 langCode: en
 articleID: CkMFCdgdtaDPHg-3wEyxla5V0SF5VToS
 languageCollectionID: XSBnRUemIM22NfD2Zg8srEOrhCuZQmBL
-updatedTimestamp: 1699439816618
+updatedTimestamp: 1724252686068
 createdTimestamp: 1688194545952
-wordCount: 338
+wordCount: 615
 ---
 
 In this guide, you will learn what a movement of movements is. We explain how to strengthen connections between movements. We discuss how to bring together activists across countries, causes and strategies.
@@ -45,6 +45,19 @@ A movement of movements is a dynamic network of **solidarity** and **collaborati
 ## Common challenges
 
 > This section has not been written yet.
+
+## Discussions
+
+-   **_How do you balance seeing the value of all tactics and strategies as complementary, versus giving founded critiques as to why certain tactics/strategies should be abandoned in favour of others?_**
+    
+    -   _How do you avoid defending tactics that are actually harmful or not as effective as others? (Which may cause you to lose campaigns in the context of limited resources or time)_
+        
+-   **_How to deal with the following paradox: Organisations, especially innovative ones, must defend their controversial strategies at the cost of other strategies to convince people to participate. For example, this may be the case for organisations that are trying to get people involved in civil disobedience by pointing out that other, easier (!), strategies have not worked. At the same time, such the people within such organisations may realise that actually, these other 'easier' strategies and civil disobedience go hand in hand. However, they can never say that out loud, because if they would, nobody or not enough people would participate in the difficult strategies. After all: Why would anyone participate in doing something you could get arrested for, when you can also sign a petition and achieve the same effect? Advocating the value of an ecology of social movements, paradoxically, results in an ecology of social movements becoming impossible._**
+    
+    -   Does this paradox actually exist, or are there ways around this? More nuanced narratives perhaps? Is there a way to make these nuanced narratives easy to understand?
+        
+    -   What are the implications for collaborations, for example in the form of coalitions? Some actors within the ecology of social movements may benefit from frustrating a narrative of "everything is complementary", which is useful to bring people together.
+        
 
 ## External resources
 
