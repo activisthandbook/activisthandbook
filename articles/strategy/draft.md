@@ -6,9 +6,9 @@ description: >
 langCode: en
 articleID: kpwDNPmCaIn00aOwUvnKi_xtoUParhkf
 languageCollectionID: bVQuJ_rUYz3WfPNyR-GsHwcvN_mkMc1l
-updatedTimestamp: 1723809237643
+updatedTimestamp: 1724503439557
 createdTimestamp: 1723725072922
-wordCount: 5502
+wordCount: 5524
 ---
 
 **In this chapter, we explain what a campaign strategy is. With these tips, you will be able to design more impactful campaign plans. To make it easy for you to get started, we provide examples, templates and workshops.**
@@ -382,3 +382,7 @@ Analysing your strategy context, also called situational analysis, helps....
 ## Iteration
 
 learning and scaling up
+
+## External resources
+
+-   [**Book: Good strategy, bad strategy**](https://web.archive.org/web/20220327073355/http://goodbadstrategy.com/about-the-book/?utm_source=activisthandbook.org) by Richard Rumelt: about strategy in a commercial context, but provides valuable insights for activists

@@ -6,19 +6,55 @@ description: >
 langCode: en
 articleID: YiiTQlzi-T8BFUv2BqJ99rSu18GiFP_3
 languageCollectionID: vHUsW2i8Hqct2_HcwPc1ytcQtYLObWig
-updatedTimestamp: 1676731762322
+updatedTimestamp: 1724503669735
 createdTimestamp: 1598871273074
-wordCount: 297
+wordCount: 753
 tags: []
 ---
 
-**This section of the Organising chapter provides tools for analysis of the organisations from the perspective of power allocation in decision making and facilitation.**
+In this guide, you will learn how to make decisions in small and large groups. We discuss how to take into account inclusivity, power dynamics and flexibility. We compare various decision making models and provide some recommendations for new groups.
+
+> **Article quality**: ⭐️ (1/5)
+> 
+> **Related guides**: Also check out our guide on [facilitating meetings](/organising/facilitating). and [organizing models](/organising/models).
+
+## Principles
+
+### There is limited time
+
+Every decision is made within a limited timeframe. Some decisions may take place over a few days, others within seconds. Some decisions have a big impact, other have a small impact. Generally, you should spend more time on more impactful decisions.
+
+Sometimes though, you will be forced to make really impactful decisions really quickly. The world is not static: the context in which your decision takes place is changing all the time. As the world changes, your questions and their answers will also need to change. This is why it is important not just to find the most optimal solution, but also to learn how to make decisions faster. Preparation can help avoid being forced to make important decisions too quickly. However, you should also be prepared for the unexpected. You need to practice using different decision making models suited for different timing contexts.
+
+Also important to realise: not making a decision equals making the decision to continue doing what you were doing.
+
+> _For example, people are suffering because of the climate and ecological catastrophe right now. The more time you take to decide what is the best way to do something about that, the longer people will be suffering. There are also literal deadlines: we do not know exactly when_ [_tipping points_](https://en.wikipedia.org/wiki/Tipping_points_in_the_climate_system?utm_source=activisthandbook.org) _will occur, but when they do, there is no going back._
+
+### Power always exist
+
+Saying 'we are a decentralised movement, nobody has power' does not make it true. In the absence of an explicit power division, society's default power relationships are more likely to be present.
+
+### Perfect decisions do not exist
+
+No matter how long you take to make decisions as a group, you will not find the perfect solution. And of course: as discussed before, all decisions must be made in a limited timeframe. Decision making is about finding good enough solutions, and continuously optimising to find better ones.
+
+### Humans are not robots
+
+Humans do not make rational decisions as if we were computers. We have all sorts of [**decision biases**](https://thedecisionlab.com/biases-index?utm_source=activisthandbook.org). In part, we can optimize our decision making practices to avoid these biases. However, it is not possible to 'overcome' them, nor should you try to. Instead, just acknowledge the existence of this part of human nature, and design your strategy and tactics to take into account this fact.
+
+We are **social** and **emotional** beings. \[ADD EXAMPLES, EXPLAY WHY RELEVANT\]
+
+Importantly, when we understand human nature better, we can actually more effectively bring about social change. \[ADD EXAMPLE\]
 
 ## Decision-making models
 
 -   [Elections](/organising/decisions/elections)
     
 -   Consensus (page needs to be created)
+    
+-   [Holacracy](/organising/models/holacracy)
+    
+-   [Sociocracy](https://www.sociocracyforall.org/?utm_source=activisthandbook.org) ([sociocracy versus holacracy](https://www.sociocracyforall.org/sociocracy-and-holacracy-a-comparison/?utm_source=activisthandbook.org))
     
 
 ## Improve this page
