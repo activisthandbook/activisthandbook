@@ -2,16 +2,18 @@
 title: >
   What is digital organizing?
 description: >
-  Guide for digital organizers 
+  Guide for digital organizers
 langCode: en
 articleID: gz7-sKLP8XZf8B7ytC1LyeQBcwJ3PxYF
 languageCollectionID: 7RntqYH138QMBgdPt_0fYewurAx7Po2B
-updatedTimestamp: 1703073031663
+updatedTimestamp: 1724506981301
 createdTimestamp: 1695736860608
-wordCount: 1545
+wordCount: 1549
 ---
 
 In this guide, you will learn all about digital organizing. We will teach you how to use tech to make more impact with your activist group.
+
+> **Article quality**: ⭐️ (1/5)
 
 ## Introduction
 

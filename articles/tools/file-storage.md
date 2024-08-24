@@ -6,24 +6,33 @@ description: >
 langCode: en
 articleID: uGB4YkI3J2SAZP97fyBgIdmoAYQSxSB8
 languageCollectionID: 47m_RVMQThcvdR-TQF9Ho1uOvR9jdTcR
-updatedTimestamp: 1645019722554
+updatedTimestamp: 1724507790652
 createdTimestamp: 1624720137940
+wordCount: 227
 tags: ["tools","stub"]
 ---
 
 **Cloud storage tools are becoming an increasingly important part of the activist toolkit. They can help you to keep your data safe and secure, as well as making it easy to share information with other activists.**
 
+> **Article quality**: ⭐️ (1/5)
+
 When choosing a cloud storage provider, it is important to consider the following factors:
 
 -   **Privacy:** Make sure that the provider does not keep logs of your activity, and that your data is encrypted.
+    
 -   **Security:** Look for providers that have a good track record of protecting user data.
+    
 -   **Pricing:** Make sure that the provider offers a good value for money.
+    
 -   **Ease of use:** Make sure that the provider is easy to use, and that the software is compatible with your devices.
+    
 
 Here are some of our favourites cloud storage providers for activists:
 
 1.  Google Drive: Google Drive is one of the most popular cloud storage providers, and it is very easy to use.
+    
 2.  Nextcloud: An open source cloud storage provider that you can self-host.
+    
 
 ## Improve this page
 

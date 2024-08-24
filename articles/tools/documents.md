@@ -6,55 +6,91 @@ description: >
 langCode: en
 articleID: PkvHd6OCHA5CFTAytxEjTME3sSSVeXeB
 languageCollectionID: _no2TB4BYi3kfN-gSTN_T66-poRujBOZ
-updatedTimestamp: 1648493912307
+updatedTimestamp: 1724507895576
 createdTimestamp: 1624720198647
+wordCount: 290
 tags: []
 ---
 
+> **Article quality**: ⭐️ (1/5)
+
 -   Google Docs: Collaborative text editing
+    
 -   Notion: Smart documents
+    
 -   Coda: Smart documents
+    
 -   Airtable: Modern spreadsheets
+    
 -   Workflowy: Fast note-taking
+    
 -   Anytype: Open source Notion alternative, in beta
+    
 
 ## Evaluation criteria
 
 -   **Ease of use:** popularity, simplicity features
+    
 -   **Pricing:**
+    
 -   **Platforms:** desktop app/mobile app/web
+    
 -   **Sharing:** collaboration, managing access rights
+    
 -   **Publishing**
+    
 -   **Relational databases**
+    
 -   **Forms**
+    
 -   **Charts**
+    
 -   **Integrations**
+    
 
 ## Comparing document tools
 
 ### Google Docs
 
 -   **Ease of use:** quite popular, relatively simple to use
+    
 -   **Pricing:** free for most features, with optional [Google Workspace](https://workspace.google.com) plans
+    
 -   **Platforms:** desktop app/mobile app/web
+    
 -   **Sharing:** collaboration, managing access rights
+    
 -   **Publishing:** can be [published as web page](https://support.google.com/a/users/answer/9308870?hl=en), but limited functionality compared to other tools
+    
 -   **Relational databases:** not available
+    
 -   **Forms:** Not directly available. For specific use cases, there is a workaround: Google Forms can be used to collect data in Google Sheets. Within Google Sheets, a chart can be made. This chart can then be copied into Google Docs, with live syncing.
+    
 -   **Charts:** Not directly available. See workaround via Google Sheets above.
+    
 -   **Integrations:** some extensions available, limited compared to other tools
+    
 
 ### Notion
 
 -   **Ease of use:** lots of features, so more difficult to learn
+    
 -   **Pricing:** free plan available, [paid plans](https://www.notion.so/pricing) for more collaboration features
+    
 -   **Platforms:** desktop app/mobile app/web
+    
 -   **Sharing:** collaboration, managing access rights
+    
 -   **Publishing**
+    
 -   **Relational databases**
+    
 -   **Forms**
+    
 -   **Charts**
+    
 -   **Integrations**
+    
 
 ### Coda
 

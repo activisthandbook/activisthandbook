@@ -6,15 +6,19 @@ description: >
 langCode: en
 articleID: _FhS3DYPgN9p0h3elRVarmYTU8jQvcTA
 languageCollectionID: _umEWSFrid1WEvO8qO_6umUHhX8sIc49
-updatedTimestamp: 1721918024185
+updatedTimestamp: 1724507524178
 createdTimestamp: 1583509229031
-wordCount: 960
+wordCount: 1033
 tags: ["tools","chapters"]
 ---
 
 **In this article you will find a list of digital tools that will come in handy for you as activist. Taking into account the limited resources of movements, we have selected a wide variety of affordable apps. We also have provided some open source alternatives, if you prefer to avoid evil big business out of privacy concerns!**
 
 > **Chapter quality**: ⭐️⭐️ (2/5)
+> 
+> This chapter is a work-in-progress. You will still find some useful tools. However, in most cases, you will need to evaluate these tools yourself. In addition, we have not yet written good guides on how to use these digital tools effectively.
+> 
+> As the digital landscape changes quickly, this is is also a difficult chapter to keep up-to-date. We encourage tech-savvy activists to contribute by clicking the blue edit button in the bottom right!
 
 ## Get started
 

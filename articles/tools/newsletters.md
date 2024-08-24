@@ -6,13 +6,15 @@ description: >
 langCode: en
 articleID: 2S4jt9dx60_pffxPpKlV0VFoJhOmH0Rc
 languageCollectionID: -5mo8sX2FV5yqhcqg_fsU61A77sxN_Fh
-updatedTimestamp: 1681972030359
+updatedTimestamp: 1724507628591
 createdTimestamp: 1583670893837
-wordCount: 993
+wordCount: 997
 tags: ["tools","social media"]
 ---
 
 In this guide, we explain how activists can use email to grow and strengthen their group. We tell you how to write good newsletters and we compare tools that you can use to send them.
+
+> **Article quality:** ⭐️ (1/5)
 
 ## Why write a newsletter?
 

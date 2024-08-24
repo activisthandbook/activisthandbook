@@ -6,13 +6,15 @@ description: >
 langCode: en
 articleID: OIdzm4zCNy5uueuVtSGK-dWoAYJojt2l
 languageCollectionID: rOnRkqeKFocsL5LElVfQGPX5zRbZgjK8
-updatedTimestamp: 1697755928160
+updatedTimestamp: 1724507592632
 createdTimestamp: 1585060695885
-wordCount: 783
+wordCount: 787
 tags: []
 ---
 
 With the current corona crisis going on, video calling tools have become essential for staying in touch. Now, we cannot meet in person, but meeting face to face is still possible with the the video calling tools that we will be discussing. Below you will find a list of the various services that are available.
+
+> **Article quality**: ⭐️ (1/5)
 
 ## For large groups
 

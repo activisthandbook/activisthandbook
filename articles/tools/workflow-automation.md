@@ -2,17 +2,19 @@
 title: >
   Workflow automation tools for activists
 description: >
-  Connect apps and automate things 
+  Connect apps and automate things
 langCode: en
 articleID: ZiF6omrPDykHceZ75KS70PfGnJg67D0Y
 languageCollectionID: lcpxY7YdfmZQBHkL1bVIAEk9i3pQWg61
-updatedTimestamp: 1692861960495
+updatedTimestamp: 1724508014827
 createdTimestamp: 1624720274805
-wordCount: 1137
+wordCount: 1141
 tags: ["tools","stub"]
 ---
 
 **As an activist, you may find you are spending quite a lot of time on repetitive tasks. Automation tools like Zapier and n8n help activists achieve more in less time. It can also help to connect all of your digital tools together.**
+
+> **Article quality**: ⭐️⭐️⭐️ (3/5)
 
 ## **How to use workflow automation tools?**
 

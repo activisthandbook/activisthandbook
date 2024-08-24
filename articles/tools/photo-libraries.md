@@ -6,15 +6,17 @@ description: >
 langCode: en
 articleID: HLY1aif1-CENFMq6Xyaa0nQWsyUiN19D
 languageCollectionID: lN43xnzY_WmuhxXPfDwULKe0JOC9soA1
-updatedTimestamp: 1709511170869
+updatedTimestamp: 1724507343041
 createdTimestamp: 1646992621769
-wordCount: 248
+wordCount: 252
 tags: []
 ---
 
 **Below we have collected a list of platforms where you can find photos and images of protestors for free. Many of these have been published under a creative commons licence, or similar. Also make sure to check out our** [**illustration**](/tools/vector-libraries) **and** [**video footage**](/tools/video-libraries) **collections.**
 
-> _Make sure to double check the licence for all material you use. And even if no attribution is required, usually, authors appreciate a little thank you._
+> **Article quality**: ⭐️ (1/5)
+
+_Make sure to double check the licence for all material you use. And even if no attribution is required, usually, authors appreciate a little thank you._
 
 ## List of photo libraries
 

@@ -6,12 +6,14 @@ description: >
 langCode: en
 articleID: kBbGQXaa03vJgcrBubs0i-FANg_-JC7M
 languageCollectionID: EeruxjJwBEMAWUAFpOMPeCedxuVDOl5n
-updatedTimestamp: 1721544046520
+updatedTimestamp: 1724507022827
 createdTimestamp: 1705850645217
-wordCount: 672
+wordCount: 676
 ---
 
 In this guide, we explain how to design a digital infrastructure for your nonprofit or activist movement. We go over various categories of tools, with advice for organisations of different sizes.
+
+> **Article quality**: ⭐️ (1/5)
 
 ## Introduction
 

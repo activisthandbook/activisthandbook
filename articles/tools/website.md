@@ -6,15 +6,15 @@ description: >
 langCode: en
 articleID: ZUrNlqdSDlfVXNMJiYQANxUXR-Nfk0Ot
 languageCollectionID: kIM9_43fNehCDeDZ1FhiTtRLltaC_pQA
-updatedTimestamp: 1712821693860
+updatedTimestamp: 1724507292181
 createdTimestamp: 1602565482279
-wordCount: 513
+wordCount: 517
 tags: ["tools","easy to improve"]
 ---
 
 **In this article we show how you can build a campaign website for your activist movement. First, we talk about why a website is (not) useful to have. Then we review various options for building one.**
 
-> When contributing to this article, please do not use technical language. We want everyone to be able to learn .
+> **Article quality**: ⭐️ (1/5)
 
 ## Do you need a website?
 
@@ -86,6 +86,8 @@ Want the most feature-rich solution? Choose Google Analytics. Care about privacy
 ## Improve this page
 
 **This page is easy to improve.** There already are high quality articles on this topic available under a Creative Commons licence. We can reuse those articles and integrate their content with this guide.
+
+When contributing to this article, please do not use technical language. We want everyone to be able to learn .
 
 ## Related articles
 

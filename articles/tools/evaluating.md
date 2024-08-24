@@ -6,12 +6,14 @@ description: >
 langCode: en
 articleID: ZgUfi5iO8YQyq6CsgpFGz3bKeYpoCXGW
 languageCollectionID: u1IremME7rSdKiheKJL9QLzNSDW_xkJP
-updatedTimestamp: 1705747090988
+updatedTimestamp: 1724507049042
 createdTimestamp: 1705745667984
-wordCount: 1003
+wordCount: 1007
 ---
 
 In this guide, we explain how you can find the right tools for your nonprofit or activist movement. We provide you with some general evaluation criteria that you can use to determine if a tool fits your needs.
+
+> **Article quality**: ⭐️⭐️ (2/5)
 
 ## Evaluation criteria
 

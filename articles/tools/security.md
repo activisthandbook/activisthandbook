@@ -6,9 +6,9 @@ description: >
 langCode: en
 articleID: Z-Ui7ues8iBNtbuAydgwwYxtzRpER2i_
 languageCollectionID: tPpL-PgfyflnfdbX8PN394PCl1Ic8v1c
-updatedTimestamp: 1678183511842
+updatedTimestamp: 1724507253728
 createdTimestamp: 1628605870725
-wordCount: 1871
+wordCount: 1894
 tags: []
 ---
 
@@ -18,6 +18,10 @@ You should protect yourself from hackers. As activist, you are in a high risk gr
     
 -   [Securing your laptop](/tools/security/laptop)
     
+
+> **Article quality**: ⭐️ (2/5)
+> 
+> Digital security guides quickly get outdated. This guide was updated a while ago. Make sure to do additional research!
 
 ## **Who needs this?**
 

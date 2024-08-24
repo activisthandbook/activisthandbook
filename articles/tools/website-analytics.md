@@ -2,16 +2,18 @@
 title: >
   Website analytics
 description: >
-  Guide for nonprofits and activist movements 
+  Guide for nonprofits and activist movements
 langCode: en
 articleID: kRMIBNAQIGheePuigEKde_yPmiG5tJPd
 languageCollectionID: CVFscUvXp_Y1-DLvnOH4EYCfA5uH51Mj
-updatedTimestamp: 1694071371677
+updatedTimestamp: 1724507857747
 createdTimestamp: 1694069772356
-wordCount: 558
+wordCount: 562
 ---
 
 In this guide, you will learn how to use tools like Google Analytics to measure the success of your campaigns. We will explain how to turn website data into valuable insights for your nonprofit or activist movement. We also review some more privacy-friendly options.
+
+> **Article quality**: ⭐️ (1/5)
 
 ## Why are website analytics valuable?
 

@@ -6,13 +6,15 @@ description: >
 langCode: en
 articleID: 8oTIX6KOzNZXpJibJDd_SkQQPxrS-PZA
 languageCollectionID: 9VmjWw-WeSsX8bwlJH7sZf8fO6s4lQkC
-updatedTimestamp: 1676199356858
+updatedTimestamp: 1724508281069
 createdTimestamp: 1618653072425
-wordCount: 853
+wordCount: 857
 tags: []
 ---
 
 In this guide, we explain how to start your own podcast. We compare various podcasting tools for your activist movement or nonprofit.
+
+> **Article quality**: ⭐️⭐️ (2/5)
 
 ## How to start?
 

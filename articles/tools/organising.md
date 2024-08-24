@@ -6,15 +6,15 @@ description: >
 langCode: en
 articleID: dT0iqoFEwKDD7VLHbYV7JUH8pZNovrKB
 languageCollectionID: 9VCNtkL83pf08RQZDMGgho-bwZn7Tblh
-updatedTimestamp: 1681971820421
+updatedTimestamp: 1724507137367
 createdTimestamp: 1601829180878
-wordCount: 523
+wordCount: 478
 tags: []
 ---
 
 In this guide, we compare movement-building platforms for activists. These digital tools will help you organise next campaign and turn supporters into leaders.
 
-> 📚 This guide is part of a series on how to [select your digital toolbox](/tools).
+> **Article quality**: ⭐️ (2/5)
 
 ## What is a movement-building platform?
 
@@ -109,10 +109,6 @@ To evaluate these organizing platforms, we evaluate the following criteria:
 ### GlassFrog
 
 [GlassFrog](https://www.glassfrog.com/?utm_source=activisthandbook.org) is a tool for enacting a structure of holacracy within organisations.
-
-### Rebel Tools
-
-[Rebel Tools](https://rebel.tools) is a toolset being built by Activist Handbook as an open source, free, modern and easy to use alternative for small to medium sized organisations. It is still in development.
 
 ## Resources
 

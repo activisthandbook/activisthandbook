@@ -6,11 +6,13 @@ description: >
 langCode: en
 articleID: 46dReUQlJpRUwVQTD_qTmV1VAyrFfa_K
 languageCollectionID: fyordx2FA-soUPpjprLmwLVXYIq5VcCh
-updatedTimestamp: 1677741402719
+updatedTimestamp: 1724508058557
 createdTimestamp: 1583671011955
-wordCount: 107
+wordCount: 111
 tags: ["tools"]
 ---
+
+> **Article quality**: ⭐️ (1/5)
 
 <table><tbody><tr><td><p><strong>Name</strong></p></td><td><p><strong>Description</strong></p></td><td><p><strong>Price</strong></p></td></tr><tr><td><p>Adobe Illustrator</p></td><td><p>Vector editing</p></td><td><p>€24 per month, full Creative Cloud subscription for €20 per month for students</p></td></tr><tr><td><p>Adobe Photoshop</p></td><td><p>Photo editing</p></td><td><p>€12 per month, idem</p></td></tr><tr><td><p>Sketch</p></td><td><p>Available only for Mac, vector editing</p></td><td><p>$112 for one year of updates, still usable after that, 50% discount for students and teachers</p></td></tr><tr><td><p>Affinity Designer</p></td><td><p>Vector editing</p></td><td><p>€55</p></td></tr><tr><td><p>Affinity Photo</p></td><td><p>Photo editing</p></td><td><p>€55</p></td></tr><tr><td><p>Canva</p></td><td><p></p></td><td><p></p></td></tr></tbody></table>
 
