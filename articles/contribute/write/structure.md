@@ -6,9 +6,9 @@ description: >
 langCode: en
 articleID: eEKecoebboS2HQGod5MJ3UNWuYJQaQCO
 languageCollectionID: WRaQD7OlrxVG9VtkxGp8lxQ6207uqKmi
-updatedTimestamp: 1703089660432
+updatedTimestamp: 1724744371031
 createdTimestamp: 1638200058700
-wordCount: 2044
+wordCount: 2090
 tags: []
 ---
 
@@ -51,15 +51,17 @@ Make sure to include:
     
 7.  **Conclusion**
     
-8.  **Improve this page**
+8.  **Workshop**
     
-9.  **Footnotes** (discouraged)
+9.  **Improve this page**
     
-10.  **Related guides**
+10.  **Footnotes** (discouraged)
     
-11.  **External resources**
+11.  **Related guides**
     
-12.  **Attribution**
+12.  **External resources**
+    
+13.  **Attribution**
     
 
 ## Recommended sections
@@ -187,15 +189,19 @@ Provide case studies as examples to learn from.
 
 Briefly recap what people learned in the guide. Provide advice for next steps (for example, reading related guides).
 
-### 8\. Improve this page
+### 8 Workshop
+
+Explain how people can organize a workshop to train others on the topic of the guide. Include materials needed, a workshop script, preparation and follow up recommendations. Often, this will be on a separate page, to prevent the guide from becoming to long.
+
+### 9\. Improve this page
 
 Encourage people to contribute to the page. Try to insert creative calls to actions when appropriate. Are we looking for more resources? Are we looking for a specific perspective on the topic? In what ways could people engage with the article you are writing?
 
-### 9\. Footnotes (discouraged)
+### 10\. Footnotes (discouraged)
 
 When you do not want to obstruct the main content with a comment, you can add it in the footnotes. Adding footnotes is strongly discouraged, as it does not provide a good user experience (having to scroll up and down).
 
-### 10\. Related guides
+### 11\. Related guides
 
 To make it easier for activists to find the information they are looking for on this site, add a list of related articles at the bottom of each page. These articles can be from a different chapter.
 
@@ -206,11 +212,11 @@ Related guides are different from external resources (see below):
 -   External resources are links to _other websites_. They cover the _same_ topic.
     
 
-### 11\. External resources
+### 12\. External resources
 
 This is a section where you can list all the external resources that are relevant to the topic but not yet covered in the article you are writing. Learn more about [how to find external resources](/contribute/write/external-resources) for your guide.
 
-### 12\. Attribution
+### 13\. Attribution
 
 In this section we give credit to authors. This is particularly useful when reusing external Creative Commons resources, or when articles have been written in partnership with other organisations.
 
