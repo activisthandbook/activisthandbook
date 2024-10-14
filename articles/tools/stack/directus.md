@@ -6,9 +6,9 @@ description: >
 langCode: en
 articleID: D-pNTtxzXvWNIYGjPLOSdjXGUFOpbc5C
 languageCollectionID: BAJ0wF_W1QB_cKigJKeQrK4bs_rIv8UZ
-updatedTimestamp: 1721579971041
+updatedTimestamp: 1728897795442
 createdTimestamp: 1721543108556
-wordCount: 2340
+wordCount: 2599
 ---
 
 In this guide, we explain how you can use Directus to build a campaign platform for grassroots movements. Manage your website content, create event signup forms, and use it as your decentralised organizing CRM.
@@ -355,7 +355,38 @@ Sitemap:
 
 ### Mass mailing & automation
 
-Action Network or Hubspot
+Since Directus as a CRM does not offer any way of sending mass emails, you will need to connect it to a marketing automation system. In this section, we will explain how you can synchronise Directus data with Action Network. Even if you decide to go with another marketing system, these recommendations will still help you get started.
+
+In this scenario, we assume a one-way synchronisation from Directus to Action Network.
+
+You will need to set up the following automation workflows:
+
+-   **Create person in Directus** → [Create person](https://actionnetwork.org/docs/v2/person_signup_helper?utm_source=activisthandbook.org) in Action Network → save Action Network person ID to Directus contact
+    
+-   **Modify person in Directus** → [Modify person](https://actionnetwork.org/docs/v2/person_signup_helper?utm_source=activisthandbook.org) in Action Network (using person ID)
+    
+-   **Delete person in Directus** → Not possible using the API, send admin a notification to do it manually. It is possible to [unsubscribe](https://actionnetwork.org/docs/v2/delete/?utm_source=activisthandbook.org) someone in Action Network
+    
+-   **Create event in Directus** → [Create event](https://actionnetwork.org/docs/v2/events?utm_source=activisthandbook.org) in Action Network
+    
+-   **Modify event in Directus** → [Modify event](https://actionnetwork.org/docs/v2/events?utm_source=activisthandbook.org) in Action Network
+    
+-   **Delete event in Directus** → [Modify event](https://actionnetwork.org/docs/v2/events?utm_source=activisthandbook.org) name, add '\[Deleted\]' in Action Network (deleting events not possible via API)
+    
+-   **Create event signup in Directus** → [Create event attendee](https://actionnetwork.org/docs/v2/record_attendance_helper?utm_source=activisthandbook.org) in Action Network
+    
+-   **Modify event signup in Directus** → Not possible in Action Network
+    
+-   **Delete event signup in Directus** → Not possible in Action Network
+    
+-   **Create group in Directus** → [Create form](https://actionnetwork.org/docs/v2/forms?utm_source=activisthandbook.org) in Action Network (creating groups not possible via API)
+    
+-   **Create group member in Directus** → [Create form submission](https://actionnetwork.org/docs/v2/record_submission_helper?utm_source=activisthandbook.org) in Action Network
+    
+-   **Create tag in Directus** → [Create tag](https://actionnetwork.org/docs/v2/tags?utm_source=activisthandbook.org) in Action Network
+    
+-   **Tag added to person in Directus** → [Create tagging](https://actionnetwork.org/docs/v2/taggings?utm_source=activisthandbook.org) in Action Network
+    
 
 ### Collaborative inbox
 

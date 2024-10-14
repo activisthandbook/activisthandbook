@@ -6,9 +6,9 @@ description: >
 langCode: en
 articleID: -pE_5A3neuxTjz9faAjLDTXNCsLViTF0
 languageCollectionID: i-dke_X1syMKHOzN0O-HzLAc1Og8jHaQ
-updatedTimestamp: 1696064012274
+updatedTimestamp: 1726504591797
 createdTimestamp: 1602591928472
-wordCount: 1249
+wordCount: 1262
 tags: []
 ---
 
@@ -42,6 +42,8 @@ The following books about activism are available to read for free (as PDFs or in
 
 These books about activism are not freely available, but they are still a great read!
 
+-   [**Ambiguity is the Answer: Timeless Strategies for Creating Change**](https://bookshop.org/p/books/ambiguity-is-the-answer-timeless-strategies-for-creating-change-kyle-crawford/21741014?utm_source=activisthandbook.org) by Kyle Crawford (2024)
+    
 -   [**Doing Democracy: The MAP Model for Organizing Social Movements**](/resources/doing-democracy) by Bill Moyer with Joann McAllister, Mary Lou Finley and Steven Soifer (2001)
     
 -   [**Climate Resistance Handbook**](/resources/climate-resistance-handbook) by Daniel Hunter (2019)

@@ -6,9 +6,9 @@ description: >
 langCode: en
 articleID: G3dkQL5r8VGH4qvFx-36zI4WDRCiNzwD
 languageCollectionID: 89ReOOyPrqQ0GJ5WjQzIIR_PP0aAErgn
-updatedTimestamp: 1715252319029
+updatedTimestamp: 1727973526100
 createdTimestamp: 1643132983527
-wordCount: 3252
+wordCount: 3250
 tags: []
 ---
 
@@ -86,7 +86,7 @@ Some movements and organisations claim to use a certain framework. In reality th
 
 ### Ambiguity in definitions
 
-This guide discusses a relatively unexplored field. While many
+This guide discusses a relatively unexplored field.
 
 ## Bottom-up or hierarchical?
 
@@ -291,7 +291,7 @@ After you have chosen a framework, it's important to adapt it to your unique nee
     
 3.  **Review regularly**: Regularly review your progress and reflect on whether this framework is helping you achieve your group's goals. This can be as simple as asking team members for their feedback or as complex as measuring key performance indicators (KPIs).
     
-4.  **Share your learnings:** Other activists can benefit from your reflections too! share your learnings on Activist Handbook.
+4.  **Share your learnings:** Other activists can benefit from your reflections too! Share your learnings on Activist Handbook.
     
 
 ## Conclusion

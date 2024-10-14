@@ -6,9 +6,9 @@ description: >
 langCode: en
 articleID: Cj99lsXnI4PFCr6eSJrzI_gSyOh4_LBu
 languageCollectionID: JHwMD3R3tNOsF_oZPrULUAYCkxJEjZXi
-updatedTimestamp: 1699451286494
+updatedTimestamp: 1724583019164
 createdTimestamp: 1583670666349
-wordCount: 711
+wordCount: 712
 tags: ["tools","social media"]
 ---
 
@@ -46,6 +46,8 @@ With users spread out over so many different platforms, it can be hard to create
 -   **Hootsuite**
     
 -   **Sprout Social**
+    
+-   **Metricool**
     
 
 ## Local context
