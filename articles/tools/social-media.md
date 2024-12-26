@@ -6,9 +6,9 @@ description: >
 langCode: en
 articleID: Cj99lsXnI4PFCr6eSJrzI_gSyOh4_LBu
 languageCollectionID: JHwMD3R3tNOsF_oZPrULUAYCkxJEjZXi
-updatedTimestamp: 1724583019164
+updatedTimestamp: 1734771068020
 createdTimestamp: 1583670666349
-wordCount: 712
+wordCount: 847
 tags: ["tools","social media"]
 ---
 
@@ -24,16 +24,36 @@ We talk about how to use these platforms effectively for outreach and promotion 
 
 -   ❤️ [**Instagram**](/tools/instagram)
     
+    -   [**PixelFed**](https://pixelfed.org/?utm_source=activisthandbook.org)
+        
 -   👍 [**Facebook**](/tools/facebook)
     
+    -   [**Friendica**](https://friendi.ca/?utm_source=activisthandbook.org)
+        
+    -   [**Diaspora\***](https://diasporafoundation.org/?utm_source=activisthandbook.org)
+        
 -   🙌 [**Facebook Groups**](/tools/facebook-groups)
     
--   🐦 [**Twitter**](/tools/twitter)
+-   🐦 [**Twitter/X**](/tools/twitter)
     
+    -   [**Mastodon**](https://joinmastodon.org/?utm_source=activisthandbook.org)
+        
+    -   [**Bluesky**](https://bsky.app/?utm_source=activisthandbook.org)
+        
+-   [**Youtube**](https://www.youtube.com/?utm_source=activisthandbook.org)
+    
+    -   [**Odysee**](https://odysee.com/?utm_source=activisthandbook.org)
+        
 -   🎸 [**TikTok**](/tools/tiktok)
     
+    -   [**Instagram: Reels**](https://about.instagram.com/features/reels?utm_source=activisthandbook.org)
+        
+    -   [**YouTube: Shorts**](https://www.youtube.com/shorts/?utm_source=activisthandbook.org)
+        
 -   🤖 [**Reddit**](/tools/social-media/reddit)
     
+    -   [**Aether**](https://getaether.net/?utm_source=activisthandbook.org)
+        
 
 ## Social media management tools
 
@@ -57,6 +77,16 @@ Activists who use social media to promote their causes need to be aware of the l
 Some countries may also have different levels of internet access, digital literacy, or media freedom that influence how activists can reach and mobilize their audiences. Therefore, activists should tailor their social media strategies to the specific context of each country they operate in, and be prepared to adapt to changing circumstances.
 
 <action-smart-small></action-smart-small>
+
+## How can we make sure our social media activism is accessible?
+
+Alt (alternative text) is available on most social media platforms which allows people with little or no vision to be read a description of any images used.
+
+However, creators and organisations are instead writing their alt texts as an '**image description**' within either their captions or comment sections. This way, everyone has access to the image descriptions, not just those who require it to be read out due to sight. This option is much more inclusive.
+
+#### How do I write image description?
+
+When writing image descriptions it's important to include any text on the graphic as well as colours, fonts and logos used. What is often forgotten is to provide the context.
 
 ## How to contribute
 

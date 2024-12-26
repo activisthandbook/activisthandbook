@@ -6,10 +6,16 @@ description: >
 langCode: en
 articleID: J3gTgLgqTAzHrap5en3ePR2GBmNRAg__
 languageCollectionID: Hm6ZaeMf02oXtZN2LlCr1NkH7Cxu6Il_
-updatedTimestamp: 1700318822771
+updatedTimestamp: 1735212651903
 createdTimestamp: 1583509188074
-wordCount: 1121
+wordCount: 1139
 tags: []
+focusMode: 
+  isOn: true
+  buttonLabel: 
+  buttonAnchor: primary-action
+sidebar: false
+aside: false
 ---
 
 **In this chapter we will discuss how to keep in touch with your fellow activists, how to formulate a message for your target audience and how to reach out to the press.**
@@ -37,15 +43,17 @@ Where do you want to share your message?
 
 -   [**Social media**](/tools/social-media): Stop mindlessly feeding the algorithm and start using social media effectively for your movement.
     
--   [**Chat apps**](/communication/chat-apps): Learn how to use chat apps such as WhatsApp to broadcast messages to members of your community.
+-   [**Chat apps**](/communication/chat-apps): Learn how to use chat apps such as Signal to broadcast messages to members of your community.
     
 -   [**SMS campaigns**](/communication/sms-campaigns): Spread your message and call people to action using text messages.
     
 -   [**Phone banking**](/communication/phone-banking): Have effective conversations over the phone on a large scale.
     
--   [**News media**](/communication/news-media): Learn how to write press releases
+-   [**Traditional** media](/communication/news-media): Learn how to write press releases
     
 -   [**Public speaking**](/communication/public-speaking) (not yet created): Learn how to give a speech during a protest.
+    
+-   Physical medial (not yet created): Learn how to create zines, flyers, and other physical media for hyper-local outreach.
     
 
 <dynamic-image imageid="b062102a-f35c-4c7a-3ee5-d3a3a9ce7d00" alt="Public speaking is scary... But if a frog can do it?"><p>Public speaking is scary... But if a frog can do it?, by <a target="_blank" href="https://edit.activisthandbook.org/author/tzmE91SnnrbJJXuvQNBl9rt6HK63">Joppe</a> | Generated using Dall-e</p></dynamic-image>
@@ -120,7 +128,7 @@ Answer these questions:
 
 We have not found many keywords yet that have a high search volume and are also very relevant to Activist Handbook. Generic searches such has ‘how to get more likes on instagram’ are hard to compete with, since there are already many articles about this topic. These are not necessarily of high quality, but they are all very much optimised for search engines (often promoting some sort of service or product).
 
-<table><tbody><tr><th><p>Keywords</p></th><th><p>Monthly global searches</p></th><th><p>Relevancy</p></th></tr><tr><td><p>how to write press release</p></td><td><p>5.1K</p></td><td><p>low</p></td></tr><tr><td><p>phonebanking</p></td><td><p>6K</p></td><td><p>medium</p></td></tr><tr><td><p>how to get more likes</p></td><td><p>620</p></td><td><p>low</p></td></tr><tr><td><p>how to get more likes on instagram</p></td><td><p>13.2K</p></td><td><p>low</p></td></tr><tr><td><p>social media for nonprofits</p></td><td><p>1.1K</p></td><td><p>medium</p></td></tr><tr><td><p>newsletters for nonprofits</p></td><td><p>310</p></td><td><p>medium</p></td></tr><tr><td><p>spokesperson training</p></td><td><p>550</p></td><td><p>medium</p></td></tr></tbody></table>
+<table><tbody><tr><th><p>Keywords</p></th><th><p>Monthly global searches</p></th><th><p>Relevancy</p></th></tr><tr><td><p>how to write press release</p></td><td><p>5.14th</p></td><td><p>low</p></td></tr><tr><td><p>phonebanking</p></td><td><p>6K</p></td><td><p>medium</p></td></tr><tr><td><p>how to get more likes</p></td><td><p>620</p></td><td><p>low</p></td></tr><tr><td><p>how to get more likes on instagram</p></td><td><p>13.2K</p></td><td><p>low</p></td></tr><tr><td><p>social media for nonprofits</p></td><td><p>1.1K</p></td><td><p>medium</p></td></tr><tr><td><p>newsletters for nonprofits</p></td><td><p>310</p></td><td><p>medium</p></td></tr><tr><td><p>spokesperson training</p></td><td><p>550</p></td><td><p>medium</p></td></tr></tbody></table>
 
 \*According to Semrush
 

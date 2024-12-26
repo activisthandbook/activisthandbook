@@ -6,10 +6,10 @@ description: >
 langCode: en
 articleID: Mb6GB0aiRHajqQW_wsv6eS925_-Htks4
 languageCollectionID: oPWho-tXAChbb3GfRjkPiHp_Zw4x42HM
-updatedTimestamp: 1699450609556
+updatedTimestamp: 1734771721220
 createdTimestamp: 1643184725455
-wordCount: 106
-tags: []
+wordCount: 117
+tags: ["law","protest","US","USA","state","police","rights"]
 ---
 
 **In this guide, you will learn about your rights as an activist in the United States. We will talk about some legal matters and go into common police practices.**
@@ -26,10 +26,12 @@ tags: []
     
 -   [Protests & Public Safety: A Guide for Cities & Citizens](https://constitutionalprotestguide.org/) by Institute for Constitutional Advocacy and Protection
     
+-   [US Protest Law Tracker](https://www.icnl.org/usprotestlawtracker/?utm_source=activisthandbook.org) by The International Center for Not-for-Profit Law
+    
 
 ## How to contribute
 
-This page is still quite empty. Improve it by adding external resources that you find useful and suggest ways to organise this article.
+This page is still quite empty. Improve it by adding external resources that you find useful and suggest ways to organize this article.
 
 People are searching for:
 

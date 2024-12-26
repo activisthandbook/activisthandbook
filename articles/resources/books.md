@@ -6,9 +6,9 @@ description: >
 langCode: en
 articleID: -pE_5A3neuxTjz9faAjLDTXNCsLViTF0
 languageCollectionID: i-dke_X1syMKHOzN0O-HzLAc1Og8jHaQ
-updatedTimestamp: 1726504591797
+updatedTimestamp: 1734007857217
 createdTimestamp: 1602591928472
-wordCount: 1262
+wordCount: 1292
 tags: []
 ---
 
@@ -29,6 +29,10 @@ These books are freely available for anyone to read, redistribute or make adapta
 -   [**Official Channels**](/resources/official-channels) by Brian Martin (2020)
     
 -   [**People Power: The Community Organizing Tradition of Saul Alinsky**](https://archive.org/details/PeoplePowerTheCommunityOrganizingTraditionOfSaulAlinsky) by Aaron Schutz and Mike Miller
+    
+-   [Organizing For Social Change: Midwest Academy Manual for Activists by](https://archive.org/details/organizingforsoc00kimb/page/n3/mode/2up?utm_source=activisthandbook.org)
+    
+    Kim Bobo, Jackie Kendall, and Steve Max
     
 
 ### Free to read
@@ -139,6 +143,8 @@ These books about activism are not freely available, but they are still a great 
 -   [**Civil Resistance, What Everyone Needs to Know**](https://global.oup.com/academic/product/civil-resistance-9780190244408?lang=en&cc=us&utm_source=activisthandbook.org) by Erica Chenoweth (2021)
     
 -   [**Pranksters vs. Autocrats**](https://www.sophiamcclennen.com/book/pranksters-vs.-autocrats/?utm_source=activisthandbook.org) by Sophia A. McClennen (2020)
+    
+-   [**Neither Vertical Nor Horizontal: A Theory of Political Organization**](https://www.versobooks.com/products/772-neither-vertical-nor-horizontal?utm_source=activisthandbook.org) by Rodrigo Nunes (2021)
     
 
 <action-smart-small></action-smart-small>

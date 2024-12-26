@@ -6,13 +6,15 @@ description: >
 langCode: en
 articleID: Z-Ui7ues8iBNtbuAydgwwYxtzRpER2i_
 languageCollectionID: tPpL-PgfyflnfdbX8PN394PCl1Ic8v1c
-updatedTimestamp: 1724507253728
+updatedTimestamp: 1731264331655
 createdTimestamp: 1628605870725
-wordCount: 1894
+wordCount: 1898
 tags: []
 ---
 
-You should protect yourself from hackers. As activist, you are in a high risk group. Digital security practices help protect campaigners from malicious online attacks and intrusive surveillance efforts led either by groups that are hostile to your agenda or by repressive government agencies.
+You should protect yourself from hackers and government surveillance. As an activist, you are in a high risk group.
+
+Digital security practices help protect campaigners from malicious online attacks and intrusive surveillance efforts led either by groups that are hostile to your agenda or by repressive government agencies.
 
 -   [Securing your phone](/tools/security/phone)
     

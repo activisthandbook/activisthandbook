@@ -6,13 +6,23 @@ description: >
 langCode: en
 articleID: -ZlfRAOV9u2bn9uJgwdT_WzU6S12PuHY
 languageCollectionID: RBS6vcs93lRMpPziPOU8oBUsII_uU3Yp
-updatedTimestamp: 1724507764787
+updatedTimestamp: 1732274125420
 createdTimestamp: 1624719814954
-wordCount: 145
+wordCount: 189
 tags: []
 ---
 
-**Project management tools can be really useful for activists, as they help keep track of all to-do's and communications. One of our favourites is** [**Trello**](https://trello.com) **- it's easy to use and helps you work together with lots of people.**
+**Project management tools can be really useful for activists, as they help keep track of all to-do's and communications. One of our favourites is** [**Trello**](https://trello.com) **- it's easy to use and helps you work together with lots of people. However, it began to reduce options for free plans and** [**now limits them to 10 collaborators per workspace**](https://trello.com/pricing?utm_source=activisthandbook.org)**.**
+
+There are plenty of Open Source and related options to achieve similar planning needs with different views like Kanban and tables:
+
+[Plane.so](http://Plane.so)
+
+[Leantime](https://leantime.io/?utm_source=activisthandbook.org)
+
+[Taiga](https://taiga.io/?utm_source=activisthandbook.org)
+
+[Open Project](https://www.openproject.org/?utm_source=activisthandbook.org)
 
 > **Article quality:** ⭐️ (1/5)
 

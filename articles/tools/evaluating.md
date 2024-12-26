@@ -6,9 +6,9 @@ description: >
 langCode: en
 articleID: ZgUfi5iO8YQyq6CsgpFGz3bKeYpoCXGW
 languageCollectionID: u1IremME7rSdKiheKJL9QLzNSDW_xkJP
-updatedTimestamp: 1724507049042
+updatedTimestamp: 1734770351446
 createdTimestamp: 1705745667984
-wordCount: 1007
+wordCount: 1254
 ---
 
 In this guide, we explain how you can find the right tools for your nonprofit or activist movement. We provide you with some general evaluation criteria that you can use to determine if a tool fits your needs.
@@ -52,9 +52,17 @@ Always read the privacy policy of the tool. It should outline what data the tool
 
 Ensure the tool offers robust security measures. This can be especially important if you are handling sensitive data. Look for features like two-factor authentication or passkeys to protect your organization from breaches and keep your data secure.
 
+#### Security audits
+
+Ideally, the tool/service received an independent security audit from a reputable cybersecurity firm. This is optional, since open-source developers often can't afford the high costs that are involved to hire a security auditor. [Picocrypt](https://github.com/HACKERALERT/Picocrypt#funding) ([Screenshot](https://www.privacytools.io/img/picocrypt-audit.png)) is a perfect example of a great privacy tool that struggles to receive funding for an audit.
+
+**Remark:** An audit is not 100% proof that software is safe and secure. Some flaws can be overlooked even by the best auditors. Valid only for a “snapshot” of the code. If new code is added, new vulnerabilities can be introduced.
+
 ### Easy to use
 
 Check whether the tool is user-friendly and easy to navigate. If a tool isn't intuitive, it may not be suitable for your organization, especially if other team members struggle to use it effectively.
+
+**Usability:** Is the app or service user-friendly and easy to use? A modern and well-designed interface makes it easy to understand for users and therefore can be widely adopted.
 
 ### Support & documentation
 
@@ -76,6 +84,10 @@ Many software and tool providers listen to their user base for new ideas and imp
 
 Consider whether the tool is open source. Open source tools tend to promote collaboration, can be more flexible, and are often cheaper than their proprietary counterparts. However, they may require more technological know-how to manage and maintain. If your organization values transparency and freedom to customize, an open-source tool could be a great fit.
 
+#### Active development
+
+Were there any recent updates? A tool or service that is still under active development is by far preferred over outdated projects. Exceptions: No alternatives are available, or the tool is in a stable state with no known issues that could pose a security threat or leaks that could harm your online privacy.
+
 ### Ethical considerations
 
 If your organization is strongly committed to certain principles (e.g., sustainability, social justice), you might want to consider if the tool aligns with these values.
@@ -87,6 +99,10 @@ The tool should be accessible to people with different abilities. Check if it co
 ### Mobile-friendly
 
 If your team works remotely or on-the-go, a tool that works seamlessly on mobile devices can be very beneficial.
+
+### **Test of Time**
+
+Age often reveals if a tool or service can stand the test of time. Try to determine when tool development organizations are founded and if any significant incidents happened since founding. Court cases also reveal if the organization kept promises to its users. Time is also a good factor to judge if widespread-adoption was achieved and if it was accepted by a broad user base.
 
 ## Conclusion
 
