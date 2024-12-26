@@ -6,9 +6,9 @@ description: >
 langCode: en
 articleID: YUfVGkwMxm05zjEjl7vPQ9gPpUCItupH
 languageCollectionID: vijKrgNARghr6p534ZbiZ1HWioKFbDgl
-updatedTimestamp: 1718048319412
+updatedTimestamp: 1735213203723
 createdTimestamp: 1587834484219
-wordCount: 3042
+wordCount: 3237
 tags: ["training"]
 ---
 
@@ -189,6 +189,25 @@ International training organisations with a focus on Europe:
 -   [**Ayni School**](https://aynischool.com/?utm_source=activisthandbook.org): "We are living in a time of transformative change. We believe that the only way to change a system is through building a new one that can meet people’s needs at a higher level. There are many people working to create change; whether they are strong communities, alternative institutions, popular movements, training programs, and others. The Ayni Institute is looking to engage and support those which are creating something special that can bring our world towards reciprocity.  We are deeply guided by the wisdom of these areas: Memory, Alternative, and Movements."
     
 -   [**RepresentUs Campaign Catalyst**](https://represent.us/campaign-catalyst/?utm_source=activisthandbook.org): A series of free, live, online trainings hosted by RepresentUs devoted to equipping volunteers with knowledge & skills to effectively advocate in campaigns; teaching campaigners, organizers, and communicators everything they need to do to run, lead, and win campaigns; and bringing together campaign executives so they can connect with each other to troubleshoot and share winning strategies.
+    
+-   [**Movement Labs**](https://www.movementlabs.com/?utm_source=activisthandbook.org): tech support for progressives
+    
+
+#### Politics as an industry
+
+-   [**Democratic Data Exchange**](https://index.staclabs.io/tools/DemocraticDataExchange?utm_source=activisthandbook.org): The Democratic Data Exchange (DDx) was founded in April 2019 with a mission to revolutionize the use of data within the Democratic and progressive space, radically expanding access to actionable information that increases the efficiency and effectiveness of campaigns and organizing work, builds long-term power in communities, and wins elections.
+    
+-   [**eQual**](https://index.staclabs.io/tools/eQual?utm_source=activisthandbook.org): eQual is a public benefit corporation that provides technology and services to help people-centered campaigns qualify for the ballot. Their tools and processes are designed by experienced practitioners to facilitate the unit-level tracking and validation of petitions and signatures, onboarding and management of signature gathering teams, and recruitment of signers and volunteers.
+    
+-   [**Optakit**](https://optakit.com/?utm_source=activisthandbook.org)**:** Optakit builds custom cloud applications streamlining progressive operations. They offer a platform that streamlines content management and fundraising analytics for progressives.
+    
+-   [**BCom**](https://index.staclabs.io/tools/BCom?utm_source=activisthandbook.org)**:** Digital advertising, fundraising and creative strategy firm. They partner with campaigns up and down the ballot to create ROI positive digital fundraising strategy and election-winning digital persuasion campaigns.
+    
+-   [**Grassroots Analytics**](https://index.staclabs.io/tools/GrassrootsAnalytics?utm_source=activisthandbook.org): They help candidates break fundraising records and boost nonprofit development.
+    
+-   [**Change Research**](https://index.staclabs.io/tools/ChangeResearch?utm_source=activisthandbook.org): Political polling, opinion research, and voter targeting.
+    
+-   [**Empower Project**](https://index.staclabs.io/tools/EmpowerProject?utm_source=activisthandbook.org): Relational organizing tools + training
     
 
 ## Smaller initiatives

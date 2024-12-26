@@ -6,9 +6,9 @@ description: >
 langCode: en
 articleID: aVs-DaZ4YF6ueYVgtdt0J-M3TsXuqlag
 languageCollectionID: 7ylOIU24uz62xSI713nbkbFC6EBGltN1
-updatedTimestamp: 1708942817458
+updatedTimestamp: 1735213126170
 createdTimestamp: 1708793301957
-wordCount: 1569
+wordCount: 896
 ---
 
 On this page, authors of Activist Handbook discuss the 'Strategy' chapter. Read this page if you are interested in making this chapter better.
@@ -25,111 +25,7 @@ On this page, we make an exception: most people will not read this page, it is s
 
 ### Activist Handbook model
 
-The current model used on Activist Handbook is based on the one described by [The Change Agency in the People Power Manual](https://thechangeagency.org/strategy/?utm_source=activisthandbook.org).
-
-#### What is a campaign strategy?
-
-A campaign strategy is **a plan or roadmap**. It helps us determine **what we need to do today** and next week to **get closer to our goals**.
-
-A strategy is not a long detailed document that you update every 3 years. It's a **continuous practice** of taking deliberate steps. A strategy consists out of the following 5 elements:
-
-1.  **Journeys** _— Each step is part of a journey that brings us further_: Our steps are connected. Everything we do is a preparation for the next thing we do. Impactful campaigns are about designing these journeys.
-    
-2.  **Vision** — _Our visions are a big ideas of a better future that bind us together_**:** They are an ambitious stories that tell what direction to go in. It is a collaborative process that helps us understand our shared goals.
-    
-3.  **Focus** — _Focus help us narrow down what exactly we want to achieve:_ It helps us position our campaigns relative to what other change-makers are doing. It also helps make smart campaign objectives: specific, measurable, achievable, realistic and time bound.
-    
-4.  **Context** _— Context helps us understand what world we live in right now._
-    
-    -   Stakeholders & power:
-        
-    -   Resources available:
-        
-    -   Urgency & severity:
-        
-5.  **Practice** —
-    
-    -   Organizing
-        
-    -   Tactics
-        
-    -   Wellbeing
-        
-    -   Communication
-        
-
--   A strategy is not a long detailed document that you update every 3 years, it's a continuous practice.
-    
--   A strategy helps you determine **what you need to do** **today and next week** to **get closer to your endgoals**.
-    
-
-#### **🛤️ Journeys (pathways)**
-
-Connection between nodes (every event, action, campaign is connected). Even if reality is very far away from your vision, journeys help us choose more appropriate actions for today and next week that help you make progress towards your final goals.
-
-#### **💡 Vision**
-
--   A vision enables us to dare to imagine a different future.
-    
--   It helps us understand the direction we want to go in.
-    
--   It brings us closer together.
-    
--   By contrasting your vision with reality, we can see more clearly the problem definition.
-    
-
-#### **🌐 Context**
-
--   Analysis of what _is_. The hard facts (from your perspective). Not: what do we _decide_?
-    
--   **Stakeholders**
-    
-    -   'Stakeholders' as an umbrella term for allies, constituents, third parties and targets.
-        
-    -   '**Power**' is the connection between the network of nodes (the stakeholders)
-        
-    -   We put Stakeholders as a sub-item of Context, as we believe a situational analysis is always in the end about Stakeholders. While defining the Context, one logically already finds the Stakeholders. However, we do make a distinction between the _analysis_ of your Stakeholder surroundings, and your _decision_ to Position yourself in relation to those Stakeholders. This decision is not part of the Context.
-        
--   **Resources available**: people & money that you have available, with what capacity are you starting? (and thus also: what capacity still needs to be built?)
-    
--   **Urgency & severity:** urgency requires different strategic decisions. Severity is about what happens if your campaign fails. What are the stakes? Severity also impacts strategic decisions.
-    
--   Use the term 'Strategy context', instead of 'Situational analysis': the latter is more difficult to understand for non-native speakers. Both seem equally popular in Google Trends (with 'strategy context' on the rise, and fewer webpages, so higher ranking potential). However, we will include a sentence "also called situational analysis" in case people look up that work on our own search engine.
-    
-
-#### **🎯 Focus**
-
--   Focus helps you make the work you need to do more concrete and manageable.
-    
--   It positions your movement/campaign within the wider ecosystem of movements. What are you doing that others aren't?
-    
-    -   Positioning (within movement of movements)
-        
-        -   Stakeholders = answers: where are others?
-            
-        -   Positioning = answers: where do you position your organisation/campaign\] - an active decision
-            
--   Only use term 'Strategy focus' (or 'strategy scope'), instead of 'strategy goals': The difference between 'goals' and 'objectives' is frequently misunderstood by activists. These words are also often difficult to translate into other language (for example, in German, they both translate as "Ziele"). Solution: Use the term 'strategy focus' instead of 'campaign goals' .
-    
-
-#### 👉 **Practice**
-
--   **Organizing: organisational framework**
-    
--   **Tactics:** Individual points of action.
-    
-    -   Different types of tactics training, recruit people, strengthen community, create visibility, direct actions
-        
--   **Wellbeing**
-    
--   **Communication**
-    
-    -   Audiences
-        
-    -   What message?
-        
-    -   Means to spread the message
-        
+The current model used on Activist Handbook is based on the one described by [The Change Agency in the People Power Manual](https://thechangeagency.org/strategy/?utm_source=activisthandbook.org). However, we find it is too static. That is why we have developed a [new model (draft)](/strategy/draft).
 
 ### Change Agency
 

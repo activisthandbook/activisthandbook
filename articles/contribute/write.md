@@ -6,10 +6,16 @@ description: >
 langCode: en
 articleID: 1klKzE-SRt1neRdmh8ZSlLmI7-9scxxN
 languageCollectionID: 1rusRm6zp4Z-ZLQrE1rJHkEnATM7Rafp
-updatedTimestamp: 1706379885165
+updatedTimestamp: 1735213174923
 createdTimestamp: 1650719261892
 wordCount: 158
 tags: []
+focusMode: 
+  isOn: true
+  buttonLabel: 
+  buttonAnchor: primary-action
+sidebar: false
+aside: false
 ---
 
 **Everyone can edit Activist Handbook. In this guide, we explain how you can improve existing content, translate or write new guides.**

@@ -6,12 +6,14 @@ description: >
 langCode: en
 articleID: yXjpCi2189sWZo4270tQitqE-pSv8PGx
 languageCollectionID: wrYnVnFPcp1h2fPJ2mkMcamlomG34VjT
-updatedTimestamp: 1712859118405
+updatedTimestamp: 1735213109133
 createdTimestamp: 1693202638154
-wordCount: 543
+wordCount: 547
 ---
 
 In this guide, we will teach you how to use modern data apps beyond Google Sheets and Excel. We explain how to use tools like Airtable and their open source alternatives.
+
+> **Article quality**: ⭐️⭐️ (2/5)
 
 ## Difference spreadsheets and modern data apps
 
