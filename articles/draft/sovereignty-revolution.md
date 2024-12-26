@@ -1,0 +1,49 @@
+---
+title: >
+  To Ordain and Establish: A solemn act
+description: >
+  Sovereignty is inherent in the people. When we the people as a whole peacefully organize to improve our systems of government, it is with great thoughtfulness and respect that we perform our most sacred obligation,and right.
+langCode: en
+articleID: Fcgy1g_yREOK6w1FIsRt0Mgrw2q2GNTr
+languageCollectionID: O2wrPW7FVaNnAKQyHKXGgcJoLMleqM_P
+updatedTimestamp: 1735212876233
+createdTimestamp: 1730239746218
+wordCount: 1499
+focusMode: 
+  isOn: true
+  buttonLabel: More here
+  buttonLink: https://podcasts.apple.com/us/podcast/peaceful-political-revolution-in-america/id1592429626
+sidebar: false
+aside: false
+---
+
+> This article is a draft that has not yet been reviewed by moderators.
+
+Revolution has a dicey history. Heads roll, chaos ensues, people suffer. There is fear and loathing in the streets. All that because we cling to outdated ideas and misunderstandings about the very basis of democracies; the right of peaceful revolution.  
+  
+Indeed, societies do generally improve once the revolution is over, but therein lies the question. Are they ever over? Can we stop the killing and violence finally? Can we be better citizens, better humans, better Americans? Perhaps revolutions are just a natural cycle, emerging in various forms over time, expressing itself in seemingly unimaginable ways at first, ultimately transforming everything in its path. Eventually we adapt, yet even these new regimes disintegrate over time, until when out of the ashes, like a butterfly exiting her cocoon, a new society rises up, another civilization begins, usually after a lot of lives have been lost. But not so in 1787, in Philadelphia. The first peaceful political revolution was generally speaking a success, and it is a template for all of us today. We have our instructions.  
+  
+Clearly we are in another revolutionary period. There is very little doubt revolutionary forces are already on the move, yet the battle of wills has not yet been fully engaged. The counter-revolution has not yet been organized. It remains silenced, imprisoned, on the defense, scattered, in the dark. It is insisting on a new politic, one which as of yet has no clear definition nor apparent majority, least of all one that has any real power. But it is simmering underneath all the excesses and despair this oligarchy has created.  
+  
+The revolution we are entering into is based on mutual well-being and cooperation, certainly the most beneficial ways we have to govern ourselves. The transformation from a profit driven paradigm to a people driven paradigm is fundamentally necessary to the continuation of life on this planet. That is how the majority will govern, once they have real power to create policy. To establish a more equitable, democratic, political system will require the collective thoughtfulness of all the people. We are about to go through a significant transformation of our society. The way we live should be determined by all Americans, all humans, not just a few. Is it time to assert ourselves and our goals as a nation? What kind of future do we wish to leave our posterity?  
+  
+Our government must be redesigned to effectively facilitate the transformation society and to address our current emergencies by providing equal and meaningful representation to a clear majority of citizens. Minority rule has failed. We the people need to understand the crisis of democracy, and respond proportionately. Decisively. Without hesitation. Establishing better representation of the people is how we do that. That is the goal of democracy, of peaceful revolution.  
+  
+This singular right, indeed, obligation; to establish our constitutions of government, lives in our DNA, it encapsulates our identities as Americans. It is our uniquely inspired, profoundly consequential American heritage. Peaceful political revolution is an American invention, our birthright. This fundamental democratic right has been adopted by many nations around the globe.  
+  
+Today, we the people need a better operating system, we instinctively know it, and we the people have the right and obligation to create it, together. Thats the good news. Look, a large majority of Americans are not very happy with our government, lets just say that up front, let alone are they happy with the state of our society. Americans have been factionalized by a media serving one interest; keep them divided. We must reunite as a people. We need to reconcile our misunderstandings and look forward together towards a better future, a happier more peaceful one. Our parties have failed us. Minority rule has failed us. Our government has become an existential threat. This time, we all must respond to a much bigger crisis than we were thinking. This time, we need to create a better form of democracy.  
+  
+The question remains, will and can the people self-organize to make a more democratic and more effective political system, peacefully, thoughtfully, and thereby change the trajectory of civilization for ourselves and our posterity, all for the health and well-being of all life on this planet? That sounds like an episode from Star Trek. Our will that decision be left to history and accident, to future generations? No matter when or how, such an accomplishment must begin on the right foot, a peaceful one.  
+  
+Will we ever understand how important this right is? Can we _fully_ acknowledge our responsibility as citizens in a democracy? If we cannot understand why our democracy is failing, surely we must open our eyes and learn, it is our house that is burning. We have neglected our foundations for too long and now they are crumbling, falling in discord.  
+  
+Simply put, the structures of government must be redesigned, reinvented, revitalized. Our system perpetuates a small ruling elite, which has effectively captured government for its own use. Constitutions of government must be considered by the society when necessary more easily, peacefully, incrementally. Perhaps one day, if we create fully functional democracies, we will no longer even require a government. But this will be a process, one which will take another century. We must learn to peacefully co-exist first. We do that by creating better and better democracies.  
+  
+Improving our systems of government is actually good for the health of our society and the planet. We must all agree to do it thoughtfully, and respectfully. I almost hate to say it, but we must live up to our framer's expectations, and example.  
+  
+We are in a period of time when massive changes to our political and economic systems are inevitable, they are approaching us quickly. It is obvious. It only remains to be seen who will create them, and that will matter massively. We are in an Age in which mankind could perish or thrive, depending upon how we choose to govern ourselves. We have it in our power to make the world a new, as Thomas Paine said. That new world will require new tools, more democratic ones, and more effective ones. And we most certainly should be exercising the power to create and establish that form of government now more than ever, if we truly believe in our liberty. We need to build a completely new global society, and no one is talking about improving the political system? Its absolutely stunning. But if you even tacitly accept that our current political system is part of or actually is the problem, we need to understand how it is possibly problematic, and change it. That has always been up to the people to do, and it is simply our time to act.  
+  
+  
+These are how Ages come and go. We don't think of them much, but we should. They are happening under our nose. The Dark Ages. The Middle Ages. The Age of Reason. The Age of Enlightenment. The Industrial Age. The Information Age. The Age of Global Cooperation? Whats next? All these ages have brought us to where we are now as a society, as a biological experiment, or as God's creation. Here we are. We know the advantages, we know the problems, we know the solution. It is minority rule that is preventing the transformation of our society and of our governance.  
+  
+The Age currently under our nose is called the Anthropocene. The Age of Man, or should it just be called the Age of Human Extinction? We inhabit a completely magical and mystifyingly complex world, and we are only visitors, here for but a flash. Yet in that brief moment in time, we have managed to put most life on this planet at risk of extinction. Its as if we have been living in the moment only, abjectly unaware of the passing of time. We must remember, we exist along a continuum. This continuum is like the DNA of our species and our societies. We are only beginning to learn how to interact on a global level. The circumstances which predominated in the previous age are fading away, becoming less important, as realities arriving in the current age are clearly pressing us forward in very rapid and transformational ways. The minority is still controlling the narrative, and the levers of power. They clearly have an agenda which is counter to that held by the majority, but _they_ know, and _we_ know, this system protects _them_. It will until we rise up to the obligation which we assume as citizens, which comes along with our freedom and liberty, to protect our country from it's government. We must ensure that we have proper government for all, not just the few. To put it simply, we must end minority rule and replace it peacefully with a political system that faithfully and meaningfully represents the majority. We know how to do it. Let's roll up our sleeves and get serious.
