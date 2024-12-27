@@ -6,16 +6,10 @@ description: >
 langCode: en
 articleID: HoOfo2tH3HucVjYIbZL9LtPorVEFZtI-
 languageCollectionID: 6U4kXo7qbzKkrfaO_cJnG9RkCS37n1Qz
-updatedTimestamp: 1735303523204
+updatedTimestamp: 1735305077575
 createdTimestamp: 1584809921964
 wordCount: 1238
 tags: ["about"]
-focusMode: 
-  isOn: true
-  buttonLabel: 
-  buttonAnchor: primary-action
-sidebar: false
-aside: false
 ---
 
 Activist Handbook is a the Wikipedia for change-makers. Every month, we train about 12.000 new activists. On our platform, you can find 450+ guides and over 4.7K external resources.
