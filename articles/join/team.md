@@ -6,7 +6,7 @@ description: >
 langCode: en
 articleID: SGXooS4_3efDPlBYYry7J10ubOqIyYN2
 languageCollectionID: 9PUewzOSgeHji6XbBHj5KgPG_M5R_IIT
-updatedTimestamp: 1679306222295
+updatedTimestamp: 1735304328016
 createdTimestamp: 1678020910340
 wordCount: 763
 focusMode: 
@@ -31,7 +31,7 @@ To achieve this goal, we built an online knowledge-sharing platform. It works ju
 
 ### Our progress
 
--   We train about 6000 new activists every month. Our guides are read by change-makers across the globe.
+-   We train about 12.000 new activists every month. Our guides are read by change-makers across the globe.
     
 -   We have written 450+ guides and collected 4.7K external resources.
     

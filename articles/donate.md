@@ -6,7 +6,7 @@ description: >
 langCode: en
 articleID: RfS6sXjxFwB6FA02vbXiw2SI3godONBT
 languageCollectionID: YxVcA8hFIuNOHStYi3InEFz5wGP7jcLu
-updatedTimestamp: 1679304853510
+updatedTimestamp: 1735304351810
 createdTimestamp: 1653550767310
 wordCount: 279
 tags: []
@@ -22,7 +22,7 @@ Activist Handbook trains change-makers around the globe. We are a non-profit tha
 
 <action-button buttonanchor="primary-action" buttonlabel="👉 Make small donation"></action-button>
 
-> Every month, we train 6000 new activists with our guides. With your help, we can scale up our project and empower change-makers all over the world. Your donation can make the difference. **We appreciate any contribution, no matter how small.**
+> Every month, we train 12.000 new activists with our guides. With your help, we can scale up our project and empower change-makers all over the world. Your donation can make the difference. **We appreciate any contribution, no matter how small.**
 > 
 > — Joppe Hoekstra, co-founder Activist Handbook
 

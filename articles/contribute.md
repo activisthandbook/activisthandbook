@@ -6,9 +6,15 @@ description: >
 langCode: en
 articleID: X3umAd56zE_WfRK7zcHngdegG3YyMXkk
 languageCollectionID: iy2_KUsH2lXPdvhd5Txr2B7jyLgtdRVS
-updatedTimestamp: 1701621441545
+updatedTimestamp: 1735304284747
 createdTimestamp: 1675239596552
 wordCount: 143
+focusMode: 
+  isOn: true
+  buttonLabel: 
+  buttonAnchor: primary-action
+sidebar: false
+aside: false
 ---
 
 You can contribute to Activist Handbook! Our platform works just like Wikipedia: everyone can edit. In this guide, we explain how to start contributing.
@@ -24,7 +30,7 @@ There are many ways you can help make Activist Handbook better:
 
 ## Why contribute?
 
-With our guides, we train more than 6000 new activists every month. By writing for Activist Handbook, you are empowering change-makers around the globe.
+With our guides, we train more than 12.000 new activists every month. By writing for Activist Handbook, you are empowering change-makers around the globe.
 
 ## I want to do more
 
@@ -32,4 +38,4 @@ The easiest way to get started with contributing is by editing our website, spre
 
 Coordinators spend at least at least **4 hours per week** on Activist Handbook. And they are part of our team for a period of at least **6 months**.
 
-<action-button buttonlink="/join/team" buttonlabel="Apply as coordinator"></action-button>
+<action-button buttonanchor="primary-action" buttonlabel=""></action-button>
