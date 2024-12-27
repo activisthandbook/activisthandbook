@@ -6,31 +6,73 @@ description: >
 langCode: en
 articleID: HoOfo2tH3HucVjYIbZL9LtPorVEFZtI-
 languageCollectionID: 6U4kXo7qbzKkrfaO_cJnG9RkCS37n1Qz
-updatedTimestamp: 1696505251255
+updatedTimestamp: 1735303523204
 createdTimestamp: 1584809921964
-wordCount: 598
+wordCount: 1238
 tags: ["about"]
+focusMode: 
+  isOn: true
+  buttonLabel: 
+  buttonAnchor: primary-action
+sidebar: false
+aside: false
 ---
 
-Activist Handbook is a the Wikipedia for change-makers. On our platform, you can find 450+ guides and over 4.7K external resources. Our goal is to train 350 million activists.
+Activist Handbook is a the Wikipedia for change-makers. Every month, we train about 12.000 new activists. On our platform, you can find 450+ guides and over 4.7K external resources.
 
-## Let's train 350 million activists
+## Our goal
 
-All over the globe, green, social and progressive change-makers are trying to make a positive impact. But they often lack the skills to do so effectively.
+All over the globe, green, social and progressive change-makers are trying to make a positive impact. But we often lack the skills to do so effectively.
 
-Science shows that change happens when 3.5% of the population takes action. In 2050, there will be 10 billion people on this planet. That's why we are going to train 350 million activists.
+That is why we built an online knowledge-sharing platform. It works just like Wikipedia: everyone can edit our articles. This way, we allow activists across countries and movements to exchange their experiences with change-making.
 
-To achieve this goal, we built an online knowledge-sharing platform. It works just like Wikipedia: everyone can edit our articles. This way, we allow activists across countries and movements to exchange their experiences with change-making.
-
-**Right now, we are able to train more than 6000 new activists every month. Help us scale up our project:**
+**There are still many people that want to make this world a better place, but who do not know about Activist Handbook yet. There are also many topics that we do not have good guides on. And we operate with a very limited budget of only €50 per month to keep our website online. Help us scale up our project:**
 
 <action-button buttonlink="/join" buttonlabel="👉 Join our campaign"></action-button>
 
+> **We are looking for organisations or individuals to take Activist Handbook to the next level!** Are you training activists? Would you like to reach a global audience of change-makers? Do you have the financial means to invest in this project? Reach out:
+> 
+> [contact@activisthandbook.org](mailto:contact@activisthandbook.org)
+
+## Our history
+
+Activist Handbook was originally created by six activists (Sean Curry, Niks Derums, Joppe Hoekstra, Marijn Prins, Elizabete Vegnere and Daniel Whooley) from various countries in Europe during the FYEG Summercamp Hackathon 2019 in Serbia. We wanted to create a guidebook for fellow activists that would empower them to fight for change.
+
+<div data-youtube-video=""><iframe width="640" height="480" allowfullscreen="true" src="https://www.youtube-nocookie.com/embed/_WP7bC2djik" start="0"></iframe></div>
+
+Our journey has not been one of steady growth. Instead, we have faced many challenges. Through it all, we have learned a lot about activism ourselves.
+
+At our launch event, we sent an email to over 500 organisations announcing our project. We did not set up our Mailchimp account correctly, so most of those e-mails ended up in people's spam inbox. Oops...
+
+In the beginning, we did not know that much about activism ourselves, which made it quite difficult to write good guides. Most of our work since has been collecting thousands (!) of books, guides and videos created by others, trying to learn from those teachers and building upon their work.
+
+Working mostly online, we found it challenging to build strong social connections and keep people engaged with our project. Throughout the Covid crisis, we experimented with various creative ways of making our online meetings less boring and exhausting. While we definitely became better at it, we never really found a way to collaborate online that could compete with meeting up IRL.
+
+<div data-youtube-video=""><iframe width="640" height="480" allowfullscreen="true" src="https://www.youtube-nocookie.com/embed/6FCbTcBuKS8" start="0"></iframe></div>
+
+In December 2021, we organised our first write-a-thon, in collaboration with FYEG. About 50 participants joined the hybrid online/offline event, coordinated from Brussels. In July 2022, we organised another write-a-thon, this time with 100 participants from both African and European countries. We coordinated the event from Greece, and had people coming together in small hubs in cities across the two continents. It was awesome to get together people from so many different places. However, our physical distance made it difficult to forge strong bonds, and unfortunately we lost touch with most participants after the event. Our lack of funding and difficulties with visas meant we could not get the entire coordination team to Greece.
+
+<div data-youtube-video=""><iframe width="640" height="480" allowfullscreen="true" src="https://www.youtube-nocookie.com/embed/LCo9h2UR--c" start="0"></iframe></div>
+
+After the event, our core group of volunteers fell apart. While our hard work did allow us to put together an event we had previously thought impossible, we also lost a lot of energy during the process. We had worked almost exclusively online, did not have any source of funding, and had been struggling to grow our small group of volunteers.
+
+Throughout it all, the number of people reading Activist Handbook has been steadily increasing. As our collection of guides grew both in size and quality, more and more people started finding us via search engines. Today, over 100 co-authors have contributed to the handbook and we train about 12.000 new activists every month. We have also started to ask for donations to cover our website hosting costs.
+
+Right now, the project is being maintained by Joppe. He moderates all contributions to the handbook, and spends his spare time (besides his paid job) writing new guides.
+
+> **Do you have ideas on where this project could go next?** We have achieved some incredible things with very limited resources. Right now, Activist Handbook is an awesome collection of guides with a decent number of readers, but we are certain you could take it to the next level.
+> 
+> If you can get together a group of people and arrange some funding, feel free to take initiative! We are happy to help you succeed:
+> 
+> [contact@activisthandbook.org](mailto:contact@activisthandbook.org)
+
 ## Our content
+
+Many online platforms exist that host content for activists. So what makes us unique?
 
 ### 🕊 Free & reusable
 
-We publish all our work under a Creative Commons [licence](/about/licence). Other people can freely redistribute and repurpose our work. It's out there for everyone to use, as long as it is not for commercial purposes.
+We publish all our work under a Creative Commons [licence](/about/licence). Other people can freely redistribute and repurpose our work. It's out there for everyone to use, as long as it is not for commercial purposes. There is no paywall, no newsletter you have to sign up to first.
 
 ### 📖 Practical how-to guides
 
@@ -43,10 +85,6 @@ We copy other people's work and make it better. There is no point in reinventing
 ### 🗂 Well-organised content
 
 We organise our content with chapters, sub-topics, tags and lists of related articles: This makes it easier for people to find the content they are looking for, even if they do not quite know the right search term. In addition, we provide a super fast search engine.
-
-### 🌏 Localised & translated
-
-Activism is different in every region. We translate our content in all languages and adapt it to local contexts.
 
 ## Our research
 
@@ -74,8 +112,6 @@ Our writers never have to start with an empty page. Using artifical intelligence
 
 ## Our social media
 
-Follow us on [Youtube](https://www.youtube.com/channel/UCnaQQFVNV0eKc4j3-zwc09A), [Facebook](https://www.facebook.com/activisthandbook/), [Instagram](http://instagram.com/activisthandbook), [Twitter](https://twitter.com/activistbook) and [LinkedIn](https://www.linkedin.com/company/activist-handbook/).
+We are no longer active on social media. We want to invest our limited time in writing better guides, not feeding algorithms.
 
-## Roadmap
-
-Check out the [roadmap](/about/roadmap) for Activist Handbook.
+However, feel free to check out our not-so-up-to-date [Youtube](https://www.youtube.com/channel/UCnaQQFVNV0eKc4j3-zwc09A), [Facebook](https://www.facebook.com/activisthandbook/), [Instagram](http://instagram.com/activisthandbook), [Twitter](https://twitter.com/activistbook) and [LinkedIn](https://www.linkedin.com/company/activist-handbook/).
