@@ -6,15 +6,9 @@ description: >
 langCode: en
 articleID: NIepPa1Uy8IuqjgCS22Vhrx08GTwZfhH
 languageCollectionID: zyolp91QvWTliRf0WNgQuyaWzeMYT8fL
-updatedTimestamp: 1735213026338
+updatedTimestamp: 1735304701047
 createdTimestamp: 1729713205885
 wordCount: 241
-focusMode: 
-  isOn: true
-  buttonLabel: Listen here:
-  buttonLink: https://www.buzzsprout.com/1861129
-sidebar: false
-aside: false
 ---
 
 > This article is a draft that has not yet been reviewed by moderators.
