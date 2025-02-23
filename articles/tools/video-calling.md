@@ -6,9 +6,9 @@ description: >
 langCode: en
 articleID: OIdzm4zCNy5uueuVtSGK-dWoAYJojt2l
 languageCollectionID: rOnRkqeKFocsL5LElVfQGPX5zRbZgjK8
-updatedTimestamp: 1724507592632
+updatedTimestamp: 1738906418400
 createdTimestamp: 1585060695885
-wordCount: 787
+wordCount: 804
 tags: []
 ---
 
@@ -39,7 +39,9 @@ None of these video calling tools for large groups offer end-to-end encryption, 
 
 If you just want to call with your friends, these tools might be better suited for you. They are generally easier to use and many people have already installed these apps on their phones. All apps below, except Google Hangouts, use end-to-end encryption, meaning that no-one but the participants can listen in to the conversation. If privacy is very important to you, consider using Signal.
 
--   [**WhatsApp**](https://www.whatsapp.com): You can call with up to 4 people using WhatsApp. All calls are end-to-end encrypted.
+-   [**Signal**](https://signal.org): You can video call groups on phone and desktop app. Sometimes the video connection is less stable than the likes of Zoom, and you can't send people links to only join the call. If you really need privacy, this app might still be the best option for you. In addition to the use of end-to-end encryption, this app also collects almost no metadata. Where other services do store information about who you are calling, at what time and from what location, this app does not.
+    
+-   [**WhatsApp**](https://www.whatsapp.com): You can call with up to 4 people using WhatsApp. All calls are end-to-end encrypted, but Meta has access to all metadata (who you call and when). Best Avoided for sensitive work.
     
 -   [**FaceTime**](https://support.apple.com/en-us/HT204380): Only people with Apple devices are able to use FaceTime. It supports up to 32 people and offers end-to-end encryption.
     
@@ -48,8 +50,6 @@ If you just want to call with your friends, these tools might be better suited f
 -   [**Duo**](https://duo.google.com/about/): With Duo, you can call up to 8 people. Like most other apps in this category, the video calls are end-to-end encrypted by default.
     
 -   [**Houseparty**](https://houseparty.com): With this app you can call up to 8 people at the same time. Houseparty also offers a feature to share your screen and has built in games which you can play with your friends.
-    
--   [**Signal**](https://signal.org): You can video call groups on phone and desktop app. Sometimes the video connection is less stable than the likes of Zoom, and you can't send people links to only join the call. If you really need privacy, this app might still be the best option for you. In addition to the use of end-to-end encryption, this app also collects almost no metadata. Where other services do store information about who you are calling, at what time and from what location, this app does not.
     
 
 ## Related articles

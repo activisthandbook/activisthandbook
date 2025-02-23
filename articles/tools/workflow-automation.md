@@ -6,9 +6,9 @@ description: >
 langCode: en
 articleID: ZiF6omrPDykHceZ75KS70PfGnJg67D0Y
 languageCollectionID: lcpxY7YdfmZQBHkL1bVIAEk9i3pQWg61
-updatedTimestamp: 1724508014827
+updatedTimestamp: 1735383248101
 createdTimestamp: 1624720274805
-wordCount: 1141
+wordCount: 1180
 tags: ["tools","stub"]
 ---
 
@@ -109,6 +109,10 @@ Out of all these tools, [Zapier](https://zapier.com/?utm_source=activisthandbook
 ### NodeRed
 
 [NodeRed](https://nodered.org/?utm_source=activisthandbook.org) is a programmer oriented tool, that also offers a (limited) graphical user interface.
+
+### Pipedream
+
+[Pipedream](https://pipedream.com/?utm_source=activisthandbook.org) is a more advanced tool, combining code and no-code approaches to offer a more powerful tool. It is preferred by people with a technical background, but it still offers all the benefits of other workflow automation platforms.
 
 ### Cloud functions
 
