@@ -6,9 +6,9 @@ description: >
 langCode: en
 articleID: AmkmqogEmSCyL2CXBKSKHGzCQvUhYV2T
 languageCollectionID: gKmBvpTD93c3wA05cJJIXYlRz60UFAKI
-updatedTimestamp: 1676642351584
+updatedTimestamp: 1743955667828
 createdTimestamp: 1652094713752
-wordCount: 1475
+wordCount: 1524
 tags: ["communication","organising","organisation","community","meetings","connection","shift","shift x activist handbook"]
 ---
 
@@ -24,15 +24,17 @@ Community building is absolutely essential to having a functioning, thriving act
 
 ## **Creating a safe and inviting environment**
 
+> To build community requires vigilant awareness of the work we must continually do to undermine all the socialization that leads us to behave in ways that perpetuate domination. - bell hooks, Teaching Community: A Pedagogy of Hope
+
 An open, friendly environment is the base of a functioning community. By always remembering to treat each other with respect, appreciation and care, we can create a space where new members feel welcome and invited to join and existing members feel appreciated, included and heard.
 
 ### **_Open and Non-Violent Communication_**
 
 Actively reflecting and working on how members communicate with each other is very necessary in an activist space. The practice of non-violent communication can be very helpful to make sure that conversations between members (in meetings or other community contexts) are held in a respectful manner that makes time for everyone’s thoughts and feelings. The basis of non violent communication is creating empathy and understanding between all people involved in a conversation. Reading up on [this topic](https://xr-regenerativecultures.org/all/non-violence) could be very helpful if you are trying to create a non-toxic, welcoming space with your activist group.
 
-There are many small ways to influence the way your community communicates.Meetings are a core part of activist work and make up a big part of the time members spend together. So making sure meetings are well structured, so that you can get work done efficiently while also taking care that they remain creative, open spaces where everyone can feel heard and seen is very important and a balance that you should keep reflecting and working on. Starting meetings with a check-in round where every group member can say how they are feeling, how their day was and what they expect from the upcoming meeting is a simple practice used in many activist communities to ground the group at the beginning of the meeting and make everyone feel seen and emotionally involved. Next to that, [the practice of using hand signs](https://en.wikipedia.org/wiki/Occupy_movement_hand_signals) in meetings to structure the conversation can be helpful to make sure everyone can get their say while keeping communication efficient.
+There are many small ways to influence the way your community communicates. Meetings are a core part of activist work and make up a big part of the time members spend together. So making sure meetings are well structured, so that you can get work done efficiently while also taking care that they remain creative, open spaces where everyone can feel heard and seen is very important and a balance that you should keep reflecting and working on. Starting meetings with a check-in round where every group member can say how they are feeling, how their day was and what they expect from the upcoming meeting is a simple practice used in many activist communities to ground the group at the beginning of the meeting and make everyone feel seen and emotionally involved. Next to that, [the practice of using hand signs](https://en.wikipedia.org/wiki/Occupy_movement_hand_signals) in meetings to structure the conversation can be helpful to make sure everyone can get their say while keeping communication efficient.
 
-When conflicts arise in your group, make sure they are faced and mitigated head on and in a healthy manner,so that no unresolved bitterness will grow the group. This can be done by having a conflict resolution session that is mediated by someone neutral.
+When conflicts arise in your group, make sure they are faced and mitigated head on and in a healthy manner, so that no unresolved bitterness will grow the group. This can be done by having a conflict resolution session that is mediated by someone neutral.
 
 ### **_Online Communication_**
 
@@ -123,6 +125,8 @@ Add some suggestions on how this page could be improved in the future here.
 -   (Book) Marshall B. Rosenberg (2005) : [Non Violent Communication - A language of life](https://drive.google.com/file/d/1v93lxKASE-9VBHQhPcJBeOzjy0SRoeDF/view?usp=sharing)
     
 -   (Book) Carla Bergman and Nick Montgomery (2017) : [Joyful Militancy : Building thriving resistance in toxic times](https://theanarchistlibrary.org/library/joyful-militancy-bergman-montgomery)
+    
+-   (Book) bell hooks (2003): [Teaching Community: A Pedagogy of Hope](https://drive.google.com/file/d/0B6o-K8gruZR6TkhGWFpJSTRYZkk/view?resourcekey=0-NH0PxSW7vXvpfwE94UZ2XA&utm_source=activisthandbook.org)
     
 -   [Engaging the Community in Your Project](https://www.artscapediy.org/guide/a-guide-to-engaging-the-community-in-your-project/?utm_source=activisthandbook.org) by Artscape
     

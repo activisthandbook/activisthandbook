@@ -6,9 +6,9 @@ description: >
 langCode: en
 articleID: HLY1aif1-CENFMq6Xyaa0nQWsyUiN19D
 languageCollectionID: lN43xnzY_WmuhxXPfDwULKe0JOC9soA1
-updatedTimestamp: 1724507343041
+updatedTimestamp: 1743949488547
 createdTimestamp: 1646992621769
-wordCount: 252
+wordCount: 319
 tags: []
 ---
 
@@ -38,12 +38,38 @@ _Make sure to double check the licence for all material you use. And even if no 
     
 -   [**Finding images and illustrations reflecting diversity**](https://commonslibrary.org/where-do-i-find-images-reflecting-diversity/?utm_source=activisthandbook.org) This article includes a list of image libraries that reflect greater diversity.
     
+-   [**The Public Domain Image Archive**](https://pdimagearchive.org/?utm_source=activisthandbook.org) from The Public Domain Review
+    
+-   [**Public Work by Cosmos:**](https://public.work/) search engine for public domain content. 100,000+ copyright-free images from The MET, New York Public Library, and other sources.
+    
 
 ## Art archives
 
 A lot of older art is available under an open access licence:
 
 -   [Metropolitan Museum of Art](https://www.metmuseum.org/art/collection/search?searchField=All&sortBy=Relevance&pageSize=0&showOnly=openAccess)
+    
+-   [The Getty Center](https://www.getty.edu/art/collection/search?open_content=true&utm_source=activisthandbook.org)
+    
+-   [The Smithsonian](https://www.si.edu/OpenAccess?utm_source=activisthandbook.org)
+    
+-   [Rijks Museum](https://www.rijksmuseum.nl/en/collection?utm_source=activisthandbook.org)
+    
+-   [The British Library](https://imagesonline.bl.uk/?utm_source=activisthandbook.org)
+    
+-   [University of Toronto](https://www.jstor.org/site/university-of-toronto/?utm_source=activisthandbook.org)
+    
+-   [The Wellcome Collection](https://wellcomecollection.org/collections?utm_source=activisthandbook.org)
+    
+-   [The New York Public Library](https://digitalcollections.nypl.org/?utm_source=activisthandbook.org)
+    
+-   [Biodiversity Heritage Library](https://www.flickr.com/photos/biodivlibrary/albums/with/72157719479761644?utm_source=activisthandbook.org)
+    
+-   [The Royal Society](https://pictures.royalsociety.org/home?utm_source=activisthandbook.org)
+    
+-   [The Science History Institute](https://digital.sciencehistory.org/?_gl=1*1waer1f*_ga*ODgyMDkyMjE5LjE3MTA3NTM2NDc.*_ga_8S7JS8XGK7*MTcxNTE3NzYxMy45LjEuMTcxNTE3ODYzNC4wLjAuMA..&utm_source=activisthandbook.org)
+    
+-   [Old Book Illustrations](https://www.oldbookillustrations.com/?utm_source=activisthandbook.org)
     
 
 <action-smart-small></action-smart-small>

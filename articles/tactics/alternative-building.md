@@ -1,14 +1,14 @@
 ---
 title: >
-  Tactics for alternative-building
+  Tactics for Mutual Aid / Cooperative Economies
 description: >
-  Creating alternatives as part of a solidarity economy
+  Creating alternatives to capitalism in local communities
 langCode: en
 articleID: m0drYFPxxlWak_Sx2KTqxI_TkLKCvGiK
 languageCollectionID: rv7EAKh1eg5K3qylPHgNUTdef0KqrGkm
-updatedTimestamp: 1708005895285
+updatedTimestamp: 1744123822876
 createdTimestamp: 1643202787656
-wordCount: 2903
+wordCount: 2985
 tags: []
 ---
 
@@ -41,12 +41,9 @@ The aim of these strategies is to replace existing systems with new ones, or at 
 
 Activists can establish seed sharing networks to foster biodiversity, strengthen local food systems, and challenge corporate control of seeds.
 
-Also check out:
+[https://web.archive.org/web/20250000000000\*/http://solidaritynyc.org/#/videos/food-cooperatives](https://web.archive.org/web/20250000000000*/http://solidaritynyc.org/#/videos/food-cooperatives)
 
--   [Food cooperatives](http://solidaritynyc.org/?utm_source=activisthandbook.org#/videos/food-cooperatives)
-    
-
-### Distribution
+### Distribution of Goods
 
 #### Free Stores
 
@@ -68,16 +65,13 @@ Activists may rally community members to support local, sustainable agriculture 
 
 Activists may come together to form food cooperatives that support local farmers and offer healthy, organic food to the community, rather than relying on large supermarket chains.
 
-Also check out:
-
--   [**OurGoods Barter Network**](http://solidaritynyc.org/#/videos/ourgoods-barter-network)
-    
+[https://web.archive.org/web/20250000000000\*/http://solidaritynyc.org/#/videos/ourgoods-barter-network](https://web.archive.org/web/20250000000000*/http://solidaritynyc.org/#/videos/ourgoods-barter-network)
 
 ### Transport
 
 #### Transport Sharing Programs
 
-These initiatives promote sustainable transportation and create a sense of community, challenging dependency on fossil fuel-powered vehicles.
+These initiatives can be as simple as organizing to give rides to neighbors. They can also promote sustainable transportation and create a sense of community, challenging dependency on fossil fuel-powered vehicles.
 
 > _The earliest well-known community bicycle program was started in the summer of 1965_ [](https://en.wikipedia.org/wiki/Bicycle-sharing_system#cite_note-Reader's_Digest_Deutschland-12)_by Luud Schimmelpennink in association with the group_ [_Provo_](https://en.wikipedia.org/wiki/Provo_(movement)) _in Amsterdam, the Netherlands._ [](https://en.wikipedia.org/wiki/Bicycle-sharing_system#cite_note-13)_The group Provo painted fifty bicycles white and placed them unlocked in Amsterdam for everyone to use freely. This so-called White Bicycle Plan (Dutch: Wittefietsenplan) provided free bicycles that were supposed to be used for one trip and then left for someone else. Within a month, most of the bikes had been stolen and the rest were found in nearby canals. The program is still active in some parts of the Netherlands, e.g., at Hoge Veluwe National Park where bikes may be used within the park. It originally existed as one in a series of_ [_White Plans_](https://en.wikipedia.org/wiki/White_Plans) _proposed in the street magazine produced by the anarchist group PROVO. Years later, Schimmelpennink admitted that "the Sixties experiment never existed in the way people believe" and that "no more than about ten bikes" had been put out on the street "as a suggestion of the bigger idea." As the police had temporarily confiscated all of the White Bicycles within a day of their release to the public, the White Bicycle experiment had actually lasted less than one month._
 > 
@@ -106,6 +100,8 @@ Activists may create and maintain open-source software, promoting digital freedo
 
 ### Education
 
+#### Skill Shares
+
 #### Alternative Education Systems
 
 Activists might create alternative education programs or schools that teach values such as sustainability, respect for diversity, mutual aid and social justice, to name a few.
@@ -133,6 +129,10 @@ Also check out:
 
 ### Housing
 
+#### Providing Housing to Others
+
+Giving a room to a neighbor in need, helping out people who need a safe place when they are escaping harm, providing space in exchange for labor.
+
 #### Eco-villages
 
 Activists may set up self-sustaining communities that promote and practice ecological sustainability, permaculture, and communal living.
@@ -155,7 +155,7 @@ Activists can setup community-driven healthcare services that provide free or af
 
 Videos:
 
--   [Cooperative Home Care Associates](http://solidaritynyc.org/#/videos/cooperative-home-care-associates-2)
+-   [Cooperative Home Care Associates.](http://solidaritynyc.org/#/videos/cooperative-home-care-associates-2)
     
 -   [Third Root Community Health Center](http://solidaritynyc.org/#/videos/third-root-community-health-center)
     
@@ -234,6 +234,10 @@ The key concept behind 'commons' is the idea of shared ownership, use, and respo
 
 You can make this guide about alternative-building better! Here are some suggestions.
 
+### Remove or Replace Broken Links
+
+A lot of links are broken or old.
+
 ### Elaborate on these themes
 
 Write more about the following themes:
@@ -272,7 +276,7 @@ This article is still quite theoretical. We prefer practical 'how-to' guides at 
 
 ### Rename article / add landing pages
 
-We should probably rename this article. "Alternative-building" is not a widely known concept. Activist Handbook is not really in the business of coining new terms. Instead, we try to use terms that other people already use, so our guides are found through search engines.
+**3/30/25 Renamed the article "Tactics for Mutual Aid / Cooperative Economies." instead of "Tactics for Alternative-building." That seems to capture the advice given and is not part of another article.**We should probably rename this article. "Alternative-building" is not a widely known concept. Activist Handbook is not really in the business of coining new terms. Instead, we try to use terms that other people already use, so our guides are found through search engines.
 
 One possibility is to rename the article to 'Commons' or 'Solidarity economy'. However, neither accurately reflects the perspective we want to take, with 'alternative-building' being a category of activists tactics and strategies. In addition, it seems like a reachable goal to get an article about 'alternative-building' high in the search results, even though the majority of people searching for it does not actually mean it in the context of activism. For those who do, they will be able to find us that way as well. So instead of remaining this page, it might be better to add two additional pages about those two more popular themes, and link to this page.
 

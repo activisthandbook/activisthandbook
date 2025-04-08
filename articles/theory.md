@@ -6,9 +6,9 @@ description: >
 langCode: en
 articleID: YDhDPuRtRiSVyvpIQFEshkjwntMOHg2j
 languageCollectionID: J2Ob8I-vLt6F7hsqCHl_RhDVkGC1ybLs
-updatedTimestamp: 1714214380498
+updatedTimestamp: 1740589683025
 createdTimestamp: 1593095391290
-wordCount: 562
+wordCount: 565
 tags: []
 ---
 
@@ -85,6 +85,8 @@ We discuss terms that are frequently used in the context of change-making and in
 -   **🎭** [**Performative activism**](/theory/performative-activism)
     
 -   **🔥** [**Revolution**](/theory/revolution)
+    
+-   🕊️ [**Collective Liberation**](https://slowfactory.earth/roles-for-collective-liberation?utm_source=activisthandbook.org)
     
 
 ## Improve this page

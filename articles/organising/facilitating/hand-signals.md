@@ -6,13 +6,15 @@ description: >
 langCode: en
 articleID: EQBlbQaRIWzvxCM1OwWxo1ovPLxcftVJ
 languageCollectionID: Ss_aamUUeUYcpQZ5r2hm14BHGKJTTNmR
-updatedTimestamp: 1676714558615
+updatedTimestamp: 1741157076840
 createdTimestamp: 1653816605792
-wordCount: 259
+wordCount: 272
 tags: []
 ---
 
 In this guide, you will learn how hand signals can help you communicate in groups. Use these hand signals during meetings or at protests.
+
+> 📚 This guide is part of a series on [how to facilitate meetings](/organising/facilitating).
 
 This guide about hand signals is designed to help you communicate with other activists without having to use your voice. Hand signals are a great way to communicate silently and can be used in a variety of situations, from protesting to attending a meeting. This guide will teach you some of the most common hand signals used by activists and how to use them.
 
@@ -20,7 +22,7 @@ This guide about hand signals is designed to help you communicate with other act
 
 ### Creative Commons resources
 
--   [Hand signals](https://www.seedsforchange.org.uk/handsig.pdf) by Seeds for Change
+-   [Hand signals](https://www.seedsforchange.org.uk/downloads/handsig.pdf?utm_source=activisthandbook.org) by Seeds for Change
     
 -   [Occupy movement hand signals](https://en.wikipedia.org/wiki/Occupy_movement_hand_signals) by Wikipedia
     

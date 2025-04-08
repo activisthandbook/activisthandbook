@@ -6,9 +6,9 @@ description: >
 langCode: en
 articleID: Z-Ui7ues8iBNtbuAydgwwYxtzRpER2i_
 languageCollectionID: tPpL-PgfyflnfdbX8PN394PCl1Ic8v1c
-updatedTimestamp: 1731264331655
+updatedTimestamp: 1744123375536
 createdTimestamp: 1628605870725
-wordCount: 1898
+wordCount: 1789
 tags: []
 ---
 
@@ -29,25 +29,25 @@ Digital security practices help protect campaigners from malicious online attack
 
 Groups working on social/racial justice, environmental, immigration and refugee issues, as well as gender and reproductive rights are being targeted by hackers/trolls that are intent on subverting their work for political reasons. These groups often learn the price of unsecured digital tools the hard way when their accounts are accessed and corrupted by malicious actors. Campaigners working in environments under repressive regimes must also adapt their digital security practices to prevent surveillance and attempts to neutralize their groups through hacking and information leaks.
 
-## **Impact/ Why do this?**
+## **Impact/Why do this?**
 
 Groups that put in place some basic digital security practices and tools are saving themselves from some potentially damaging attacks with a little effort and attention.
 
-Take your internal digital security seriously! Make it as high a priority as data analysis, matching voter files to internal records, etc. Recent reports suggest that the Clinton campaign actively rejected advice to turn on two-factor authentication on its Google accounts. The result was Clinton's campaign manager getting hacked -- in a way that couldn't have happened had he turned on two-factor authentication. This in turn enabled the release of thousands of damaging emails. The rest is history. Without security it's potentially game over.
+When you take your internal digital security seriously, your helping keep everyone in your community safe—especially those who are most vulnerable. Make it as high a priority as data analysis, matching voter files to internal records, etc. Recent reports suggest that the Clinton campaign actively rejected advice to turn on two-factor authentication on its Google accounts. The result was Clinton's campaign manager getting hacked -- in a way that couldn't have happened had he turned on two-factor authentication. This in turn enabled the release of thousands of damaging emails. The rest is history. Without security it's potentially game over.
 
-## **Important first step: Threat/risk level assessment**
+## **Important first step: Threat modeling / security planning**
 
-Dia Kayyali, [writing for the Center for Media Justice](http://centerformediajustice.org/2016/11/29/getting-started-digital-security/), explains that a threat modeling or risk assessment requires asking yourself the following five questions and recommends taking out pen and paper, brainstorming and consider discussing these questions along with the people you work closely with, since security is a collective effort:
+[Threat modeling](https://ssd.eff.org/module/your-security-plan) (aka "security planning") often involves asking five questions:
 
--   What do I need to protect?
+1.  What do I need to protect?
     
--   Who do I need to protect it from?
+2.  Who do I need to protect it from?
     
--   How much do they want that information, and how easy is it for them to get it?
+3.  How much do they want that information, and how easy is it for them to get it?
     
--   What happens if they do get it?
+4.  What happens if they do get it?
     
--   What am I willing to do to stop that from happening?
+5.  What am I willing to do to stop that from happening?
     
 
 A useful tool for conducting a risk level assessment is the [Secure Communications Framework](https://teamsammut.com/scf/) (SCF), developed by Tim Sammut. This tool uses a simple chart on which you can plot the different kinds of information, materials and data that your organisation works with, according to:
@@ -59,41 +59,41 @@ A useful tool for conducting a risk level assessment is the [Secure Communicatio
 
 If your organisation manages data or information that falls in the blue quadrants (in the illustration below) then following basic best practices for digital security, as outlined in this guide, is sufficient. If you manage information in the orange quadrants then more stringent measures are required and it may be desirable to seek support from trusted security experts, such as the groups listed below. If your organisation manages information that falls into the red quadrant then working with trusted security experts is a must.
 
-Secure Communications Framework (Tim Sammut)
+## **Security checklist**
 
-## **Setup steps/ stages**
-
-\*\*\*If your threat level assessment reveals a very high risk of attacks, it is best that your organizations seek direct support from one of the [groups listed below](https://docs.google.com/document/d/1kkict_LFk_4tuXlli-6IoRGnzvZ2J2eLyclyqBXxdLY/edit#).
+_Note: If your threat level assessment reveals a very high risk of attacks, it is best that your organizations seek direct support from one of the_ [_groups listed below_](https://docs.google.com/document/d/1kkict_LFk_4tuXlli-6IoRGnzvZ2J2eLyclyqBXxdLY/edit#)_._
 
 Groups facing a low to moderate threat can start with this list of ‘must-do’ practices that will close some of the basic vulnerabilities that are most often exploited by hackers.
+
+The list below is a good starting point. Since digital security changes frequently, we also suggest you take a look at resources like [Activist Checklist](https://activistchecklist.org/?utm_source=activisthandbook.org) and [Surveillance Self-Defense](https://ssd.eff.org/)
+
+* * *
 
 **Check if you have updated your OS, browser, and apps on all org computers and devices**
 
 More than 90% of software and operating system (OS) updates are to patch security vulnerabilities in programs!
 
-**Safety and privacy whilst browsing**
+**Safety and privacy while browsing**
 
-If you are using public / untrusted wifi, using a [Virtual Private Network](https://en.wikipedia.org/wiki/Virtual_private_network) (VPN) is recommended. A good open source option is [Psiphon](https://psiphon.ca/index.html). If you are concerned about particular websites tracking your internet browsing then you can install an extension like [Privacy Badger](https://www.eff.org/privacybadger).
-
-When you are browsing, a useful extension you can install is [HTTPS Everywhere](https://www.eff.org/HTTPS-EVERYWHERE), which ensures you always use encrypted communication with a website, where possible.
+If you are using public / untrusted wifi, using a [Virtual Private Network](https://activistchecklist.org/essentials/?utm_source=activisthandbook.org#vpn) (VPN) is recommended. The most trusted VPNs in activist spaces are [IVPN](https://www.ivpn.net/en/?utm_source=activisthandbook.org), [Mullvad](https://mullvad.net/en?utm_source=activisthandbook.org), and [Proton VPN](https://protonvpn.com/?utm_source=activisthandbook.org). If you are concerned about particular websites tracking your internet browsing then you can install an extension like [Privacy Badger](https://www.eff.org/privacybadger).
 
 **Turn on two-factor authentication for every cloud service you use, work and personal.**
 
 "Two-factor authentication" adds an extra step when logging into an account. It requires you to enter a code (generated by an app or by a text message) in addition to a password. It's an important protection against "phishing" attacks, which can trick you into providing your login credentials to someone else. Services that provide two-factor authentication include Google accounts (covering Gmail, Calendar, and Drive), iCloud, Twitter, Facebook, Dropbox, Box, Microsoft accounts, and more (a more comprehensive list can be found [here](https://twofactorauth.org/)). For more protection, consider Google's [Advanced Protection Program](https://landing.google.com/advancedprotection/), which provides hardware "keys" that are necessary to log in to your accounts. (The Digital Security Exchange can provide these kits for free.). As a rule of thumb, if a service provider does not offer two-factor authentication then do not use it to store sensitive information.
 
-**Download and use** [**Signal**](https://signal.org/) **and Jitsi and get your colleagues to do it too.**
+**Download and use Signal and Jitsi and get your colleagues to do it too.**
 
 [Signal](http://signal.org/) is a popular and secure messaging app that encrypts all of your conversations with other Signal users. It's important because regular SMS text messages are easy to intercept by law enforcement and other third parties. Signal makes it impossible for anyone but you to read the messages of those your communicating with. Plus, it has a great desktop app and it's easy to set up groups.
 
-For secure online conferencing, campaigners who face security concerns recommend Jit.si - [https://jitsi.org/](https://jitsi.org/)
+For secure online conferencing, you can use [Signal video calls](https://support.signal.org/hc/en-us/articles/7860719423002-How-to-create-and-share-call-links) whenever possible. If Signal doesn't work for you, consider using [Jit.si](https://jitsi.org/).
 
 **Use a password manager to create and store strong passwords.**
 
-Weak passwords are an invitation to be hacked. A password manager like [LastPass](http://lastpass.com/), [1Password](https://1password.com/) or [KeePass](https://securityinabox.org/en/guide/keepassx/windows/) makes it easy to create unique, strong passwords for every account you have. Install one of those apps and start replacing and saving your passwords for all of your accounts. In addition, make sure the login passwords for your personal devices and for your password managers are strong.
+Weak passwords are an invitation to be hacked. A password manager like [1Password](https://1password.com/), [BitWarden](https://bitwarden.com/), or [KeePassXC](https://securityinabox.org/en/guide/keepassx/windows/) makes it easy to create unique, strong passwords for every account you have. Install one of those apps and start replacing and saving your passwords for all of your accounts. In addition, make sure the login passwords for your personal devices and for your password managers are strong.
 
-Pro tip: It's a myth that strong passwords must contain every character under the sun. In fact, length is what matters. So when possible, use passphrases, not passwords. For example, a passphrase like "the russians probably interfered in our election" is a very strong passphrase!
+Pro tip: It's a myth that strong passwords must contain every character under the sun. In fact, length is what matters. So when possible, [use a passphrase, rather than a password](https://strongphrase.net/?utm_source=activisthandbook.org). For example, a passphrase like "the Russians probably interfered in our election" is a very strong passphrase!
 
-Sarah Lange and Holly Davis from Blue Pine Strategies recommend the following wrt passwords:
+Here are some recommendations for passwords:
 
 -   At least 13 characters in length
     
@@ -113,7 +113,7 @@ Easy to remember, hard to crack:
 -   Passphrase
     
 
-Do not use information publicly available about you:
+Do **_NOT_** use information publicly available about you:
 
 -   Name of your partner, child, or pet
     
@@ -122,67 +122,41 @@ Do not use information publicly available about you:
 -   Favorite food
     
 
-Change passwords frequently:
-
--   Ideally every 3-6 months
-    
-
 Prioritize accounts for complex passwords
 
--   Use one password per account
+-   Do NOT reuse passwords between accounts. Passwords get hacked and leaked all the time. If your password on one site is exposed, an attacker will just attempt to use it on a other popular sites.
     
 
 **Make sure all of your devices are encrypted.**
 
-This makes it much harder for law enforcement or hackers to access the data on your devices. iPhones are already encrypted. Android phones are not (unless you have a Google Pixel), so you should go into the the Security settings and enable encryption. On Mac computers, go into System Preferences, then Security & Privacy, and turn on FileVault. On Windows, you should use the BitLocker application (preinstalled) to encrypt your drive.
+This makes it much harder for law enforcement or hackers to access the data on your devices. iPhones are already encrypted. Android phones are not (unless you have a Google Pixel), so you should go into the the Security settings and enable encryption. Any Mac computers newer than 2017 have FileVault encryption on by default. On Windows, you should use the BitLocker application (preinstalled) to encrypt your drive.
 
 If you want to encrypt specific information / files on your device then you can use an open source program like [VeraCrypt.](https://securityinabox.org/en/guide/veracrypt/windows/)
 
-**Pay special attention to external hard drives and USB keys**
-
-Often forgotten in these measures are the external devices that we store our data on. Consider though that some of the most serious data leaks cames as a result of people leaving these devices around unprotected!
-
--   First step is keeping a close eye on these devices and not leaving them around
-    
--   It is recommended that you [encrypt your flash/hard drives](https://lifehacker.com/encrypt-your-flash-drive-to-ensure-your-peace-of-mind-1820010000) and set password protection to access them
-    
-
 **Mobile device security**
 
--   Make sure your mobile PIN is at least 6 digits, it is much easier to crack a phone with only 4.
+-   Make sure your mobile PIN is at least 6 digits. A [truly random 10-digit phone PIN](https://strongphrase.net/#/passcode) is recommended and would take up to 6 years (on average) to brute-force crack.
     
 -   Make sure you keep auto-update of your applications switched on and ensure they are kept up to date. For Android, only download applications from the Google Play Store. If this is not possible, you can first upload APK files to [www.virustotal.com](http://www.virustotal.com/).
     
 -   Take extra care when accessing organisational information over public wifi - if you need to do this regularly then invest in a VPN.
     
--   For groups that have more acute security concerns, a factory reset of mobile devices is recommended every few months to make sure any malicious tracking is wiped out (but this presents the inconvenience of re-configuring devices)
+-   For groups that have more acute security concerns, a factory reset of mobile devices is recommended every few months to make sure any malicious tracking is wiped out (but this presents the inconvenience of re-configuring devices). You can also use [iVerify](https://iverify.io/) to check for certain spyware.
     
 
-## **Tricky parts/ fixes**
+## **Tricky parts/fixes**
 
 Most digital security measures take some time to implement and get used to. In the busy and resource-strapped world of advocacy campaigning, this can be a drag. However, if your security risks are low to moderate, then the measures outlined above may take some adjustment to implement but generally do not add a lot of extra time to day to day operations once they have been put in place.
 
-**Support groups**
+## **Support groups**
 
 **For groups around the world**
 
-If you represent a progressive group that needs immediate help, reach out to Access Now's Digital Security Helpline, which is available 24/7: [https://www.accessnow.org/help/](https://www.accessnow.org/help/)
+If you represent a progressive group that needs immediate help, reach out to [Access Now's Digital Security Helpline](https://www.accessnow.org/help/), which is available 24/7.
 
 **For U.S. civil society groups**
 
-The [**Digital Security Exchange**](https://digitalsecurityexchange.org/) is here to help grassroots organizations build up their digital security. Contact us at info@digitalsecurityexchange.org for a free risk assessment.
-
 The folks at [**Ragtag.org**](https://ragtag.org/) run a ‘help desk’ to support progressive campaigners. You can submit digital security questions to them here: [https://www.campaignhelpdesk.org/](https://www.campaignhelpdesk.org/)  
-
-**Blue Pine Strategies**
-
-Holly and Sarah, who helped with this guide, are available to discuss your group’s situation and can help build a digital security approach for orgs large and small.
-
-Get in touch for more information and services:
-
-holly@bluepinestrategies.com
-
-sarah@bluepinestrategies.com
 
 ## **Attribution**
 
@@ -198,15 +172,19 @@ sarah@bluepinestrategies.com
 
 ## External resources
 
--   [Email self defence](https://emailselfdefense.fsf.org/en/) by Free Software Foundation
+-   [ActivistChecklist.org](http://ActivistChecklist.org) - Up-to-date and easy-to-follow checklists and recommendations
     
--   [Security in a box](https://securityinabox.org/en/)
-    
--   [Prism Break](https://prism-break.org/en/)
-    
--   [EFF Tools](https://www.eff.org/pages/tools) (Especially the [Surveillance Self Defence](https://ssd.eff.org) guide)
+-   [Surveillance Self-Defense](https://ssd.eff.org/) by the Electronic Frontier Foundation
     
 -   [Holistic Security](https://holistic-security.tacticaltech.org) by Tactical Tech
+    
+-   [Security in-a-box](https://securityinabox.org/en/)
+    
+-   [Email self defense](https://emailselfdefense.fsf.org/en/) by Free Software Foundation
+    
+-   [Prism Break](https://prism-break.org/en/) - List of recommended secure tools
+    
+-   [EFF Tools](https://www.eff.org/pages/tools)
     
 -   [Watch Your Hack](https://watchyourhack.com) by Daniel Verlaan
     
@@ -214,17 +192,15 @@ sarah@bluepinestrategies.com
     
 -   [Data Detox Kit](https://datadetoxkit.org/en/security/) by Tactical Tech
     
--   [Tech security](https://wikijs.dev.organise.earth/en/tech#operational-security-staying-safe) by Extinction Rebellion Global
-    
 -   [Assess Your Cybersecurity through Threat Modeling](https://www.nonviolent-conflict.org/blog_post/practitioners-civil-resistance-assess-cybersecurity-threat-modeling/) by Lisha Sterling
     
 -   [Defend Dissent](https://open.oregonstate.education/defenddissent/) by Oregon State University
     
+-   [Access Now's "A First Look at Digital Security,"](https://www.accessnow.org/first-look-at-digital-security/) which features a number of risk profiles (and is great for leading trainings)
+    
 -   [Center for Media Justice - Getting Started with Digital Security: Tips and Resources for Activists](http://centerformediajustice.org/2016/11/29/getting-started-digital-security/)
     
 -   Electronic Frontier Foundation's guide to Security Self-Defense: [https://ssd.eff.org/ and guide to Surveillance Self-Defense: https://ssd.eff.org/](https://ssd.eff.org/)
-    
--   Access Now's "A First Look at Digital Security," which features a number of risk profiles (and is great for leading trainings): [https://www.accessnow.org/first-look-at-digital-security/](https://www.accessnow.org/first-look-at-digital-security/)
     
 -   Martin Shelton's "Securing Your Digital Life Like a Normal Person": [https://medium.com/@mshelton/securing-your-digital-life-like-a-normal-person-a-hasty-and-incomplete-guide-56437f127425](https://medium.com/@mshelton/securing-your-digital-life-like-a-normal-person-a-hasty-and-incomplete-guide-56437f127425)
     
@@ -236,3 +212,5 @@ sarah@bluepinestrategies.com
 -   APC’s Digital Security First Aid Kit for Human Rights Defenders: [https://www.apc.org/en/irhr/digital-security-first-aid-kit](https://www.apc.org/en/irhr/digital-security-first-aid-kit)
     
 -   Tactical Technology Collective’s Security in a Box: [https://securityinabox.org/en/tools/](https://securityinabox.org/en/tools/)
+    
+-   [Tech security](https://wikijs.dev.organise.earth/en/tech#operational-security-staying-safe) by Extinction Rebellion Global (behind login)

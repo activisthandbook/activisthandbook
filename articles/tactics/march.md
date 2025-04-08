@@ -6,7 +6,7 @@ description: >
 langCode: en
 articleID: zVw0z07YNlOJdToytK0R-xtdwqEgzoC4
 languageCollectionID: 3L9DkT6AajNvcbCrwOSF46A04mvxeHgr
-updatedTimestamp: 1740307985351
+updatedTimestamp: 1743900667785
 createdTimestamp: 1584776361098
 wordCount: 1315
 tags: ["tactics"]
@@ -97,7 +97,7 @@ For example, halfway during the march, have everyone sit down in small groups of
 -   5 min: Repeat the next steps (e.g. the upcoming meeting date, having drinks after this march to get to know each other better)
     
 
-After the march, go to a cafe to have drinks together. The purpose of this is to form strong social bonds. The stronger the social bonds, the more likely people are to become and stat actively involved in your movement.
+After the march, go to a cafe to have drinks together. The purpose of this is to form strong social bonds. The stronger the social bonds, the more likely people are to become and stay actively involved in your movement.
 
 Remember: the fight against fascists is not won by doing a single protest march. We need to build strong resilient movements that are willing to continue fighting in the long run!
 

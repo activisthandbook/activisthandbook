@@ -6,9 +6,9 @@ description: >
 langCode: en
 articleID: _FhS3DYPgN9p0h3elRVarmYTU8jQvcTA
 languageCollectionID: _umEWSFrid1WEvO8qO_6umUHhX8sIc49
-updatedTimestamp: 1724507524178
+updatedTimestamp: 1741113111146
 createdTimestamp: 1583509229031
-wordCount: 1033
+wordCount: 1131
 tags: ["tools","chapters"]
 ---
 
@@ -62,6 +62,10 @@ We also have guides on how to use social media platforms like [Instagram](/tools
 
 ## Productivity apps
 
+Adopting powerful tools to support activities that go beyond simple, direct communication is often necessary as soon as your organization starts growing beyond a few people.
+
+This section details several categories of tools that you can adopt to support your processes, track and coordinate activities, archive your knowledge, and take decisions effectively.
+
 -   **🗂** [**Productivity suites**](/tools/productivity-suites): All-in-one packages for productivity tools.
     
 -   **⚡** [**Movement organising**](/tools/organising): All-in-one solutions for membership management, hosting events, sharing petitions.
@@ -91,13 +95,19 @@ We also have guides on how to use social media platforms like [Instagram](/tools
 
 ## Creative media
 
--   **🎨** [**Graphic design**](/tools/graphic-design): Creating visually attractive imagery is a great way to illustrate your message. In this article you will find a list of photography and vector editing applications.
+Media production is often a demanding activity for most public-facing activist organizations. This section covers the basic of what tools to use to produce the most common media formats.
+
+-   **🎨** [**Images**](/tools/graphic-design): Creating visually attractive imagery is a great way to illustrate your message. In this article, you will find a list of photography and vector editing applications.
     
--   **🎬** [**Making videos**](/tools/videos): By publishing promotional videos for your actions on social media and recording your protests, even people who are outside your direct circle will be able to get to know your movement. In this article we discuss various ways in which you can share videos with your fellow rebels, including Youtube and Vimeo, but also open source self-hosted alternatives.
+-   **🎬** [**Videos**](/tools/videos): By publishing promotional videos for your actions on social media and recording your protests, even people who are outside your direct circle will be able to get to know your movement. In this article we discuss various ways in which you can share videos with your fellow rebels, including Youtube and Vimeo, but also open source self-hosted alternatives.
     
 -   **🎤** [**Podcasts**](/tools/podcasts): Publish your audio recordings with one of these tools. Podcasts are a great way to convey your message in a personal way.
     
--   **Giphy** : Giphy is a free website full of gifs
+    ## Custom tools
+    
+    Sometimes existing software and its features are not enough. If your organization has specific needs and enough resources, developing custom tools becomes an option.
+    
+-   🔧 [No-code tools](/tools/nocode)
     
 
 ## Acting

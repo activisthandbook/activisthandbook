@@ -6,9 +6,9 @@ description: >
 langCode: en
 articleID: Jivvm_DITjwYHs0BtJuFs9SzsiRHfUlL
 languageCollectionID: 2iL5uLyfvLfLZc8ZAdnUzGAQX_cgwUc1
-updatedTimestamp: 1719402190945
+updatedTimestamp: 1743955948827
 createdTimestamp: 1583581575544
-wordCount: 1034
+wordCount: 1042
 tags: ["chapters"]
 ---
 
@@ -155,6 +155,8 @@ The authors of these materials want you to reuse them! They are available under 
 -   ⭐️ [Book: Organising - People, power, change](https://actionnetwork.org/user_files/user_files/000/041/455/original/organizing_people_power_changeadaptedfromMarshallGanz.pdf) by Marshall Ganz \[PDF\]
     
 -   ⭐️ [Workshop: Organizing](https://projects.iq.harvard.edu/files/ganzorganizing/files/seed_organizing_manual_final_2015_ok_coaching_appendix.pdf) by Marshall Ganz \[PDF\]
+    
+-   ⭐️ [The Secret Is to Begin](https://crimethinc.com/2016/09/28/feature-the-secret-is-to-begin-getting-started-further-resources-frequently-asked-questions) by CrimethInc
     
 
 **Read more about organizing**

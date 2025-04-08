@@ -6,9 +6,9 @@ description: >
 langCode: en
 articleID: CxjlFwDL4R7ele31R5a9_BTCQcPFsojR
 languageCollectionID: ppl5Owy4ds7DmHUSNsENQpGtUrftQ-h_
-updatedTimestamp: 1683444499006
+updatedTimestamp: 1743957887566
 createdTimestamp: 1683444296053
-wordCount: 727
+wordCount: 891
 ---
 
 **In this article, you will learn how joining a protest with an affinity group can help make everyone feel safe. We will discuss how you can form an affinity group, what to do during a protest action, and how to keep together your group over longer periods of time.**
@@ -27,6 +27,8 @@ You can easily feel lost in the crowd at a protest, so it is nice to have some p
     
 -   Sometimes affinity groups stay together for longer periods and join multiple actions. However, often, the people who are available to join vary, so you might join a different group or welcome others to join yours.
     
+-   Affinity groups can be temporary, they may form for a specific purpose and then dissolve once it's achieved. Because of their flexible nature, they are not stuck in one rigid structure, they can ebb and flow as need, which makes them very resilient.
+    
 -   You look after one another and make sure everyone is doing well.
     
 -   Within these groups, people can take up specific roles, such as representative (for decision making) or wellbeing facilitator.
@@ -35,6 +37,12 @@ You can easily feel lost in the crowd at a protest, so it is nice to have some p
     
 -   If one or more members of your group get arrested, you immediately report this to arrestee support. One or more members of your affinity group can wait outside the police station for people to be released to give them hugs, food and mental support. This might not always be possible (e.g. if you all get arrested), so at civil disobedience actions it is important to have arrestee support as well (more about that later)
     
+
+> Through free association, people will find those of mutual interests in every sphere of life to form groups on the basis of their affinity. But whether these various groups meet and coordinate their activity in workshops, gardens, or other spaces of encounter and whether they are invested in maintaining energy systems, growing food forests, or building homes, such a society cannot last without mutual responsibility. - [What Anarchy Needs – YouTube](https://www.youtube.com/watch?v=qkN_nQPpeSU)
+
+## **How to form an affinity group**
+
+CrimethInc has created this [guide to forming affinity groups.](https://crimethinc.com/2017/02/06/how-to-form-an-affinity-group-the-essential-building-block-of-anarchist-organization?utm_source=activisthandbook.org) Here is another guide by Destructables that breaks down [how to form an affinity group in 3 steps.](https://theanarchistlibrary.org/library/destructables-affinity-groups?utm_source=activisthandbook.org)
 
 ## **Group exercises**
 
@@ -66,6 +74,8 @@ Related articles on the Activist Handbook website:
     
 -   [Affinity Groups: Care for Yourself and Others](https://holistic-security.tacticaltech.org/chapters/act/4-1-2-protests-affinity-groups-care-for-yourself-and-others.html) by the Holistic Security Manual (no date, CC BY-SA 4.0)
     
+-   [How to Form an Affinity Group Zine](https://archive.org/details/HowToFormAnAffinityGroup/mode/2up) by ACTIVATE GRAND RAPIDS (2008)
+    
 
 **Other resources:**
 
@@ -80,6 +90,8 @@ Related articles on the Activist Handbook website:
 -   [Affinity groups](https://nonviolencetoolkit.com/nonviolence-toolkit-methods-tactics-affinity-groups) by Center for Applied Nonviolence (no date)
     
 -   [Affinity groups](https://activistrights.org.au/kb/preparing-for-a-protest/looking-after-you-and-your-group/affinity-groups/) by Activist Rights Australia
+    
+-   [Affinity Group - Stimpunks Foundation](https://stimpunks.org/glossary/affinity-group/)
     
 
 ## **Attribution**

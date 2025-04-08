@@ -6,9 +6,9 @@ description: >
 langCode: en
 articleID: dqIEdknV4hO7Eqa1OZNQWeeF1D-KptVM
 languageCollectionID: WeIM7eSP9ovc2D_rh7HpCq26GW7AQRV-
-updatedTimestamp: 1700385114853
+updatedTimestamp: 1743799251803
 createdTimestamp: 1594650737037
-wordCount: 1667
+wordCount: 1679
 tags: []
 ---
 
@@ -45,9 +45,13 @@ Whatever your action, these practices will come in handy:
 
 -   🚔 Resisting arrest ([Going floppy](/tactics/going-floppy))
     
--   🎨 Painting banners
+-   🎨 [Painting banners](https://ruckus-org.nyc3.cdn.digitaloceanspaces.com/production/app/uploads/2017/11/RS_ActionVisuals.pdf?utm_source=activisthandbook.org)
     
--   🏳 Creating flags
+-   🏳 [Creating flags](https://ruckus-org.nyc3.cdn.digitaloceanspaces.com/production/app/uploads/2017/11/RS_ActionVisuals.pdf?utm_source=activisthandbook.org)
+    
+-   Making stencils
+    
+-   Modifying t-shirts
     
 -   ☮️ [Disabling a tank](/tactics/disable-tank)
     
@@ -254,3 +258,5 @@ _\*According to Semrush_
 -   [Creative Activism: Start Here](https://commonslibrary.org/creative-activism-start-here/) by Commons Library
     
 -   [Creative Activism 101: An Antidote to Despair](https://commonslibrary.org/creative-activism-101-an-antidote-for-despair/) by Iain McIntyre
+    
+-   [Creative Direct Action Visuals](https://ruckus-org.nyc3.cdn.digitaloceanspaces.com/production/app/uploads/2017/11/RS_ActionVisuals.pdf?utm_source=activisthandbook.org) by Ruckus Society (2017)

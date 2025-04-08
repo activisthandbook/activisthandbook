@@ -6,13 +6,19 @@ description: >
 langCode: en
 articleID: e8-5UcsLpoZXX-fCfIxnA3bLRddNjudZ
 languageCollectionID: qvMUFu-6HNSoAXywb6xaJBkcb4OpV3b8
-updatedTimestamp: 1705747797959
+updatedTimestamp: 1743286193033
 createdTimestamp: 1586790886473
-wordCount: 126
+wordCount: 263
 tags: ["wellbeing"]
 ---
 
 > **Article quality:** ⭐️ (1/5)
+
+Taking care of yourself is important for activism. The fight is long and will not be over quickly. If you do not take care of yourself first, then you will not be able to show up consistently for the causes that drive you.
+
+### What does self care mean?
+
+This will look different for every individual. It will help to take some time to journal and consider the things that bring you joy outside of your activism. The goal is to identify some activities that allow you to feel rested, accomplished and at peace. This could mean you spend dedicated hours reading books, playing video games, or spending time with family. It will be different for everyone which is why it is so difficult to prescribe how to achieve it. It may also change for yourself over time.
 
 ## Resources
 
