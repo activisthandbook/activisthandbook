@@ -6,9 +6,9 @@ description: >
 langCode: en
 articleID: qrZm1nfYVFp2tIwlCpU_1ircFn5QmYmn
 languageCollectionID: or4iwN0WhmaujPmsiUDTR_415po8Ff7m
-updatedTimestamp: 1743964069074
+updatedTimestamp: 1744126442389
 createdTimestamp: 1743946981957
-wordCount: 272
+wordCount: 294
 tags: ["media","physical media","zine"]
 ---
 
@@ -60,3 +60,7 @@ Add some suggestions on how this page could be improved in the future here.
 -   [**Collection of zines**](https://crimethinc.com/zines?utm_source=activisthandbook.org) - CrimethInc
     
 -   [**Creative Direct Action Visuals Guide**](https://ruckus-org.nyc3.cdn.digitaloceanspaces.com/production/app/uploads/2017/11/RS_ActionVisuals.pdf)
+    
+-   [**Take it offline: Print-based media | The Info-Activism How-To Guide**](https://howto.informationactivism.org/content/take-it-offline-print-based-media.html?ref)
+    
+-   [**Message in-a-box: tools and tactics for for communicating your cause**](https://archive.org/details/isbn_9788190882156/mode/2up) **\-Tactical Tech**
