@@ -6,9 +6,9 @@ description: >
 langCode: en
 articleID: m4uMcFhEZyoTvnn4zBDqd0RZwSnP7cNl
 languageCollectionID: KPVizBwWat4_W_BEiKmG-JlKkM_iQl99
-updatedTimestamp: 1734771503447
+updatedTimestamp: 1755023719890
 createdTimestamp: 1583664381534
-wordCount: 1152
+wordCount: 1225
 tags: ["tools","social media"]
 ---
 
@@ -37,6 +37,19 @@ We have reviewed the chat apps below. If you would like another app to be review
 
 The chat apps below are best suited for small to medium sized groups. It is also possible to use these chat apps for larger movements, but it will become harder to keep an overview. Most chat apps have a maximum number of members for group chats. As your movement grows, you might want to look at the section below about communication tools for larger organisations.
 
+### Strong Privacy
+
+-   [**Signal**](/tools/chat-apps/signal)**:** If you need privacy and security, Signal is definitely the way to go. Signal is remarkably easy to use, open source and trusted by security experts. Share usernames instead of phone numbers when contacting people.
+    
+-   [**Session**](https://getsession.org/?utm_source=activisthandbook.org): No phone number or email address is required to signup. Similar functionality like Element, but still in an earlier stage of development. Decentralized servers routed through [Lokinet](https://lokinet.org/?utm_source=activisthandbook.org).
+    
+-   **SimpleX**: Review by repduatable security consultant agencies.
+    
+
+### Weaker Privacy
+
+The below apps are either not open source, so they can not be reviewed for security, or have known privacy vulnerabilities.
+
 -   [**WhatsApp**](/tools/chat-apps/whatsapp) **(most users):** This app is very popular and simple to use. While it is owned by Facebook and some improvements are possible, WhatsApp provides quite decent security and privacy compared to the alternatives. If you need more privacy, go for Signal. WhatsApp is blocked in China.
     
 -   [**Facebook Messenger**](/tools/chat-apps/facebook-messenger): This app is popular in many parts of the world. It is owned by Facebook and does not provide proper security and privacy features. If it is possible to convince your fellow activists to use a different app, consider switching to a more privacy friendly alternative such as WhatsApp or Signal.
@@ -47,8 +60,6 @@ The chat apps below are best suited for small to medium sized groups. It is also
     
 -   [**Telegram**](/tools/chat-apps/telegram) **(best for functionality)**_:_ This app is popular in some activist groups, because it provides quite a bit of functionality for medium sized groups without becoming too complex. However, this app does not use [end-to-end encryption](/end-to-end-encryption) in group chats, and in private chats only if you specifically turn it on. Consider alternatives if you need more privacy and security.
     
--   [**Signal**](/tools/chat-apps/signal) **(2nd best for security & privacy):** This app is not the most popular, but if you need privacy and security, Signal is definitely the way to go. Signal is remarkably easy to use, open source and trusted by security experts.
-    
 -   [**iMessage**](/tools/chat-apps/imessage): iMessage only works on iPhone, so for many activist movements it is unsuitable. The app does quite well on privacy and security aspects, but is not open source.
     
 -   [**Matrix network apps / Element App**](https://matrix.org/?utm_source=activisthandbook.org) **(Decentralized Top for Security and Privacy)**: An open network for secure, decentralized communication.  
@@ -56,9 +67,9 @@ The chat apps below are best suited for small to medium sized groups. It is also
     Based on open protocols, the ecosystem already includes 21 software [clients](https://matrix.org/ecosystem/clients/?utm_source=activisthandbook.org), 5 [software servers](https://matrix.org/ecosystem/servers/?utm_source=activisthandbook.org), 26 software [bridges](https://matrix.org/ecosystem/bridges/?utm_source=activisthandbook.org) to other communication platforms, and hundreds of [severs to connect](https://servers.joinmatrix.org/?utm_source=activisthandbook.org) or install your own server.  
     Matrix system is being used by Mozilla, Automatic Wordpress, French Public Sector, German Army etc.  
     [**Element**](https://element.io/?utm_source=activisthandbook.org) is one of the secure messaging and collaboration apps that operates on the open Matrix network and was build by Matrix network developers. It supports end-to-end encryption and offers both private and public groups, voice over IP, videotelephony and conference.  
-    Element is decentralized, allowing for digital sovereign self-hosting or through a hosting service. This puts users in control of their data, ensuring privacy and security. Element is available on various platforms including Android, iOS, Web Browser, macOS, Windows, and Linux.
-    
--   [**Session**](https://getsession.org/?utm_source=activisthandbook.org): No phone number or email address is required to signup. Similar functionality like Element, but still in an earlier stage of development. Decentralized servers routed through [Lokinet](https://lokinet.org/?utm_source=activisthandbook.org).
+    Element is decentralized, allowing for digital sovereign self-hosting or through a hosting service. This puts users in control of their data, ensuring privacy and security. Element is available on various platforms including Android, iOS, Web Browser, macOS, Windows, and Linux.  
+      
+    Matrix has a fundmental flaw where server operators can join private chats, breaking end-to-end encryption.
     
 
 ## Solutions for large groups
@@ -69,17 +80,24 @@ The tools below use _channels_ to categorise the different groups of your organi
 
 The apps below are developed specifically for larger organisations and thus have extensive functionality to help you communicate as efficiently as possible. However, having such extensive functionality also means that members of your movement will have to learn how to use these tools. People will have to download a new app and they will have to become accustomed to checking it regularly for updates. All of this might make it harder for new activists to join your movement. As your organisation grows, you will have to find a balance between accessibility and efficiency. You might want to consider using a combination of both simple chat apps for newcomers, and dedicated communication tools for activists that are already more involved with your movement.
 
+### Stronger Privacy
+
+1.  [**Mattermost**: It's best to self host , as it's not end-to-end encrypted.](/tools/chat-apps/mattermost)
+    
+2.  [**Rocket Chat**](/tools/chat-apps/rocket-chat)
+    
+3.  [**Acter**](/tools/acter)
+    
+4.  [**Zulip**](https://zulip.com/?utm_source=activisthandbook.org)  
+    
+
+### Weaker Privacy
+
+These services do not provide encrypted chat, and should be avoided if privacy is a concern.
+
 1.  [**Slack**](/tools/chat-apps/slack)
     
 2.  [**Discord**](/tools/chat-apps/discord)
-    
-3.  [**Mattermost**](/tools/chat-apps/mattermost)
-    
-4.  [**Rocket Chat**](/tools/chat-apps/rocket-chat)
-    
-5.  [**Acter**](/tools/acter)
-    
-6.  [**Zulip**](https://zulip.com/?utm_source=activisthandbook.org)
     
 
 ## How to contribute

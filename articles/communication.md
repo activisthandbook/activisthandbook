@@ -6,16 +6,10 @@ description: >
 langCode: en
 articleID: J3gTgLgqTAzHrap5en3ePR2GBmNRAg__
 languageCollectionID: Hm6ZaeMf02oXtZN2LlCr1NkH7Cxu6Il_
-updatedTimestamp: 1735212651903
+updatedTimestamp: 1755023697727
 createdTimestamp: 1583509188074
 wordCount: 1139
 tags: []
-focusMode: 
-  isOn: true
-  buttonLabel: 
-  buttonAnchor: primary-action
-sidebar: false
-aside: false
 ---
 
 **In this chapter we will discuss how to keep in touch with your fellow activists, how to formulate a message for your target audience and how to reach out to the press.**
