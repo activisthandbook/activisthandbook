@@ -14,11 +14,8 @@ hero:
     alt: VitePress
   actions:
     - theme: brand
-      text: Start reading
+      text: 📖 Read guides
       link: /introduction
-    - theme: alt
-      text: Join us
-      link: /join
 features:
   - icon: ✊
     title: Become an activist for social change

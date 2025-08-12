@@ -103,8 +103,8 @@ function focusID(anchor) {
           <span class="phone-emoji">📞</span> Get <a href="/schedule-call" class="promo-smart-tiny">personal campaign
             advice</a> from one of
           our
-          trainers. Schedule a free 1
-          hour call.
+          trainers. Schedule a 1
+          hour call. Free support by experienced activists.
         </div>
         <div class="hgroup">
           <ClientOnly>
@@ -281,16 +281,26 @@ function focusID(anchor) {
 .action-top {
   background: rgba(#D70057, 0.05);
   font-size: calc(14px + 0.1vw);
-  padding: calc(12px + 0.4vw) 8px;
+  padding: calc(16px + 0.4vw);
+  text-wrap: balance;
+  line-height: 1.6;
   font-style: italic;
-  margin-bottom: calc(16px + 1vh);
+  margin-bottom: calc(16px + 2vh);
   border-radius: 2px;
   text-align: center;
 
-  span {
+  @media (min-width: 960px) {
+    font-size: 18px;
+  }
+
+  .phone-emoji {
     font-style: normal;
     display: inline-block;
     margin-right: 4px;
+  }
+
+  .grey {
+    opacity: .5
   }
 
   a {

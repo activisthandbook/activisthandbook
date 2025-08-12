@@ -7,10 +7,9 @@ body {
   font-weight: 700 !important;
 }
 
-
 // HEADER
 .VPLocalNav {
-  display: none !important
+  display: none !important;
 }
 
 .VPNavBarTitle {
@@ -37,7 +36,6 @@ body:not(.hasHover) .title:hover {
 .VPNavBar .content,
 .VPNavBar {
   border-bottom: none !important;
-
 }
 
 .VPNavBarTitle {
@@ -83,18 +81,18 @@ body:not(.hasHover) .title:hover {
   .VPNavBarMenuLink {
     line-height: 2.5;
     padding: 0 16px;
-    margin-left: 8px
+    margin-left: 8px;
   }
 
   .VPNavBarMenuLink:last-of-type {
     background-color: var(--vp-c-secondary);
     color: var(--vp-c-white);
     border-radius: 1px;
-    transition: .1s transform;
+    transition: 0.1s transform;
     cursor: pointer;
 
     &:hover {
-      transform: scale(1.05)
+      transform: scale(1.05);
     }
 
     &:active {
@@ -105,7 +103,6 @@ body:not(.hasHover) .title:hover {
 }
 
 .focus-mode .VPNavBar {
-
   .VPNavBarMenu:not(.focus-menu),
   .search,
   .VPNavBarHamburger {
@@ -115,7 +112,6 @@ body:not(.hasHover) .title:hover {
   .VPNavBarMenu {
     margin: 18.5px;
   }
-
 }
 
 .VPNavBarExtra,
@@ -125,7 +121,6 @@ body:not(.hasHover) .title:hover {
 }
 
 .VPNavScreen {
-
   .VPNavScreenMenuLink,
   .VPNavScreenMenuGroup {
     margin: 8px 0 24px 0;
@@ -134,7 +129,6 @@ body:not(.hasHover) .title:hover {
     border-bottom: none;
     font-family: var(--vp-font-family-headings);
     font-weight: bold;
-
   }
 
   .VPNavScreenMenuLink,
@@ -149,7 +143,6 @@ body:not(.hasHover) .title:hover {
       font-size: 20px;
       line-height: 2;
     }
-
   }
 
   .VPNavScreenMenuLink:last-child {
@@ -164,14 +157,13 @@ body:not(.hasHover) .title:hover {
 // SIDEBAR
 .VPSidebar {
   padding-bottom: 32px !important;
-  border-right: 1px solid rgba(0, 0, 0, .2)
+  border-right: 1px solid rgba(0, 0, 0, 0.2);
 }
 
 .VPSidebarGroup {
-
   .title-text,
   .link-text {
-    padding: 4px 8px
+    padding: 4px 8px;
   }
 
   .title-text {
@@ -194,7 +186,6 @@ body:not(.hasHover) .title:hover {
     border-radius: 1px;
     // background-color: var(--vp-c-text-1);
     // color: var(--vp-c-bg);
-
   }
 
   // .VPLink.active,
@@ -202,14 +193,11 @@ body:not(.hasHover) .title:hover {
   //     border-left:px solid var(--vp-c-brand);
 
   // }
-
 }
-
 
 // HOMEPAGE
 
 .VPHomeHero {
-
   .name,
   .text {
     font-family: var(--vp-font-family-headings);
@@ -236,16 +224,13 @@ body:not(.hasHover) .title:hover {
   //     font-size: 24px;
 
   // }
-
 }
-
 
 @media (min-width: 768px) {
   .VPNavBar {
     padding: 0 8px 0 32px !important;
   }
 }
-
 
 @media only screen and (max-width: 600px) {
   .VPNavBar {
@@ -255,27 +240,23 @@ body:not(.hasHover) .title:hover {
   .VPDoc {
     padding: 8px 12px 12px 12px !important;
   }
-
 }
 
-.VPDoc>.container>.content {
+.VPDoc > .container > .content {
   padding: 0 !important;
 }
 
 .VPDocFooter {
-  display: none
+  display: none;
 }
-
-
 
 // HOME
 .VPHero {
-
   @media (max-width: 960px) {
     padding: calc(var(--vp-nav-height) + 24px) 24px 48px !important;
   }
 
-  @media (min-height:750px) and (min-width: 960px) {
+  @media (min-height: 750px) and (min-width: 960px) {
     .container {
       padding: 52px 0;
     }
@@ -295,7 +276,7 @@ body:not(.hasHover) .title:hover {
     font-size: calc(15px + 0.7vw) !important;
     border-radius: 2px !important;
     padding: calc(0.6vw) calc(12px + 2vw) !important;
-    transition: .1s transform;
+    transition: 0.1s transform;
 
     &.alt {
       color: var(--vp-c-brand) !important;
