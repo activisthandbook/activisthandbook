@@ -6,9 +6,9 @@ description: >
 langCode: en
 articleID: 6UiUBswaKAITBrGkEE1jwgqIIV26PzA4
 languageCollectionID: 01KynXdqPLMQsXxAsnE_kQNC9cTdp77F
-updatedTimestamp: 1699450866022
+updatedTimestamp: 1744560080182
 createdTimestamp: 1639823068358
-wordCount: 1215
+wordCount: 1236
 tags: []
 ---
 
@@ -92,9 +92,11 @@ Steps to help prevent burnout include
     
 -   Not neglecting hobbies
     
--   Exercising at least 30 minutes a day
+-   Exercising at least 30 minutes a day. Can go for walks.
     
--   Self care - staying hydrated, sleeping 7-8 hours a day, going out with friends, maintaining contact with loved ones, having a pet, finding new things to enjoy
+-   Self care - staying hydrated, sleeping 7-8 hours a day, going out with friends, maintaining contact with loved ones, having a pet, listening to music, finding new things to enjoy
+    
+-   Keep a journal/log/diary of your thoughts.
     
 -   Going to professional therapy / counseling if needed
     
@@ -120,6 +122,8 @@ Steps to help prevent burnout include
 -   Put yourself as your main priority
     
 -   Try some mindfulness activities such as yoga or support groups
+    
+-   Practice meditation. It reduces anxiety and increases focus.
     
 -   If recommended by a professional, you may also take medication to help combat anxiety and depression
     

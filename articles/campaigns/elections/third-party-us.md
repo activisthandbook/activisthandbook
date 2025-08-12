@@ -6,9 +6,9 @@ description: >
 langCode: en
 articleID: HMK5sJ5HJI1eGM_Lf0SY61DAv8KQC-Ao
 languageCollectionID: H2SCW8af0Lk95U82jblwaPiyMLxVN5V8
-updatedTimestamp: 1713226502913
+updatedTimestamp: 1745877360341
 createdTimestamp: 1702596551251
-wordCount: 3589
+wordCount: 4359
 ---
 
 ## Short-term goals
@@ -52,7 +52,7 @@ Current establishment parties are quite tribal, leading to an atmosphere of divi
 
 ### Encouraging Civic Engagement 
 
-Third-party movements often emphasize grassroots organizing and community engagement. By electing candidates at every level, they may hope to encourage citizens to become more involved in the political process and take an active role in shaping their communities. 
+Third-party movements often emphasize grassroots organizing and community engagement. By electing candidates at every level, they may hope to encourage citizens to become more involved in the political process and take an active role in shaping their communities.
 
 ## Do any independent/third-parties currently exist?
 
@@ -333,15 +333,52 @@ Most states will only recognize a third political party if candidates under that
 
 ## Challenges and Potential Strategies to Overcome Them
 
--   cultural/political establishment
+### The spoiler problem
+
+The two-party system in the US is unusual. Most democracies have multi-party systems and it is rare for a single party to have a majority in the legislature. The main reason the US has a two-party system is because most general elections use **first-the-post voting**, a "winner takes all" system.
+
+In first-the-post, the candidate with the most votes wins, regardless of whether they win 70%, 40% or even 24.5% of the vote. [The latter has happened](https://en.wikipedia.org/wiki/Belfast_South_(UK_Parliament_constituency)?utm_source=activisthandbook.org), but it's rare. In practice, first-past-the-post encourages voters to unite around two parties, because a third party risks the **spoiler effect** (also called **splitting the vote**).
+
+If a right-wing party wins 40% of the vote and two left-wing parties win 30%, then the right-wing party wins, even though 60% of the votes were for a left-wing party. A real life example is the 2000 presidential election. Ralph Nader ran a more left-wing campaign than Al Gore and took 97,488 votes in Florida, where Bush defeated Gore by 537 votes. Nader appears to have tipped the state to Bush, and with it the presidency.
+
+In practice, it's not that simple. One study found that while Nader had been a spoiler, had he not run, many of his voters would have abstained or voted for Bush. In the UK, the Liberal Democrats have won seats where the traditional center left Labour Party have been weak.
+
+By contrast, proportional systems give seats to parties in proportion to the number of votes they receive, so voters can usually vote for minor parties without having to worry about the spoiler effect. Other non-proportional systems such as two-round systems (known in the US as top-two primaries or jungle primaries) and ranked choice voting reduce the spoiler effect.
+
+Other countries with first-past-the-post voting, such as Canada and the UK have also tended to have a two party system, but it's not nearly as rigid. Another reason is that the US normally decides party nominees with **primary elections**. It is usually easier for outsider candidates to win a major party nomination, rather than trying to win as a third party candidate.
+
+Potential strategies to avoid the spoiler effect:
+
+-   Start with small, local races; try running for a council seat instead of the mayor, or try winning a handful of legislative seats rather than the governor. [Micah Sifry has argued](https://newrepublic.com/article/146884/america-stuck-two-parties?utm_source=activisthandbook.org) that third parties have focused too much on long-shot runs for the presidency and would be better off building up something at a local level.
     
--   spoiler effect
+-   Avoid running in places that are battlegrounds between the major parties.
     
--   being perceived as unwinnable
+-   Make a strategic alliance with a major party, whether a formal electoral pact or an informal agreement. At a minimum, you avoid heavy campaigning in each other's battlegrounds.
     
--   electoral
+-   Consider an alternative strategy of running in a major party's primary, while making your outsider intentions clear. You could even campaign as a third party candidate despite officially being a third party nominee.
     
--   financial / media
+-   Support campaigns for electoral reform, especially when this can be done through a ballot proposition. Proportional systems are the best for third parties, but top-two and ranked choice systems are more achievable.
+    
+
+### The winnability problem
+
+Being seen as a winner is vital to winning an election. A growing number of Americans want to vote for a third party but don't, because they don't see any of their campaign ads or hear about them in the media.
+
+Winning a federal or statewide race means campaigning across a large population and area, and American elections are the most expensive in the world. The organization and funding this requires can be daunting for a new grassroots movement.
+
+Fortunately, money is not everything. [In 2018, Alexandria Ocasio-Cortez won a primary challenge](https://en.wikipedia.org/wiki/2018_New_York%27s_14th_congressional_district_election?utm_source=activisthandbook.org) despite being outspent 18 to 1. [In 2014, Eric Cantor lost a primary challenge](https://en.wikipedia.org/wiki/Eric_Cantor?utm_source=activisthandbook.org#2014_Republican_primary_and_resignation) despite outspending his opponent 40 to 1. Often, you only need to do enough campaigning so that you look like one of the top two candidates. If voters like your message, it can take care of the rest.
+
+The media may look like a closed fortress, and journalists have often underestimated the chances of outsider candidates. The good news is that the media love both novelty and stories about underdogs, which can play well into a third party campaign with some traction.
+
+Potential strategies to make yourself look like a winner:
+
+-   Again, start with small, local races.
+    
+-   Consider avoiding television ads. They are expensive but are bringing diminishing returns.
+    
+-   Get your volunteers canvassing door-to-door. It's one of the most effective ways to win voters yet can cost nothing.
+    
+-   Get your volunteers to put campaign signs outside their houses. It costs little and is one of the best ways to look like you're a contender.
     
 
 ## Improve this page
