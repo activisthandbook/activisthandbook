@@ -100,7 +100,10 @@ function focusID(anchor) {
 
       <template #doc-before>
         <div class="action-top" v-if="!$frontmatter.focusMode?.isOn">
-          <span>🔥</span> <a href="/join" class="promo-smart-tiny">Join our campaign</a> to train 350 million activists!
+          <span>📞</span> Get <a href="/schedule-call" class="promo-smart-tiny">personal campaign advice</a> from one of
+          our
+          trainers. Schedule a free 1
+          hour call.
         </div>
         <div class="hgroup">
           <ClientOnly>
@@ -158,8 +161,8 @@ function focusID(anchor) {
 
         <div v-if="!$frontmatter.focusMode?.isOn" class="licence">
           <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/" rel="license" target="_blank"><img
-              src="/by-nc-sa.svg" alt="Creative Commons Attribution-NonCommercial-ShareAlike logo" width="120" height="42"
-              style="display:inline;margin-bottom:8px" /></a>
+              src="/by-nc-sa.svg" alt="Creative Commons Attribution-NonCommercial-ShareAlike logo" width="120"
+              height="42" style="display:inline;margin-bottom:8px" /></a>
           <div><strong>You can reuse this content!</strong></div>
           <div>
             Just make sure to give attribution to
@@ -425,5 +428,4 @@ footer {
 //   width: 10px;
 //   z-index: 1000;
 //   background: red;
-// }
-</style>
+// }</style>
