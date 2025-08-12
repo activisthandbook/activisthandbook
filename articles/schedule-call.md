@@ -6,9 +6,9 @@ description: >
 langCode: en
 articleID: yZ4CCCKbm1RR0qboSjeHcHIsqsq50lAD
 languageCollectionID: rsL_6Pzq1gvw8E1kKM8WwDaF3hyF9Ltx
-updatedTimestamp: 1755026274404
+updatedTimestamp: 1755026332819
 createdTimestamp: 1755022849266
-wordCount: 223
+wordCount: 221
 focusMode: 
   isOn: true
   buttonLabel: Schedule call
@@ -41,9 +41,9 @@ Get advice from a Dutch **labor union organizer**. Marijn is specialized in **ca
 
 ## How to prepare for our call
 
-Try to answer these questions for yourself:
+Try to answer these questions:
 
-1.  **What are the most important goals of my organization?**
+1.  **What are the most important goals of your organization?**
     
 2.  **How are you currently trying to achieve those goals?**
     
