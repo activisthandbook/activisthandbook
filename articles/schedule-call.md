@@ -6,13 +6,13 @@ description: >
 langCode: en
 articleID: yZ4CCCKbm1RR0qboSjeHcHIsqsq50lAD
 languageCollectionID: rsL_6Pzq1gvw8E1kKM8WwDaF3hyF9Ltx
-updatedTimestamp: 1755024560878
+updatedTimestamp: 1755026274404
 createdTimestamp: 1755022849266
 wordCount: 223
 focusMode: 
   isOn: true
   buttonLabel: Schedule call
-  buttonLink: #select-one-of-our-trainers
+  buttonLink: https://calendar.google.com/calendar/u/0/appointments/schedules/AcZssZ1aMZ_VEJrpx3xgW5pgD7qLA9fzFs8lzHD4LW4n156GJ1UGSWwtQ25_61PgVGDW7H6ncEEZIYLC?utm_source=activisthandbook.org
 sidebar: false
 aside: false
 ---
