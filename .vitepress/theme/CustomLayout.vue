@@ -100,7 +100,8 @@ function focusID(anchor) {
 
       <template #doc-before>
         <div class="action-top" v-if="!$frontmatter.focusMode?.isOn">
-          <span>📞</span> Get <a href="/schedule-call" class="promo-smart-tiny">personal campaign advice</a> from one of
+          <span class="phone-emoji">📞</span> Get <a href="/schedule-call" class="promo-smart-tiny">personal campaign
+            advice</a> from one of
           our
           trainers. Schedule a free 1
           hour call.
@@ -223,6 +224,60 @@ function focusID(anchor) {
   </div>
 </template>
 <style lang="scss" scoped>
+@keyframes phone-wiggle {
+  0% {
+    transform: rotate(0deg);
+  }
+
+  2% {
+    transform: rotate(-15deg);
+  }
+
+  4% {
+    transform: rotate(15deg);
+  }
+
+  6% {
+    transform: rotate(-10deg);
+  }
+
+  8% {
+    transform: rotate(10deg);
+  }
+
+  10% {
+    transform: rotate(-6deg);
+  }
+
+  12% {
+    transform: rotate(6deg);
+  }
+
+  14% {
+    transform: rotate(-3deg);
+  }
+
+  16% {
+    transform: rotate(3deg);
+  }
+
+  18% {
+    transform: rotate(0deg);
+  }
+
+  100% {
+    transform: rotate(0deg);
+  }
+}
+
+.phone-emoji {
+  display: inline-block;
+  animation: phone-wiggle 8s cubic-bezier(.36, .07, .19, .97) both infinite;
+  transform-origin: 60% 60%;
+}
+
+/* The wiggle happens in the first ~0.6s (18%), then stays still for the rest of the 3.5s cycle, creating a pause between wiggles. */
+
 .action-top {
   background: rgba(#D70057, 0.05);
   font-size: calc(14px + 0.1vw);
