@@ -1,4 +1,8 @@
 {
+  "engines": {
+    "node": "20.x",
+    "pnpm": ">=8"
+  },
   "name": "activisthandbook",
   "version": "1.0.0",
   "description": "The Wikipedia for activists",
