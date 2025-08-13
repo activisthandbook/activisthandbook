@@ -63,26 +63,13 @@ async function sentActionNetworkRequest(apiKey, data, metadata) {
         },
       ],
       email_addresses: [{ address: data.email }],
-      phone_number: [{ number: data.phone }],
+      phone_number: [{ number: data.phone || "" }],
       custom_fields: {
-        phone_number: data.phone,
+        phone_number: data.phone || "",
       },
     },
     add_tags: data.tags,
   };
-
-  // TO-DO: Sanitise data
-
-  // const data = {
-  //   person: {
-  //     family_name: requestBody"Smith",
-  //     given_name: "John",
-  //     postal_addresses: [{ postal_code: "20009" }],
-  //     email_addresses: [{ address: "jsmith@mail.com" }],
-  //     phone_number: [{ number: "12021234444" }],
-  //   },
-  //   add_tags: ["volunteer", "member"],
-  // };
 
   // https://developers.cloudflare.com/workers//runtime-apis/request#requestinit
   const RequestInit = {
