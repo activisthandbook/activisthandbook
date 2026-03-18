@@ -6,9 +6,9 @@ description: >
 langCode: en
 articleID: J3gTgLgqTAzHrap5en3ePR2GBmNRAg__
 languageCollectionID: Hm6ZaeMf02oXtZN2LlCr1NkH7Cxu6Il_
-updatedTimestamp: 1755023697727
+updatedTimestamp: 1772034084545
 createdTimestamp: 1583509188074
-wordCount: 1139
+wordCount: 1142
 tags: []
 ---
 
@@ -31,23 +31,23 @@ tags: []
 
 <dynamic-image imageid="b69e342f-d846-42c6-1139-52a5c4345200" alt="Illustration of someone holding a bullhorn, a chat bubble and emoji"><p>Make yourself loud and clear with a strong communication strategy, by <a target="_blank" href="https://edit.activisthandbook.org/author/tzmE91SnnrbJJXuvQNBl9rt6HK63">Joppe</a> | Generated using Dall-e</p></dynamic-image>
 
-## Platforms
+## Mediums
 
 Where do you want to share your message?
 
--   [**Social media**](/tools/social-media): Stop mindlessly feeding the algorithm and start using social media effectively for your movement.
+-   **📱**[**Social media**](/tools/social-media): Stop mindlessly feeding the algorithm and start using social media effectively for your movement.
     
--   [**Chat apps**](/communication/chat-apps): Learn how to use chat apps such as Signal to broadcast messages to members of your community.
+-   **💬** [**Chat apps**](/communication/chat-apps): Learn how to use chat apps such as Signal to broadcast messages to members of your community.
     
--   [**SMS campaigns**](/communication/sms-campaigns): Spread your message and call people to action using text messages.
+-   **📠** [**SMS campaigns**](/communication/sms-campaigns): Spread your message and call people to action using text messages.
     
--   [**Phone banking**](/communication/phone-banking): Have effective conversations over the phone on a large scale.
+-   **☎️** [**Phone banking**](/communication/phone-banking): Have effective conversations over the phone on a large scale.
     
--   [**Traditional** media](/communication/news-media): Learn how to write press releases
+-   **📰** [**Traditional media**](/communication/news-media): Learn how to write press releases
     
--   [**Public speaking**](/communication/public-speaking) (not yet created): Learn how to give a speech during a protest.
+-   **🗣️** [**Public speaking**](/communication/public-speaking): Learn how to give a speech during a protest.
     
--   Physical medial (not yet created): Learn how to create zines, flyers, and other physical media for hyper-local outreach.
+-   🪧 Physical medial (not yet created): Learn how to create zines, flyers, and other physical media for hyper-local outreach.
     
 
 <dynamic-image imageid="b062102a-f35c-4c7a-3ee5-d3a3a9ce7d00" alt="Public speaking is scary... But if a frog can do it?"><p>Public speaking is scary... But if a frog can do it?, by <a target="_blank" href="https://edit.activisthandbook.org/author/tzmE91SnnrbJJXuvQNBl9rt6HK63">Joppe</a> | Generated using Dall-e</p></dynamic-image>

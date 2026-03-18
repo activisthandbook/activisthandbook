@@ -6,9 +6,9 @@ description: >
 langCode: en
 articleID: dT0iqoFEwKDD7VLHbYV7JUH8pZNovrKB
 languageCollectionID: 9VCNtkL83pf08RQZDMGgho-bwZn7Tblh
-updatedTimestamp: 1724507137367
+updatedTimestamp: 1772012992601
 createdTimestamp: 1601829180878
-wordCount: 478
+wordCount: 512
 tags: []
 ---
 
@@ -88,9 +88,11 @@ To evaluate these organizing platforms, we evaluate the following criteria:
 
 ### Action Network
 
-[Action Network](https://actionnetwork.org/)
+[Action Network](https://actionnetwork.org/) is an all-in-one tool covering, bulk mail, bulk SMS, petitions, petitions, events, fundraising & other.
 
 ### Nation Builder
+
+[NationBuilder](https://nationbuilder.com/?utm_source=activisthandbook.org) is an all-in-one-tool widely used in election campaigns combining donations, membership, bulk mail, website creation & other.
 
 ### ControlShift
 
@@ -105,6 +107,8 @@ To evaluate these organizing platforms, we evaluate the following criteria:
 [SupporterBase](https://www.supporterbase.com/)
 
 ### Wings by Bolster
+
+[Wings](https://wings.dev/?utm_source=activisthandbook.org)
 
 ### GlassFrog
 

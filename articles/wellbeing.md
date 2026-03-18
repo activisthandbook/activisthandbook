@@ -6,9 +6,9 @@ description: >
 langCode: en
 articleID: ItlwwJfYopwgV4ZEnH653rUc1JbQ2GJj
 languageCollectionID: l8XZ2W25XNow2B1wFBSVg7-4T2S1LBn3
-updatedTimestamp: 1713390985597
+updatedTimestamp: 1756743162268
 createdTimestamp: 1583509148168
-wordCount: 1532
+wordCount: 1536
 tags: ["wellbeing","chapters"]
 ---
 
@@ -59,6 +59,8 @@ Articles for individuals that want to take care of their own wellbeing:
 -   ⚠️ [**Don't Panic guide**](https://docs.google.com/document/d/10UbkxVAUVBJt0xtS_uE78LXCV8QeFwvW76BB6T_ZSok/edit): for if you need urgent help right now, also check out our [wellbeing hotlines](/wellbeing/hotlines)
     
 -   **⏰** [**Time Management**](/wellbeing/time-management)
+    
+-   🧘🏼‍♀️ [**Meditation in Activism**](/wellbeing/burnout/meditation)
     
 
 ## **Special publications**

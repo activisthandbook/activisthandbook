@@ -6,9 +6,9 @@ description: >
 langCode: en
 articleID: gz7-sKLP8XZf8B7ytC1LyeQBcwJ3PxYF
 languageCollectionID: 7RntqYH138QMBgdPt_0fYewurAx7Po2B
-updatedTimestamp: 1724506981301
+updatedTimestamp: 1772013447848
 createdTimestamp: 1695736860608
-wordCount: 1549
+wordCount: 1563
 ---
 
 In this guide, you will learn all about digital organizing. We will teach you how to use tech to make more impact with your activist group.
@@ -133,11 +133,11 @@ A data warehouse can help you overcome these obstacles. For example, your data w
 
 Contact the following organisations for one-on-one support:
 
--   [**Digital/organizing**](https://digitalorganizing.ch/?utm_source=activisthandbook.org): German digital organizing agency
+-   [**Digital/organizing**](https://digitalorganizing.ch/?utm_source=activisthandbook.org): Swiss digital organizing agency
     
 -   [**Tectonica**](https://www.tectonica.co/?utm_source=activisthandbook.org): Movement building agency with tech focus
     
--   [**Becker Digital Strategies**](https://beckerdigitaltraining.com/about-us/?utm_source=activisthandbook.org)
+-   [**Becker Digital Strategies**](https://beckerdigitaltraining.com/about-us/?utm_source=activisthandbook.org): US-based digital training firm
     
 
 > There are many more [training & support organisations](/trainings) you can reach out to for help. The organisations above put their focus on digital organizing.
@@ -206,6 +206,8 @@ The awesome authors of these resources published their work under a Creative Com
 -   [Collection: Digital Organizing](https://campaignsandelections.com/tag/digital-organizing/?utm_source=activisthandbook.org) by Campaigns & Elections
     
 -   [Communications vs. Digital Organizing](https://www.alisarivera.com/communications-vs-digital-organizing-whats-the-difference-and-why-it-matters/?utm_source=activisthandbook.org) by Alisa Rivera
+    
+-   [The digital organizer's toolbox](https://www.centerfordigitalaction.eu/toolbox?utm_source=activisthandbook.org) by European Center for Digital Action
     
 
 <div data-youtube-video=""><iframe width="640" height="480" allowfullscreen="true" src="https://www.youtube-nocookie.com/embed/V8fOAwLdcDM" start="0"></iframe></div>

@@ -6,9 +6,9 @@ description: >
 langCode: en
 articleID: m4uMcFhEZyoTvnn4zBDqd0RZwSnP7cNl
 languageCollectionID: KPVizBwWat4_W_BEiKmG-JlKkM_iQl99
-updatedTimestamp: 1755023719890
+updatedTimestamp: 1756638850008
 createdTimestamp: 1583664381534
-wordCount: 1225
+wordCount: 1256
 tags: ["tools","social media"]
 ---
 
@@ -43,7 +43,7 @@ The chat apps below are best suited for small to medium sized groups. It is also
     
 -   [**Session**](https://getsession.org/?utm_source=activisthandbook.org): No phone number or email address is required to signup. Similar functionality like Element, but still in an earlier stage of development. Decentralized servers routed through [Lokinet](https://lokinet.org/?utm_source=activisthandbook.org).
     
--   **SimpleX**: Review by repduatable security consultant agencies.
+-   [**SimpleX**](https://simplex.chat/?utm_source=activisthandbook.org): No phone number or email address is required to sign up. There are no identifiers in the system allowing high levels of privacy. Uses the signal double ratchet algorithm for encryption. Review by reputable security consultant agencies.
     
 
 ### Weaker Privacy

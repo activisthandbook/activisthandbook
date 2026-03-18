@@ -6,9 +6,9 @@ description: >
 langCode: en
 articleID: QYNawon-AjklCbxGb81-gHUwL1XRd2-t
 languageCollectionID: MRMwO2j7BNRQKw8sfodmmrZld4vemHZu
-updatedTimestamp: 1681548169319
+updatedTimestamp: 1773817694060
 createdTimestamp: 1629625461157
-wordCount: 1023
+wordCount: 1183
 tags: ["stub","communication","easy to improve"]
 ---
 
@@ -35,16 +35,34 @@ The news media is always looking for a good story, and if you are planning an ac
 
 A press release is a short, news-style article that tells the media what you are doing and why it is important. Here are some tips for writing a press release that will get the media's attention:
 
-1.  Make it newsworthy: Write about something that is timely and relevant, and that will interest the media and their audiences.
+1.  Make it **newsworthy**: Write about something that is timely and relevant, and that will interest the media and their audiences. Oftentimes actions are a tactic to make something "newsworthy". A simple taxonomy can be:
     
-2.  Keep it short and to the point: A press release should be no more than one page, and it should get straight to the point.
+    -   🟢 **Hard news:** A scandal, significant political events, a new scientific discovery, a new “happening”, an action (particularly if controversial/large scale, a controversy happening now that people don’t already know about.
+        
+    -   🟡 **Soft news:** Human interest stories, Cute animal stories (these are extremely popular in the UK), Celebrities, Lifestyle, New “thinking” or ideas, Anniversaries or other milestone events.
+        
+    -   🔴 **No news:** Things already known/covered in the media, things that happened weeks ago, things the media and/or your target audience don’t care about, opinion (unless it comes from someone very significant).
+        
+2.  Keep it **short and to the point**: A press release should be no more than one page, and it should get straight to the point. Journalists often additionally shorten your text, so ensure that your key messages is at the top.
     
-3.  Include quotes: Quotes from people involved in the action, or from experts on the issue, can make your press release more newsworthy and persuasive.
+3.  Include **quotes**: Quotes from people involved in the action, or from experts on the issue, can make your press release more newsworthy and persuasive.
     
-4.  Include a photo: A photo can make your press release more visually appealing and help it stand out from the crowd.
+4.  Include **photos**: Photo can make your press release and the final article more visually appealing. Include images in your press release that are
     
-5.  5Send it to the right people: Make sure you send your press release to the right media outlets, and to the specific reporters who cover the issue you are concerned with.
+5.  Send it to the **right people**: Make sure you send your press release to the right media outlets, and to the specific reporters who cover the issue you are concerned with.
     
+
+> **Example:  
+> **  
+> Dear reporters,  
+> 
+> since 10 minutes ago a \[example: cement plant\] has been blocked by \[...\] calling for \[...\]. Please consider the press release below.  
+>   
+> Images for your free use are avalaible at \[...\].  
+>   
+> Best  
+> \[name of group\]\]  
+>   
 
 ## Local context
 

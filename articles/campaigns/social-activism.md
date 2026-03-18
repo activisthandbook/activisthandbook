@@ -6,15 +6,15 @@ description: >
 langCode: en
 articleID: R-3YHcHw9TOpdn2rATLVK6FOpCR0-Mzb
 languageCollectionID: BAtApFS8t1UtSv142rfoMjGO3YVXtvxM
-updatedTimestamp: 1676802971402
+updatedTimestamp: 1766497846652
 createdTimestamp: 1676530544718
 wordCount: 110
 tags: ["stub"]
 ---
 
-On this page we have collected the best resources for social activists. Learn how you can take action to put social challanges on the agenda and make a change.
+On this page we have collected the best resources for social activists. Learn how you can take action to put social challenges on the agenda and make a change.
 
-No matter whether you want to fight poverty or stand up for queer rights, we provide you with the tools and training to organise succesful campaigns.
+No matter whether you want to fight poverty or stand up for queer rights, we provide you with the tools and training to organise successful campaigns.
 
 ## Improve this page
 

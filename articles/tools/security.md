@@ -6,9 +6,9 @@ description: >
 langCode: en
 articleID: Z-Ui7ues8iBNtbuAydgwwYxtzRpER2i_
 languageCollectionID: tPpL-PgfyflnfdbX8PN394PCl1Ic8v1c
-updatedTimestamp: 1744123375536
+updatedTimestamp: 1770132658031
 createdTimestamp: 1628605870725
-wordCount: 1789
+wordCount: 1791
 tags: []
 ---
 
@@ -89,7 +89,7 @@ For secure online conferencing, you can use [Signal video calls](https://support
 
 **Use a password manager to create and store strong passwords.**
 
-Weak passwords are an invitation to be hacked. A password manager like [1Password](https://1password.com/), [BitWarden](https://bitwarden.com/), or [KeePassXC](https://securityinabox.org/en/guide/keepassx/windows/) makes it easy to create unique, strong passwords for every account you have. Install one of those apps and start replacing and saving your passwords for all of your accounts. In addition, make sure the login passwords for your personal devices and for your password managers are strong.
+Weak passwords are an invitation to be hacked. A password manager like [1Password](https://1password.com/), [BitWarden](https://bitwarden.com/), [Proton Pass](https://proton.me/pass?utm_source=activisthandbook.org), or [KeePassXC](https://securityinabox.org/en/guide/keepassx/windows/) makes it easy to create unique, strong passwords for every account you have. Install one of those apps and start replacing and saving your passwords for all of your accounts. In addition, make sure the login passwords for your personal devices and for your password managers are strong.
 
 Pro tip: It's a myth that strong passwords must contain every character under the sun. In fact, length is what matters. So when possible, [use a passphrase, rather than a password](https://strongphrase.net/?utm_source=activisthandbook.org). For example, a passphrase like "the Russians probably interfered in our election" is a very strong passphrase!
 

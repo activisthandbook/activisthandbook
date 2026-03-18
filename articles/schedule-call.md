@@ -6,9 +6,9 @@ description: >
 langCode: en
 articleID: yZ4CCCKbm1RR0qboSjeHcHIsqsq50lAD
 languageCollectionID: rsL_6Pzq1gvw8E1kKM8WwDaF3hyF9Ltx
-updatedTimestamp: 1755026332819
+updatedTimestamp: 1773817323006
 createdTimestamp: 1755022849266
-wordCount: 221
+wordCount: 224
 focusMode: 
   isOn: true
   buttonLabel: Schedule call
@@ -17,7 +17,7 @@ sidebar: false
 aside: false
 ---
 
-Activist Handbook offers free personal campaign advice, to help change-makers make more impact.
+Activist Handbook offers free personal campaign advice, to help change-makers make more impact. Get help from experienced activists.
 
 ## Select one of our trainers
 
@@ -30,14 +30,6 @@ _Language: English or Dutch_
 Joppe is specialized in **campaign strategy**, **movement building** and **digital organizing**. In the Netherlands, he is involved in various **pro-democracy** and **climate** movements. He is co-author of hundreds of guides on Activist Handbook.
 
 👉 [Schedule a call with Joppe](https://calendar.google.com/calendar/u/0/appointments/schedules/AcZssZ1aMZ_VEJrpx3xgW5pgD7qLA9fzFs8lzHD4LW4n156GJ1UGSWwtQ25_61PgVGDW7H6ncEEZIYLC?utm_source=activisthandbook.org)
-
-### Marijn Prins
-
-_Language: English or Dutch_
-
-Get advice from a Dutch **labor union organizer**. Marijn is specialized in **campaign movement building**, **storytelling** and **empowering 1-on-1 conversations**. He also has experience in the **climate movement**.
-
-👉 [Schedule a call with Marijn](https://calendar.google.com/calendar/u/0/appointments/schedules/AcZssZ0fa2HcMHNBSq2JFiqVG0xJE1DzqOq8U7sBWSkjC9zFnutLHDyxlxaRAXlR7ZkZm6Z7JE0w7n8Z?utm_source=activisthandbook.org)
 
 ## How to prepare for our call
 
@@ -59,3 +51,8 @@ Our trainers help activists in their spare time, without any compensation. Pleas
 -   Test your internet connection, microphone and speaker beforehand.
     
 -   Join the call from a quiet room, so that we can hear each other well.
+    
+
+## No slots available?
+
+Thousands of activists visit Activist Handbook every month, and we only have so much time, so unfortunately we cannot help everyone. Check back at a later time to see if new slots have become available!

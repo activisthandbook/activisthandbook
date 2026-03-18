@@ -6,7 +6,7 @@ description: >
 langCode: en
 articleID: 6UiUBswaKAITBrGkEE1jwgqIIV26PzA4
 languageCollectionID: 01KynXdqPLMQsXxAsnE_kQNC9cTdp77F
-updatedTimestamp: 1744560080182
+updatedTimestamp: 1757184605102
 createdTimestamp: 1639823068358
 wordCount: 1236
 tags: []
@@ -123,7 +123,7 @@ Steps to help prevent burnout include
     
 -   Try some mindfulness activities such as yoga or support groups
     
--   Practice meditation. It reduces anxiety and increases focus.
+-   Practice [meditation](/wellbeing/burnout/meditation). It reduces anxiety and increases focus.
     
 -   If recommended by a professional, you may also take medication to help combat anxiety and depression
     

@@ -6,9 +6,9 @@ description: >
 langCode: en
 articleID: G3dkQL5r8VGH4qvFx-36zI4WDRCiNzwD
 languageCollectionID: 89ReOOyPrqQ0GJ5WjQzIIR_PP0aAErgn
-updatedTimestamp: 1727973526100
+updatedTimestamp: 1767133012287
 createdTimestamp: 1643132983527
-wordCount: 3250
+wordCount: 3268
 tags: []
 ---
 
@@ -199,12 +199,13 @@ The snowflake model is centred around distributed leadership. In particular, lea
 
 **\[TO-DO:** [**INSERT FIGURE**](https://i0.wp.com/commonslibrary.org/wp-content/uploads/Screen-Shot-2022-11-07-at-1.12.00-pm.png?utm_source=activisthandbook.org)**, The snowflake model from the handbook ‘**[**Organizing: People, Power, Change**](https://commonslibrary.org/wp-content/uploads/Organizers_Handbook.pdf)**’\]**
 
+<dynamic-image imageid="0749e52d-9564-493a-36aa-41efe4a38000" alt="Figure showing the snowflake model "><p>Snowflake model , by <a target="_blank" href="https://commonslibrary.org/wp-content/uploads/Organizers_Handbook.pdf">Leading Change Network, Marshall Ganz, New Organizing Institute, Peter Gibbs, Shea Sinnott</a> (BY-NC-SA 4.0)</p></dynamic-image>
+
 The strength of the snowflake model lies in its focus on building strong relationships between each connection. This has enabled some organisations to not only recruit new volunteers, but also support and retain them over time.
 
 > _"We are still exploring it but building from a “local organiser” focus with the role of the core volunteer to connect with existing groups and organisations as well as bringing on board new people. This is instead of a group building focus at the moment. This may change over time, but currently it is working for us. "_
 
-**\[TO-DO:** [**INSERT FIGURE**](https://i0.wp.com/commonslibrary.org/wp-content/uploads/Screen-Shot-2022-11-07-at-2.02.43-pm.png?utm_source=activisthandbook.org)**, Environment Victoria’s organising model is built around a snowflake recruitment process supported by staff and an Action Network Support Team.\]**
-
+**\[TO-DO:** [**INSERT FIGURE**](https://i0.wp.com/commonslibrary.org/wp-content/uploads/Screen-Shot-2022-11-07-at-2.02.43-pm.png?utm_source=activisthandbook.org)**, Environment Victoria’s organising model is built around a snowflake recruitment process supported by staff and an Action Network Support Team.\]**  
 Other organisations use a snowflake model but base this around groups, or teams of individuals working together. The model below uses this approach to support a very large number of groups, that otherwise would be difficult to sustain via a central team of staff or organisers. It also helps build stronger relationships between groups that can offer mutual support independent of the centralised team. 
 
 **\[TO-DO:** [**INSERT FIGURE**](https://i0.wp.com/commonslibrary.org/wp-content/uploads/Screen-Shot-2022-11-07-at-2.06.53-pm.png?utm_source=activisthandbook.org)**, Australian Education Union Victoria: A snowflake model where campaign hubs each support three sub-branches\]**
