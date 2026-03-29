@@ -100,7 +100,8 @@ function focusID(anchor) {
 
       <template #doc-before>
         <div class="action-top" v-if="!$frontmatter.focusMode?.isOn">
-          <span class="phone-emoji">📞</span> Get <a href="/schedule-call" class="promo-smart-tiny">personal campaign
+          <span class="phone-emoji">📞</span> Get <a href="https://tally.so/r/lbL1D5" class="promo-smart-tiny">personal
+            campaign
             advice</a> from one of
           our
           trainers. Schedule a 1
