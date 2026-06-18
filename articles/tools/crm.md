@@ -6,9 +6,9 @@ description: >
 langCode: en
 articleID: q2VAxSYX2-K8hGJTQAQZQITM_jaCYyPQ
 languageCollectionID: _bB-CaiczNwYich3btZ22rvXITFC90uh
-updatedTimestamp: 1721985352621
+updatedTimestamp: 1781768805913
 createdTimestamp: 1695881958659
-wordCount: 4348
+wordCount: 4474
 ---
 
 In this guide, we will help you find the right tools to keep track of volunteers, supporters and partner organisations using a nonprofit CRM (a people database).
@@ -345,102 +345,14 @@ The list of CRMs is endless. So how do you find the right one? Well, we do not k
 
 These CRMs were specifically built for and by activists:
 
--   ⭐️ [**Action Network**](https://actionnetwork.org/?utm_source=activisthandbook.org) is a very affordable email marketing and automation tool). It is a great pairing with [**Action Builder**](https://www.actionbuilder.org/?utm_source=activisthandbook.org), their grassroots organizing CRM. The latter is only available in the United States.
+-   ⭐️ [**Solidarity Tech**](/tools/solidarity-tech): Relatively new CRM built for organizers. It includes tools for managing event signups, phone banking, texting broadcasting, and mass mailing.
     
--   [**Solidarity Tech**](/tools/solidarity-tech): Relatively new CRM built for organizers. It includes tools for managing event signups, phone banking, texting broadcasting, and mass mailing.
+-   ⭐️ [**Action Network**](https://actionnetwork.org/?utm_source=activisthandbook.org) is a very affordable email marketing and automation tool). It is a great pairing with [**Action Builder**](https://www.actionbuilder.org/?utm_source=activisthandbook.org), their grassroots organizing CRM. The latter is only available in the United States.
     
 -   [**NGP VAN**](https://www.ngpvan.com/?utm_source=activisthandbook.org) (only in United States for the Democratic party)
     
 -   [**Neon CRM**](https://neonone.com/?utm_source=activisthandbook.org): Offers tools to build relationships with your supporters, manage your website, peer-to-peer fundraising and event ticketing.
     
--   [**Citipo**](https://citipo.com/en?utm_source=activisthandbook.org): Based in France, platform for activist organisations
-    
-
-### Open source CRMs
-
-Learn more about [open source CRMs](https://crm.org/crmland/open-source-crm?utm_source=activisthandbook.org).
-
--   [**Odoo**](https://www.odoo.com/?utm_source=activisthandbook.org): 36.5K GitHub stars
-    
--   [**Twenty**](https://twenty.com/?utm_source=activisthandbook.org): 15.2K GitHub stars, early access
-    
--   [**SuiteCRM**](https://suitecrm.com/?utm_source=activisthandbook.org): 4.3K GitHub stars
-    
--   [**EspoCRM**](https://www.espocrm.com/?utm_source=activisthandbook.org): 1.6K GitHub stars
-    
--   [**CiviCRM**](https://civicrm.org/?utm_source=activisthandbook.org): 578 GitHub stars (more active on [GitLab](https://lab.civicrm.org/explore/groups?utm_source=activisthandbook.org))
-    
--   [**Vtiger CRM**](https://www.vtiger.com/open-source-crm/?utm_source=activisthandbook.org): not on GitHub, no proper open source support or documentation
-    
-
-Not recommended, small number of GitHub stars:
-
--   [**Axelor CRM**](https://axelor.com/crm/?utm_source=activisthandbook.org): 822 GitHub stars
-    
--   [**OroCRM**](https://github.com/oroinc/crm?utm_source=activisthandbook.org) 642 GitHub stars
-    
-
-No longer active, for archiving purposes:
-
--   🪦 [**Django CRM**](https://github.com/MicroPyramid/Django-CRM?utm_source=activisthandbook.org): 1.9K GitHub stars: repository seems inactive, website offline
-    
--   🪦 [**X2CRM**](https://github.com/X2Engine/X2CRM?utm_source=activisthandbook.org) 344 GitHub stars: repository seems inactive
-    
--   🪦 [**Crust CRM**](https://github.com/crusttech/crust-server?utm_source=activisthandbook.org): 87 GitHub stars
-    
--   🪦 [**ConcourseSuite CRM**](https://github.com/Concursive/concoursesuitecrm-community?utm_source=activisthandbook.org): 12 GitHub stars
-    
-
-### Commercial CRMs
-
-There are many commercial CRMs available, check out a list of [CRMs with a free plan](https://crm.org/crmland/free-crm?utm_source=activisthandbook.org).
-
--   **Salesforce**
-    
--   **Hubspot**
-    
--   **Zoho:** Zoho offers two different CRM products:
-    
-    -   Zoho CRM
-        
-    -   Bigin
-        
--   **SugarCRM**
-    
--   **Insightly**
-    
--   **Freshsales**
-    
--   **Monday Sales CRM**
-    
--   **Pipedrive**
-    
--   **Freshsales**
-    
--   **Capsule**
-    
--   **Less Annoying CRM**
-    
--   **Really Simple Systems**
-    
--   **EngageBay**
-    
--   **Bitrix24**
-    
--   **Streak**
-    
--   **Apptivo**
-    
--   **Agile CRM**
-    
--   **Flowlu**
-    
--   [**Folk**](https://www.folk.app/?utm_source=activisthandbook.org): modern user interface
-    
--   [**Attio**](https://attio.com/?utm_source=activisthandbook.org): modern user interface, customizable (like a data app)
-    
-
-### Related tools
 
 #### Activist organizing platforms
 
@@ -460,15 +372,141 @@ These tools are not strictly CRMs, but there are related and definitely useful f
     
 -   [**VoterVoice**](https://info.votervoice.net/?utm_source=activisthandbook.org)
     
--   [**Activist.org**](http://Activist.org) **(open source, 214 GitHub stars)**
+-   [**Activist.org**](http://Activist.org) (open source, 214 GitHub stars, still in development)
     
 -   [**Qomon**](https://qomon.com/?utm_source=activisthandbook.org)
+    
+-   [**Citipo**](https://citipo.com/en?utm_source=activisthandbook.org): Based in France, platform for activist organisations
+    
+-   [**ImpactStack**](https://www.impact-stack.org/?utm_source=activisthandbook.org) by [MoreOnion](https://www.more-onion.com/?utm_source=activisthandbook.org)
+    
+-   [**Proca**](https://fixthestatusquo.com/?utm_source=activisthandbook.org)
     
 
 Not recommended:
 
 -   [**Wings**](https://wings.dev/about/?utm_source=activisthandbook.org): just a repackaged Drupal CMS
     
+
+### Open source CRMs
+
+Learn more about [open source CRMs](https://crm.org/crmland/open-source-crm?utm_source=activisthandbook.org).
+
+-   ⭐️ [**Twenty**](https://twenty.com/?utm_source=activisthandbook.org): 40.5K GitHub stars (new, quickly growing)
+    
+-   [**Odoo**](https://www.odoo.com/?utm_source=activisthandbook.org): 49,6K GitHub stars
+    
+-   [**CiviCRM**](https://civicrm.org/?utm_source=activisthandbook.org): 578 GitHub stars (more active on [GitLab](https://lab.civicrm.org/explore/groups?utm_source=activisthandbook.org))
+    
+-   [**SuiteCRM**](https://suitecrm.com/?utm_source=activisthandbook.org): 5.3K GitHub stars
+    
+-   [**EspoCRM**](https://www.espocrm.com/?utm_source=activisthandbook.org): 2.8K GitHub stars
+    
+
+Not recommended, small number of GitHub stars:
+
+-   [**Axelor CRM**](https://axelor.com/crm/?utm_source=activisthandbook.org): 822 GitHub stars
+    
+-   [**OroCRM**](https://github.com/oroinc/crm?utm_source=activisthandbook.org) 642 GitHub stars
+    
+-   [**Vtiger CRM**](https://www.vtiger.com/open-source-crm/?utm_source=activisthandbook.org): not on GitHub, no proper open source support or documentation
+    
+
+No longer active, for archiving purposes:
+
+-   🪦 [**Django CRM**](https://github.com/MicroPyramid/Django-CRM?utm_source=activisthandbook.org): 1.9K GitHub stars: repository seems inactive, website offline
+    
+-   🪦 [**X2CRM**](https://github.com/X2Engine/X2CRM?utm_source=activisthandbook.org) 344 GitHub stars: repository seems inactive
+    
+-   🪦 [**Crust CRM**](https://github.com/crusttech/crust-server?utm_source=activisthandbook.org): 87 GitHub stars
+    
+-   🪦 [**ConcourseSuite CRM**](https://github.com/Concursive/concoursesuitecrm-community?utm_source=activisthandbook.org): 12 GitHub stars
+    
+
+### Commercial CRMs
+
+There are many commercial CRMs available, check out a list of [CRMs with a free plan](https://crm.org/crmland/free-crm?utm_source=activisthandbook.org).
+
+#### Modern user interfaces
+
+Lean, easily customizable, user friendly, pay per seat:
+
+-   [**Folk**](https://www.folk.app/?utm_source=activisthandbook.org): modern user interface
+    
+-   [**Attio**](https://attio.com/?utm_source=activisthandbook.org): modern user interface, customizable (like a data app)
+    
+
+#### Giants
+
+Big companies, extensive functionality (sales, marketing, inbox, etc), difficult to set up, complex pricing (pay for seats, contacts and additional features), expensive:
+
+-   **Salesforce**
+    
+-   **Hubspot**
+    
+
+#### Sales
+
+Focussed on building relationships through pipelines, not focussed on mass mailing, pay per seat:
+
+-   **Nutshell CRM**
+    
+-   **Pipedrive**
+    
+-   **Capsule**
+    
+-   **Copper:** for Google Workspace users
+    
+
+#### All-in-one price fighters
+
+These companies generally offer many products. They make money by getting you to use as many of them as possible. Can be a good deal if they offer exactly what you need (so that you don't need to pay for many different tools):
+
+-   **Zoho:** Zoho offers two different CRM products:
+    
+    -   Zoho CRM
+        
+    -   Bigin
+        
+-   **Monday Sales CRM**
+    
+-   **Freshsales**
+    
+-   **Bitrix24**
+    
+-   **Flowlu**
+    
+
+#### Small & cheap
+
+-   **Less Annoying CRM**
+    
+-   **Agile CRM**
+    
+-   **EngageBay**
+    
+
+#### Other
+
+-   **SugarCRM**
+    
+-   **Insightly**
+    
+-   **Spotler CRM**
+    
+-   **Streak:** built into Gmail
+    
+-   **Apptivo**
+    
+
+### Tech support for activists
+
+-   [Social Movement Technologies](https://socialmovementtechnologies.org/?utm_source=activisthandbook.org)
+    
+-   [Systemli](https://systemli.org/?utm_source=activisthandbook.org) (German)
+    
+
+### Related tools
 
 #### Data apps
 

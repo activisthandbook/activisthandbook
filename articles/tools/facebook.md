@@ -6,9 +6,9 @@ description: >
 langCode: en
 articleID: w1zL2FJTZ9Vn7c4YmlKD666js4FZIW3k
 languageCollectionID: FNEX8q_gMIt0RdTpKbFZwXFZp6tWnjgK
-updatedTimestamp: 1681548052266
+updatedTimestamp: 1779434503622
 createdTimestamp: 1642502166728
-wordCount: 1839
+wordCount: 1857
 tags: ["social media","stub"]
 ---
 
@@ -131,13 +131,15 @@ Facebook can also have negative impacts on the mental health and well-being of a
 
 These tools are useful for managing your Facebook page by allowing you to schedule posts, monitor conversations, track analytics across all your social media accounts in one place and more. They can help you work more efficiently and effectively:
 
--   **Facebook Business Suite**: A free tool developed to manage your Facebook and Instagram profiles in one dashboard.
+-   [**Facebook Business Suite**](https://business.facebook.com/business/?utm_source=activisthandbook.org): A free tool developed to manage your Facebook and Instagram profiles in one dashboard.
     
--   **Buffer**: A social media management platform that allows you to schedule posts, analyze performance, and manage all your social media accounts in one place.
+-   [**Buffer**](https://buffer.com/?utm_source=activisthandbook.org): A social media management platform that allows you to schedule posts, analyze performance, and manage all your social media accounts in one place.
     
--   **Hootsuite**: A social media management platform that allows you to schedule posts, monitor conversations, and track analytics across all your social media accounts.
+-   [**Hootsuite**](https://www.hootsuite.com/?utm_source=activisthandbook.org): A social media management platform that allows you to schedule posts, monitor conversations, and track analytics across all your social media accounts.
     
--   **Sprout Social**: A social media management platform that allows you to schedule posts, monitor conversations, and track analytics across all your social media accounts.
+-   [**Sprout Social**:](https://sproutsocial.com/?utm_source=activisthandbook.org) A social media management platform that allows you to schedule posts, monitor conversations, and track analytics across all your social media accounts.
+    
+-   [**Canva**](https://www.canva.com/?utm_source=activisthandbook.org): an easy-to-use design platform that helps activists create professional-looking social media content without needing graphic design experience.
     
 
 ## How to contribute
